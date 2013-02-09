@@ -8,14 +8,23 @@ The following folks are here to help you.
 
 .. csv-table:: Personnel
    	:header: "Person", "Role", "Contact e-mail"
-   	:widths: 15, 15
+   	:widths: 15, 15, 15
 
    	"George K. Thiruvathukal", "Graduate Program Director", "gpd@cs.luc.edu"
    	"Konstantin Läufer", "Department Chair", "chair@cs.luc.edu"
    	"Cecie Murphy", "Graduate Program Secretary", "gpd@cs.luc.edu"
+   	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
 
 
-Use a CSV table for this.
+Contributors
+--------------------------------------
+
+We wish to acknowledge the following for their contributions that made this possible.
+
+- We actually started from the general structure of the English department's graduate studnet handbook.
+
+- Dr. Harrington (past Graduate Program Director for Computer Science) put together some administrative resources that proved helpful for our department-specific policies/procedures section.
+
 
 Graduate School Offices
 --------------------------------------
@@ -31,6 +40,17 @@ Committee on Graduate Programs
 --------------------------------------
 
 The Director is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs.
+
+.. csv-table:: Graduate Advisory Committee
+   	:header: "Person", "Role", "Page"
+   	:widths: 15, 15, 15
+
+   	"George K. Thiruvathukal", "Professor, Graduate Program Director", "http://gkt.cs.luc.edu/"
+   	"Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
+   	"William L. Honig", "Associate Professor", "http://people.cs.luc.edu/wlhonig"
+   	"Cecie Murphy", "Graduate Program Secretary", "http://www.luc.edu/cs/"
+
+A student member will be added.
 
 The faculty members of the Committee also serve as jury for various departmental awards.
 
