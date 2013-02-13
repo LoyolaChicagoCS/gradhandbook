@@ -1,0 +1,6 @@
+#!/bin/bash
+
+make html
+make latexpdf
+make epub
+rsync -av -e "ssh -oPort=22222" $(pwd)/build/ gradhandbook.cs.luc.edu:/var/www/vhosts/gradhandbook.cs.luc.edu/htdocs/

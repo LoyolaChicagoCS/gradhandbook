@@ -1,0 +1,97 @@
+/*
+* bootstrap-sphinx.css
+* ~~~~~~~~~~~~~~~~~~~~
+*
+* Sphinx stylesheet -- Twitter Bootstrap theme.
+*/
+html, body {
+    height: 100%;
+}
+body {
+    padding-top:60px;
+}
+pre {
+    overflow:auto;
+    white-space: pre;
+    word-break: normal;
+    word-wrap: normal;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    margin: 0 auto -112px; /* Footer height + Footer margin*/
+}
+.push {
+    height: 112px;
+}
+/* jFontSize Buttons ------------------------------------------*/
+#jFontSize-Buttons {
+    position: fixed;
+}
+.jfontsize-button {
+    background: white;
+    font: bold 12px arial;
+    padding: 3px;
+    border: solid 1px #ccc;
+}
+ 
+.jfontsize-button:hover {
+    text-decoration: none;
+    background: #333;
+    color: #fff;
+    border: solid 1px #333;
+}
+ 
+.jfontsize-disabled, .jfontsize-disabled:hover {
+    color: #aaa;
+    border: solid 1px #eee;
+    background: #eee;
+}
+
+/* Sidebar -------------------------------------------------- */
+div.bootstrapsidebar {
+/*    position: fixed;*/
+    margin: 0;
+    padding: 0.5em 15px 15px 0;
+    width: {{ theme_sidebarwidth|toint - 30 }}px;
+    font-size: 1em;
+    text-align: left;
+}
+.bootstrapsidebar {
+	margin-left: 0%;
+}
+
+.bootstrapsidebar .nav-list {
+    padding-right: 0px;
+}
+.bootstrapsidebar ul {
+    list-style:none;
+}
+
+.bootstrapsidebar ul ul {
+    margin-left:10px;
+}
+
+
+/* Footer -------------------------------------------------- */
+footer {
+  margin-top: 35px;
+  padding: 20px 0 20px 0;
+  border-top: 1px solid #e5e5e5;
+}
+
+footer p {
+  margin-bottom: 0;
+  color: #555;
+}
+
+
+{%- block sidebarlogo %}
+  {%- if logo %}
+.topbar h3 a, .topbar .brand {
+  background: transparent url("{{ logo }}") no-repeat 22px 3px;
+  padding-left: 62px;
+}
+  {%- endif %}
+{%- endblock %}

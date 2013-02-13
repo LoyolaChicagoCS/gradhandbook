@@ -2,8 +2,9 @@
 #
 
 # You can set these variables from the command line.
+CONFIG        = bootstrap
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = sphinx-build -c config/$(CONFIG)/
 PAPER         =
 BUILDDIR      = build
 
