@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Loyola University Chicago Computer Science - Graduate Handbook documentation build configuration file, created by
+# LUC CS MS Programs documentation build configuration file, created by
 # sphinx-quickstart on Sat Feb  2 23:37:32 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -12,6 +12,7 @@
 # serve to show the default.
 
 import sys, os
+import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -40,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Loyola University Chicago Computer Science - Graduate Handbook'
+project = u'Graduate Handbook'
 copyright = u'2013, CS Department'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -96,18 +97,55 @@ html_theme = 'bootstrap'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    # Navigation bar title. (Default: ``project`` value)
+    'navbar_title': "Grad Handbook",
+
+    # Global TOC depth for "site" navbar tab. (Default: 1)
+    # Switching to -1 shows all levels.
+    'globaltoc_depth': 2,
+
+    # Include hidden TOCs in Site navbar?
+    #
+    # Note: If this is "false", you cannot have mixed ``:hidden:`` and
+    # non-hidden ``toctree`` directives in the same page, or else the build
+    # will break.
+    #
+    # Values: "true" (default) or "false"
+    'globaltoc_includehidden': "true",
+
+    # HTML navbar class (Default: "navbar") to attach to <div> element.
+    # For black navbar, do "navbar navbar-inverse"
+    'navbar_class': "navbar navbar-inverse",
+
+    # Fix navigation bar to top of page?
+    # Values: "true" (default) or "false"
+    'navbar_fixed_top': "true",
+
+    # Location of link to source.
+    # Options are "nav" (default), "footer" or anything else to exclude.
+    'source_link_position': "nav",
+
+    # Bootswatch (http://bootswatch.com/) theme.
+    #
+    # Options are nothing with "" (default) or the name of a valid theme
+    # such as "amelia" or "cosmo".
+    #
+    # Note that this is served off CDN, so won't be available offline.
+    'bootswatch_theme': "united",
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['../../themes']
+#html_theme_path = ['../../themes']
 #html_theme_path = []
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "LUC CS Grad Handbook"
+html_short_title = "LUC CS Graduate Handbook"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -184,7 +222,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LoyolaComputerScienceGradHandbook.tex', u'Loyola University Chicago Computer Science - Graduate Handbook Documentation',
+  ('index', 'LoyolaComputerScienceGradHandbook.tex', u'LUC CS MS Programs Documentation',
    u'CS Department', 'manual'),
 ]
 
@@ -214,7 +252,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'loyolauniversitychicagocomputerscience-graduatehandbook', u'Loyola University Chicago Computer Science - Graduate Handbook Documentation',
+    ('index', 'loyolauniversitychicagocomputerscience-graduatehandbook', u'LUC CS MS Programs Documentation',
      [u'CS Department'], 1)
 ]
 
@@ -228,7 +266,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LoyolaComputerScienceGradHandbook', u'Loyola University Chicago Computer Science - Graduate Handbook Documentation',
+  ('index', 'LoyolaComputerScienceGradHandbook', u'LUC CS MS Programs Documentation',
    u'CS Department', 'LoyolaComputerScienceGradHandbook', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -246,7 +284,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Loyola University Chicago Computer Science - Graduate Handbook'
+epub_title = u'LUC CS MS Programs'
 epub_author = u'CS Department'
 epub_publisher = u'CS Department'
 epub_copyright = u'2013, CS Department'

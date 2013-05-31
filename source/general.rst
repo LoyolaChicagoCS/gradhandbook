@@ -11,8 +11,8 @@ The following folks are here to help you.
    	:header: "Person", "Role", "Contact e-mail"
    	:widths: 15, 15, 15
 
-   	"George K. Thiruvathukal", "Graduate Program Director", "gpd@cs.luc.edu"
-   	"Konstantin Läufer", "Department Chair", "chair@cs.luc.edu"
+   	"George K. Thiruvathukal, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
+   	"Konstantin Läufer, PhD", "Department Chair", "chair@cs.luc.edu"
    	"Cecie Murphy", "Graduate Program Secretary", "gpd@cs.luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
    	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
@@ -56,9 +56,6 @@ The Director is advised on all matters of policy, admissions, and student status
    	"George K. Thiruvathukal", "Professor, Graduate Program Director", "http://gkt.cs.luc.edu/"
    	"Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
    	"William L. Honig", "Associate Professor", "http://people.cs.luc.edu/wlhonig"
-   	"Cecie Murphy", "Graduate Program Secretary", "http://www.luc.edu/cs/"
-
-A student member will be added.
 
 The faculty members of the Committee also serve as jury for various departmental awards.
 
@@ -80,7 +77,7 @@ departmental and university computing resources. See http://syshandbook.cs.luc.e
 Bulletin Boards and Key Web Resources
 --------------------------------------
 
-The bulletin board outside the CS department on the 5th floor of Water Tower Campus features information regarding the graduate programs—e.g., calls for papers, job offerings, fellowship opportunities. The board in the English main office has departmental notices.
+The bulletin board outside the CS department on the 5th floor of Water Tower Campus features information regarding the graduate programs—e.g., calls for papers, job offerings, fellowship opportunities. The board in the department's main office has departmental notices.
 
 You are also encouraged to keep abreast of the following departmental web resources:
 
@@ -146,7 +143,7 @@ Three ways to prepare for this goal are 1) to read journals in your fields of in
 Conference Presentations and Travel Funding
 -----------------------------------------------
 
-Presentation of conference papers is an important part of students’ professional development, and PhD students in particular should aim to give at least two papers during their graduate careers—preferably including professional and not just graduate-student conferences.
+Presentation of conference papers is an important part of students’ professional development, and MS CS students workking on thesis in particular should aim to give at least two papers during their graduate careers—preferably including professional and not just graduate-student conferences.
 
 Each semester the Graduate School has funds to support graduate student travel for the purpose of presenting papers or chairing sessions at conferences. Since funds are limited, students should apply immediately upon acceptance of their papers or sessions. (Forms are available at http://www.luc.edu/gradschool/servicesandresources_forms.shtml).  The Department supplements these funds when the Graduate School’s funds are exhausted or when a student is presenting a paper at a second conference within one academic year. (Department forms are available on the Graduate Programs website http://luc.edu/english/links.shtml.) The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago. These are competitive awards offered each semester. The current subvention from the Graduate School for travel is $400. Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship. Research awards are provided through the Department’s Gravett-Tuma fund and are around $500 (depending on the number of awards and the funds available).
 

@@ -4,63 +4,91 @@ Regulations and Procedures
 Course Loads
 --------------------------------
 
-A full-time student will usually carry three courses per semester. Course loads for part-time students are worked out on an individual basis. All students funded by the Department or the Graduate School are considered full time.
+A full-time student will usually carry three courses per semester. Course
+loads for part-time students are worked out on an individual basis. All
+students funded by the Department or the Graduate School are considered full
+time and should be enrolled in 3 courses (this includes part-time graduate 
+assistants who are expected to be full-time students unless agreed upon
+with the GPD).
 
-We do not encourage students to take more than 3 courses a term. Please contact the Graduate Program Director if you have a need to increase your load beyond what is customary. We encourage you to consider taking summer courses if you need to complete your degree more quickly.
+We do not encourage students to take more than 3 courses a term, and you should
+contact the Graduate Program Director if you need to take more than 3 courses in
+a term for any reason. It is explicitly prohibited to enroll in more than 3 
+courses to hold a space in a course. Many of our courses fill up quickly, so you
+should only register for a course that you truly plan to complete.
+
+We encourage you to consider taking summer or online courses if you need to 
+complete your degree more quickly.
 
 
 Registration
 --------------------------------
 
-Both new and continuing students must complete the process of registration before every semester in which they are either attending classes or writing their dissertations. A schedule of courses for the upcoming term is available a few months before classes are scheduled to begin. In order to register for graduate courses you must first consult with the Director of Graduate Programs. Once your selections are approved, they will be entered into the system by the Graduate Programs Secretary, completing the registration process. It is your responsibility to check LOCUS to verify your registration each semester. Students must maintain continual registration throughout their years in the program or risk having to apply for reinstatement and pay both a penalty and back fees.
+Both new and continuing students must complete the process of registration
+before every semester in which they are either attending classes or writing
+their thesis (applicable only to MS Computer Science students opting to
+complete a thesis). A schedule of courses for the upcoming term is available a
+few months before classes are scheduled to begin. We also maintain a long-
+term schedule.
 
-After registration opens you can register yourself through LOCUS for
-most courses with just your student ID number.  New students should get
-course advising first from the department, and all others are welcomed
-to get advising.  You cannot register yourself for Comp 490 or 499.  See
-the sections below concerning independent study and internships.  Other
-courses that can have complications registering and dropping are the
-CSIS courses, depending on when you want to register or drop a course. 
-See the section on CSIS Courses below.
+In order to register for graduate courses you must first consult with the
+Graduate Program Director. Once your selections are approved, they will be
+entered into the system by the Graduate Program Secretary, completing the
+registration process. It is your responsibility to check LOCUS to verify your
+registration each semester. Students must maintain continual registration
+throughout their years in the program or risk having to apply for
+reinstatement and pay both a penalty and back fees.
 
-It is in your best interest to register early, to get into sections you
-want and have ample time to detect and clear up any possible
-registration block that may have been placed.  Common examples are an
-immunization block or a bursar block.  Students have been given late
-fees or had a lot of trouble due to delay from such blocks.  Deal with
-these and clear them out early.  One misleading feature in LOCUS is that
-all MS students have a Dean's time limit block, but it does not activate
-until you have been an MS student for five years - do not worry about
-that one.
+After registration opens you can register yourself through LOCUS for most
+courses with just your student ID number.  New students should get course
+advising first from the department, and all others are welcomed to get
+advising.  You cannot register yourself for Comp 490 or 499 as both require
+permission of the GPD or instructor of record. See the sections
+below concerning independent study and internships.  Other courses that can
+have complications registering and dropping are the CSIS courses, depending on
+when you want to register or drop a course.  See the section on CSIS Courses
+below.
+
+It is in your best interest to register early, to get into sections you want
+and have ample time to detect and clear up any possible registration block
+that may have been placed.  Common examples are an immunization block or a
+bursar block.  Students have been given late fees or had a lot of trouble due
+to delay from such blocks.  Deal with these and clear them out early.  One
+misleading feature in LOCUS is that all MS students have a Dean's time limit
+block, but it does not activate until you have been an MS student for five
+years - do not worry about that one.
 
 Independent Study
 --------------------------------
 
 If you are doing an independent project for Comp 490, you need to find a
 faculty member to supervise your project and have the faculty supervisor
-email let the department to register you.  This does not generally make
-sense in your first semester.  It helps if you and the faculty member
-are familiar with each other.
+email let the department secretary to register you. This does not generally make
+sense in your first semester but is possible in exceptional circumstances.
+It helps if you and the faculty member are familiar with each other.
 
 The typical approach is for the student to confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
 the exact course, semester and units your have agreed on.  The
 supervisor then forwards the email with his or her approval to the
 department administration.  These courses are for 1-6 units.  See the
-section below on variable hour courses.
+section below on variable hour courses. We rarely allow students to 
+take more than 6 total credits of Independent Study (+ Internships) but, 
+again, allow it in exceptional circumstances.
 
-A good feature of Independent Study is that you can have your transcript
-show a course title that is specific to your particular project.  Fill
-out
-`http://www.luc.edu/gradschool/forms/requestfortitle.pdf <http://www.luc.edu/gradschool/forms/requestfortitle.pdf>`_\ and
-get the signature of your supervisor and the gpd.
+In most cases, we recommend that you and your independent study advisor
+fill out a request for course title form, which is available at 
+http://www.luc.edu/gradschool/forms/requestfortitle.pdf. The Graduate
+Program Director must sign this form.
 
 Internships
 -----------------------------------------------
 
-First, you need to find a job.  There are online, searchable listings
-through the university career center,
-`http://www.luc.edu/career <http://www.luc.edu/career>`_.  Some of these
+First, you need to find or hold job during the period of the Internship. 
+There are online, searchable listings through the university career center,
+`http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer
+Science department also maintains an *informal* jobs list at 
+http://jobs.cs.luc.edu.) Some of these
 listings directed specifically at CS students are duplicated on paper in
 big folders in the department administrative offices.  When you find a
 job, contact the GPD and get your job description approved.  Communicate
@@ -73,6 +101,7 @@ web page.  You will also need your job supervisor's signature.  Get the
 finished form to the GPD.  The MOU can be turned in just after you start
 your job. It can be scanned and emailed or turn in paper to the
 department staff.
+
 There are three related but different terms:  **job**, **internship**,
 and **CPT** (for F-1 visa students - see below).  You can have a job and
 not have it be an internship for academic credit, or you can have a job

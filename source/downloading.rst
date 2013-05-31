@@ -1,5 +1,5 @@
-Downloading for Offline Reading
-======================================
+Download Other Formats
+=========================
 
 Source
 --------------------------------------

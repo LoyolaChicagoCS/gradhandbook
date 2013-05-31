@@ -1,7 +1,7 @@
 .. Loyola University Chicago Computer Science - Graduate Student Handbook
 
-Loyola University Chicago Computer Science - Graduate Handbook
-==========================================================================================
+Graduate Handbook
+============================
 
 This is a *draft* of the Graduate Handbook for students at Loyola University
 Chicago. It is (a) not remotely ready and (b) not at all official.
@@ -14,12 +14,12 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
-
-   downloading   
+   
    general
    regulations
    ms_programs
    assistantships
+   downloading
    acknowledgments
 
 
