@@ -405,7 +405,7 @@ The grading system used in the Graduate School is as follows:
 
 For further information on Loyola’s grading policy, consult the Graduate School Catalog.
 
-Graduate students in the English Department are expected to maintain an average of not less than B (3.0). Those who fail to meet this requirement may be dismissed. No more than two grades below B and no grades of D or F may be counted as fulfilling degree requirements. PhD students who find themselves receiving primarily B’s (or below) should consider seriously whether pursuing a doctorate in English remains the most gainful use of their time.
+Graduate students in the Computer Science Department are expected to maintain an average of not less than B (3.0). Those who fail to meet this requirement may be dismissed by the Graduate School. No more than two grades below B and no grades of D or F may be counted as fulfilling degree requirements.
 
 
 Withdrawal
