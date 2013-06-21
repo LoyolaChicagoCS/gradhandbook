@@ -3,6 +3,7 @@
 
 # You can set these variables from the command line.
 CONFIG        = bootstrap
+# CONFIG        = default
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build -c config/$(CONFIG)/
 PAPER         =

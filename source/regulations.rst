@@ -5,17 +5,21 @@ Course Loads
 --------------------------------
 
 A full-time student will usually carry three courses per semester. Course
-loads for part-time students are worked out on an individual basis. All
-students funded by the Department or the Graduate School are considered full
-time and should be enrolled in 3 courses (this includes part-time graduate 
-assistants who are expected to be full-time students unless agreed upon
-with the GPD).
+loads for part-time students are worked out on an individual basis. 
+
+.. FIX ??
+    All
+    students funded by the Department or the Graduate School are considered full
+    time and should be enrolled in 3 courses (this includes part-time graduate 
+    assistants who are expected to be full-time students unless agreed upon
+    with the GPD).
 
 We do not encourage students to take more than 3 courses a term, and you should
 contact the Graduate Program Director if you need to take more than 3 courses in
 a term for any reason. It is explicitly prohibited to enroll in more than 3 
 courses to hold a space in a course. Many of our courses fill up quickly, so you
-should only register for a course that you truly plan to complete.
+should only register for a course that you truly plan to complete.  No one is 
+allowed to take more than 12 credit hours in Fall or Spring.
 
 We encourage you to consider taking summer or online courses if you need to 
 complete your degree more quickly.
@@ -31,17 +35,29 @@ complete a thesis). A schedule of courses for the upcoming term is available a
 few months before classes are scheduled to begin. We also maintain a long-
 term schedule.
 
-In order to register for graduate courses you must first consult with the
-Graduate Program Director. Once your selections are approved, they will be
-entered into the system by the Graduate Program Secretary, completing the
-registration process. It is your responsibility to check LOCUS to verify your
-registration each semester. Students must maintain continual registration
-throughout their years in the program or risk having to apply for
-reinstatement and pay both a penalty and back fees.
 
+.. FIX
+    In order to register for graduate courses newly admitted students 
+    must first consult with the
+    Graduate Program Director. 
+
+    Once your selections are approved, they will be
+    entered into the system by the Graduate Program Secretary, completing the
+    registration process. It is your responsibility to check LOCUS to verify your
+    registration each semester. 
+
+Students must maintain continual registration
+throughout their years in the program unless they explicitly apply for and
+are approved for a leave of absence.  
+
+.. FIX ?? phd only?
+    or risk having to apply for
+    reinstatement and pay both a penalty and back fees.
+    
 After registration opens you can register yourself through LOCUS for most
-courses with just your student ID number.  New students should get course
-advising first from the department, and all others are welcomed to get
+courses with just your student ID number.  
+*New students should get course advising first from the department*, 
+and all others are welcomed to get
 advising.  You cannot register yourself for Comp 490 or 499 as both require
 permission of the GPD or instructor of record. See the sections
 below concerning independent study and internships.  Other courses that can
@@ -69,7 +85,7 @@ It helps if you and the faculty member are familiar with each other.
 
 The typical approach is for the student to confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
-the exact course, semester and units your have agreed on.  The
+the exact course, semester and credit hours your have agreed on.  The
 supervisor then forwards the email with his or her approval to the
 department administration.  These courses are for 1-6 units.  See the
 section below on variable hour courses. We rarely allow students to 
@@ -78,8 +94,10 @@ again, allow it in exceptional circumstances.
 
 In most cases, we recommend that you and your independent study advisor
 fill out a request for course title form, which is available at 
-http://www.luc.edu/gradschool/forms/requestfortitle.pdf. The Graduate
-Program Director must sign this form.
+http://www.luc.edu/media/lucedu/gradschool/pdfs/Request%20for%20Course%20Title.pdf
+The Graduate
+Program Director must sign this form.  This is very useful when someone else
+is reading your transcript.
 
 Internships
 -----------------------------------------------
@@ -88,14 +106,21 @@ First, you need to find or hold job during the period of the Internship.
 There are online, searchable listings through the university career center,
 `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer
 Science department also maintains an *informal* jobs list at 
-http://jobs.cs.luc.edu.) Some of these
-listings directed specifically at CS students are duplicated on paper in
-big folders in the department administrative offices.  When you find a
+http://jobs.cs.luc.edu.)  When you find a
 job, contact the GPD and get your job description approved.  Communicate
 the number of units desired and the semester in an email so we have a
 record, and we can register you.  Internships are for 1-6 units.  See
 the section below  on variable hour courses.  
 
+.. old?
+    Some of these
+    listings directed specifically at CS students are duplicated on paper in
+    big folders in the department administrative offices.  
+
+
+.. todo
+   FIX !!!! get URL!
+   
 Separately download, print, and fill out the MOU form linked on the 499
 web page.  You will also need your job supervisor's signature.  Get the
 finished form to the GPD.  The MOU can be turned in just after you start
@@ -126,6 +151,10 @@ Information Services, you do not need to be doing CPT and no CPT
 restrictions apply.  If you want to work off campus for pay, then you
 need to be doing CPT, and there are a number of requirements.
 
+
+.. todo::
+   Check this rule...
+   
 First of all, you need to have been a full-time F-1 student anywhere in
 the United States for two semesters.  If you want to count a summer (as
 students starting in Spring or Summer are likely to want), there is a
@@ -140,10 +169,9 @@ The procedure to start CPT:
    include a written job offer (which can be an email) from the
    prospective employer.   The form is recently advised and may still
    not be on the OIP webiste.  If their form
-   `http://www.luc.edu/oip/pdfs/verification.pdf <http://www.luc.edu/oip/pdfs/verification.pdf>`_,
+   http://www.luc.edu/media/lucedu/iss/pdfs/Curricular%20Practical%20Training.pdf,
    includes an option for an instructor signature, then it is the most
-   recent version of the updated form.  If not, use our local copy at
-   `Revised CPT Form <../forms/CurricularPracticalTraining.pdf>`_.  The
+   recent version of the updated form.  The
    CPT application must be delivered to the International Office, and
    they will issue the work permit.
 #. The CPT can either be tied to a Comp 499 course OR for no extra
@@ -207,15 +235,15 @@ on the same night.
 
 LOCUS lists CSIS courses as semester courses, so if you look at your
 current course list in October, you will see both Fall and Winter
-Quarter courses included!  *You* have to know the *real*\ calendar. 
+Quarter courses included!  *You* have to know the *real* calendar. 
 Particular issues arise with registering for and dropping CSIS courses
 outside the times LOCUS is expecting.  If you register and add or drop
 in the regular semester time limits (much earlier than the time Winter
 and Spring quarter courses actually start), then you should be able to
 do your registration changes by yourself, online, in LOCUS, with no
-problem.  Please do that where possible.  On the other hand, **if you
-want to make changes closer to the time Winter and Spring Quarter
-courses actually start**, you should make all registraion requests
+problem.  Please do that where possible.  On the other hand, 
+**if you want to make changes closer to the time Winter and Spring Quarter**
+**courses actually start**, you should make all registraion requests
 through the GPD, gpd@cs.luc.edu.  Since the department ends up making
 registration changes which are very important to you, we need explicit
 directions and you need to indicate clear knowledge of the ramifications
@@ -235,7 +263,7 @@ limit for Winter or Spring: 
    with an explicit request to drop the course by XX/XX/XXXX if I want
    no trace left fo the course and by YY/YY/YYYY to avoid tuition, but
    still get a W on my transcript."  The dates are publicized at the
-   `GSB web site <http://www.luc.edu/gsb/academics_calendars.shtml>`_. 
+   `GSB web site <http://www.luc.edu/quinlan/mba/mba-chicago/index.shtml>`_. 
    We will try to include them also on our course web pages for Winter
    and Spring Quarters.
 
@@ -259,13 +287,16 @@ Graduation
 -----------------------------------------------------------
 
 Degrees are conferred in May, August, and December.  You must do
-paperwork ***way in advance*** of graduation or the official conferral
-of your degree will be ***postponed***.  I will not be able to appeal
-this for you.  Note that there are only graduation *ceremonies*\ in May.
+paperwork **way in advance** of graduation or the official conferral
+of your degree will be **postponed**.  I will not be able to appeal
+this for you.  Note that there are only graduation *ceremonies* in May.
 
 **Deadlines**:   December 1 for Spring/Summer graduation, August 1 for
 Fall graduation.  See the discussion of ceremonies below if you want to
 participate in a graduation ceremony and you graduate in Summer or Fall.
+
+.. FIX ?? 
+   still this kludgy?
 
 **Procedure**:
 
@@ -283,12 +314,13 @@ for Fall graduation, since Winter Quarter courses are listed under Fall
 semester in LOCUS.  Of course you will not really graduate until after
 Winter Quarter courses end in February.
 
-**Graduation Ceremonies only in May**:  If you have only one course left
-for summer, you can ask to participate in the *previous*\ May
-graduation.  To do you must apply by the deadline listed above and
+**Graduation Ceremonies only in May**:  If you have only *one* course left
+for summer, you can ask to participate in the *previous* May
+graduation.  This one course can be 390/398 for more than 3 credits.
+To do you must apply by the deadline listed above and
 promptly email the GPD, asking for approval to walk in the May
 ceremony.  If you graduate in the Summer or Fall, you can choose to
-return to participate in the *following*\ May graduation ceremony
+return to participate in the *following* May graduation ceremony
 (unless you already participated in the previous May graduation, as
 discussed above).
 
@@ -299,15 +331,15 @@ Once you start grad school, the default assumption is that you will be
 enrolled each fall and spring until you sign up for graduation and
 graduate.  If you need to interrupt your studies before that, we ask
 that you apply for a leave of
-absence \ `http://www.luc.edu/gradschool/forms/leaveofabsence.pdf <http://www.luc.edu/gradschool/forms/leaveofabsence.pdf>`_.
- There is no direct penalty for forgetting notification, but it helps
+absence through the gsps system, under student forms in
+https://gsps.luc.edu/. 
+There is no direct penalty for forgetting notification, but it helps
 the department to know what is doing on.  
 
-  Whether or not you file a Leave of Absence form, you will still need
+Whether or not you file a Leave of Absence form, you will still need
 to file a Request for Reinstatement form,
-`http://www.luc.edu/gradschool/forms/REINSTATEMENT\_REQUES.doc <http://www.luc.edu/gradschool/forms/REINSTATEMENT_REQUES.doc>`_
-
-,  on your return, before you can register again. Turn in this form
+http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf,  
+on your return, before you can register again. Turn in this form
 early enough to register promptly!
 
 Dropping a Course, Avoiding Extra Bills
@@ -320,7 +352,7 @@ are sure you want to withdraw from a course, do not waste time emailing
 the department for help, just do it yourself.  The date that the
 withdrawal is entered into LOCUS affects whether you get a W on your
 transcript, and whether tuition is still due.  Different dates apply.
- Be sure to look at the Academic Calendar for the given semester.  Once
+Be sure to look at the Academic Calendar for the given semester.  Once
 you are registered, merely not attending class does **NOT** extend these
 dates.
 
@@ -328,14 +360,13 @@ dates.
    Fall and Spring semesters.  Generally only through the first Tuesday
    of the semester for Summer session.  
 -  Withdrawal with only a W on the transcript, and no tuition due:
-    Generally during the second week of Fall and Spring semesters.
-    Sometime during the first week in summer sessions.  Be sure to check
+   Generally during the second week of Fall and Spring semesters.
+   Sometime during the first week in summer sessions.  Be sure to check
    the Academic Calendar.  A W has no academic consequences.  It is just
    a historical record of you changing your mind.
 -  Withdrawal later during classes:  W on the transcript and a partial
    or complete tuition penalty.  Do not get yourself into this situation
    just by not paying attention!
-
  
 The categories are the same for CSIS courses, but the procedures can be
 more complicated.  See the section on CSIS Courses above.
@@ -345,9 +376,8 @@ Changing your chosen MS Program
 -----------------------------------------------------------
 
 It is easy to switch between our MS degree programs in the department. 
-Submit the form
-`http://www.luc.edu/gradschool/pdfs/changeofstatus.pdf <http://www.luc.edu/gradschool/pdfs/changeofstatus.pdf>`_
-to the GPD, who will review it and forward it to the Grad School.
+Through the gsps system under student forms in
+https://gsps.luc.edu/, find Change in Degree Seeking.
 
 Transfer of Credit into the Loyola MS Program from Earlier Graduate Work
 --------------------------------------------------------------------------
@@ -357,22 +387,24 @@ previous graduate work relevant to your current program.   Your official
 transcripts need to show B or better in relevant courses.  (In
 particular, we must have your official transcripts already!)
 International students, read the section below for further requirements.
- Submit the form
-`http://www.luc.edu/gradschool/forms/transfer\_credit.pdf <http://www.luc.edu/gradschool/forms/transfer_credit.pdf>`_
-to the GPD, after you have submitted the necessary transcripts.
- Although official transcripts are needed to forward the request to the
+Through the gsps system under student forms in
+https://gsps.luc.edu/, find Transfer Credit.
+Although official transcripts are needed to forward the request to the
 Grad School for final approval, you are welcomed to show unofficial
 transcripts to the GPD to see if you have appropriate courses.
 
 Further International Transcript Credit Transfer Requirements
 -----------------------------------------------------------------
 
+
+.. todo::
+   new provider
+   
 International transcripts need only a *general* evaluation by ECE or
 WES for *admission*, but they need a *course by course* evaluation to
 *transfer* international graduate credit.  It is most economical to ask
 for the course by course evaluation the first time transcripts are
 submitted to ECE or WES if you are expecting to get transfer credit.
-
 
 Grades
 --------------------------------
@@ -405,55 +437,67 @@ The grading system used in the Graduate School is as follows:
 
 For further information on Loyola’s grading policy, consult the Graduate School Catalog.
 
-Graduate students in the Computer Science Department are expected to maintain an average of not less than B (3.0). Those who fail to meet this requirement may be dismissed by the Graduate School. No more than two grades below B and no grades of D or F may be counted as fulfilling degree requirements.
+Graduate students in the Computer Science Department are expected to maintain an average 
+of not less than B (3.0). Those who fail to meet this requirement may be 
+dismissed by the Graduate School. 
+No more than two grades below B and no grades of  
+may be counted as fulfilling degree requirements.
+*Still C-, D or F  do count to enormously drag down your GPA*.
 
 
-Withdrawal
+Incomplete Grade
 --------------------------------
 
-Withdrawal from graduate courses is uncommon; however, students who do withdraw from a course must first consult with the Director of Graduate Programs before dropping through LOCUS. Students should check the academic calendar for deadlines on withdrawing for full or partial refunds, and with a W or F grade. Students are responsible for withdrawing themselves from classes.
+Faculty may assign the grade of I to a student who has not completed the assigned 
+work by the end of the term. This grade is not assigned automatically; 
+rather, it is up to the student to work out with the instructor a plan, 
+including a deadline, for completing the work for the course. 
 
+Under the Graduate School regulations, a student has one semester to complete the course
+(and summer counts as a semester!). 
+If the student does not turn in the work by the deadline, 
+the I grade will automatically become an F.  
+Please read the new policy on the Graduate School web page at 
+http://www.luc.edu/gradschool/academics_policies.shtml#grades1.
 
-Incompletes
---------------------------------
-
-Faculty may assign the grade of I to a student who has not completed the assigned work by the end of the term. This grade is not assigned automatically; rather, it is up to the student to work out with the instructor a plan, including a deadline, for completing the work for the course. 
-
-.. todo::
-	This doesn't look right. I think all of this is done in LOCUS now.
-
-The Director of Graduate Programs must sign off on incompletes before they will be awarded.Students need to download the change-of-grade form from the Graduate School website and give it to the GPD when the incomplete is approved. 
-
-Under the Graduate School regulations, a student has one semester to complete the course. If the student does not turn in the work by the deadline, the I will automatically become an F.  Please read the new policy on the Graduate School web page at http://www.luc.edu/gradschool/academics_policies.shtml#grades1.
-
-Although it is not uncommon for graduate students to take an occasional Incomplete, it is of course better not to take an incomplete when possible. Making up an incomplete course often proves harder than students expect, particularly if much time has elapsed since the end of the course. In any case, faculty members have various policies regarding Incompletes, so it is advisable to discuss the matter with your instructor as early as possible if you anticipate the need for an Incomplete. You must also complete a form (available on our Web site at http:// www.luc.edu/english/links.shtml) and have it signed by the GPD. No more than one I can be requested in a semester, unless there are extenuating circumstances (e.g., a serious illness). 
-
-
-Leaves of Absence
---------------------------------
-
-Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons). A leave of absence postpones all deadlines concerning completion of degree requirements for the duration of the leave. A student requesting a leave must complete a Leave of Absence form and contact the Director of Graduate Programs, who then makes a recommendation on the student’s behalf to the Graduate School. Decisions regarding the approval of leaves of absence rest with the Graduate School.
-
-Leaves of absence may be requested for a semester or for a full academic year. In order to be reinstated to active status, the student must notify the Graduate School in writing upon returning from a leave. Unless the student is granted a renewal of a leave, he or she must return to active status in the semester following its expiration. Failure to do so may result in withdrawal from the program.
-
-The Leave of Absence form is found in the GPRS system.
-
-Advanced Standing/Transfer Credits
-----------------------------------------
-
-It is ordinarily expected that all work for the Master’s degree will be completed at Loyola. Upon the recommendation of the Director of Graduate Programs, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the degree.
+Although it is not uncommon for graduate students to take an occasional Incomplete, 
+it is of course better not to take an incomplete when possible. 
+Making up an incomplete course often proves harder than students expect, 
+particularly if much time has elapsed since the end of the course. 
+In any case, faculty members have various policies regarding Incompletes, 
+so it is advisable to discuss the matter with your instructor as early as possible 
+if you anticipate the need for an Incomplete. 
 
 
 Academic Honesty
 --------------------------------
 
-Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism of text our source code. The Graduate School Catalog defines plagiarism as “the appropriation for gain of ideas, language or work of another without sufficient public acknowledgement that the material is not one’s own.” As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not. If you are ever uncertain, it is of course best to consult the Director of Graduate Programs or another faculty member.
+Although academic dishonesty can take many forms, in our field it manifests 
+primarily as plagiarism of text our source code. 
+The Graduate School Catalog defines plagiarism as “the appropriation for gain of ideas, 
+language or work of another without sufficient public acknowledgement that the material 
+is not one’s own.” As a graduate student, you very likely have a good understanding 
+of the boundaries of what is acceptable and what is not. 
+If you are ever uncertain, it is of course best to consult the 
+Director of Graduate Programs or another faculty member.
 
-The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course. A serious breach or a pattern of dishonesty can lead to expulsion from Loyola. Although quite rare in our department, cases have occurred in the past and have resulted in dismissal.
+The penalty for an instance of plagiarism is, at a minimum, failure on the assignment,
+which may well be tantamount to failure in the course. 
+A serious breach or a pattern of dishonesty can lead to expulsion from Loyola. 
+Although quite rare in our department, cases have occurred in the past and have 
+resulted in dismissal.
 
 
 Grievance Procedure
 ----------------------------------
 
-Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the Director of Graduate Programs. If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair. Violations of the University’s ethical standards not resolvable within the Department may call for the use of the Graduate School’s grievance procedure. Students wishing to initiate a grievance must do so in writing to the Dean. Further information can be obtained from the Graduate School office.
- 
+Students, faculty, and administrators are strongly encouraged to resolve any problems 
+they encounter in the academic process through informal discussion. 
+If you are unable to resolve a problem with a member of the staff or faculty, 
+or if you wish to lodge a formal complaint, you should first meet to discuss the matter 
+with the Director of Graduate Programs. If the problem cannot be satisfactorily 
+resolved by the GPD, it will be taken up by the Department Chair. 
+Violations of the University’s ethical standards not resolvable within the Department 
+may call for the use of the Graduate School’s grievance procedure. 
+Students wishing to initiate a grievance must do so in writing to the Dean. 
+Further information can be obtained from the Graduate School office.
