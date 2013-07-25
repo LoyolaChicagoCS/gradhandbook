@@ -105,6 +105,10 @@ html_theme_options = {
     # Switching to -1 shows all levels.
     'globaltoc_depth': 2,
 
+    # A list of tuples containting pages to link to.  The value should
+    # be in the form [(name, page), ..]
+    'navbar_links': [('Index', 'genindex')],
+    
     # Include hidden TOCs in Site navbar?
     #
     # Note: If this is "false", you cannot have mixed ``:hidden:`` and
