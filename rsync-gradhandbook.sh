@@ -1,4 +1,4 @@
-rsync -av -e "ssh -oPort=22222" \
+rsync -av \
 	--delete \
 	--exclude .htaccess \
 	$(pwd)/build/ \
