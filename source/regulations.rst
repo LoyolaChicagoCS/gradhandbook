@@ -1,6 +1,9 @@
 Regulations and Procedures
 ================================
 
+.. index:: course loads
+   full-time
+
 Course Loads
 --------------------------------
 
@@ -24,6 +27,7 @@ allowed to take more than 12 credit hours in Fall or Spring.
 We encourage you to consider taking summer or online courses if you need to 
 complete your degree more quickly.
 
+.. index:: registration
 
 Registration
 --------------------------------
@@ -48,7 +52,9 @@ term schedule.
 
 Students must maintain continual registration
 throughout their years in the program unless they explicitly apply for and
-are approved for a leave of absence.  
+are approved for a :ref:`leave_of_absence`.  
+You must also announce your decision to come back
+from a Leave of Absence with an email to the Associate Dean of the Graduate School.
 
 .. FIX ?? phd only?
     or risk having to apply for
@@ -59,11 +65,16 @@ courses with just your student ID number.  
 *New students should get course advising first from the department*, 
 and all others are welcomed to get
 advising.  You cannot register yourself for Comp 490 or 499 as both require
-permission of the GPD or instructor of record. See the sections
-below concerning independent study and internships.  Other courses that can
+permission of the GPD or instructor of record. See sections
+:ref:`independent_study` and :ref:`internships`.  Other courses that can
 have complications registering and dropping are the CSIS courses, depending on
-when you want to register or drop a course.  See the section on CSIS Courses
+when you want to register or drop a course.  See :ref:`CSIS_courses`.
 below.
+
+In any course where there is a note about consent or permission required, you must 
+make a direct emailed request to the department, clearly stating the course and semester, 
+and number of credits if that is variable.  
+The department then gives consent and does your registration administratively.
 
 It is in your best interest to register early, to get into sections you want
 and have ample time to detect and clear up any possible registration block
@@ -73,6 +84,11 @@ to delay from such blocks.  Deal with these and clear them out early.  One
 misleading feature in LOCUS is that all MS students have a Dean's time limit
 block, but it does not activate until you have been an MS student for five
 years - do not worry about that one.
+
+.. index:: independent study Comp 490
+   Comp 490 independent study
+
+.. _independent_study:
 
 Independent Study
 --------------------------------
@@ -87,7 +103,7 @@ The typical approach is for the student to confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
 the exact course, semester and credit hours your have agreed on.  The
 supervisor then forwards the email with his or her approval to the
-department administration.  These courses are for 1-6 units.  See the
+department administration.  These courses are for 1-6 credits.  See the
 section below on variable hour courses. We rarely allow students to 
 take more than 6 total credits of Independent Study (+ Internships) but, 
 again, allow it in exceptional circumstances.
@@ -99,6 +115,11 @@ The Graduate
 Program Director must sign this form.  This is very useful when someone else
 is reading your transcript.
 
+.. index:: internships Comp 499
+   Comp 499 Internship
+
+.. _internships:
+
 Internships
 -----------------------------------------------
 
@@ -108,39 +129,36 @@ There are online, searchable listings through the university career center,
 Science department also maintains an *informal* jobs list at 
 http://jobs.cs.luc.edu.)  When you find a
 job, contact the GPD and get your job description approved.  Communicate
-the number of units desired and the semester in an email so we have a
-record, and we can register you.  Internships are for 1-6 units.  See
-the section below  on variable hour courses.  
-
-.. old?
-    Some of these
-    listings directed specifically at CS students are duplicated on paper in
-    big folders in the department administrative offices.  
-
-
-.. todo
-   FIX !!!! get URL!
+the number of credits desired and the semester in an email so we have a
+record, and we can register you.  Internships are for 1-6 credits.  See
+:ref:`variable_credit_courses`.  
    
-Separately download, print, and fill out the MOU form linked on the 499
-web page.  You will also need your job supervisor's signature.  Get the
-finished form to the GPD.  The MOU can be turned in just after you start
-your job. It can be scanned and emailed or turn in paper to the
+Separately download, print, and fill out the MOU form,
+http://gradhandbook.cs.luc.edu/CS-Grad-Internship-MOU.pdf.  
+You will also need your job supervisor's signature.  Get the
+finished form to the GPD, so we can register you for the course.  
+The form can be scanned and emailed or turn in paper to the
 department staff.
 
 There are three related but different terms:  **job**, **internship**,
-and **CPT** (for F-1 visa students - see below).  You can have a job and
+and **CPT**, :ref:`cpt`.  You can have a job and
 not have it be an internship for academic credit, or you can have a job
 that goes on longer than an internship.  Also if you are doing an
 academic internship, your job employer does not need to classify your
 position as "internship". If you are doing an academic internship, the
-MOU indicates only two small requirements for your employer during your
+`MOU <http://gradhandbook.cs.luc.edu/CS-Grad-Internship-MOU.pdf>`_
+indicates only two small requirements for your employer during your
 time in the academic internship:  The bulk of your duties must be
 related to doing computer science in the real world, and the supervisor
 will write a few line email a the end of the time for the academic
 internship indicating your successful completion of all the hours
 required for the academic internship.
 
-Curricular Practical Training (CPT) (For F-1 students)
+.. index:: curricular practical training (CPT)
+
+.. _cpt:
+
+Curricular Practical Training (For F-1 students)
 -----------------------------------------------------------
 
 You should consult with the `International
@@ -152,14 +170,11 @@ restrictions apply.  If you want to work off campus for pay, then you
 need to be doing CPT, and there are a number of requirements.
 
 
-.. todo::
-   Check this rule...
-   
 First of all, you need to have been a full-time F-1 student anywhere in
 the United States for two semesters.  If you want to count a summer (as
 students starting in Spring or Summer are likely to want), there is a
-confusing point:  The number of units needed to be full-time to count as
-leading up to CPT are different than the number of units a student
+confusing point:  The number of credits needed to be full-time to count as
+leading up to CPT are different than the number of credits a student
 starting in summer needs to be in full-time status!  Be sure to check
 with the International Office for the exact current details.
 
@@ -167,11 +182,8 @@ The procedure to start CPT:
 
 #. You must submit a CPT application with the Graduate Secretary and
    include a written job offer (which can be an email) from the
-   prospective employer.   The form is recently advised and may still
-   not be on the OIP webiste.  If their form
-   http://www.luc.edu/media/lucedu/iss/pdfs/Curricular%20Practical%20Training.pdf,
-   includes an option for an instructor signature, then it is the most
-   recent version of the updated form.  The
+   prospective employer.   The form is on the OIP website,
+   http://www.luc.edu/media/lucedu/iss/pdfs/Curricular%20Practical%20Training.pdf.  The
    CPT application must be delivered to the International Office, and
    they will issue the work permit.
 #. The CPT can either be tied to a Comp 499 course OR for no extra
@@ -186,28 +198,40 @@ The procedure to start CPT:
    reporting or work you do to tie the internship to the instructor's
    course.
 
-Variable Hour Courses
+.. index:: variable credit courses
+.. _variable_credit_courses:
+
+Variable Credit Courses
 -----------------------------------------------------------
 
-Comp 490 and 499 are for 1-6 units.  Up to 6 units total can be counted
+Comp 490 and 499 are for 1-6 credits.  Up to 6 credits total can be counted
 toward graduation, counting all the times you register for these two
-courses.  In practice that means 3 or 6 units since all other courses
-are 3 units.  You do not need to take a multiple of three units at a
-time.  What matters is the total when it is time to graduate.  
-International students on F-1 visas:  This is particularly useful for
-you, who need to be registered for off-campus internships and who need 8
-units, not 9, to be considered full time in fall and spring.  Examples:
- You can do a 1-credit internship/CPT in the summer and do a 2-credit
-independent study in another semester.  If you want to extend your work
-time at the end of your studies and would normally graduate in the
-spring, you could do two 2-credit independent studies earlier, leaving 2
-credits needed in the final summer and do a 1 credit CPT in first summer
-session, so you can start summer work as soon as possible in the summer,
-and do another 1 credit CPT in the second summer session, delaying
-completion, so post-graduation OPT does not need to start until after
-the second summer session.  Some F-1 students also do a unit of CPT
-beyond the 30 credits needed for graduation, so they are eligible to
-work.
+courses.  In practice that means 3 or 6 credits since all other courses
+are 3 credits.  You do not need to take a multiple of three credits at a
+time.  What matters is the total, when it is time to graduate.  
+
+.. old ??
+    International students on F-1 visas:  This is particularly useful for
+    you, who need to be registered for off-campus internships and who need 8
+    credits, not 9, to be considered full time in fall and spring.  Examples:
+     You can do a 1-credit internship/CPT in the summer and do a 2-credit
+    independent study in another semester.  If you want to extend your work
+    time at the end of your studies and would normally graduate in the
+    spring, you could do two 2-credit independent studies earlier, leaving 2
+    credits needed in the final summer and do a 1 credit CPT in first summer
+    session, so you can start summer work as soon as possible in the summer,
+    and do another 1 credit CPT in the second summer session, delaying
+    completion, so post-graduation OPT does not need to start until after
+    the second summer session.  
+
+.. index:: CSIS courses
+   Business School
+   GSB
+   quarter courses
+   Winter Quarter
+   Changing CSIS courses
+
+.. _CSIS_courses:
 
 CSIS Courses
 -----------------------------------------------------------
@@ -283,6 +307,8 @@ trace and the later deadline for avoiding  tuition.  We will be correct
 things if you are before the GSB deadlines.  See below under Dropping a
 Course for further discussion of the categories. 
 
+.. index:: graduation
+
 Graduation
 -----------------------------------------------------------
 
@@ -300,14 +326,16 @@ participate in a graduation ceremony and you graduate in Summer or Fall.
 
 **Procedure**:
 
-#. Go into Locus and submit your application for graduation, making sure
-   you end up with a paper copy of the completed form.
-#. Get the form and $75 to the Bursar's office, and  get the form
-   stamped.
-#. Deliver the stamped form to the Graduate School on the fourth floor
-   of Granada Center (not the CS dept.).  You can do this in person, by
-   mail, or by emailing a scanned copy.  The Graduate School should
-   confirm their receipt of the form.
+Go into Locus and submit your application for graduation *by the deadline*.  That
+is all you need to do if you are on time.  
+There is no penalty for guessing wrong about when you will graduate, but you will need
+to apply again for the actual time.
+
+You can apply  up to 15 days later, 
+*with a penalty fee* and *walking a piece of paper around*:  see
+http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf
+In case the URL changes, it should be listed on the Graduate School Forms page under 
+Late Application for Graduation.
 
 If your last course is a CSIS course in Winter Quarter, still register
 for Fall graduation, since Winter Quarter courses are listed under Fall
@@ -324,6 +352,10 @@ return to participate in the *following* May graduation ceremony
 (unless you already participated in the previous May graduation, as
 discussed above).
 
+.. index:: leave of absence
+
+.. _leave_of_absence:
+
 Leave of Absence
 -----------------------------------------------------------
 
@@ -333,14 +365,23 @@ graduate.  If you need to interrupt your studies before that, we ask
 that you apply for a leave of
 absence through the gsps system, under student forms in
 https://gsps.luc.edu/. 
-There is no direct penalty for forgetting notification, but it helps
-the department to know what is doing on.  
 
-Whether or not you file a Leave of Absence form, you will still need
-to file a Request for Reinstatement form,
-http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf,  
-on your return, before you can register again. Turn in this form
-early enough to register promptly!
+.. what true now?
+    There is no direct penalty for forgetting notification, but it helps
+    the department to know what is going on.  
+
+    Whether or not you file a Leave of Absence form, you 
+
+You
+will need
+to notify the Associate Dean of the Graduate School before you can register for
+classes and resume study. 
+
+.. index:: dropping a course
+   tuition penalties
+   W grade
+   
+.. droppping_a_course:
 
 Dropping a Course, Avoiding Extra Bills
 -----------------------------------------------------------
@@ -371,40 +412,53 @@ dates.
 The categories are the same for CSIS courses, but the procedures can be
 more complicated.  See the section on CSIS Courses above.
 
+.. index:: changing MS programs
 
 Changing your chosen MS Program
 -----------------------------------------------------------
 
 It is easy to switch between our MS degree programs in the department. 
 Through the gsps system under student forms in
-https://gsps.luc.edu/, find Change in Degree Seeking.
+https://gsps.luc.edu/, find Change in Degree Seeking.  You will need to
+include a statement about why you want to change the program.
+
+.. index:: transfer of credit
 
 Transfer of Credit into the Loyola MS Program from Earlier Graduate Work
 --------------------------------------------------------------------------
 
-During your first semester, you can apply to transfer up to 6 units of
-previous graduate work relevant to your current program.   Your official
+During your first semester, you can apply to transfer up to 6 credits of
+previous *graduate* work relevant to your current program.   Your official
 transcripts need to show B or better in relevant courses.  (In
 particular, we must have your official transcripts already!)
-International students, read the section below for further requirements.
-Through the gsps system under student forms in
-https://gsps.luc.edu/, find Transfer Credit.
+International students, see :ref:`international_transfer`.
+In the unusual case where the transcript is only available after admission,
+get your *official* transcript to the GPD.  
 Although official transcripts are needed to forward the request to the
 Grad School for final approval, you are welcomed to show unofficial
 transcripts to the GPD to see if you have appropriate courses.
 
+.. index:: international transfer credit
+
+.. _international_transfer:
+
 Further International Transcript Credit Transfer Requirements
 -----------------------------------------------------------------
-
-
-.. todo::
-   new provider
    
-International transcripts need only a *general* evaluation by ECE or
-WES for *admission*, but they need a *course by course* evaluation to
+International transcripts need only a *general* evaluation by ECE,
+http://www.ece.org/, or
+Educational Perspectives, http://www.educational-perspectives.org/,
+for *admission*, but they need a *course by course* evaluation to
 *transfer* international graduate credit.  It is most economical to ask
 for the course by course evaluation the first time transcripts are
-submitted to ECE or WES if you are expecting to get transfer credit.
+submitted to an evaluator, if you are expecting to get transfer credit.
+
+Note:  All courses, including graduate courses in your first 4 years 
+since the start of college, are considered part of your undergraduate education.
+Only if you do MS work *past* the four years of academic work can 
+transfer credit be considered.
+
+.. index:: grades
 
 Grades
 --------------------------------
@@ -440,10 +494,11 @@ For further information on Loyola’s grading policy, consult the Graduate Schoo
 Graduate students in the Computer Science Department are expected to maintain an average 
 of not less than B (3.0). Those who fail to meet this requirement may be 
 dismissed by the Graduate School. 
-No more than two grades below B and no grades of  
+No more than two grades below B and no grades of C- or less
 may be counted as fulfilling degree requirements.
 *Still C-, D or F  do count to enormously drag down your GPA*.
 
+.. index:: incomplete grade I
 
 Incomplete Grade
 --------------------------------
@@ -468,12 +523,15 @@ In any case, faculty members have various policies regarding Incompletes,
 so it is advisable to discuss the matter with your instructor as early as possible 
 if you anticipate the need for an Incomplete. 
 
+.. index:: academic honesty
+   cheating
+   plagiarism
 
 Academic Honesty
 --------------------------------
 
 Although academic dishonesty can take many forms, in our field it manifests 
-primarily as plagiarism of text our source code. 
+primarily as plagiarism of text or source code. 
 The Graduate School Catalog defines plagiarism as “the appropriation for gain of ideas, 
 language or work of another without sufficient public acknowledgement that the material 
 is not one’s own.” As a graduate student, you very likely have a good understanding 
@@ -487,6 +545,7 @@ A serious breach or a pattern of dishonesty can lead to expulsion from Loyola.
 Although quite rare in our department, cases have occurred in the past and have 
 resulted in dismissal.
 
+.. index:: grievance procedure
 
 Grievance Procedure
 ----------------------------------

@@ -1,6 +1,14 @@
 General Information
 =============================
 
+This is the handbook for students in graduate programs in the Computer Science Department
+of Loyola University
+Chicago. 
+
+If you are looking at an html version with a blue left-side frame, you can click on its
+margin to hide it.  If you want another format, see :ref:`download_other_formats`.
+
+.. index:: personnel
 
 Department Office and Personnel
 --------------------------------------
@@ -17,6 +25,8 @@ The following folks are here to help you.
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
    	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
 
+
+.. index:: graduate school offices
 
 Graduate School Offices
 --------------------------------------
@@ -36,19 +46,23 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
 Dr. Patricia Mooney-Melvin, Associate Dean, and Jessica Horowitz, Assistant Dean, are your primary contacts for inquiries. We recommend that you contact the department faculty and
 staff first unless your matter absolutely requires Graduate School assistance.
 
+.. index:: Graduate Program Director - GPD
 
-Director of Graduate Programs
---------------------------------------
+Graduate Program Director
+--------------------------
 
 Regardless of the MS program in which you're enrolled, 
-your main adviser will be the Director of Graduate Programs (abbreviated GPD). 
+your main adviser will be the  Graduate Program Director (abbreviated GPD). 
 The current director is Dr. Andrew N. Harrington. 
 You are expected to confer with him regularly about your initial course of study 
 in pursuit of your degree. You should be assigned an advisor for later semesters.
 You are encouraged to meet with the Director at other times as well to discuss 
 your progress in the program and your future plans. 
 
-Beginning in Fall 2013, we will be assigning a department advisor to you. 
+.. do it!
+   Beginning in Fall 2013, we will be assigning a department advisor to you. 
+
+.. index:: committee on graduate programs
 
 Committee on Graduate Programs
 --------------------------------------
@@ -60,18 +74,22 @@ and student status by the Committee on Graduate Programs.
    	:header: "Person", "Role", "Page"
    	:widths: 15, 15, 15
 
-   	"Andrew N. Harrington", "Professor, Graduate Program Director", "http://gkt.cs.luc.edu/"
+   	"Andrew N. Harrington", "Associate Professor, Graduate Program Director", "http://anh.cs.luc.edu/"
    	"George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
    	"Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
    	"William L. Honig", "Associate Professor", "http://people.cs.luc.edu/wlhonig"
 
 The faculty members of the Committee also serve as jury for various departmental awards.
 
+.. index:: ID cards
+
 Student ID Cards
 --------------------------------------
 
 Student ID cards, giving access to library borrowing and other privileges, 
 are available from the Campus Card Office, Sullivan Center, Room 117.
+
+.. index:: computer services
 
 Computer Services
 --------------------------------------
@@ -91,6 +109,8 @@ Department, please notify the Secretary.
 
 Students are encouraged to consult the Systems Handbook for more information about 
 departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
+
+.. index:: notification services
 
 Bulletin Boards and Key Web Resources
 --------------------------------------
@@ -112,6 +132,7 @@ You are also encouraged to keep abreast of the following departmental web resour
    	"http://jobs.cs.luc.edu", "Informal job postings"
    	"http://blog.cs.luc.edu", "CS Department Blog"
 
+.. index:: Emerging Technologies Laboratory - ETL
 
 The Emerging Technologies Laboratory
 --------------------------------------
@@ -123,8 +144,7 @@ also known as the Emerging Technologies Laboratory. Access is via the Loyola cam
 Please contact the Department Secretary or Computer Systems Manager for access, 
 if you have trouble entering with your Loyola campus card.
 
-.. cmt
-   (add ref to personnel)
+.. index:: teaching opportunities
 
 Teaching Opportunities
 --------------------------------------
@@ -149,6 +169,7 @@ and software engineering with a solid record of achievement in all.
     and previous summer teaching (in an effort to distribute summer courses fairly). 
     Contact the department chairperson for further information.
 
+.. index:: summer sessions
 
 Summer Sessions
 --------------------------------------
@@ -162,6 +183,9 @@ independent study with a department faculty member.
 
 Internships can also be arranged for summer.
 
+.. index:: housing
+   apartments
+   
 Housing
 --------------------------------------
 
@@ -169,8 +193,10 @@ Most graduate students choose to find their own off-campus apartments
 using the ads in the Reader, the Tribune, and other publicly available sources. 
 Loyola’s Department of Residence Life also offers single- and double-occupancy 
 apartments for graduate students on the Lakeshore Campus and the Water Tower Campus. 
-For additional information, please see http://www.luc.edu/reslife.
+For additional information, please see http://www.luc.edu/reslife or the links in
+http://www.luc.edu/gradschool/gradstudcmty.shtml.
 
+.. index:: transportation
 
 Transportation
 --------------------------------------
@@ -194,6 +220,7 @@ Public buses and the “El” run frequently between campuses and to other point
 Further information on parking is available at http://www.luc.edu/parking/.
 For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus.shtml.
 
+.. index:: publication
 
 Publication
 --------------------------------------
@@ -225,12 +252,14 @@ closely with their seminar instructors or faculty mentors.
     publication or writing their first conference presentations. 
     You are advised to take advantage of such opportunities.
 
-
+.. index:: conference presentations
+   travel funding
+   
 Conference Presentations and Travel Funding
 -----------------------------------------------
 
 Presentation of conference papers is an important part of students’ professional 
-development, and MS CS students workking on thesis in particular should aim to give at 
+development, and MS CS students working on thesis in particular should aim to give at 
 least two papers during their graduate careers—preferably including professional 
 and not just graduate-student conferences.
 
@@ -254,6 +283,7 @@ papers or sessions.
     sponsorship. Research awards are provided through the Department’s Gravett-Tuma fund 
     and are around $500 (depending on the number of awards and the funds available).
 
+.. index:: Career Center
 
 Career Center
 --------------------------------------
@@ -267,13 +297,16 @@ Students are encouraged to check our information jobs listings as well at
 http://jobs.cs.luc.edu. We are routinely contacted by employers who are 
 seeking interns, consultants, and "permanent" employees.
 
+.. index:: awards
 
 Department Awards
 --------------------------------------
 
 Each year the Department recognizes exceptional graduate students in all of 
 our degree programs. Awards are given for academics and service. 
-The Graduate Advisory Committee is responsible for selecting the award winners.
+
+.. true?
+   The Graduate Advisory Committee is responsible for selecting the award winners.
 
 .. todo::
 

@@ -1,6 +1,8 @@
 Master of Science Programs
 ======================================
 
+.. index:: MS in Computer Science
+
 MS in Computer Science
 ----------------------------
 
@@ -10,6 +12,8 @@ Other programs in the Computer Science Department with different foci are the
 MS in Software Engineering and the MS in Information Technology.
 
 For details about this program, see http://luc.edu/cs/academics/graduateprograms/mscs/
+
+.. index:: MS in Software Engineering
 
 MS in Software Engineering
 ----------------------------
@@ -23,6 +27,8 @@ For those seeking a greater focus on managerial aspects,
 we offer the M.S. in Information Technology (MS-IT) below.
 
 For details about this program, see http://luc.edu/cs/academics/graduateprograms/msse/.
+
+.. index::  MS in Information Technology
 
 MS in Information Technology
 ------------------------------
@@ -40,6 +46,8 @@ All course work can be completed online, and the online program includes an
 intensive on-site immersion as a capstone.
 
 For details about this program, see http://luc.edu/cs/academics/graduateprograms/msit/.
+
+.. index:: MA in Digital Humanities
 
 MA in Digital Humanities
 -----------------------------
@@ -67,6 +75,8 @@ and ethical contexts for thinking about Digital Humanities research and applicat
 including issues of intellectual property, data and privacy, public access and preservation. 
 
 For details about this program, see http://www.luc.edu/ctsdh/academics/maindigitalhumanities/.
+
+.. index:: thesis option
 
 MS Thesis Option
 ---------------------
@@ -100,6 +110,8 @@ and social networking groups. Many of our
 students continue to be involved in research laboratories such as the 
 Emerging Technologies Laboratory
 (see http://www.etl.luc.edu).
+
+.. index:: time for program
 
 Time and Residence Requirements
 ------------------------------------------

@@ -1,0 +1,4 @@
+[ -f ~/.env/sphinx/bin/activate ] && . ~/.env/sphinx/bin/activate
+
+make -f makeDefault latexpdf
+cp build/latex/*Handbook.pdf .

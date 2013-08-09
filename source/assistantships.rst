@@ -1,3 +1,5 @@
+.. index:: teaching assistantships
+
 Teaching Assistantships
 ===========================
 
