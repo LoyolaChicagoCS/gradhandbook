@@ -146,7 +146,7 @@ not have it be an internship for academic credit, or you can have a job
 that goes on longer than an internship.  Also if you are doing an
 academic internship, your job employer does not need to classify your
 position as "internship". If you are doing an academic internship, the
-`MOU <http://gradhandbook.cs.luc.edu/CS-Grad-Internship-MOU.pdf>`_
+`MOU <https://luc.box.com/s/hvc5ix6wel50g4z2z53v>`_
 indicates only two small requirements for your employer during your
 time in the academic internship:  The bulk of your duties must be
 related to doing computer science in the real world, and the supervisor
