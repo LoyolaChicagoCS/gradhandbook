@@ -133,8 +133,8 @@ the number of credits desired and the semester in an email so we have a
 record, and we can register you.  Internships are for 1-6 credits.  See
 :ref:`variable_credit_courses`.  
    
-Separately download, print, and fill out the MOU form,
-http://gradhandbook.cs.luc.edu/CS-Grad-Internship-MOU.pdf.  
+Separately download, print, and fill out the 
+`MOU Form <https://luc.box.com/s/hvc5ix6wel50g4z2z53v>`_.  
 You will also need your job supervisor's signature.  Get the
 finished form to the GPD, so we can register you for the course.  
 The form can be scanned and emailed or turn in paper to the
