@@ -21,7 +21,7 @@ The following folks are here to help you.
 
    	"Andrew N. Harrington, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
    	"Konstantin Läufer, PhD", "Department Chair", "chair@cs.luc.edu"
-   	"Cecie Murphy", "Graduate Program Secretary", "gpd@cs.luc.edu"
+   	"Cecie Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
    	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
 
