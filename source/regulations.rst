@@ -381,7 +381,7 @@ classes and resume study.
    tuition penalties
    W grade
    
-.. droppping_a_course:
+.. _droppping_a_course:
 
 Dropping a Course, Avoiding Extra Bills
 -----------------------------------------------------------
