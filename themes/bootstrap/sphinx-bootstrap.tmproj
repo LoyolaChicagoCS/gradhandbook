@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>theme.conf</string>
+			<key>lastUsed</key>
+			<date>2012-04-14T21:37:16Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../../rst/conf.py</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>filename</key>
+					<string>static/bootstrap-sphinx.css_t</string>
+				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Static</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>filename</key>
+					<string>globaltoc.html</string>
+					<key>lastUsed</key>
+					<date>2012-04-14T21:37:13Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>layout.html</string>
+					<key>lastUsed</key>
+					<date>2012-04-14T21:37:02Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>localtoc.html</string>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>relations.html</string>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>searchbox.html</string>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>sourcelink.html</string>
+				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Templates</string>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>261</integer>
+	<key>metaData</key>
+	<dict/>
+	<key>showFileHierarchyDrawer</key>
+	<true/>
+	<key>windowFrame</key>
+	<string>{{188, 173}, {1166, 874}}</string>
+</dict>
+</plist>

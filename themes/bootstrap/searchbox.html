@@ -1,0 +1,11 @@
+<ul class="nav pull-right">
+  <li><a href="{{ pathto('genindex.html',true)|e }}"> {{_('Index') }} </a></li>
+{%- if pagename != "search" %}
+ <li class="divider-vertical"></li>
+<form class="navbar-search" action="{{ pathto('search') }}" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form> 
+</ul>
+{%- endif %}
