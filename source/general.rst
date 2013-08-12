@@ -28,6 +28,8 @@ The following folks are here to help you.
 
 .. index:: graduate school offices
 
+.. _graduate-school-offices:
+
 Graduate School Offices
 --------------------------------------
 
