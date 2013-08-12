@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rsync -av \
 	--delete \
 	--exclude .htaccess \
