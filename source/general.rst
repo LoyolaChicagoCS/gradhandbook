@@ -21,7 +21,7 @@ The following folks are here to help you.
 
    	"Andrew N. Harrington, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
    	"Konstantin Läufer, PhD", "Department Chair", "chair@cs.luc.edu"
-   	"Cecelia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
+   	"Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
    	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
 
@@ -88,8 +88,9 @@ The faculty members of the Committee also serve as jury for various departmental
 Student ID Cards
 --------------------------------------
 
-Student ID cards, giving access to library borrowing and other privileges, 
-are available from the Campus Card Office, Sullivan Center, Room 117.
+After registering for classes, Student ID cards, which give access to library borrowing and other privileges, 
+are available from Corboy Law Center, 25E. Pearson or the Campus Card Office, Sullivan Center, Room 117.
+See http://www.luc.edu/campuscard/ for more information.
 
 .. index:: computer services
 
@@ -98,11 +99,9 @@ Computer Services
 
 The University maintains several Computer Centers which are available 
 for your use in Sullivan Center, Information Commons, and at 25 E. Pearson. 
-There are also personal computers available for the use of Graduate Assistants in the 
-Graduate Student office space in Crown Center 418.
 
 An account on the student email system is created automatically for each new student. 
-Both the Director of Graduate Programs and the Graduate School will use this account 
+Both the GPD and the Graduate School will use this account 
 to communicate with you. It is therefore crucial that you check your Loyola e-mailbox 
 on a regular basis. Having your e-mail forwarded to another account can be risky. 
 Some students find the mail doesn't always get delivered. 
@@ -203,7 +202,14 @@ http://www.luc.edu/gradschool/gradstudcmty.shtml.
 Transportation
 --------------------------------------
 
-If you plan to commute to Loyola, there are several parking lots that you may use. 
+Parking is available near the Water Tower Campus, although it is rather expensive. 
+You can have your parking stub stamped at the information desk 
+at the 25 E. Pearson building to receive a modest discount. 
+You will also want to acquaint yourself with the 
+University’s inter-campus shuttle bus service. 
+Public buses and the “El” run frequently between campuses and to other points in the city.
+
+There is also parking available near the Lake Shore Campus.
 The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, 
 houses the Parking Office, where you may purchase a sticker for annual parking. 
 The fee for one-day parking on campus is $7.00. 
@@ -211,13 +217,6 @@ At peak class times, available parking can sometimes be scarce.
 Street parking in the community immediately surrounding campus is scarce. 
 It is also restricted to residents during certain hours, 
 so be sure to read the signs carefully to avoid being ticketed by the police.
-
-Parking is also available near the Water Tower Campus, although it is more expensive. 
-You can have your parking stub stamped at the information desk 
-at the 25 E. Pearson building to receive a modest discount. 
-If you have classes at the Water Tower Campus, you will probably want to 
-acquaint yourself with the University’s inter-campus shuttle bus service. 
-Public buses and the “El” run frequently between campuses and to other points in the city.
 
 Further information on parking is available at http://www.luc.edu/parking/.
 For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus.shtml.
@@ -229,7 +228,7 @@ Publication
 
 Research-oriented graduate students (especially those pursuing the *thesis option* 
 in MS CS) are encouraged to pursue the publication of one or more journal articles 
-during their graduate careers. In the current job market, publication is an 
+during their graduate career. In the current job market, publication is an 
 important means of demonstrating to prospective employers a high level of motivation 
 and professional competence. 
 It can also be helpful for your future pursuits as a doctoral student (elsewhere).
@@ -261,7 +260,7 @@ Conference Presentations and Travel Funding
 -----------------------------------------------
 
 Presentation of conference papers is an important part of students’ professional 
-development, and MS CS students working on thesis in particular should aim to give at 
+development, and MS CS students working on a thesis in particular should aim to give at 
 least two papers during their graduate careers—preferably including professional 
 and not just graduate-student conferences.
 
