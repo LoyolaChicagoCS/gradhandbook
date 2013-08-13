@@ -13,7 +13,7 @@ Source
 The Graduate Handbook is written using the incredible `Sphinx <http://sphinx-doc.org/>`_ 
 documentation tools from the `Python <http://python.org>`_ community.
 
-You can view the source code at https://bitbucket.org/loyolachicagocs/gradhandbook.
+You can view the source code and changelog at https://bitbucket.org/loyolachicagocs/gradhandbook.
 
 Other Formats
 --------------------------------------
