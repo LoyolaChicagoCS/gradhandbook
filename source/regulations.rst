@@ -384,7 +384,7 @@ You
 will need
 to notify the Associate Dean of the Graduate School of your intent
 to enroll before you can register for
-classes and resume study. See :ref:`graduate-school-offices`.
+classes and resume study. See the address under :ref:`graduate-school-offices`.
 
 .. index:: dropping a course
    tuition penalties

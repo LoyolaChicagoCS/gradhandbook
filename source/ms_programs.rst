@@ -41,9 +41,12 @@ of current and emerging technologies in the industry,
 a familiarity with systems engineering concepts, 
 and a solid foundation in net-centric computing. 
 They will also have a firm grasp of current and future effects of the 
-convergence of the telecommunications, media, and information technology sectors. 
-All course work can be completed online, and the online program includes an 
-intensive on-site immersion as a capstone.
+convergence of the telecommunications, media, and information technology sectors.
+Some of the courses can be taken online.
+
+.. true? dumped for now
+    All course work can be completed online, and the online program includes an 
+    intensive on-site immersion as a capstone.
 
 For details about this program, see http://luc.edu/cs/academics/graduateprograms/msit/.
 
@@ -58,7 +61,8 @@ program, we encourage students with interdisciplinary interests at the
 intersection of culture and technology to 
 consider this degree, which allows one to elect courses from the CS department.
 
-The Digital Humanities MA program at Loyola Unviersity's CTSDH combines 
+The Digital Humanities MA program at Loyola Unviersity's
+Center for Textual Studies and Digital Humanities (CTSDH) combines 
 theoretical and practical courses. 
 Its aims are ultimately practical and professional, 
 training new digital specialists for the growing knowledge and 
@@ -81,7 +85,7 @@ For details about this program, see http://www.luc.edu/ctsdh/academics/maindigit
 MS Thesis Option
 ---------------------
 
-Effective Fall 2013, MS students may elect the thesis option.
+Effective Fall 2013, MS students in the CS degree may elect the thesis option.
 
 Students may choose to write a thesis in lieu of taking two classes (6 credits), 
 although course work is strongly recommended over the thesis option, 
@@ -90,8 +94,12 @@ pursuing the thesis option, therefore,
 would be considering a PhD program at another institution. 
 
 Students wishing to do a thesis should discuss this option as early as 
-possible with the Director of Graduate Programs. 
-Regarding thesis procedures, see the Graduate School Catalog.
+possible with the GPD. 
+Regarding thesis procedures, see the Graduate School Catalog
+located here: http://www.luc.edu/gradschool/academics_policies.shtml
+
+.. the link on this page to gradcatalogs is broken
+    this is the next best page currently.
 
 Pursuing Multiple MS Degrees
 -------------------------------
