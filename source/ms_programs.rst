@@ -82,10 +82,12 @@ For details about this program, see http://www.luc.edu/ctsdh/academics/maindigit
 
 .. index:: thesis option
 
-MS Thesis Option
+.. _thesis_option:
+
+Thesis Option
 ---------------------
 
-Effective Fall 2013, MS students in the CS degree may elect the thesis option.
+Effective Fall 2013, MS students in the CS degree may elect the MS thesis option.
 
 Students may choose to write a thesis in lieu of taking two classes (6 credits), 
 although course work is strongly recommended over the thesis option, 

@@ -226,7 +226,7 @@ For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus
 Publication
 --------------------------------------
 
-Research-oriented graduate students (especially those pursuing the *thesis option* 
+Research-oriented graduate students (especially those pursuing the :ref:`thesis_option` 
 in MS CS) are encouraged to pursue the publication of one or more journal articles 
 during their graduate career. In the current job market, publication is an 
 important means of demonstrating to prospective employers a high level of motivation 
