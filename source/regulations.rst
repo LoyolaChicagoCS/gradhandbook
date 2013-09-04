@@ -10,13 +10,6 @@ Course Loads
 A full-time student will usually carry three courses per semester. Course
 loads for part-time students are worked out on an individual basis. 
 
-.. FIX ??
-    All
-    students funded by the Department or the Graduate School are considered full
-    time and should be enrolled in 3 courses (this includes part-time graduate 
-    assistants who are expected to be full-time students unless agreed upon
-    with the GPD).
-
 We do not encourage students to take more than 3 courses a term, and you should
 contact the Graduate Program Director if you need to take more than 3 courses in
 a term for any reason. It is explicitly prohibited to enroll in more than 3 
@@ -39,32 +32,30 @@ complete a thesis). A schedule of courses for the upcoming term is available a
 few months before classes are scheduled to begin. We also maintain a long-
 term schedule. See http://www.luc.edu/cs/schedules/.
 
+Newly admitted students should first consult with the
+Graduate Program Director before registering for courses. A discussion with the
+GPD is particularly important if there is any question of a student's prerequisite
+preparation.
 
-.. FIX
-    In order to register for graduate courses newly admitted students 
-    must first consult with the
-    Graduate Program Director. 
-
-    Once your selections are approved, they will be
-    entered into the system by the Graduate Program Secretary, completing the
-    registration process. It is your responsibility to check LOCUS to verify your
-    registration each semester. 
+Before the next registration period, you should be provided an individual faculty 
+advisor for the rest of your studies.  Later registration choices should be taken up
+with your advisor.
 
 Students must maintain continual registration
 throughout their years in the program unless they explicitly apply for and
 are approved for a :ref:`leave_of_absence`.  
 You must also announce your decision to come back
 from a Leave of Absence with an email to the Associate Dean of the Graduate School.
-
-.. FIX ?? phd only?
-    or risk having to apply for
-    reinstatement and pay both a penalty and back fees.
+Only after the Graduate School accepts your letter announcing your plan to return, 
+will you be allowed to register for classes.
     
 After registration opens you can register yourself through LOCUS for most
 courses with just your student ID number.  
 *New students should get course advising first from the department*, 
 and all others are welcomed to get
-advising. You cannot register yourself for Comp 490 or 499 as both require
+advising. 
+
+*You cannot register yourself for Comp 490 or 499* as both require
 permission of the GPD or instructor of record. See sections
 :ref:`independent_study` and :ref:`internships`.  Other courses that can
 have complications registering and dropping are the CSIS courses, depending on
@@ -73,7 +64,10 @@ below.
 
 In any course where there is a note about consent or permission required, you must 
 make a direct emailed request to the department, clearly stating the course and semester, 
-and number of credits if that is variable.  
+and number of credits if that is variable. If you are asking for a course that requires
+permisison of the instructor, please add your direct request to an approving email 
+that you forward from the instructor.
+ 
 The department then gives consent and does your registration administratively.
 
 It is in your best interest to register early, to get into sections you want
@@ -81,10 +75,13 @@ and have ample time to detect and clear up any possible registration block
 that may have been placed.  Common examples are an immunization block, 
 a conditional admission block, or a bursar block.  
 Students have been given late fees or had a lot of trouble due
-to delay from such blocks.  Deal with these and clear them out early.  One
+to delay from such blocks.  One
 misleading feature in LOCUS is that all MS students have a Dean's time limit
 block, but it does not activate until you have been an MS student for five
 years - do not worry about that one.
+*You are strongly encouraged to check in Locus weeks before registration opens,*
+*to see if a block appears*, and get it addressed so it will not delay your 
+registration.
 
 .. index:: independent study Comp 490
    Comp 490 independent study
@@ -99,6 +96,7 @@ faculty member to supervise your project and have the faculty supervisor
 email the department secretary to register you. This does not generally make
 sense in your first semester but is possible in exceptional circumstances.
 It helps if you and the faculty member are familiar with each other.
+Take advantage of community events to meet and get to know faculty.
 
 The typical approach is for the student to confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
@@ -133,10 +131,12 @@ job, contact the GPD and get your job description approved.  
 Internships are for 1-6 credits.  See
 :ref:`variable_credit_courses`.  
    
-Download, read, print, and fill out the 
+Download, *read*, print, and fill out the 
 `MOU Form <https://luc.box.com/s/hvc5ix6wel50g4z2z53v>`_.  
+Please read this carefully before asking questions of the GPD.
 It contains a description of the details of your academic requirements 
-for the course.  You will also need your job supervisor's signature.  Get the
+for the course.  
+You will also need your job supervisor's signature.  Get the
 finished form to the GPD, so we can register you for the course for the proper 
 number of credits.  
 The form can be scanned and emailed or turn in paper to the
@@ -224,20 +224,6 @@ courses. (In practice that usually means 3 or 6 credits since all other courses
 are 3 credits.) You do not need to take a multiple of three credits at a
 time. What matters is the total, when it is time to graduate. 
 
-.. old ??
-    International students on F-1 visas:  This is particularly useful for
-    you, who need to be registered for off-campus internships and who need 8
-    credits, not 9, to be considered full time in fall and spring.  Examples:
-     You can do a 1-credit internship/CPT in the summer and do a 2-credit
-    independent study in another semester.  If you want to extend your work
-    time at the end of your studies and would normally graduate in the
-    spring, you could do two 2-credit independent studies earlier, leaving 2
-    credits needed in the final summer and do a 1 credit CPT in first summer
-    session, so you can start summer work as soon as possible in the summer,
-    and do another 1 credit CPT in the second summer session, delaying
-    completion, so post-graduation OPT does not need to start until after
-    the second summer session.  
-
 .. index:: CSIS courses
    Business School
    GSB
@@ -255,7 +241,7 @@ Computer Science MS program for courses offered by the Graduate School
 of Business.  They broaden the Computer Science offerings and let you
 essentially take GSB courses at the Graduate School's much lower tuition
 rate.  There are a number of special considerations coming from the fact
-that GSB courses are quarter courses.  They have the same holidays as in
+that GSB courses are *quarter* courses.  They have the same holidays as in
 The Graduate School semester system, but exam times or term start times
 or both are different.  The main administrative issue is that this
 confuses LOCUS, the school online administration system.  Fall Quarter
@@ -275,54 +261,52 @@ LOCUS lists CSIS courses as semester courses, so if you look at your
 current course list in October, you will see both Fall and Winter
 Quarter courses included!  *You* have to know the *real* calendar.
 
-.. Dumped for now
-    Quarter courses included!  *You* have to know the *real* calendar. 
-    Particular issues arise with registering for and dropping CSIS courses
-    outside the times LOCUS is expecting.  If you register and add or drop
-    in the regular semester time limits (much earlier than the time Winter
-    and Spring quarter courses actually start), then you should be able to
-    do your registration changes by yourself, online, in LOCUS, with no
-    problem.  Please do that where possible.  On the other hand, 
-    **if you want to make changes closer to the time Winter and Spring Quarter**
-    **courses actually start**, you should make all registraion requests
-    through the GPD, gpd@cs.luc.edu.  Since the department ends up making
-    registration changes which are very important to you, we need explicit
-    directions and you need to indicate clear knowledge of the ramifications
-    of your choices.  Include the following in your email:
+Particular issues arise with registering for and dropping CSIS courses
+outside the times LOCUS is expecting.  If you register and add or drop
+in the regular semester time limits (much earlier than the time Winter
+and Spring quarter courses actually start), then you should be able to
+do your registration changes by yourself, online, in LOCUS, with no
+problem.  Please do that where possible.  On the other hand, 
+**if you want to make changes closer to the time Winter and Spring Quarter**
+**courses actually start**, you should make all registraion requests
+through the GPD, gpd@cs.luc.edu.  Since the department ends up making
+registration changes which are very important to you, we need explicit
+directions and you need to indicate clear knowledge of the ramifications
+of your choices.  Include the following in your email:
 
-    **Registration request** to gpd@cs.luc.edu after the normal LOCUS
-    semester registration time limit and before the GSB registeration time
-    limit for Winter or Spring: 
+**Registration request** to gpd@cs.luc.edu after the normal LOCUS
+semester registration time limit and before the GSB registeration time
+limit for Winter or Spring: 
 
-    #. Include a direct request like "Please register me for CSIS XXX
-       Section YYY for ZZZ Quarter." *not* an indirect question like "Would
-       it be OK if I register for....?"
-    #. Include your full name and Student ID number.
-    #. Explicitly acknowledge the drop deadlines and the timeframe and
-       manner you must notify us to get you dropped (as further discussed
-       below).   You could include something like "I know I must email you
-       with an explicit request to drop the course by XX/XX/XXXX if I want
-       no trace left for the course and by YY/YY/YYYY to avoid tuition, but
-       still get a W on my transcript."  The dates are publicized at the
-       `GSB web site <http://www.luc.edu/quinlan/mba/mba-chicago/index.shtml>`_. 
-       We will try to include them also on our course web pages for Winter
-       and Spring Quarters.
+#. Include a direct request like "Please register me for CSIS XXX
+   Section YYY for ZZZ Quarter." *not* an indirect question like "Would
+   it be OK if I register for....?"
+#. Include your full name and Student ID number.
+#. Explicitly acknowledge the drop deadlines and the timeframe and
+   manner you must notify us to get you dropped (as further discussed
+   below).   You could include something like "I know I must email you
+   with an explicit request to drop the course by XX/XX/XXXX if I want
+   no trace left for the course and by YY/YY/YYYY to avoid tuition, but
+   still get a W on my transcript."  The dates are publicized at the
+   `GSB web site <http://www.luc.edu/quinlan/mba/mba-chicago/index.shtml>`_. 
+   We will try to include them also on our course web pages for Winter
+   and Spring Quarters.
 
-    **Drop requests** after the normal LOCUS semester drop/add time limit,
-    but inside the limits set by the Graduate School of Business:
+**Drop requests** after the normal LOCUS semester drop/add time limit,
+but inside the limits set by the Graduate School of Business:
 
-    #. Within the limits set by the GSB, make the drop in Locus.  This will
-       drop you and note the time of your decision.
-    #. Email gpd@cs.luc.edu and explain when you dropped what exact course,
-       and ask us to backdate the withdrawal to make up for LOCUS's
-       incorrect understanding of dates.
-    #. Include your full name and Student ID number.
+#. Within the limits set by the GSB, make the drop in Locus.  This will
+   drop you and note the time of your decision.
+#. Email gpd@cs.luc.edu and explain when you dropped what exact course,
+   and ask us to backdate the withdrawal to make up for LOCUS's
+   incorrect understanding of dates.
+#. Include your full name and Student ID number.
 
-    The time of dropping the course is crucial in determining its effect. 
-    Be aware of the GSB deadlines for getting the course dropped with no
-    trace and the later deadline for avoiding  tuition.  We will be correct
-    things if you are before the GSB deadlines.  See below under Dropping a
-    Course for further discussion of the categories. 
+The time of dropping the course is crucial in determining its effect. 
+Be aware of the GSB deadlines for getting the course dropped with no
+trace and the later deadline for avoiding  tuition.  We will be correct
+things if you are before the GSB deadlines.  See below under Dropping a
+Course for further discussion of the categories. 
 
 .. index:: graduation
 
@@ -335,11 +319,9 @@ of your degree will be **postponed**. I will not be able to appeal
 this for you.  Note that there are only graduation *ceremonies* in May.
 
 **Deadlines**: December 1 for Spring, February 1 for Summer graduation, August 1 for
-Fall graduation.  See the discussion of ceremonies below if you want to
+Fall graduation.  
+See the discussion of ceremonies below if you want to
 participate in a graduation ceremony and you graduate in Summer or Fall.
-
-.. FIX ?? 
-   still this kludgy?
 
 **Procedure**:
 
@@ -359,10 +341,10 @@ for Fall graduation, since Winter Quarter courses are listed under Fall
 semester in LOCUS.  Of course you will not really graduate until after
 Winter Quarter courses end in February.
 
-**Graduation Ceremonies only in May**:  If you have only *one* course left
+**Graduation Ceremonies are only in May**:  If you have only *one* course left
 for summer, you can ask to participate in the *previous* May
 graduation.  This one course can be 490/499 for more than 3 credits.
-To do you must apply by the deadline listed above and
+To do this you must apply by the deadline listed above and
 promptly email the GPD, asking for approval to walk in the May
 ceremony.  If you graduate in the Summer or Fall, you can choose to
 return to participate in the *following* May graduation ceremony
@@ -382,12 +364,6 @@ graduate. If you need to interrupt your studies before that, the Graduate
 School requires that you apply for a leave of
 absence through the gsps system, under student forms in
 https://gsps.luc.edu/. 
-
-.. what true now?
-    There is no direct penalty for forgetting notification, but it helps
-    the department to know what is going on. 
-
-    Whether or not you file a Leave of Absence form, you 
 
 You
 will need

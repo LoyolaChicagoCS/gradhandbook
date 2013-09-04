@@ -13,12 +13,14 @@ Source
 The Graduate Handbook is written using the incredible `Sphinx <http://sphinx-doc.org/>`_ 
 documentation tools from the `Python <http://python.org>`_ community.
 
-You can view the source code and changelog at https://bitbucket.org/loyolachicagocs/gradhandbook.
+You can view the source code and changelog at 
+https://bitbucket.org/loyolachicagocs/gradhandbook.
 
 Other Formats
 --------------------------------------
 
-We also provide the following formats for offline reading:
+In addition to the html version on the server, http://gradhandbook.cs.luc.edu,
+we also provide the following formats for offline reading:
 
 - `PDF <http://gradhandbook.cs.luc.edu/latex/LoyolaComputerScienceGradHandbook.pdf>`_ 
   for printing or desktop reading
@@ -26,6 +28,7 @@ We also provide the following formats for offline reading:
   (for e-reading devices, e.g. e-readers, tablets, or Adobe Digital Editions on desktop)
 - `HTML <http://gradhandbook.cs.luc.edu/HandbookHtml.zip>`_,
   a zip file of the html version on the web:  
-  The advantage of the version on the server is that the search function works there
-  and *not* in a local file copy.
+  This allows the html version to be used when there is not an Internet link,
+  but the disadvantage is that the global search function does *not* work 
+  on a local file copy.
 
