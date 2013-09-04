@@ -3,10 +3,15 @@ General Information
 
 This is the handbook for students in graduate programs in the Computer Science Department
 of Loyola University
-Chicago. 
+Chicago.  This document covers specific
+policies of the Computer Science Department and makes reference to some of the most 
+important governing  policies and procedure of the Graduate School, 
+http://www.luc.edu/gradschool/academics_policies.shtml,
+but this Computer Science Handbook 
+*does not attempt to duplicate the statement of all Graduate School policies*.
 
-If you are looking at an html version with a blue left-side frame, you can click on its
-margin to hide it.  If you want another format, see :ref:`download_other_formats`.
+If you want another format of this document (html, pdf, ebook), 
+see :ref:`download_other_formats`.
 
 .. index:: personnel
 
@@ -54,9 +59,9 @@ Graduate Program Director
 --------------------------
 
 Regardless of the MS program in which you're enrolled, 
-your main adviser will be the  Graduate Program Director (abbreviated GPD). 
+your main adviser will be the  Graduate Program Director (abbreviated **GPD**). 
 The current director is Dr. Andrew N. Harrington. 
-You are expected to confer with him regularly about your initial course of study 
+You are expected to confer with him about your initial course of study 
 in pursuit of your degree. You should be assigned an advisor for later semesters.
 You are encouraged to meet with the Director at other times as well to discuss 
 your progress in the program and your future plans. 
@@ -79,7 +84,7 @@ and student status by the Committee on Graduate Programs.
    	"Andrew N. Harrington", "Associate Professor, Graduate Program Director", "http://anh.cs.luc.edu/"
    	"George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
    	"Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
-   	"William L. Honig", "Associate Professor", "http://people.cs.luc.edu/wlhonig"
+   	
 
 The faculty members of the Committee also serve as jury for various departmental awards.
 
@@ -159,17 +164,6 @@ the Department requires that you have taken a wide range of challenging courses,
 especially in foundational areas such as algorithms, languages, systems, 
 and software engineering with a solid record of achievement in all. 
 
-.. FIX  ??
-    The department chair, in consultation with the Director of Graduate Programs, 
-    assigns all classes. Funded students will be assigned classes routinely; 
-    unfunded students should apply directly to the department chair. 
-    The chairperson will invite applications for a limited number of summer 
-    teaching opportunities. The criteria used to assign summer classes to graduate 
-    students include: experience and proven success in the classroom; 
-    good progress toward the degree; preparedness to teach the courses available; 
-    and previous summer teaching (in an effort to distribute summer courses fairly). 
-    Contact the department chairperson for further information.
-
 .. index:: summer sessions
 
 Summer Sessions
@@ -241,18 +235,6 @@ as potential publications, possibly even as publications targeted to a particula
 In developing a paper for publication, students are of course well advised to work 
 closely with their seminar instructors or faculty mentors. 
 
-
-.. english
-
-    to review the MLA Directory of Periodicals in order to learn what different 
-    journals expect or demand; and 
-    3) 
-    
-    In the recent past the Director of Graduate Programs and members of the graduate 
-    faculty have offered semester-long writing workshops for students writing for 
-    publication or writing their first conference presentations. 
-    You are advised to take advantage of such opportunities.
-
 .. index:: conference presentations
    travel funding
    
@@ -269,20 +251,6 @@ travel for the purpose of presenting papers or chairing sessions at conferences.
 Since funds are limited, students should apply immediately upon acceptance of their 
 papers or sessions. 
 (Forms are available at http://www.luc.edu/gradschool/servicesandresources_forms.shtml).
-
-.. english  
-    The Department supplements these funds when the Graduate School’s funds are exhausted 
-    or when a student is presenting a paper at a second conference within one academic year. 
-    (Department forms are available on the Graduate Programs website 
-    http://luc.edu/english/links.shtml.) 
-    The Department also has funding for attending summer seminars or conducting 
-    dissertation research at a research library outside Chicago. 
-    These are competitive awards offered each semester. 
-    The current subvention from the Graduate School for travel is $400. 
-    Departmental travel support, which is funded primarily from the 
-    EGSA Student Activities budget, is likely to provide a much lower level of 
-    sponsorship. Research awards are provided through the Department’s Gravett-Tuma fund 
-    and are around $500 (depending on the number of awards and the funds available).
 
 .. index:: Career Center
 
@@ -305,9 +273,6 @@ Department Awards
 
 Each year the Department recognizes exceptional graduate students in all of 
 our degree programs. Awards are given for academics and service. 
-
-.. true?
-   The Graduate Advisory Committee is responsible for selecting the award winners.
 
 .. todo::
 
