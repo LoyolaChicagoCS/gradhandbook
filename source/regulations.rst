@@ -255,7 +255,11 @@ Because Winter Quarter spans two semesters, it is very important to look
 at the Spring Semester schedule for COMP courses before registering for
 a Winter Quarter course.  Registration for a Winter Quarter course will
 make it impossible for you to register for a Spring Semester COMP course
-on the same night.
+on the same night.  Even if you check an early Spring Semester schedule
+before signing up for a Winter Quarter course, you run the risk of
+a later change to the Spring semester schedule creating a conflict.
+We make ever effort to keep the spring semester schedule stable, but 
+unexpected things can always come up.
 
 LOCUS lists CSIS courses as semester courses, so if you look at your
 current course list in October, you will see both Fall and Winter
@@ -291,6 +295,11 @@ limit for Winter or Spring: 
    `GSB web site <http://www.luc.edu/quinlan/mba/mba-chicago/index.shtml>`_. 
    We will try to include them also on our course web pages for Winter
    and Spring Quarters.
+#. It is also possible to request a swap for an already running course 
+   that will overlap the later starting course, if you got access to a
+   CSIS course opening after the normal drop deadline.  
+   Of course in this case your email needs to 
+   also clearly state the course you wish to swap out of.
 
 **Drop requests** after the normal LOCUS semester drop/add time limit,
 but inside the limits set by the Graduate School of Business:
@@ -307,6 +316,13 @@ Be aware of the GSB deadlines for getting the course dropped with no
 trace and the later deadline for avoiding  tuition.  We will be correct
 things if you are before the GSB deadlines.  See below under Dropping a
 Course for further discussion of the categories. 
+
+F-1 visa students  
+    If you are keeping 3 real Fall semester courses, 
+    and you add a winter quarter course, 
+    it can be counted for visa purposes as one of the 3 courses that you need 
+    for full-time status in spring.  
+    Check with the Office of International Programs for details.
 
 .. index:: graduation
 
