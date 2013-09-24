@@ -137,6 +137,9 @@ html_theme_options = {
     #
     # Note that this is served off CDN, so won't be available offline.
     'bootswatch_theme': "united",
+
+    'bootstrap_version' : "2"
+
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
