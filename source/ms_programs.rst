@@ -97,11 +97,74 @@ would be considering a PhD program at another institution.
 
 Students wishing to do a thesis should discuss this option as early as 
 possible with the GPD. 
-Regarding thesis procedures, see the Graduate School Catalog
-located here: http://www.luc.edu/gradschool/academics_policies.shtml
 
-.. the link on this page to gradcatalogs is broken
-    this is the next best page currently.
+Here is an outline of the formal steps required by the Graduate School:
+
+#.  Thesis/Dissertation Committee Recommendation
+
+    -  The first step in the thesis/dissertation process is forming a
+       committee. When you are ready to begin, you should consult both your
+       program's guidelines, and the Graduate School guidelines. For a
+       thesis, typically two faculty comprise the committee – one director,
+       one reader. When a student creates the committee on the gsps link
+       `https://gsps.luc.edu/ <https://gsps.luc.edu/>`_ an email will then
+       be sent to the director for approval and then the GPD.
+    -  You will receive an email if your committee is formally approved by
+       the Graduate School.
+
+    At least 50% of the committee must be comprised of Loyola graduate
+    faculty; the director of the committee must have full graduate faculty
+    status – see
+    http://www.luc.edu/gradschool/about\_facultystaff.shtml
+    for the current list of full members.
+
+#.  Ballot for the Approval of a Thesis/Dissertation Proposal
+
+    -  The second step in the thesis process is the writing of the proposal.
+       This proposal must be submitted to your committee for review and
+       defended by you.
+    -  If you are submitting your proposal to the Institutional Review Board
+       (IRB), you must have approval or exemption *before* the Graduate
+       School approves your proposal. You do not need to submit proof,
+       Graduate School will confirm. (This step is not common for Computer Science.)
+    -  Additionally, a simple one to two paragraph abstract must be included
+       in the proposal form on gsps.
+    -  You will get notified once all members of the committee and GPD
+       approve the proposal through gsps.
+    -  You are now ready to "conduct research" for the project. 
+    -  Typically you should give the committee three weeks to read the final
+       draft of the thesis before the defense date.
+
+#.  Ballot for Text and Oral Defense Form
+
+    -  Upon completion of your thesis, you will be required to formally
+       defend your research. For this requirement, you must download the
+       defense ballot
+       http://www.luc.edu/media/lucedu/gradschool/pdfs/T%20&%20D%20defense%20ballot--DB.pdf
+       and bring it with you to your defense. Your director and other
+       committee member(s) will sign the ballot – this ballot then needs to
+       go to the GPD for final approval. 
+    -  Once approved, the GPD will upload
+       the ballot in gsps for Graduate School approval. 
+    -  You will be notified
+       once the process is complete.
+  
+
+#.  Formatting the Thesis/Dissertation
+
+    -   Every thesis/dissertation needs to be formatted according to the rules
+        stated in the Graduate School's formatting manual
+        http://www.luc.edu/gradschool/formatting.shtml.
+    -   Format check is a required step; the deadlines, depending on the
+        conferral date, are posted on the Key Dates and Deadlines page on the
+        Graduate School website.  These deadlines are well before the end of the
+        semester - be sure to check and satisfy them.
+    -   Final Copy, both electronic and hard copies also have deadlines,
+        depending on the conferral date.
+
+To finish this process in two year of graduate study, 
+you should be actively looking for 
+an advisor and topic by your *second* semester.
 
 Pursuing Multiple MS Degrees
 -------------------------------
