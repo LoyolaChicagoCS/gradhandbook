@@ -6,6 +6,10 @@ Master of Science Programs
 MS in Computer Science
 ----------------------------
 
+This program is for students entering the program in Spring 2014 or later.
+If you were enrolled in the program prior to Spring 2014 you may use the older
+degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
+
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
 Other programs in the Computer Science Department with different foci are the
