@@ -1,9 +1,9 @@
 Master of Science Programs
 ======================================
 
-.. index::  Prerequisites
+.. index::  prerequisites
 
-.. _Prerequisites:
+.. _prerequisites:
 
 Prerequisites
 ---------------
@@ -17,12 +17,12 @@ These new courses allow you to gain prerequisite background in a more accelerate
 
 Please contact the Graduate Program Director with any questions at gpd@cs.luc.edu. 
 
-See also :ref:`Programming_Prerequisites` to get an idea of what sort of material you should know before taking graduate courses in our department.
+See also :ref:`programming_prerequisites` to get an idea of what sort of material you should know before taking graduate courses in our department.
 
 
-.. index:: Programming Prerequisites
+.. index:: programming prerequisites
 
-.. _Programming_Prerequisites:
+.. _programming_prerequisites:
 
 Programming Prerequisites
 ---------------------------
@@ -119,7 +119,7 @@ This program is for students entering the program in Spring 2014 or later.
 If you were enrolled in the program prior to Spring 2014 you may use the older
 degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
 
-Please see :ref:`Prerequisites` for the general prerequisites for our MS degree programs.
+Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
 
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
