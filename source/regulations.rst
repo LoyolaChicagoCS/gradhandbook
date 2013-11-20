@@ -388,10 +388,9 @@ to enroll before you can register for
 classes and resume study. See the address under :ref:`graduate-school-offices`.
 
 If you neglect to request a Leave, the return process is longer and less sure:  
-You need to fill out and send the filled out Reinstatement form
-(preferably an electronic scan)
-http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf.
-
+You need to fill out the Reinstatement form,
+http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf,
+and return it to the GPD (preferably as an emailed electronic scan).
 If this link changes, the form should still be listed on the Graduate School's 
 Forms web page.
 
