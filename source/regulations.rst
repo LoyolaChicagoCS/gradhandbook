@@ -381,7 +381,7 @@ School requires that you apply for a leave of
 absence through the gsps system, under student forms in
 https://gsps.luc.edu/. 
 
-After being OKed for a leave, you
+After being approved for a leave, you
 will need
 to notify the Associate Dean of the Graduate School of your intent
 to enroll before you can register for
