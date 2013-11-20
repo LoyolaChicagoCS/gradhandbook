@@ -381,11 +381,19 @@ School requires that you apply for a leave of
 absence through the gsps system, under student forms in
 https://gsps.luc.edu/. 
 
-You
+After being OKed for a leave, you
 will need
 to notify the Associate Dean of the Graduate School of your intent
 to enroll before you can register for
 classes and resume study. See the address under :ref:`graduate-school-offices`.
+
+If you neglect to request a Leave, the return process is longer and less sure:  
+You need to fill out and send the filled out Reinstatement form
+(preferably an electronic scan)
+http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf.
+
+If this link changes, the form should still be listed on the Graduate School's 
+Forms web page.
 
 .. index:: dropping a course
    tuition penalties
