@@ -292,7 +292,7 @@ limit for Winter or Spring: 
    with an explicit request to drop the course by XX/XX/XXXX if I want
    no trace left for the course and by YY/YY/YYYY to avoid tuition, but
    still get a W on my transcript."  The dates are publicized at the
-   `GSB web site <http://www.luc.edu/quinlan/mba/mba-chicago/index.shtml>`_. 
+   `Bursar's web site <http://www.luc.edu/bursar/withdraw_schedule.shtml#gsb>`_. 
    We will try to include them also on our course web pages for Winter
    and Spring Quarters.
 #. It is also possible to request a swap for an already running course 
