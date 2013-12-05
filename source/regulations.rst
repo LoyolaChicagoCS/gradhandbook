@@ -157,6 +157,12 @@ will write a few line email at the end of the time of the academic
 internship indicating your successful completion of all the hours
 required for the academic internship.
 
+**Service Internships**:  Though most students choose a well-paid internship,
+some choose an *unpaid* internship for a worthy, nonprofit cause.  
+In this case the tuition for the internship can be a burden.  Contact
+the GPD about whether your service may be such that the Dean would agree to
+waive tuition.  If possible, this should be clarified well in advance.
+
 .. index:: curricular practical training (CPT)
 
 .. _cpt:
