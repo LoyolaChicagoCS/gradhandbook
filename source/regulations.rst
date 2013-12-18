@@ -358,8 +358,8 @@ http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receiv
 In case the URL changes, it should be listed on the Graduate School Forms page under 
 Late Application for Graduation.
 
-If your last course is a CSIS course in Winter Quarter, still register
-for Fall graduation, since Winter Quarter courses are listed under Fall
+If your last course is a CSIS course in Winter Quarter, register
+for Spring graduation, even though Winter Quarter courses are listed under Fall
 semester in LOCUS.  Of course you will not really graduate until after
 Winter Quarter courses end in February.
 
