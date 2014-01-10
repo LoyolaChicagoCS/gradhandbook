@@ -131,8 +131,8 @@ job, contact the GPD and get your job description approved.  
 Internships are for 1-6 credits.  See
 :ref:`variable_credit_courses`.  
    
-Download, *read*, print, and fill out the 
-`MOU Form <https://luc.box.com/s/hvc5ix6wel50g4z2z53v>`_.  
+Download, *read*, print, fill out *both pages*, and return the 
+`MOU Form <https://luc.box.com/CS-Grad-Internship-MOU>`_.  
 Please read this carefully before asking questions of the GPD.
 It contains a description of the details of your academic requirements 
 for the course.  
@@ -149,7 +149,7 @@ not have it be an internship for academic credit, or you can have a job
 that goes on longer than an internship. Also if you are doing an
 academic internship, your job employer does not need to classify your
 position as "internship". If you are doing an academic internship, the
-`MOU <https://luc.box.com/s/hvc5ix6wel50g4z2z53v>`_
+`MOU <https://luc.box.com/CS-Grad-Internship-MOU>`_
 indicates only two small requirements for your employer during your
 time in the academic internship: The bulk of your duties must be
 related to doing computer science in the real world, and the supervisor
