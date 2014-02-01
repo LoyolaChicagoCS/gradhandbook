@@ -96,23 +96,36 @@ faculty member to supervise your project and have the faculty supervisor
 email the department secretary to register you. This does not generally make
 sense in your first semester but is possible in exceptional circumstances.
 It helps if you and the faculty member are familiar with each other.
-Take advantage of community events to meet and get to know faculty.
+Talk to your instructors outside of class, and 
+take advantage of community events to meet and get to know faculty!
+It is particularly helpful when you want to do something that the professor 
+already wants done.  At the other end of the spectrum, 
+a student might just propose something that sounds interesting 
+to a potential faculty supervisor who knows the student is self-motivated.  
+Or a project could end up somewhere in between: something the professor is 
+interested in, with a particular twist that appeals to the student....
 
-The typical approach is for the student to confirm the details of the
+The typical approach is for the student to meet with the faculty member 
+and then confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
-the exact course, semester and credit hours your have agreed on. The
+the exact *semester and credit hours* that your have agreed on. The
 supervisor then forwards the email with his or her approval to the
 department administration. These courses are for 1-6 credits. See the
 section below on variable hour courses. We rarely allow students to 
-take more than 6 total credits for the sum of Independent Study and Intersnhips but, 
-again, allow it in exceptional circumstances.
+take more than 6 total credits in their overall program
+for the sum of Independent Study and 
+Internships, but 
+do allow further high-level independent study in exceptional circumstances.
 
 In most cases, we recommend that you and your independent study advisor
-fill out a request for course title form, which is available at 
+fill out a *request for course title form*, which is available at 
 http://www.luc.edu/media/lucedu/gradschool/pdfs/Request%20for%20Course%20Title.pdf
 The Graduate
 Program Director must sign this form.  This is very useful when someone else
-is reading your transcript.
+is reading your transcript: Plain "Independent Study" on your transcript
+is totally uninformative!
+
+
 
 .. index:: internships Comp 499
    Comp 499 Internship
