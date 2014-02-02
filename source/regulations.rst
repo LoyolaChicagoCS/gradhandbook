@@ -110,7 +110,10 @@ and then confirm the details of the
 agreement in an email to the faculty supervisor, being sure to include
 the exact *semester and credit hours* that your have agreed on. The
 supervisor then forwards the email with his or her approval to the
-department administration. These courses are for 1-6 credits. See the
+*graduate secretary*, so she can register you. Your agreement does *not* go 
+to the GPD.
+
+These courses are for 1-6 credits. See the
 section below on variable hour courses. We rarely allow students to 
 take more than 6 total credits in their overall program
 for the sum of Independent Study and 
