@@ -347,6 +347,7 @@ F-1 visa students
     Check with the Office of International Programs for details.
 
 .. index:: graduation
+   deadline; for applying for graduation
 
 Graduation
 -----------------------------------------------------------
