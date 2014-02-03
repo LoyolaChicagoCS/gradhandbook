@@ -405,3 +405,4 @@ Normally it takes one to one-and-a-half years of full-time study to earn a
 MS in Computer Science, Software Engineering, or Information Technology from Loyola. 
 Students who attend part time must complete the program within five years. 
 This period may be extended only by special action of the Dean of the Graduate School.
+
