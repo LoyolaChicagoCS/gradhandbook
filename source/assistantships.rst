@@ -5,9 +5,9 @@ Teaching Assistantships
 ===========================
 
 Each year the Computer Science department offers a small number of graduate assistantships 
-for new and continuing students. Assistantships target students with exceptional 
+for new and continuing students. Assistantships are competitive and
+target students with exceptional 
 computing background, regardless of which degree you are pursuing.  
-You should therefore assume that assistantships are competitive. 
 Teaching-assistantship duties are assigned for up to 18 hours per week 
 in computer labs, in support of faculty research projects, 
 or in network or web support in the department.
@@ -38,10 +38,10 @@ maintain their academic and work standards.
 The aim is to announce the awards in early May for Fall, and November for Spring.
 
 New Student Requirements and Deadlines
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 * Have excellent undergraduate performance, including all MS prerequisites.
-* International students should have good TOEFL scores.
+* International students should have a strong TOEFL or IELTS score.
 * Submit excellent letters of recommendation for graduate admission.
 * Submit official GRE scores.
 * Have your application complete, with the request for a merit award,
@@ -52,16 +52,20 @@ New Student Requirements and Deadlines
   online form at a URL  
   emailed from the GPD. The form asks for more information
   to help the department choose awardees. Make sure in your application
-  you had an *email address that you check regularly*, or update
+  that you had an *email address that you check regularly*, or update
   your current email address with the GPD (gpd@cs.luc.edu).
 
 If you miss these deadlines you may apply in your first semester or later 
 as a *current* student.
 
 Current Student Requirements and Deadlines
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------
 
-Continuing students should get an 
+Continuing students' 
+*recent academic experience at Loyola* is
+the most important consideration in giving a new award.  
+
+Continuing students will get an 
 *emailed reminder to their Loyola address several weeks before the deadline*.  The
 reminder will include the URL for an online form to fill out as your application.
 Note that the deadlines are *earlier* than for just admitted students:
@@ -72,12 +76,8 @@ Note that the deadlines are *earlier* than for just admitted students:
 Students who have already been given an award for the upcoming semester should
 not fill out the form.
 
-Continuing students' 
-*recent academic experience at Loyola* is
-the most important consideration in giving a new award.  
-
 Possible English Exam Given By Loyola
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 Awardees who did not grow up in the US may be required by the Graduate
 School to take an extra English test on campus, even if they have other 
@@ -87,13 +87,12 @@ test will be required to take ESL, and pay the extra tuition.  The
 cost has generally been about the same as one regular graduate academic credit.
 
 Graduate School Policies
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 Further information about Graduate awards is at
 http://www.luc.edu/gradschool/FundingGrad.Education.shtml,
 including formal acceptance of awards, and details of stipend payment
 and tuition awards.
-
 
  
 Non-Departmental Financial Awards
