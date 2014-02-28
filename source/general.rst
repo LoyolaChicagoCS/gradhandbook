@@ -45,7 +45,7 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
    	:header: "Person", "Role", "Contact e-mail"
    	:widths: 15, 15, 15
 
-   	"Jessica Horowitz, PhD", "Assistant Dean", "jhorow@luc.edu"
+   	"Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
    	"Patricia Mooney Melvin, PhD", "Associate Dean", "pmooney@luc.edu"
    	"Samual Attoh, PhD", "Dean", "sattoh@luc.edu"
 

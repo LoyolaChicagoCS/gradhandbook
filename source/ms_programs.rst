@@ -112,6 +112,8 @@ List of top ten concepts you should understand at the end of COMP 170/ISOM 370, 
 
 .. index:: MS in Computer Science
 
+.. _ms_in_computer_science:
+
 MS in Computer Science
 ----------------------------
 
@@ -123,8 +125,7 @@ Please see :ref:`prerequisites` for the general prerequisites for our MS degree 
 
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
-Other programs in the Computer Science Department with different foci are the
-MS in Software Engineering and the MS in Information Technology.
+Other programs in the Computer Science Department with different foci are :ref:`ms_in_information_technology` and the :ref:`ms_in_software_engineering`.
 
 The program requires a total of ten courses (30 hours). 
 Students can receive up to two courses of transfer credit 
@@ -139,8 +140,8 @@ must choose to take 400-level courses that are not closely related to any
 Specifically with the MS in Computer Science, there is a :ref:`thesis_option`,
 described in its own section.
 
-Required Courses
-~~~~~~~~~~~~~~~~~~
+Required Courses (12 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following three courses are required by the program:
 
@@ -152,8 +153,8 @@ The Graduate Program Director may approve the replacement of
 Comp 413 by an additional course on the Restricted Electives list in cases 
 where the student's primary program focus is not on software development.
 
-Restricted Electives
-~~~~~~~~~~~~~~~~~~~~~~
+Restricted Electives (9 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 MS-CS students must also take three courses from the following list:
 
@@ -169,7 +170,7 @@ MS-CS students must also take three courses from the following list:
 * Comp 474: Software Engineering
 
 General Electives
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 The rest of the required 30 credits are free electives taken from courses
 at the level of 400 or above in COMP or CSIS.
@@ -178,44 +179,147 @@ MS-CS students may take up to a maximum of 6 hours of
 Comp 490: Independent Project and/or Comp 499: Internship.
 
 
-.. index:: MS in Software Engineering
-
-MS in Software Engineering
-----------------------------
-
-The MS in Software Engineering caters to students interested in software engineering 
-and also other contemporary topics of long-term value to the industry. 
-Most early careers in the industry are based on either software development 
-or managerial aspects of software development. 
-This degree places more weight on software development. 
-For those seeking a greater focus on managerial aspects, 
-we offer the M.S. in Information Technology (MS-IT) below.
-
-For details about this program, see http://luc.edu/cs/academics/graduateprograms/msse/.
-
 .. index::  MS in Information Technology
+
+.. _ms_in_information_technology:
 
 MS in Information Technology
 ------------------------------
 
-The Master of Science in Information Technology is designed for current and 
-aspiring professionals in charge of developing, implementing, operating, 
-and managing information systems in a variety of organizations. 
-Students in this program will gain a broad technical understanding 
-of current and emerging technologies in the industry, 
-a familiarity with systems engineering concepts, 
-and a solid foundation in net-centric computing. 
-They will also have a firm grasp of current and future effects of the 
-convergence of the telecommunications, media, and information technology sectors.
-Some of the courses can be taken online.
+Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
 
-.. true? dumped for now
-    All course work can be completed online, and the online program includes an 
-    intensive on-site immersion as a capstone.
+The Master of Science in Information Technology is designed for current and aspiring professionals in charge of developing, implementing, operating, and managing information systems in a variety of organizations. Students in this program will gain a broad technical understanding of current and emerging technologies in the industry, a familiarity with systems engineering concepts, and a solid foundation in net-centric computing. They will also have a firm grasp of current and future effects of the convergence of the telecommunications, media, and information technology sectors. All course work can be completed online, and the program includes an intensive on-site immersion as a capstone.
 
-For details about this program, see http://luc.edu/cs/academics/graduateprograms/msit/.
+To achieve depth, students must complete the following:
+
+*   One (1) required course addressing ethical and social issues in the computing field.
+*   Three (3) courses within one of the following tracks: Enterprise Information Management, Technology Management, Information Assurance, or Enterprise Networking. (The Enterprise Software Systems track is no longer offered as of summer 2011, and students interested in this area are encouraged to pursue an M.S. in Software Engineering.)
+*   Six (6) courses that do not need to be in any track:  All 400 level Computer Science courses 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+Note that you only need three courses in some track and have six free electives from any 400 level COMP or CSIS course. 
+
+Required Course (3 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 417: Ethical and Social Issues in Computing
+
+Tracks (9 credits)
+~~~~~~~~~~~~~~~~~~
+
+*   Three (3) courses from any one of the following Tracks must be taken.
+
+Enterprise Information Management (EIM) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 453: Database Programming
+*   CSIS 494: Data Mining
+*   CSIS 496: Systems Analysis and Design
+*   CSIS 796: Data Warehousing and Business Intelligence
+
+Technology Management (TM) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 477: IT Project Management / CSIS 484: Project Management
+*   CSIS 483: Management of Service Organizations
+*   CSIS 794: Managing Emerging Technologies
+*   CSIS 472: Organizational Change and Development
+*   CSIS 478: Team Management in Organizations
+
+Information Assurance (IA) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 431: Cryptography
+*   COMP 443: Computer Networks
+*   COMP 447: Intrusion Detection and Computer Forensics
+*   COMP 448: Network Security
+*   COMP 449: Wireless Systems and Security
+
+Enterprise Networking (EN) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 443: Computer Networks
+*   COMP 446: Telecommunications
+*   COMP 448: Network Security
+*   COMP 449: Wireless Systems and Security
+*   CSIS 591: International Telecommunications
+*   CSIS 793: Network Management
+
+General Electives (18 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is generally 6 three-credit courses. The courses do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
+
+
+.. index:: MS in Software Engineering
+
+.. _ms_in_software_engineering:
+
+MS in Software Engineering
+----------------------------
+
+This program is for students entering the program in Spring 2014 or later.
+If you were enrolled in the program prior to Spring 2014 you may use the older
+degree requirements located at http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
+
+Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
+
+The MS in Software Engineering caters to students interested in software engineering and also other contemporary topics of long-term value to the industry. Most early careers in the industry are based on either software development or managerial aspects of software development. This degree places more weight on software development. For those seeking a greater focus on managerial aspects, we offer the :ref:`ms_in_information_technology`.
+
+To achieve depth, students must complete the following:
+
+*   Two (2) required courses addressing ethical and social issues in the computing field and a firm base in object oriented programming.
+*   Three (3) courses from restricted categories to ensure a strong software engineering center, while still allowing a considerable flexibility of interests.
+*   Five (5) courses that do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+Required Courses (6 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 413: Intermediate Object-Oriented Development
+*   COMP 417: Social, Ethical and Legal Issues in Computing
+
+Required Electives (9 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MSSE students must take at least one course from the following Group 1 list (most of these courses require COMP 413 as a prerequisite):
+
+**Group 1**
+
+*   COMP 424: Client-Side Web Design
+*   COMP 433: Web Services Programming
+*   COMP 434: Enterprise Software Development
+*   COMP 437: Concurrent Programming
+*   COMP 439: Distributed Systems
+*   COMP 442: Server-Side Software Development
+*   COMP 460: Algorithms (exception to 413 prereq)
+*   COMP 471: Programming Languages
+*   COMP 473: Object-Oriented Programming
+*   COMP 474: Software Engineering (exception to 413 prereq)
+
+MSSE students must also take two additional courses from either the list above or the following Group 2 list:
+
+**Group 2**
+
+*   COMP 410: Operating Systems
+*   COMP 420: Software Systems Analysis
+*   COMP 436: Markup Languages
+*   COMP 437: Concurrent Programming
+*   COMP 441: Human-Computer Interface Design
+*   COMP 453: Database Programming
+*   COMP 464: High-Performance Computing
+
+If a student enters the program with an academic record of success in a course similar to Comp 413, or if the student can demonstrate programming experience with the concepts of Comp 413, then the Graduate Program Director may substitute for the Comp 413 requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
+
+The Computer Science department may declare that other courses (eg new courses and individual COMP 488: Topics in CS offerings) may count as members of either Group 1 or Group 2.
+
+General Electives (15 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is generally 5 three-credit courses. The courses do not need to be in any special group: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
+
 
 .. index:: MA in Digital Humanities
+
+.. _ma_in_digital_humanities:
 
 MA in Digital Humanities
 -----------------------------
