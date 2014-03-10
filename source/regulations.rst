@@ -391,6 +391,7 @@ return to participate in the *following* May graduation ceremony
 discussed above).
 
 .. index:: leave of absence
+   reinstatement form
 
 .. _leave_of_absence:
 
@@ -410,12 +411,20 @@ to notify the Associate Dean of the Graduate School of your intent
 to enroll before you can register for
 classes and resume study. See the address under :ref:`graduate-school-offices`.
 
-If you neglect to request a Leave, the return process is longer and less sure:  
-You need to fill out the Reinstatement form,
+If you *neglect to request a Leave*, 
+the return process is longer and less sure:  
+You need to fill out the **Reinstatement** form,
 http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf,
 and return it to the GPD (preferably as an emailed electronic scan).
-If this link changes, the form should still be listed on the Graduate School's 
-Forms web page.
+
+.. note::
+   Besides the reinstatement form itself being filled out you need to 
+   return a document with two other parts:
+   
+   * The reason for your absence.  (The form says reason for reinstatement -
+     but it means reason for absence.)
+   * Timeline to graduation:  When you plan to be back and when you plan
+     to finish.
 
 .. index:: dropping a course
    tuition penalties
