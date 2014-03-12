@@ -17,7 +17,7 @@ where Lewis Towers is labeled 6.
 The main department phone number is 312-915-7999.
 
 If you are not a current student, 
-tell security desk staff at the Lewis Towers front desk
+tell the Lewis Towers security desk staff
 that you are coming to see the Computer Science GPD. 
 Take the elevator to the 5th floor, turn left, 
 and go to Suite 520 at the end of the hall.
