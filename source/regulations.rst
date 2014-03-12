@@ -1,6 +1,13 @@
 Regulations and Procedures
 ================================
 
+This section covers specific
+policies of the Computer Science Department and makes reference to some of the most 
+important governing  policies and procedure of the Graduate School, 
+http://www.luc.edu/gradschool/academics_policies.shtml,
+but this Computer Science Handbook 
+*does not attempt to duplicate the statement of all Graduate School policies*.
+
 .. index:: course loads
    full-time
 
@@ -17,8 +24,8 @@ courses to hold a space in a course. Many of our courses fill up quickly, so you
 should only register for courses that you truly plan to complete.  No one is 
 allowed to take more than 12 credit hours in Fall or Spring.
 
-We encourage you to consider taking summer or online courses if you need to 
-complete your degree more quickly.
+This means most students finish the program in 16 months: Three fall/spring 
+semesters for 9 of the courses, and the intervening summer for one course.
 
 .. index:: registration
 
@@ -354,7 +361,7 @@ Graduation
 
 Degrees are conferred in May, August, and December.  You must apply
 for graduation **way in advance** of graduation or the official conferral
-of your degree will be **postponed**. I will not be able to appeal
+of your degree will be **postponed**. The GPD will not be able to appeal
 this for you.  Note that there are only graduation *ceremonies* in May.
 
 **Deadlines**: December 1 for Spring, February 1 for Summer graduation, August 1 for
@@ -422,7 +429,7 @@ and return it to the GPD (preferably as an emailed electronic scan).
    return a document with two other parts:
    
    * The reason for your absence.  (The form says reason for reinstatement -
-     but it means reason for absence.)
+     but it means reason for *absence*.)
    * Timeline to graduation:  When you plan to be back and when you plan
      to finish.
 
@@ -470,7 +477,9 @@ Changing your chosen MS Program
 It is easy to switch between our MS degree programs in the department. 
 Through the gsps system under student forms in
 https://gsps.luc.edu/, find Change in Degree Seeking.  You will need to
-include a statement about why you want to change the program.
+include a statement about why you want to change the program. 
+Do think carefully.  The Dean is less likely to approve a request to return
+to your original program! 
 
 .. index:: transfer of credit
 

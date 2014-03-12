@@ -1,3 +1,7 @@
+.. index:: MS programs
+
+.. _ms_programs:
+
 Master of Science Programs
 ======================================
 
@@ -8,78 +12,151 @@ Master of Science Programs
 Prerequisites
 ---------------
 
-Graduate students in the Computer Science, Software Engineering, and Information Technology Masters programs are expected to complete the equivalent of foundational first and second year courses in Computer Science prior to enrolling in graduate courses (with the exception of COMP 417: Social, Legal, and Ethical Issues in Computing). If you have been admitted to the program, the Graduate Program Director may ask you to take one or both of the following during your first semester of studies.
+Many of our best students in Information Technology and Software Engineering
+have transitioned from other fields.
 
-*  COMP 388: Foundations of Computer Science 1 (equivalent of COMP 163 and COMP 170)
-*  COMP 388: Foundations of Computer Science 2 (equivalent of COMP 264 and COMP 271)
+All students need the equivalent of Comp 170: Introductory Programming and
+Comp 271: Data Structures. The topics for these courses are outlined in
+:ref:`programming_prerequisites`.
+This knowledge is prerequisite to essentially all
+the graduate courses in the Computer Science Department, with the exception of 
+COMP 417: Social, Legal, and Ethical Issues in Computing.
 
-These new courses allow you to gain prerequisite background in a more accelerated format than previously required of our students and both are offered during evening hours (and eventually online). Please note that as these are prerequisite courses numbered below 400, they do not count toward your graduate degree completion. The Graduate Program Director will inform you whether you need to take these courses.
+Students in the Computer Science Graduate Program need the strongest preparation.
+Most will have an undergraduate degree or at least the first two years
+of foundational undergraduate courses.  This would include the addition of 
+equivalents of our
+Comp 163 (Discrete Structures) and
+264 (Computer Systems). 
+
+Software Engineering students are in the middle.   
+The background for the Computer Science student is helpful, but adept
+transitioning students may manage with the courses two basic courses 
+that the IT students need.
+
+You can handle prerequisites in a number of ways:
+
+#. Take them somewhere else (possibly cheaper and more convenient to your location, 
+   but possibly not as good or not covering mostly what we want)
+#. Take them at Loyola:  Take just the courses we want, with support of our faculty, 
+   giving you an opportunity to get into our community and build relationships 
+   with faculty and students.
+    
+   * This can be done before entering the Graduate program as a non-degree undergrad 
+     (cheaper undergraduate tuition).  
+   * Or you can do prep courses while taking some graduate courses that do not 
+     require the prerequisites. (faster full-time finish!)
+
+In fall or spring you have the opportunity to take a compressed intensive 
+sequence of prerequisites in one semester:  two 7-8 weeks courses in succession.  
+Comp 388 Foundations I+II.  These cover at least the content of Comp 170 and 271.
+You can be a full-time graduate student at the same 
+time by adding the required Comp 417 on Ethics and Social issues, 
+which has no prerequisite.  
+
+Dr. Harrington's free online text is used for Foundations I, 
+and it assumes no background.  
+It has the full contact hours of a regular 15 week course, but in 7-8 weeks.  
+You are welcomed to look at or independently use the materials on the course web site 
+http://anh.cs.luc.edu/388Intro, including the text and videos linked there.  
+Starting to look early is advised, since 6 1/4 hours of class a week and 
+all the work that goes with it does require some dedication!   
+Some of the transitioning students with full-time jobs have found this to be 
+*too much* to take on even as their *only* course.
+
+For students with a fairly pure humanities background, 
+and very little sequential symbolic experience, 
+you may want to take a slower approach through traditional undergraduate courses, 
+but this will slow you down by at least an extra semester.
 
 Please contact the Graduate Program Director with any questions at gpd@cs.luc.edu. 
 
-See also :ref:`programming_prerequisites` to get an idea of what sort of material you should know before taking graduate courses in our department.
+See also :ref:`programming_prerequisites` to get an idea of what sort 
+of material you should know before taking graduate courses in our department.
 
 
 .. index:: programming prerequisites
 
 .. _programming_prerequisites:
 
-Programming Prerequisites
----------------------------
+Two Basic Programming Prerequisites
+------------------------------------
 
-The descriptions below are for the courses at Loyola. If you took these subjects elsewhere, you are not likely to have the exact same collection of topics, but if you are close, there should not be much problem filling holes as needed.
+Knowledge of the content below is prerequisite for almost all 
+of the graduate courses in the Computer Science Department.
+
+The descriptions below are for the courses at Loyola. 
+If you took these subjects elsewhere, you are not likely to have the exact 
+same collection of topics, but if you are close, 
+there should not be much problem filling holes as needed.
 
 **Expectations from COMP 170/ISOM 370**
 
-List of top ten concepts you should understand at the end of COMP 170/ISOM 370, Introductory Object Oriented Programming (in Java, C#, or a similar):
+List of top ten concepts you should understand at the end of COMP 170/ISOM 370, 
+Introductory Object Oriented Programming (in Java, C#, or a similar):
 
 #. Be able to distinguish between class and instance
 
-   *   Class is abstract representation or model (class aka type, abstract type, factory for objects). Class has field definitions (or attribute definitions) and operations (or methods) to implement its behaviors.
-   *   Instance (aka class instance, variable) is an actual, specific, concrete thing and has specific field values (or attribute values).
+   *   Class is abstract representation or model (class aka type, abstract type, 
+       factory for objects). Class has field definitions (or attribute definitions) 
+       and operations (or methods) to implement its behaviors.
+   *   Instance (aka class instance, variable) is an actual, specific, 
+       concrete thing and has specific field values (or attribute values).
    *   All instances of a class share the same operations and attribute definitions.
 
 #. Know syntax rules and coding style
 
-   *   Learn the basic picky rules of Java syntax and use them correctly. Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); distinguish declarations and executable statements.
+   *   Learn the basic picky rules of Java syntax and use them correctly. 
+       Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); 
+       distinguish declarations and executable statements.
    *   Format code readably according to agreed upon style.
 
 #. Use conditional control structures fully and correctly
 
-   *   Construct programs with “if….then”, and “if….then…else”. Understand nesting of control statements and blocks ( “{“ and “}”).
+   *   Construct programs with “if….then”, and “if….then…else”. 
+       Understand nesting of control statements and blocks ( “{“ and “}”).
    *   Briefly, “Nesting, blocks, no dangles”.
 
 #. Construct loops with control structures
 
-   *   Use “while”, “do”, and “for” control structures to implement algorithms successfully.
+   *   Use “while”, “do”, and “for” control structures to 
+       implement algorithms successfully.
    *   Briefly, “avoid never ending loops, avoid off-by-one problems”
 
 #. Use the primitive types and operators appropriately
 
    *   Understand the use and limitations of the primitive Java types.
-   *   Know the most useful arithmetic, relational, and logical operators and use them in expressions, with parentheses when necessary.
+   *   Know the most useful arithmetic, relational, and logical operators 
+       and use them in expressions, with parentheses when necessary.
 
 #. Lean how to create good OO encapsulation
 
-   *   Achieve a deep understanding of the proper use of the access modifiers “private”, and “public”.
+   *   Achieve a deep understanding of the proper use of the access modifiers 
+       “private”, and “public”.
    *   Be able to design well structured classes.
    *   Know when and how to use “static”.
 
 #. Construct and understand methods fully
 
    *   Define and use methods, including formal parameters and return values.
-   *   Distinguish between formal parameters (aka parameters) and arguments in the call to a method.
-   *   Comprehend scope and lifetime of objects. Understand visibility of objects and how to implement finding the right object at the necessary time.
-   *   Know how to ask a particular instance of a class to do something. Know how to construct associations between classes.
+   *   Distinguish between formal parameters (aka parameters) and arguments 
+       in the call to a method.
+   *   Comprehend scope and lifetime of objects. Understand visibility of 
+       objects and how to implement finding the right object at the necessary time.
+   *   Know how to ask a particular instance of a class to do something. 
+       Know how to construct associations between classes.
    *   Understand what is happening is a nested stack of method calls.
 
 #. Be knowledgeable about important library container classes and arrays
 
-   *   Be able to declare and use containers like ArrayList and arrays. Understand how to find things in containers and arrays. Use index variables effectively.
+   *   Be able to declare and use containers like ArrayList and arrays. 
+       Understand how to find things in containers and arrays. 
+       Use index variables effectively.
 
 #. Perform simple input/output processing
 
-   *   Lean how to do basic input and output statements with an interactive user and with files. Be able to work with Strings.
+   *   Lean how to do basic input and output statements with an interactive user 
+       and with files. Be able to work with Strings.
 
 #. Understand OO Interfaces
 
@@ -91,24 +168,33 @@ List of top ten concepts you should understand at the end of COMP 170/ISOM 370, 
 
    *   Be able to write interface/abstract classes and implementations of data structures.
    *   Understand subclassing mechanisms.
-   *   Understand overloading, overriding, dynamic binding, boxing and unboxing in OOP languages.
+   *   Understand overloading, overriding, dynamic binding, 
+       boxing and unboxing in OOP languages.
 
 #. Mathematical context
 
-   *   Big-Oh notation, worst-case run time complexity and storage complexity of algorithms.
+   *   Big-Oh notation, worst-case run time complexity and 
+       storage complexity of algorithms.
    *   Be able to do performance analysis of code using big-Oh.
 
 #. Data structures
 
-   *   Know and be able to use and implement abstract data types such as stacks, arraylists, vectors, queues, linked lists, hash tables, and hash sets.
-   *   Understand the time complexities of operations such as insert, delete, add, retrieve, on the above data structures and be able to obtain time complexities of other operations on similar, simple data structures.
+   *   Know and be able to use and implement abstract data types such as stacks, 
+       arraylists, vectors, queues, linked lists, hash tables, and hash sets.
+   *   Understand the time complexities of operations such as insert, delete, 
+       add, retrieve, on the above data structures and be able to obtain 
+       time complexities of other operations on similar, simple data structures.
    *   Knowledge of hash functions, trees, graphs, and two dimensional arrays.
-   *   Knowledge of algorithms for problems including searching, and sorting (Quicksort, Mergesort, Heapsort etc.), string manipulations.
+   *   Knowledge of algorithms for problems including searching, 
+       and sorting (Quicksort, Mergesort, Heapsort etc.), string manipulations.
 
 #. Core programming language concepts
 
-   *   Knowledge of programming language storage paradigms such as static, stack, and heap.
+   *   Knowledge of programming language storage paradigms such as static, 
+       stack, and heap.
    *   Be able to understand and use recursion in various problems.
+
+
 
 .. index:: MS in Computer Science
 
@@ -125,7 +211,8 @@ Please see :ref:`prerequisites` for the general prerequisites for our MS degree 
 
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
-Other programs in the Computer Science Department with different foci are :ref:`ms_in_information_technology` and the :ref:`ms_in_software_engineering`.
+Other programs in the Computer Science Department with different foci are 
+:ref:`ms_in_information_technology` and the :ref:`ms_in_software_engineering`.
 
 The program requires a total of ten courses (30 hours). 
 Students can receive up to two courses of transfer credit 
@@ -137,8 +224,6 @@ e.g. Comp 443 and 343. Students who enter the MS program with a Loyola BS degree
 must choose to take 400-level courses that are not closely related to any 
 300-level courses taken earlier.
 
-Specifically with the MS in Computer Science, there is a :ref:`thesis_option`,
-described in its own section.
 
 Required Courses (12 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -178,183 +263,12 @@ at the level of 400 or above in COMP or CSIS.
 MS-CS students may take up to a maximum of 6 hours of 
 Comp 490: Independent Project and/or Comp 499: Internship.
 
-
-.. index::  MS in Information Technology
-
-.. _ms_in_information_technology:
-
-MS in Information Technology
-------------------------------
-
-Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
-
-The Master of Science in Information Technology is designed for current and aspiring professionals in charge of developing, implementing, operating, and managing information systems in a variety of organizations. Students in this program will gain a broad technical understanding of current and emerging technologies in the industry, a familiarity with systems engineering concepts, and a solid foundation in net-centric computing. They will also have a firm grasp of current and future effects of the convergence of the telecommunications, media, and information technology sectors. All course work can be completed online, and the program includes an intensive on-site immersion as a capstone.
-
-To achieve depth, students must complete the following:
-
-*   One (1) required course addressing ethical and social issues in the computing field.
-*   Three (3) courses within one of the following tracks: Enterprise Information Management, Technology Management, Information Assurance, or Enterprise Networking. (The Enterprise Software Systems track is no longer offered as of summer 2011, and students interested in this area are encouraged to pursue an M.S. in Software Engineering.)
-*   Six (6) courses that do not need to be in any track:  All 400 level Computer Science courses 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
-
-Note that you only need three courses in some track and have six free electives from any 400 level COMP or CSIS course. 
-
-Required Course (3 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 417: Ethical and Social Issues in Computing
-
-Tracks (9 credits)
-~~~~~~~~~~~~~~~~~~
-
-*   Three (3) courses from any one of the following Tracks must be taken.
-
-Enterprise Information Management (EIM) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 453: Database Programming
-*   CSIS 494: Data Mining
-*   CSIS 496: Systems Analysis and Design
-*   CSIS 796: Data Warehousing and Business Intelligence
-
-Technology Management (TM) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 477: IT Project Management / CSIS 484: Project Management
-*   CSIS 483: Management of Service Organizations
-*   CSIS 794: Managing Emerging Technologies
-*   CSIS 472: Organizational Change and Development
-*   CSIS 478: Team Management in Organizations
-
-Information Assurance (IA) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 431: Cryptography
-*   COMP 443: Computer Networks
-*   COMP 447: Intrusion Detection and Computer Forensics
-*   COMP 448: Network Security
-*   COMP 449: Wireless Systems and Security
-
-Enterprise Networking (EN) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 443: Computer Networks
-*   COMP 446: Telecommunications
-*   COMP 448: Network Security
-*   COMP 449: Wireless Systems and Security
-*   CSIS 591: International Telecommunications
-*   CSIS 793: Network Management
-
-General Electives (18 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This is generally 6 three-credit courses. The courses do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
-
-
-.. index:: MS in Software Engineering
-
-.. _ms_in_software_engineering:
-
-MS in Software Engineering
-----------------------------
-
-This program is for students entering the program in Spring 2014 or later.
-If you were enrolled in the program prior to Spring 2014 you may use the older
-degree requirements located at http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
-
-Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
-
-The MS in Software Engineering caters to students interested in software engineering and also other contemporary topics of long-term value to the industry. Most early careers in the industry are based on either software development or managerial aspects of software development. This degree places more weight on software development. For those seeking a greater focus on managerial aspects, we offer the :ref:`ms_in_information_technology`.
-
-To achieve depth, students must complete the following:
-
-*   Two (2) required courses addressing ethical and social issues in the computing field and a firm base in object oriented programming.
-*   Three (3) courses from restricted categories to ensure a strong software engineering center, while still allowing a considerable flexibility of interests.
-*   Five (5) courses that do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
-
-Required Courses (6 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 413: Intermediate Object-Oriented Development
-*   COMP 417: Social, Ethical and Legal Issues in Computing
-
-Required Electives (9 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-MSSE students must take at least one course from the following Group 1 list (most of these courses require COMP 413 as a prerequisite):
-
-**Group 1**
-
-*   COMP 424: Client-Side Web Design
-*   COMP 433: Web Services Programming
-*   COMP 434: Enterprise Software Development
-*   COMP 437: Concurrent Programming
-*   COMP 439: Distributed Systems
-*   COMP 442: Server-Side Software Development
-*   COMP 460: Algorithms (exception to 413 prereq)
-*   COMP 471: Programming Languages
-*   COMP 473: Object-Oriented Programming
-*   COMP 474: Software Engineering (exception to 413 prereq)
-
-MSSE students must also take two additional courses from either the list above or the following Group 2 list:
-
-**Group 2**
-
-*   COMP 410: Operating Systems
-*   COMP 420: Software Systems Analysis
-*   COMP 436: Markup Languages
-*   COMP 437: Concurrent Programming
-*   COMP 441: Human-Computer Interface Design
-*   COMP 453: Database Programming
-*   COMP 464: High-Performance Computing
-
-If a student enters the program with an academic record of success in a course similar to Comp 413, or if the student can demonstrate programming experience with the concepts of Comp 413, then the Graduate Program Director may substitute for the Comp 413 requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
-
-The Computer Science department may declare that other courses (eg new courses and individual COMP 488: Topics in CS offerings) may count as members of either Group 1 or Group 2.
-
-General Electives (15 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This is generally 5 three-credit courses. The courses do not need to be in any special group: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
-
-
-.. index:: MA in Digital Humanities
-
-.. _ma_in_digital_humanities:
-
-MA in Digital Humanities
------------------------------
-
-The Computer Science department is a partner in the MA in Digital Humanities program. 
-While not a department-specific
-program, we encourage students with interdisciplinary interests at the 
-intersection of culture and technology to 
-consider this degree, which allows one to elect courses from the CS department.
-
-The Digital Humanities MA program at Loyola Unviersity's
-Center for Textual Studies and Digital Humanities (CTSDH) combines 
-theoretical and practical courses. 
-Its aims are ultimately practical and professional, 
-training new digital specialists for the growing knowledge and 
-information economy and today's research in humanities disciplines. 
-Because the nature of much Digital Humanities work is constructive and project-based, 
-students in the M.A. program will be given hands-on training in workshop 
-or seminar-based classes, training in text editing and text encoding, 
-electronic publishing and platforms, programming, interface design, project management, 
-and archive construction. At every stage, 
-team-based collaborative learning will be encouraged, in class projects, 
-for example, and potentially in the required electronic thesis project. 
-But the MA program also explores theoretical, critical, social, 
-and ethical contexts for thinking about Digital Humanities research and applications, 
-including issues of intellectual property, data and privacy, public access and preservation. 
-
-For details about this program, see http://www.luc.edu/ctsdh/academics/maindigitalhumanities/.
-
 .. index:: thesis option
 
 .. _thesis_option:
 
 Thesis Option
----------------------
+~~~~~~~~~~~~~~~~
 
 MS students in the Computer Science degree program may elect the MS thesis option.
 
@@ -480,6 +394,205 @@ are formal steps with documentation required by the Graduate School:
         semester - be sure to check and satisfy them.
     -   **Final Copy, both electronic and hard copies also have deadlines**,
         depending on the conferral date.
+
+
+
+.. index::  MS in Information Technology
+
+.. _ms_in_information_technology:
+
+MS in Information Technology
+------------------------------
+
+Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
+
+The Master of Science in Information Technology is designed for current and 
+aspiring professionals in charge of developing, implementing, operating, and 
+managing information systems in a variety of organizations. 
+Students in this program will gain a broad technical understanding of 
+current and emerging technologies in the industry, 
+a familiarity with systems engineering concepts, and a solid foundation in 
+net-centric computing. They will also have a firm grasp of current and 
+future effects of the convergence of the telecommunications, media, 
+and information technology sectors. 
+All course work can be completed online, 
+and the program includes an intensive on-site immersion as a capstone.
+
+To achieve depth, students must complete the following:
+
+*   One (1) required course addressing ethical and social issues in the computing field.
+*   Three (3) courses within one of the following tracks: 
+    Enterprise Information Management, Technology Management, 
+    Information Assurance, or Enterprise Networking. 
+*   Six (6) courses that do not need to be in any track:  
+    All 400 level Computer Science courses 400+ level CSIS courses 
+    (cross listed with the Business School) are allowed. 
+    There are also numerous options for independent study, 
+    including a programming project, research, or a service-oriented project.
+
+Note that you only need three courses in some track and have six free electives 
+from any 400 level COMP or CSIS course. 
+
+Required Course (3 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 417: Ethical and Social Issues in Computing
+
+Tracks (9 credits)
+~~~~~~~~~~~~~~~~~~
+
+*   Three (3) courses from any one of the following Tracks must be taken.
+
+Enterprise Information Management (EIM) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 453: Database Programming
+*   CSIS 494: Data Mining
+*   CSIS 496: Systems Analysis and Design
+*   CSIS 796: Data Warehousing and Business Intelligence
+
+Technology Management (TM) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 477: IT Project Management / CSIS 484: Project Management
+*   CSIS 483: Management of Service Organizations
+*   CSIS 794: Managing Emerging Technologies
+*   CSIS 472: Organizational Change and Development
+*   CSIS 478: Team Management in Organizations
+
+Information Assurance (IA) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 431: Cryptography
+*   COMP 443: Computer Networks
+*   COMP 447: Intrusion Detection and Computer Forensics
+*   COMP 448: Network Security
+*   COMP 449: Wireless Systems and Security
+
+Enterprise Networking (EN) Track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 443: Computer Networks
+*   COMP 446: Telecommunications
+*   COMP 448: Network Security
+*   COMP 449: Wireless Systems and Security
+*   CSIS 591: International Telecommunications
+*   CSIS 793: Network Management
+
+General Electives (18 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is generally 6 three-credit courses. The courses do not need to be in any track: 
+All 400 level Computer Science courses and 400+ level CSIS courses 
+(cross listed with the Business School) are allowed. 
+Electives may include up to 6 credits of 
+COMP 490: Independent Project and/or COMP 499: Internship.
+
+
+.. index:: MS in Software Engineering
+
+.. _ms_in_software_engineering:
+
+MS in Software Engineering
+----------------------------
+
+This program is for students entering the program in Spring 2014 or later.
+If you were enrolled in the program prior to Spring 2014 you may use the older
+degree requirements located at http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
+
+Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
+
+The MS in Software Engineering caters to students interested in software engineering 
+and also other contemporary topics of long-term value to the industry. 
+Most early careers in the industry are based on either software development or 
+managerial aspects of software development. 
+This degree places more weight on software development. 
+For those seeking a greater focus on managerial aspects, we offer the 
+:ref:`ms_in_information_technology`.
+
+To achieve depth, students must complete the following:
+
+*   Two (2) required courses addressing ethical and social issues in the computing field and a firm base in object oriented programming.
+*   Three (3) courses from restricted categories to ensure a strong software engineering center, while still allowing a considerable flexibility of interests.
+*   Five (5) courses that do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
+
+Required Courses (6 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*   COMP 413: Intermediate Object-Oriented Development
+*   COMP 417: Social, Ethical and Legal Issues in Computing
+
+Required Electives (9 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MSSE students must take at least one course from the following Group 1 list (most of these courses require COMP 413 as a prerequisite):
+
+**Group 1**
+
+*   COMP 424: Client-Side Web Design
+*   COMP 433: Web Services Programming
+*   COMP 434: Enterprise Software Development
+*   COMP 437: Concurrent Programming
+*   COMP 439: Distributed Systems
+*   COMP 442: Server-Side Software Development
+*   COMP 460: Algorithms (exception to 413 prereq)
+*   COMP 471: Programming Languages
+*   COMP 473: Object-Oriented Programming
+*   COMP 474: Software Engineering (exception to 413 prereq)
+
+MSSE students must also take two additional courses from either the list above or the following Group 2 list:
+
+**Group 2**
+
+*   COMP 410: Operating Systems
+*   COMP 420: Software Systems Analysis
+*   COMP 436: Markup Languages
+*   COMP 437: Concurrent Programming
+*   COMP 441: Human-Computer Interface Design
+*   COMP 453: Database Programming
+*   COMP 464: High-Performance Computing
+
+If a student enters the program with an academic record of success in a course similar to Comp 413, or if the student can demonstrate programming experience with the concepts of Comp 413, then the Graduate Program Director may substitute for the Comp 413 requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
+
+The Computer Science department may declare that other courses (eg new courses and individual COMP 488: Topics in CS offerings) may count as members of either Group 1 or Group 2.
+
+General Electives (15 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is generally 5 three-credit courses. The courses do not need to be in any special group: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
+
+
+.. index:: MA in Digital Humanities
+
+.. _ma_in_digital_humanities:
+
+MA in Digital Humanities
+-----------------------------
+
+The Computer Science department is a partner in the MA in Digital Humanities program. 
+While not a department-specific
+program, we encourage students with interdisciplinary interests at the 
+intersection of culture and technology to 
+consider this degree, which allows one to elect courses from the CS department.
+
+The Digital Humanities MA program at Loyola Unviersity's
+Center for Textual Studies and Digital Humanities (CTSDH) combines 
+theoretical and practical courses. 
+Its aims are ultimately practical and professional, 
+training new digital specialists for the growing knowledge and 
+information economy and today's research in humanities disciplines. 
+Because the nature of much Digital Humanities work is constructive and project-based, 
+students in the M.A. program will be given hands-on training in workshop 
+or seminar-based classes, training in text editing and text encoding, 
+electronic publishing and platforms, programming, interface design, project management, 
+and archive construction. At every stage, 
+team-based collaborative learning will be encouraged, in class projects, 
+for example, and potentially in the required electronic thesis project. 
+But the MA program also explores theoretical, critical, social, 
+and ethical contexts for thinking about Digital Humanities research and applications, 
+including issues of intellectual property, data and privacy, public access and preservation. 
+
+For details about this program, see http://www.luc.edu/ctsdh/academics/maindigitalhumanities/.
 
 
 Pursuing Multiple MS Degrees

@@ -8,17 +8,6 @@
 Download Other Formats
 =========================
 
-Source
---------------------------------------
-The Graduate Handbook is written using the incredible `Sphinx <http://sphinx-doc.org/>`_ 
-documentation tools from the `Python <http://python.org>`_ community.
-
-You can view the source code and changelog at 
-https://bitbucket.org/loyolachicagocs/gradhandbook.
-
-Other Formats
---------------------------------------
-
 In addition to the html version on the server, http://gradhandbook.cs.luc.edu,
 we also provide the following formats for offline reading:
 
@@ -32,3 +21,10 @@ we also provide the following formats for offline reading:
   but the disadvantage is that the global search function does *not* work 
   on a local file copy.
 
+All these different formats are generated using the incredible 
+`Sphinx <http://sphinx-doc.org/>`_ 
+documentation tools from the `Python <http://python.org>`_ community.
+
+You can view the source text files from which all versions are derived at 
+https://bitbucket.org/loyolachicagocs/gradhandbook.  The site also shows 
+a change log.
