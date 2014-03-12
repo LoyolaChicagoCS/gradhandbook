@@ -84,8 +84,8 @@ help bolster your admissions case.
 #.   Submit official transcripts of all undergraduate work and any 
      post-baccalaureate work still in sealed envelopes sent from the academic 
      institution. Do not open such envelopes yourself.  If you do not have
-     easy access to the sealed official documents, you can initially submit
-     copies for a conditional admission.
+     easy access to the sealed official documents, you can *initially* submit
+     copies for a *conditional* admission.
 #.   GRE scores are not required for admission. 
      If you choose to submit them, Loyola's institutional code is 1412; 
      the department code is not needed. 
@@ -105,7 +105,7 @@ help bolster your admissions case.
 Prospective International Graduate Students
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-US nationals having an American undergraduate Bachelor's degree should consult 
+US nationals having a US undergraduate Bachelor's degree should consult 
 :ref:`prospective_us_graduate_students`.
 
 For international student admission to the graduate degree program in the 
@@ -134,14 +134,14 @@ your admissions case.
      post-baccalaureate work still in sealed envelopes sent from the 
      academic institution. **Do not open such envelopes yourself**. 
      If you do not have
-     easy access to the sealed official documents, you can initially submit
-     copies for a conditional admission.
-     Students with transcripts issued by International universities or colleges 
-     must be evaluated by an outside evaluator for GPA calculation and 
+     easy access to the sealed official documents, you can *initially* submit
+     copies for a *conditional* admission.
+#.   Students with transcripts issued by International universities or colleges 
+     must be *evaluated* by an outside evaluator for GPA calculation and 
      determining if the degree is equivalent to an American Bachelor's degree: 
      Applicants may send international transcripts for a general evaluation 
      with **Grade Average** to `ECE <https://www.ece.org/>`_ 
-     for basic international evaluation and *allow 4-6 weeks* 
+     for international evaluation and *allow 4-6 weeks* 
      for them to evaluate transcripts and get the results to Loyola. 
      `Educational-Perspectives <http://edperspective.org/>`_ 
      can also be used as an alternative to ECE. No other transcript evaluation
@@ -164,13 +164,14 @@ your admissions case.
      then letters of recommendation from co-workers or 
      supervisors will be acceptable.
 #.   International students must also earn at least at least
-     79 on the internet-based test; or at least a 6.5 on the IELTS academic test. 
-     Loyola's institutional code for the TOEFL is 1412; 
+     79 on the internet-based TOEFL test; or at least a 6.5 on the IELTS academic test. 
+     Loyola's institutional code is 1412; 
      the department code is not needed. 
-     These *are* the cutoffs: 
-     *Do not request to be admitted with a lower score*, 
-     but you can *retake* an English exam as many times as you need 
+     
+     You can *retake* an English exam as many times as you need 
      to to get up to a passing grade. 
+     
+     *Do not request to be admitted with a lower score*. 
      Loyola has *no* program for conditional admission without the required
      score.
      
