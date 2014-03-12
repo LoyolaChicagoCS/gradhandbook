@@ -1,17 +1,26 @@
 General Information
 =============================
 
-This is the handbook for students in graduate programs in the Computer Science Department
-of Loyola University
-Chicago.  This document covers specific
-policies of the Computer Science Department and makes reference to some of the most 
-important governing  policies and procedure of the Graduate School, 
-http://www.luc.edu/gradschool/academics_policies.shtml,
-but this Computer Science Handbook 
-*does not attempt to duplicate the statement of all Graduate School policies*.
+.. index:: visit
+   location of department
+   
+.. _visit:
 
-If you want another format of this document (html, pdf, ebook), 
-see :ref:`download_other_formats`.
+Visit
+-------
+
+The Computer Science Department administrative offices are located in the
+Lewis Towers building, with entrance at 
+111 E. Pearson St.  General Loyola visitor information is at
+http://www.luc.edu/visit.shtml.  See the link to the Watertower campus map,
+where Lewis Towers is labeled 6.  
+The main department phone number is 312-915-7999.
+
+If you are not a current student, 
+tell security desk staff at the Lewis Towers front desk
+that you are coming to see the Computer Science GPD. 
+Take the elevator to the 5th floor, turn left, 
+and go to Suite 520 at the end of the hall.
 
 .. index:: personnel
 
@@ -38,7 +47,11 @@ The following folks are here to help you.
 Graduate School Offices
 --------------------------------------
 
-The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus. This office handles admissions and financial aid, and houses the permanent files of all students throughout their graduate careers. The phone number for the Graduate School is (773) 508-3396. 
+The main office of the Graduate School is on the fourth floor of the 
+Granada Center on the Lake Shore Campus. 
+This office handles admissions and financial aid, 
+and houses the permanent files of all students throughout their graduate careers. 
+The phone number for the Graduate School is (773) 508-3396. 
 
 
 .. csv-table:: Graduate School Personnel
@@ -50,7 +63,9 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
    	"Samual Attoh, PhD", "Dean", "sattoh@luc.edu"
 
 
-Dr. Patricia Mooney-Melvin, Associate Dean, and Jessica Horowitz, Assistant Dean, are your primary contacts for inquiries. We recommend that you contact the department faculty and
+Associate Deans Mooney-Melvin and Horowitz 
+are your primary contacts for inquiries. 
+We recommend that you contact the department faculty and
 staff first unless your matter absolutely requires Graduate School assistance.
 
 .. index:: Graduate Program Director - GPD
@@ -59,34 +74,33 @@ Graduate Program Director
 --------------------------
 
 Regardless of the MS program in which you're enrolled, 
-your main adviser will be the  Graduate Program Director (abbreviated **GPD**). 
+your first adviser will be the  Graduate Program Director (abbreviated **GPD**),
+gpd@cs.luc.edu. 
 The current director is Dr. Andrew N. Harrington. 
 You are expected to confer with him about your initial course of study 
 in pursuit of your degree. You should be assigned an advisor for later semesters.
 You are encouraged to meet with the Director at other times as well to discuss 
 your progress in the program and your future plans. 
 
-.. do it!
-   Beginning in Fall 2013, we will be assigning a department advisor to you. 
+..  need?
+    .. index:: committee on graduate programs
 
-.. index:: committee on graduate programs
+    Committee on Graduate Programs
+    --------------------------------------
 
-Committee on Graduate Programs
---------------------------------------
+    The Director is advised on all matters of policy, admissions, 
+    and student status by the Committee on Graduate Programs.
 
-The Director is advised on all matters of policy, admissions, 
-and student status by the Committee on Graduate Programs.
+    .. csv-table:: Graduate Advisory Committee
+        :header: "Person", "Role", "Page"
+        :widths: 15, 15, 15
 
-.. csv-table:: Graduate Advisory Committee
-   	:header: "Person", "Role", "Page"
-   	:widths: 15, 15, 15
+        "Andrew N. Harrington", "Associate Professor, Graduate Program Director", "http://anh.cs.luc.edu/"
+        "George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
+        "Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
+    
 
-   	"Andrew N. Harrington", "Associate Professor, Graduate Program Director", "http://anh.cs.luc.edu/"
-   	"George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
-   	"Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
-   	
-
-The faculty members of the Committee also serve as jury for various departmental awards.
+    The faculty members of the Committee also serve as jury for various departmental awards.
 
 .. index:: ID cards
 
