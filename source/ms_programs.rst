@@ -12,10 +12,8 @@ Master of Science Programs
 Prerequisites
 ---------------
 
-Many of our best students in Information Technology and Software Engineering
-have transitioned from other fields.
-
-All students need the equivalent of Comp 170: Introductory Programming and
+All students need the equivalent knowledge 
+of Comp 170: Introductory Programming and
 Comp 271: Data Structures. The topics for these courses are outlined in
 :ref:`programming_prerequisites`.
 This knowledge is prerequisite to essentially all
@@ -34,9 +32,13 @@ The background for the Computer Science student is helpful, but adept
 transitioning students may manage with the courses two basic courses 
 that the IT students need.
 
-You can handle prerequisites in a number of ways:
+Many of our best students in Information Technology and Software Engineering
+have transitioned from other fields.
 
-#. Take them somewhere else (possibly cheaper and more convenient to your location, 
+**You can handle missing prerequisite knowledge in a number of ways**:
+
+#. Take them somewhere else 
+   (possibly cheaper and more convenient to your location, 
    but possibly not as good or not covering mostly what we want)
 #. Take them at Loyola:  Take just the courses we want, with support of our faculty, 
    giving you an opportunity to get into our community and build relationships 
@@ -44,7 +46,7 @@ You can handle prerequisites in a number of ways:
     
    * This can be done before entering the Graduate program as a non-degree undergrad 
      (cheaper undergraduate tuition).  
-   * Or you can do prep courses while taking some graduate courses that do not 
+   * Or you can do prep courses while taking a graduate course that does not 
      require the prerequisites. (faster full-time finish!)
 
 In fall or spring you have the opportunity to take a compressed intensive 
@@ -85,15 +87,17 @@ Two Basic Programming Prerequisites
 Knowledge of the content below is prerequisite for almost all 
 of the graduate courses in the Computer Science Department.
 
-The descriptions below are for the courses at Loyola. 
+The descriptions below are for the courses at Loyola, in a 
+pretty standard introductory sequence.
 If you took these subjects elsewhere, you are not likely to have the exact 
 same collection of topics, but if you are close, 
-there should not be much problem filling holes as needed.
+there should not be much problem filling holes as needed. 
 
 **Expectations from COMP 170/ISOM 370**
 
 List of top ten concepts you should understand at the end of COMP 170/ISOM 370, 
-Introductory Object Oriented Programming (in Java, C#, or a similar):
+Introductory Object Oriented Programming (in Java, C#, C++ or a similar
+language):
 
 #. Be able to distinguish between class and instance
 
@@ -164,7 +168,7 @@ Introductory Object Oriented Programming (in Java, C#, or a similar):
  
 **Expectations from Data Structures, COMP 271**
 
-#. Java/OOP
+#. OOP
 
    *   Be able to write interface/abstract classes and implementations of data structures.
    *   Understand subclassing mechanisms.
