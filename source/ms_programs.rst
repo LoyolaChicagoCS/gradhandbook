@@ -25,7 +25,7 @@ Most will have an undergraduate degree or at least the first two years
 of foundational undergraduate courses.  This would include the addition of 
 equivalents of our
 Comp 163 (Discrete Structures) and
-264 (Computer Systems). 
+264 (Computer Systems) to the two courses already listed. 
 
 Software Engineering students are in the middle.   
 The background for the Computer Science student is helpful, but adept
@@ -198,6 +198,40 @@ language):
        stack, and heap.
    *   Be able to understand and use recursion in various problems.
 
+.. index:: common degree features
+
+.. _common_program_features:
+
+Common Program Features
+------------------------
+
+Make sure you have the previous section on :ref:`prerequisites`.
+
+Each program requires a total of 30 credit hours, generally 10 three-credit courses. 
+Students can receive up to 6 credit hours (replacing two of our courses) 
+for graduate work taken elsewhere: See :ref:`transfer_credit`. 
+
+**Students who have taken undergraduate Loyola classes**: 
+Many 400-level courses in the department have closely related 300-level analogues, 
+e.g. Comp 443 and 343. Students who enter the MS program after taking 
+a Loyola course in this category 
+must choose to take 400-level courses that are not closely related to any 
+300-level courses taken earlier, unless they have GPD permission.
+
+.. _general_electives:
+
+General Electives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+Each program allows electives for many of the credits.  For each
+program electives can be any COMP 400 level class or any CSIS class 
+(courses actually taught in the Business School).
+
+Students may take up to a maximum of 6 credit hours of 
+Comp 490: Independent Project and/or Comp 499: Internship.
+
+There are numerous options for independent study, 
+including a programming project, research, or a service-oriented project.
 
 
 .. index:: MS in Computer Science
@@ -211,25 +245,20 @@ This program is for students entering the program in Spring 2014 or later.
 If you were enrolled in the program prior to Spring 2014 you may use the older
 degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
 
-Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
-
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
 Other programs in the Computer Science Department with different foci are 
 :ref:`ms_in_information_technology` and the :ref:`ms_in_software_engineering`.
 
-The program requires a total of ten courses (30 hours). 
-Students can receive up to two courses of transfer credit 
-for graduate work taken elsewhere, 
-in accordance with the applicable rules of the Graduate School.
+Make sure you have read :ref:`common_program_features`.
 
-Many 400-level courses in the department have closely related 300-level analogues, 
-e.g. Comp 443 and 343. Students who enter the MS program with a Loyola BS degree 
-must choose to take 400-level courses that are not closely related to any 
-300-level courses taken earlier.
+In summary, to achieve depth and breadth, students must complete the following:
 
+*   Three (3) required courses.
+*   Three (3) restricted electives. 
+*   Four (4) courses or 12 credits that are :ref:`general_electives`.
 
-Required Courses (12 credits)
+Required Courses (9 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following three courses are required by the program:
@@ -258,14 +287,6 @@ MS-CS students must also take three courses from the following list:
 * Comp 473: Object-Oriented Programming
 * Comp 474: Software Engineering
 
-General Electives
-~~~~~~~~~~~~~~~~~
-
-The rest of the required 30 credits are free electives taken from courses
-at the level of 400 or above in COMP or CSIS.
-
-MS-CS students may take up to a maximum of 6 hours of 
-Comp 490: Independent Project and/or Comp 499: Internship.
 
 .. index:: thesis option
 
@@ -408,8 +429,6 @@ are formal steps with documentation required by the Graduate School:
 MS in Information Technology
 ------------------------------
 
-Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
-
 The Master of Science in Information Technology is designed for current and 
 aspiring professionals in charge of developing, implementing, operating, and 
 managing information systems in a variety of organizations. 
@@ -419,23 +438,29 @@ a familiarity with systems engineering concepts, and a solid foundation in
 net-centric computing. They will also have a firm grasp of current and 
 future effects of the convergence of the telecommunications, media, 
 and information technology sectors. 
-All course work can be completed online, 
-and the program includes an intensive on-site immersion as a capstone.
 
-To achieve depth, students must complete the following:
+While mixing in 
+A significant portion of the program is available online, and more courses
+are being added.
+
+.. when?
+
+   All course work can be completed online, 
+   and the program includes an intensive on-site immersion as a capstone.
+
+Make sure you have read :ref:`common_program_features`.
+
+In summary, to achieve depth and breadth, students must complete the following:
 
 *   One (1) required course addressing ethical and social issues in the computing field.
-*   Three (3) courses within one of the following tracks: 
+*   Three (3) courses within *one* of the following tracks: 
     Enterprise Information Management, Technology Management, 
     Information Assurance, or Enterprise Networking. 
-*   Six (6) courses that do not need to be in any track:  
-    All 400 level Computer Science courses 400+ level CSIS courses 
-    (cross listed with the Business School) are allowed. 
-    There are also numerous options for independent study, 
-    including a programming project, research, or a service-oriented project.
-
-Note that you only need three courses in some track and have six free electives 
-from any 400 level COMP or CSIS course. 
+*   Six (6) courses or 18 credits that do not need to be in any track.  They
+    can be any course in the :ref:`general_electives`.  
+    
+Note that you only need three courses in *some* track. There is no need to
+satisfy more than one track. 
 
 Required Course (3 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -445,53 +470,35 @@ Required Course (3 credits)
 Tracks (9 credits)
 ~~~~~~~~~~~~~~~~~~
 
-*   Three (3) courses from any one of the following Tracks must be taken.
+*   Three (3) courses from any *one* of the following Tracks must be taken.
 
 Enterprise Information Management (EIM) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 453: Database Programming
-*   CSIS 494: Data Mining
-*   CSIS 496: Systems Analysis and Design
-*   CSIS 796: Data Warehousing and Business Intelligence
+    *   COMP 453: Database Programming
+    *   CSIS 494: Data Mining
+    *   CSIS 496: Systems Analysis and Design
+    *   CSIS 796: Data Warehousing and Business Intelligence
 
 Technology Management (TM) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 477: IT Project Management / CSIS 484: Project Management
-*   CSIS 483: Management of Service Organizations
-*   CSIS 794: Managing Emerging Technologies
-*   CSIS 472: Organizational Change and Development
-*   CSIS 478: Team Management in Organizations
+    *   COMP 477: IT Project Management / CSIS 484: Project Management
+    *   CSIS 483: Management of Service Organizations
+    *   CSIS 794: Managing Emerging Technologies
+    *   CSIS 472: Organizational Change and Development
+    *   CSIS 478: Team Management in Organizations
 
 Information Assurance (IA) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 431: Cryptography
-*   COMP 443: Computer Networks
-*   COMP 447: Intrusion Detection and Computer Forensics
-*   COMP 448: Network Security
-*   COMP 449: Wireless Systems and Security
+    *   COMP 431: Cryptography
+    *   COMP 443: Computer Networks
+    *   COMP 447: Intrusion Detection and Computer Forensics
+    *   COMP 448: Network Security
+    *   COMP 449: Wireless Systems and Security
 
 Enterprise Networking (EN) Track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*   COMP 443: Computer Networks
-*   COMP 446: Telecommunications
-*   COMP 448: Network Security
-*   COMP 449: Wireless Systems and Security
-*   CSIS 591: International Telecommunications
-*   CSIS 793: Network Management
-
-General Electives (18 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This is generally 6 three-credit courses. The courses do not need to be in any track: 
-All 400 level Computer Science courses and 400+ level CSIS courses 
-(cross listed with the Business School) are allowed. 
-Electives may include up to 6 credits of 
-COMP 490: Independent Project and/or COMP 499: Internship.
-
+    *   COMP 443: Computer Networks
+    *   COMP 446: Telecommunications
+    *   COMP 448: Network Security
+    *   COMP 449: Wireless Systems and Security
+    *   CSIS 591: International Telecommunications
+    *   COMP 451 or CSIS 793: Network Management
 
 .. index:: MS in Software Engineering
 
@@ -502,9 +509,8 @@ MS in Software Engineering
 
 This program is for students entering the program in Spring 2014 or later.
 If you were enrolled in the program prior to Spring 2014 you may use the older
-degree requirements located at http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
-
-Please see :ref:`prerequisites` for the general prerequisites for our MS degree programs.
+degree requirements located at 
+http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
 
 The MS in Software Engineering caters to students interested in software engineering 
 and also other contemporary topics of long-term value to the industry. 
@@ -514,11 +520,16 @@ This degree places more weight on software development.
 For those seeking a greater focus on managerial aspects, we offer the 
 :ref:`ms_in_information_technology`.
 
-To achieve depth, students must complete the following:
+Make sure you have read :ref:`common_program_features`.
 
-*   Two (2) required courses addressing ethical and social issues in the computing field and a firm base in object oriented programming.
-*   Three (3) courses from restricted categories to ensure a strong software engineering center, while still allowing a considerable flexibility of interests.
-*   Five (5) courses that do not need to be in any track: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. There are also numerous options for independent study, including a programming project, research, or a service-oriented project.
+In summary, to achieve depth and breadth, students must complete the following:
+
+*   Two (2) required courses addressing ethical and social issues in the 
+    computing field and a firm base in object oriented programming.
+*   Three (3) courses from restricted categories to ensure a strong 
+    software engineering center, while still allowing a considerable 
+    flexibility of interests.
+*   Five (5) courses or 15 credits that are :ref:`general_electives`.
 
 Required Courses (6 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -526,45 +537,46 @@ Required Courses (6 credits)
 *   COMP 413: Intermediate Object-Oriented Development
 *   COMP 417: Social, Ethical and Legal Issues in Computing
 
-Required Electives (9 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Restricted Electives (9 credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MSSE students must take at least one course from the following Group 1 list (most of these courses require COMP 413 as a prerequisite):
+MSSE students must take at least one course from the following Group 1 list:
 
-**Group 1**
+Group 1
+    *   COMP 424: Client-Side Web Design
+    *   COMP 433: Web Services Programming
+    *   COMP 434: Enterprise Software Development
+    *   COMP 437: Concurrent Programming
+    *   COMP 439: Distributed Systems
+    *   COMP 442: Server-Side Software Development
+    *   COMP 460: Algorithms (exception to 413 prereq)
+    *   COMP 471: Programming Languages
+    *   COMP 473: Object-Oriented Programming
+    *   COMP 474: Software Engineering (exception to 413 prereq)
 
-*   COMP 424: Client-Side Web Design
-*   COMP 433: Web Services Programming
-*   COMP 434: Enterprise Software Development
-*   COMP 437: Concurrent Programming
-*   COMP 439: Distributed Systems
-*   COMP 442: Server-Side Software Development
-*   COMP 460: Algorithms (exception to 413 prereq)
-*   COMP 471: Programming Languages
-*   COMP 473: Object-Oriented Programming
-*   COMP 474: Software Engineering (exception to 413 prereq)
+Most of these Group 1 courses require COMP 413 as a prerequisite.
 
-MSSE students must also take two additional courses from either the list above or the following Group 2 list:
+MSSE students must also take two additional courses from either the list above 
+or the following Group 2 list:
 
-**Group 2**
+Group 2
+    *   COMP 410: Operating Systems
+    *   COMP 420: Software Systems Analysis
+    *   COMP 436: Markup Languages
+    *   COMP 437: Concurrent Programming
+    *   COMP 441: Human-Computer Interface Design
+    *   COMP 453: Database Programming
+    *   COMP 464: High-Performance Computing
 
-*   COMP 410: Operating Systems
-*   COMP 420: Software Systems Analysis
-*   COMP 436: Markup Languages
-*   COMP 437: Concurrent Programming
-*   COMP 441: Human-Computer Interface Design
-*   COMP 453: Database Programming
-*   COMP 464: High-Performance Computing
+If a student enters the program with an academic record of success in a 
+course similar to Comp 413, or if the student can demonstrate 
+programming experience with the concepts of Comp 413, 
+then the Graduate Program Director may substitute for the Comp 413 
+requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
 
-If a student enters the program with an academic record of success in a course similar to Comp 413, or if the student can demonstrate programming experience with the concepts of Comp 413, then the Graduate Program Director may substitute for the Comp 413 requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
-
-The Computer Science department may declare that other courses (eg new courses and individual COMP 488: Topics in CS offerings) may count as members of either Group 1 or Group 2.
-
-General Electives (15 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This is generally 5 three-credit courses. The courses do not need to be in any special group: All 400 level Computer Science courses and 400+ level CSIS courses (cross listed with the Business School) are allowed. Electives may include up to 6 credits of COMP 490: Independent Project and/or COMP 499: Internship.
-
+The Computer Science department may declare that other courses 
+(eg new courses and individual COMP 488: Topics in CS offerings) 
+may count as members of either Group 1 or Group 2.
 
 .. index:: MA in Digital Humanities
 
@@ -604,10 +616,12 @@ Pursuing Multiple MS Degrees
 
 We are often asked about whether it is possible to complete more than one MS degree 
 (e.g. and MS in Computer Science and an MS in Software Engineering). 
-The answer is no, unless you complete 60 hours of study (30 hours of courses for
-each degree). It is impractical and expensive, and we don't think it serves students well. 
+The answer is no, unless you complete 54 hours of study (30 hours of courses for
+the each degree, except for 6 credits transfered into the second degree). 
+It is impractical and expensive, and we don't think it serves students well. 
 Our goal is to prepare you
-for a serious career (professional and/or academic) after completing *one* graduate degree.
+for a serious career (professional and/or academic) 
+after completing *one* graduate degree.
 
 Students who wish to continue taking courses may do so after completing their degree 
 as non-degree students. We also
@@ -622,8 +636,9 @@ Emerging Technologies Laboratory
 Time and Residence Requirements
 ------------------------------------------
 
-Normally it takes one to one-and-a-half years of full-time study to earn a 
+Normally it takes 16 months for full-time students to earn a 
 MS in Computer Science, Software Engineering, or Information Technology from Loyola. 
 Students who attend part time must complete the program within five years. 
 This period may be extended only by special action of the Dean of the Graduate School.
+The MS in Computer Science with the thesis option may also need extra time.
 
