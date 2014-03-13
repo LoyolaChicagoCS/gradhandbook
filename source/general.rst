@@ -16,6 +16,10 @@ http://www.luc.edu/visit.shtml.  See the link to the Watertower campus map,
 where Lewis Towers is labeled 6.  
 The main department phone number is 312-915-7999.
 
+While the current Graduate Program Director (GPD) is often available by phone,
+you would do well to confirm a face to face meeting time by email, 
+gpd@cs.luc.edu.
+
 If you are not a current student, 
 tell the Lewis Towers security desk staff
 that you are coming to see the Computer Science GPD. 
@@ -167,28 +171,15 @@ also known as the Emerging Technologies Laboratory. Access is via the Loyola cam
 Please contact the Department Secretary or Computer Systems Manager for access, 
 if you have trouble entering with your Loyola campus card.
 
-.. index:: teaching opportunities
-
-Teaching Opportunities
---------------------------------------
-
-In addition to occasional teaching assignments for Graduate Assistants 
-(e.g. to help their instructor when he/she needs to be absent), 
-a number of teaching opportunities are available to experienced graduate students 
-and graduates who have gained experience since leaving our department 
-(with a preference for the latter). The University requires that you have the MS degree; 
-the Department requires that you have taken a wide range of challenging courses, 
-especially in foundational areas such as algorithms, languages, systems, 
-and software engineering with a solid record of achievement in all. 
-
 .. index:: summer sessions
 
 Summer Sessions
 --------------------------------------
 
-Two six-week summer sessions are offered through the Department each year, 
-running from May to August. Two to four graduate-level courses are generally 
-offered over the two summer terms.
+Summer sessions are offered through the Department each year, 
+running from May to August. There are two 6-week sessions and an 
+overlapping 8-week session.  Two to four graduate-level courses are generally 
+offered over these summer terms.
 
 We encourage research-minded students to consider 
 independent study with a department faculty member.
@@ -216,9 +207,10 @@ Transportation
 Parking is available near the Water Tower Campus, although it is rather expensive. 
 You can have your parking stub stamped at the information desk 
 at the 25 E. Pearson building to receive a modest discount. 
-You will also want to acquaint yourself with the 
+As a current student, you will also want to acquaint yourself with the 
 University’s inter-campus shuttle bus service. 
-Public buses and the “El” run frequently between campuses and to other points in the city.
+Public buses and the “El” run frequently between campuses and to other 
+points in the city.
 
 There is also parking available near the Lake Shore Campus.
 The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, 
@@ -242,7 +234,7 @@ in MS CS) are encouraged to pursue the publication of one or more journal articl
 during their graduate career. In the current job market, publication is an 
 important means of demonstrating to prospective employers a high level of motivation 
 and professional competence. 
-It can also be helpful for your future pursuits as a doctoral student (elsewhere).
+It can also be helpful for your future pursuits as a doctoral student elsewhere.
 
 Ways to prepare for this goal are 1) to read journals in your fields of interest 
 regularly in order to become familiar with both current scholarship 
@@ -282,6 +274,20 @@ with a very helpful website: http://www.luc.edu/career/RamberLink_Login.html
 Students are encouraged to check our information jobs listings as well at 
 http://jobs.cs.luc.edu. We are routinely contacted by employers who are 
 seeking interns, consultants, and "permanent" employees.
+
+.. index:: teaching opportunities
+
+Teaching Opportunities
+--------------------------------------
+
+In addition to occasional teaching assignments for Graduate Assistants 
+(e.g. to help their instructor when he/she needs to be absent), 
+a number of teaching opportunities are available to experienced graduate students 
+and graduates who have gained experience since leaving our department 
+(with a preference for the latter). The University requires that you have the MS degree; 
+the Department requires that you have taken a wide range of challenging courses, 
+especially in foundational areas such as algorithms, languages, systems, 
+and software engineering with a solid record of achievement in all. 
 
 .. index:: awards
 
