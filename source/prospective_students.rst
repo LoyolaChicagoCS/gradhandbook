@@ -5,10 +5,10 @@ Overview of Loyola MS Programs' Strengths
 ---------------------------------------------
 
 *   Committed faculty teaching small classes, commonly 15-25 students
-*   Lots of project based classes with big concepts for all, which students 
+*   Many project based classes with big concepts for all, which students 
     get to develop in their own way in their individual projects, 
     with active individual support from the instructor
-*   Flexibility and breadth: At least ½ of each program is electives 
+*   Flexibility and breadth: About ½ of each program is electives 
     which can vary from business-centric, data-centric, 
     networking and security, software engineering, 
     to core computer science. 
@@ -32,6 +32,7 @@ Overview of Loyola MS Programs' Strengths
 
 Look at the details of the individual :ref:`ms_programs`.
 
+Arrange a :ref:`visit`.
 
 .. index:: admissions
 
@@ -60,19 +61,18 @@ to :ref:`visit`.
 
 .. index:: prospective us graduate students
 
-.. _prospective_us_graduate_students:
+.. _requirements_for_all_applicants:
 
-Prospective U.S. Graduate Students
+Requirements for All Applicants
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you are an international student please refer to 
-:ref:`prospective_international_graduate_students`.
 
 For admission to the graduate degree program in the 
 Department of Computer Science, 
 submit the items below that are not listed as optional. 
 You may also submit further items if you feel they would 
 help bolster your admissions case.
+If you are an international student please *also* note the 
+:ref:`additional_requirements_for_international_applicants`.
 
 #.   Completed application form (either completed 
      `online <https://gpem.luc.edu/apply/>`_ with no fee or 
@@ -81,7 +81,7 @@ help bolster your admissions case.
 #.   Those who would like to get financial assistance see 
      :ref:`teaching_assistantships` or for non-departmental
      financial aid see http://www.luc.edu/finaid/responsibilities_rights.shtml.
-#.   Submit official transcripts of all undergraduate work and any 
+#.   Submit official English transcripts of all undergraduate work and any 
      post-baccalaureate work still in sealed envelopes sent from the academic 
      institution. Do not open such envelopes yourself.  If you do not have
      easy access to the sealed official documents, you can *initially* submit
@@ -100,42 +100,16 @@ help bolster your admissions case.
  
 .. index:: prospective international graduate students
 
-.. _prospective_international_graduate_students:
+.. _additional_requirements_for_international_applicants:
 
-Prospective International Graduate Students
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Additional Requirements for International Applicants
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-US nationals having a US undergraduate Bachelor's degree should consult 
-:ref:`prospective_us_graduate_students`.
+Do not forget the :ref:`requirements_for_all_applicants`.  Here are 
+*additional* requirements and an option for international student admission 
+to a graduate degree program in the 
+Department of Computer Science.
 
-For international student admission to the graduate degree program in the 
-Department of Computer Science, 
-submit the items below that are not listed as optional. 
-You may also submit further items if you feel they would help bolster 
-your admissions case.
-
-#.   Completed application form (either completed 
-     `online <https://gpem.luc.edu/apply/>`_ with no fee or 
-     `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ 
-     and delivered on paper with a $50 fee).
-#.   Those who would like to get financial assistance see 
-     :ref:`teaching_assistantships` or for non-departmental
-     financial aid see http://www.luc.edu/finaid/responsibilities_rights.shtml.
-#.   International applicants 
-     (including those who are seeking financial aid from the department) 
-     are encouraged to submit proof (affidavit) of financial support to our 
-     International students office simultaneously with filing their application. 
-     This will help save a lot of time in processing the visa papers, 
-     namely I-20 or IAP-66, at the earliest. 
-     Students who are chosen for the merit awards or scholarships will be 
-     notified regardless of their financial standing or ability to support 
-     themselves financially.
-#.   Submit official transcripts of all undergraduate work and any 
-     post-baccalaureate work still in sealed envelopes sent from the 
-     academic institution. **Do not open such envelopes yourself**. 
-     If you do not have
-     easy access to the sealed official documents, you can *initially* submit
-     copies for a *conditional* admission.
 #.   Students with transcripts issued by International universities or colleges 
      must be *evaluated* by an outside evaluator for GPA calculation and 
      determining if the degree is equivalent to an American Bachelor's degree: 
@@ -146,43 +120,48 @@ your admissions case.
      `Educational-Perspectives <http://edperspective.org/>`_ 
      can also be used as an alternative to ECE. No other transcript evaluation
      service is accepted by Loyola.
-     Those students seriously considering Loyola can write to the 
-     Graduate Program Director at gpd@cs.luc.edu for waiving the 
-     transcript evaluation fee. 
-     Requesting that Loyola handle the evaluation will require extra time, 
-     since the transcript forms must be received by Loyola and sent again to ECE.
-#.   GRE scores are not required for admission. 
-     If you choose to submit them, Loyola's institutional code is 1412; 
-     the department code is not needed. 
-     GRE scores, however, are expected if you are applying for a merit award 
-     ( :ref:`teaching_assistantships` ), 
-     and you are not already a Loyola student.
-#.   Three letters of recommendation. 
-     These are usually from referees familiar with the applicant's 
-     academic work, however, 
-     if the applicant has been out of school for a long time, 
-     then letters of recommendation from co-workers or 
-     supervisors will be acceptable.
-#.   International students must also earn at least at least
-     79 on the internet-based TOEFL test; or at least a 6.5 on the IELTS academic test. 
+     
+     Those students living abroad and seriously considering Loyola can write to the 
+     Graduate Program Director at gpd@cs.luc.edu about waiving the 
+     transcript evaluation fee. Be sure the *rest* of your application is
+     submitted when making this request, so it can be properly considered.
+     At least a copy of a passing English test score must be included at that
+     time:  an official result is just needed before admission.
+     Requesting that Loyola handle the evaluation will require *extra time*, 
+     since the transcript forms must be received first by Loyola 
+     and sent off again to ECE.
+#.   International students must earn at least
+     79 on the internet-based TOEFL test; or at least a 6.5 on the IELTS academic test,
+     and the *official results must come to Loyola directly from the testing agency*. 
      Loyola's institutional code is 1412; 
      the department code is not needed. 
      
-     You can *retake* an English exam as many times as you need 
+     You can *retake* an English exam as many times as you need
+     *before* admission 
      to to get up to a passing grade. 
      
      *Do not request to be admitted with a lower score*. 
      Loyola has *no* program for conditional admission without the required
-     score.
+     score.  ESL courses may help you pass one of these exams, but ESL 
+     course grades do not substitute for a required test.
      
      If taking one of these tests, be sure to sign up for an early test date, 
      since results take 4-6 weeks to be delivered to Loyola.
      
-     Students with Bachelor's degrees from accredited institutions in the US, 
-     United Kingdom, Canada, Australia or New Zealand, 
-     who primarily attended their classes in those countries, 
-     are *exempt* from the English requirement. 
-     
+     Students for whom the English test is waived
+         Students with Bachelor's or higher degree from accredited institutions in the US, 
+         United Kingdom, Canada, Australia or New Zealand, 
+         who primarily attended their classes in those countries
+         
+#.   International applicants 
+     (including those who are seeking financial aid from the department) 
+     are encouraged to submit proof (affidavit) of financial support to our 
+     International students office *simultaneously* with filing their application. 
+     This will help save a lot of time in processing the visa papers, 
+     namely I-20 or IAP-66, at the earliest. 
+     Students who are chosen for the merit awards or scholarships will be 
+     notified regardless of their financial standing or ability to support 
+     themselves financially.     
 
 International students requiring an F-1 visa should consult the 
 `International Students and Scholars <http://www.luc.edu/iss/outside.shtml>`_
