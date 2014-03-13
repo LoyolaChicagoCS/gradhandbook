@@ -6,7 +6,7 @@ Graduate Handbook
 Welcome to all students interested in the 
 graduate programs for the Computer Science Department
 of Loyola University
-Chicago. 
+Chicago! 
 
 .. CHECK GPD
 
