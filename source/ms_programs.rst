@@ -5,6 +5,32 @@
 Master of Science Programs
 ======================================
 
+Overview
+-----------
+
+Information Technology is more management and business process facing.  
+It is distinguished from a pure business degree by its requirement and 
+frequent use of basic programming and other technical skills.  
+If you end up managing technical workers, 
+you will have an edge over those with pure business degrees.
+
+Software Engineering is focused on knowledge and abilities to produce 
+high quality software for many different domains.
+
+Computer Science is more foundational, 
+requiring you to get experience with a broad range of core 
+computer science concepts.  It is our only program with a thesis option.  
+Students from this program are the ones most likely to go on to a PhD program.
+
+Computer Science is a broad and moving target. 
+The full range of electives common to all programs is very helpful 
+in providing breadth and flexibility. 
+Only 3-5 courses out of 10 are specified or limited by the individual program. 
+The overlap also means that it is generally fairly easy to switch programs 
+if your interest is particularly stimulated by an elective more strongly 
+associated with another program.
+
+
 .. index::  prerequisites
 
 .. _prerequisites:
@@ -73,7 +99,7 @@ but this will slow you down by at least an extra semester.
 
 Please contact the Graduate Program Director with any questions at gpd@cs.luc.edu. 
 
-See also :ref:`programming_prerequisites` to get an idea of what sort 
+The next section, :ref:`programming_prerequisites`, lists more details 
 of material you should know before taking graduate courses in our department.
 
 
@@ -205,7 +231,7 @@ language):
 Common Program Features
 ------------------------
 
-Make sure you have the previous section on :ref:`prerequisites`.
+Make sure you have seen the :ref:`prerequisites` section.
 
 Each program requires a total of 30 credit hours, generally 10 three-credit courses. 
 Students can receive up to 6 credit hours (replacing two of our courses) 
@@ -241,14 +267,14 @@ including a programming project, research, or a service-oriented project.
 MS in Computer Science
 ----------------------------
 
-This program is for students entering the program in Spring 2014 or later.
-If you were enrolled in the program prior to Spring 2014 you may use the older
-degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
-
 The MS in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
 Other programs in the Computer Science Department with different foci are 
 :ref:`ms_in_information_technology` and the :ref:`ms_in_software_engineering`.
+
+This program is for students entering the program in Spring 2014 or later.
+If you were enrolled in the program prior to Spring 2014 you may use the older
+degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
 
 Make sure you have read :ref:`common_program_features`.
 
@@ -439,7 +465,6 @@ net-centric computing. They will also have a firm grasp of current and
 future effects of the convergence of the telecommunications, media, 
 and information technology sectors. 
 
-While mixing in 
 A significant portion of the program is available online, and more courses
 are being added.
 
@@ -507,11 +532,6 @@ Enterprise Networking (EN) Track
 MS in Software Engineering
 ----------------------------
 
-This program is for students entering the program in Spring 2014 or later.
-If you were enrolled in the program prior to Spring 2014 you may use the older
-degree requirements located at 
-http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
-
 The MS in Software Engineering caters to students interested in software engineering 
 and also other contemporary topics of long-term value to the industry. 
 Most early careers in the industry are based on either software development or 
@@ -519,6 +539,11 @@ managerial aspects of software development.
 This degree places more weight on software development. 
 For those seeking a greater focus on managerial aspects, we offer the 
 :ref:`ms_in_information_technology`.
+
+This program is for students entering the program in Spring 2014 or later.
+If you were enrolled in the program prior to Spring 2014 you may use the older
+degree requirements located at 
+http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
 
 Make sure you have read :ref:`common_program_features`.
 
