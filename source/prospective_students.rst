@@ -141,8 +141,13 @@ Department of Computer Science.
      to to get up to a passing grade. 
      
      *Do not request to be admitted with a lower score*. 
-     Loyola has *no* program for conditional admission without the required
-     score.  ESL courses may help you pass one of these exams, but ESL 
+     Loyola has no official program for conditional admission without the required
+     score.  
+     *Informally* the GPD is happy to look at an application that is complete except 
+     for the English score, and let you know if you should expect the GPD's 
+     recommendation for admission, *after* an official passing English score is provided.
+     
+     ESL courses may help you pass one of these exams, but ESL 
      course grades do not substitute for a required test.
      
      If taking one of these tests, be sure to sign up for an early test date, 
