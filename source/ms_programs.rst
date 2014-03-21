@@ -278,6 +278,9 @@ MS-CS students must also take three courses from the following list:
 * Comp 473: Object-Oriented Programming
 * Comp 474: Software Engineering
 
+General Electives (12 Credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. include:: general_electives.inc
 
 .. index:: thesis option
@@ -287,7 +290,8 @@ MS-CS students must also take three courses from the following list:
 Thesis Option
 ~~~~~~~~~~~~~~~~
 
-MS students in the Computer Science degree program may elect the MS thesis option.
+MS students in the Computer Science degree program (only) 
+may elect the MS thesis option.
 
 Course work is strongly recommended over the thesis option, 
 especially for those not planning on a research-oriented career. Many students
@@ -490,6 +494,9 @@ Enterprise Networking (EN) Track
     *   CSIS 591: International Telecommunications
     *   COMP 451 or CSIS 793: Network Management
 
+General Electives (18 Credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. include:: general_electives.inc
 
 .. index:: MS in Software Engineering
@@ -571,7 +578,8 @@ The Computer Science department may declare that other courses
 (eg new courses and individual COMP 488: Topics in CS offerings) 
 may count as members of either Group 1 or Group 2.
 
-.. index:: electives
+General Electives (15 Credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: general_electives.inc
 
