@@ -224,42 +224,6 @@ language):
        stack, and heap.
    *   Be able to understand and use recursion in various problems.
 
-.. index:: common degree features
-
-.. _common_program_features:
-
-Common Program Features
-------------------------
-
-Make sure you have seen the :ref:`prerequisites` section.
-
-Each program requires a total of 30 credit hours, generally 10 three-credit courses. 
-Students can receive up to 6 credit hours (replacing two of our courses) 
-for graduate work taken elsewhere: See :ref:`transfer_credit`. 
-
-**Students who have taken undergraduate Loyola classes**: 
-Many 400-level courses in the department have closely related 300-level analogues, 
-e.g. Comp 443 and 343. Students who enter the MS program after taking 
-a Loyola course in this category 
-must choose to take 400-level courses that are not closely related to any 
-300-level courses taken earlier, unless they have GPD permission.
-
-.. _general_electives:
-
-General Electives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-Each program allows electives for many of the credits.  For each
-program electives can be any COMP 400 level class or any CSIS class 
-(courses actually taught in the Business School).
-
-Students may take up to a maximum of 6 credit hours of 
-Comp 490: Independent Project and/or Comp 499: Internship.
-
-There are numerous options for independent study, 
-including a programming project, research, or a service-oriented project.
-
-
 .. index:: MS in Computer Science
 
 .. _ms_in_computer_science:
@@ -276,13 +240,14 @@ This program is for students entering the program in Spring 2014 or later.
 If you were enrolled in the program prior to Spring 2014 you may use the older
 degree requirements located at http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum.
 
-Make sure you have read :ref:`common_program_features`.
+.. include:: common_program_features.inc
 
-In summary, to achieve depth and breadth, students must complete the following:
+Overall, to achieve depth and breadth, Computer Science students must 
+complete the following:
 
 *   Three (3) required courses.
 *   Three (3) restricted electives. 
-*   Four (4) courses or 12 credits that are :ref:`general_electives`.
+*   Four (4) courses or 12 credits that are general electives.
 
 Required Courses (9 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -313,6 +278,7 @@ MS-CS students must also take three courses from the following list:
 * Comp 473: Object-Oriented Programming
 * Comp 474: Software Engineering
 
+.. include:: general_electives.inc
 
 .. index:: thesis option
 
@@ -446,8 +412,6 @@ are formal steps with documentation required by the Graduate School:
     -   **Final Copy, both electronic and hard copies also have deadlines**,
         depending on the conferral date.
 
-
-
 .. index::  MS in Information Technology
 
 .. _ms_in_information_technology:
@@ -473,16 +437,17 @@ are being added.
    All course work can be completed online, 
    and the program includes an intensive on-site immersion as a capstone.
 
-Make sure you have read :ref:`common_program_features`.
+.. include:: common_program_features.inc
 
-In summary, to achieve depth and breadth, students must complete the following:
+Overall, to achieve depth and breadth, Information Technology
+students must complete the following:
 
 *   One (1) required course addressing ethical and social issues in the computing field.
 *   Three (3) courses within *one* of the following tracks: 
     Enterprise Information Management, Technology Management, 
     Information Assurance, or Enterprise Networking. 
-*   Six (6) courses or 18 credits that do not need to be in any track.  They
-    can be any course in the :ref:`general_electives`.  
+*   Six (6) courses or 18 credits that do not need to be in any track. They
+    can be any course in the general electives.  
     
 Note that you only need three courses in *some* track. There is no need to
 satisfy more than one track. 
@@ -525,6 +490,8 @@ Enterprise Networking (EN) Track
     *   CSIS 591: International Telecommunications
     *   COMP 451 or CSIS 793: Network Management
 
+.. include:: general_electives.inc
+
 .. index:: MS in Software Engineering
 
 .. _ms_in_software_engineering:
@@ -545,16 +512,17 @@ If you were enrolled in the program prior to Spring 2014 you may use the older
 degree requirements located at 
 http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum.
 
-Make sure you have read :ref:`common_program_features`.
+.. include:: common_program_features.inc
 
-In summary, to achieve depth and breadth, students must complete the following:
+Overall, to achieve depth and breadth, Software Engineering
+students must complete the following:
 
 *   Two (2) required courses addressing ethical and social issues in the 
     computing field and a firm base in object oriented programming.
 *   Three (3) courses from restricted categories to ensure a strong 
     software engineering center, while still allowing a considerable 
     flexibility of interests.
-*   Five (5) courses or 15 credits that are :ref:`general_electives`.
+*   Five (5) courses or 15 credits that are general electives.
 
 Required Courses (6 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -602,6 +570,10 @@ requirement a course in Group 1 or 2 that has Comp 413 as a prerequisite.
 The Computer Science department may declare that other courses 
 (eg new courses and individual COMP 488: Topics in CS offerings) 
 may count as members of either Group 1 or Group 2.
+
+.. index:: electives
+
+.. include:: general_electives.inc
 
 .. index:: MA in Digital Humanities
 
