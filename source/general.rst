@@ -138,6 +138,10 @@ Students are encouraged to consult the Systems Handbook for more information abo
 departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
 
 .. index:: notification services
+   systems handbook
+   job postings
+   blog for department
+   web site
 
 Bulletin Boards and Key Web Resources
 --------------------------------------
@@ -155,11 +159,11 @@ You are also encouraged to keep abreast of the following departmental web resour
 
    	"http://www.cs.luc.edu", "Main Web Site for the CS Department"
    	"http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
-   	"http://systems.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
+   	"http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
    	"http://jobs.cs.luc.edu", "Informal job postings"
    	"http://blog.cs.luc.edu", "CS Department Blog"
 
-.. index:: Emerging Technologies Laboratory - ETL
+.. index:: Emerging Technologies Laboratory (ETL)
 
 The Emerging Technologies Laboratory
 --------------------------------------
