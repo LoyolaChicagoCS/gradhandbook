@@ -55,7 +55,8 @@ year, with an understanding to continue for up to a total of three semesters
 if funds are available for the next academic year, and if the students 
 maintain their academic and work standards.
 
-The aim is to announce the awards in early May for Fall, and November for Spring.
+The aim is to announce the awards before April 15 for Fall, 
+and November for Spring.
 
 If you miss these deadlines you may apply in your first semester or later 
 as a *current* student.
@@ -76,7 +77,8 @@ Note that the deadlines are *earlier* than for just admitted students:
   and by *October 1 for Spring awards*.
 
 Students who have already been given an award for the upcoming semester should
-not fill out the form.
+not fill out the form. Initial awards for current students are generally
+finalized after the awards to new students are completed.
 
 Possible English Exam Given By Loyola
 ---------------------------------------
@@ -84,9 +86,10 @@ Possible English Exam Given By Loyola
 Awardees who did not grow up in the US may be required by the Graduate
 School to take an extra English test on campus, 
 *even if they have other English language certifications*.  
-The standards for TA's are higher than the
+The standards for TA's are *higher* than the
 entrance requirements.  Someone who did not score high enough on the Loyola
-test will be required to take ESL, and *pay the extra tuition*.  The 
+test will be required to take ESL in the first semester after the exam, 
+and *pay the extra tuition*.  The 
 cost has generally been about the same as one regular graduate academic credit.
 
 Graduate School Policies
@@ -97,10 +100,15 @@ http://www.luc.edu/gradschool/FundingGrad.Education.shtml,
 including formal acceptance of awards, and details of stipend payment
 and tuition awards.
 
- 
+.. index:: financial aid
+
+.. _financial_aid:
+
 Non-Departmental Financial Awards
 ---------------------------------------------
 
-General information about financial aid is at
+Only the merit awards discussed above are administered by the Computer
+Science Department.  General information about other financial aid is at
 http://www.luc.edu/finaid/responsibilities_rights.shtml.  
+Remember :ref:`FAFSA`.
 

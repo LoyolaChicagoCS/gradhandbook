@@ -97,7 +97,20 @@ If you are an international student please *also* note the
     however, if the applicant has been out of school for a long time, 
     then letters of recommendation from co-workers or supervisors 
     will be acceptable.
- 
+
+.. index:: FAFSA
+
+.. _FAFSA:
+
+FAFSA for U.S. Students/Permanent Residents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Though *not* a requirement, U.S. citizens and permanent residents 
+are strongly encouraged to fill out the
+online FAFSA form at https://fafsa.ed.gov/. 
+This not only facilitates loans, but also can help getting 
+on-campus jobs.
+
 .. index:: prospective international graduate students
 
 .. _additional_requirements_for_international_applicants:
@@ -196,3 +209,5 @@ Hence the fee per course during fall 2014 through summer 2015 is $2,895.
 The tuition fees for the entire Master's program, which has a 10-course requirement, 
 is $28,950. For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
+
+See also :ref:`teaching_assistantships` and :ref:`financial_aid`.
