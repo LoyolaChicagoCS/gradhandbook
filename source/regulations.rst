@@ -26,6 +26,9 @@ allowed to take more than 12 credit hours in Fall or Spring.
 
 This means most students finish the program in 16 months: Three fall/spring 
 semesters for 9 of the courses, and the intervening summer for one course.
+Some students take an extra summer course, 
+leaving a reduced load for the last semester, 
+when it may be particularly convenient to devote time to a job or job search.
 
 .. index:: registration
 
@@ -35,18 +38,8 @@ Registration
 Both new and continuing students must complete the process of registration
 before every semester in which they are either attending classes or writing
 a thesis (applicable only to MS Computer Science students opting to
-complete a thesis). A schedule of courses for the upcoming term is available a
-few months before classes are scheduled to begin. We also maintain a long-
-term schedule. See http://www.luc.edu/cs/schedules/.
-
-Newly admitted students should first consult with the
-Graduate Program Director before registering for courses. A discussion with the
-GPD is particularly important if there is any question of a student's prerequisite
-preparation.
-
-Before the next registration period, you should be provided an individual faculty 
-advisor for the rest of your studies.  Later registration choices should be taken up
-with your advisor.
+complete a thesis). For details on choosing courses see
+:ref:`course_selection` and :ref:`advising` below.
 
 Students must maintain continual registration
 throughout their years in the program unless they explicitly apply for and
@@ -70,10 +63,11 @@ when you want to register for or drop a course.  See :ref:`CSIS_courses`.
 below.
 
 In any course where there is a note about consent or permission required, you must 
-make a direct emailed request to the department, clearly stating the course and semester, 
+make a direct emailed request to the department, clearly stating the course 
+and section (if more than one is offered) and semester, 
 and number of credits if that is variable. If you are asking for a course that requires
 permisison of the instructor, please add your direct request to an approving email 
-that you forward from the instructor.
+that you forward from the instructor.  
  
 The department then gives consent and does your registration administratively.
 
@@ -89,6 +83,72 @@ years - do not worry about that one.
 *You are strongly encouraged to check in Locus weeks before registration opens,*
 *to see if a block appears*, and get it addressed so it will not delay your 
 registration.
+
+.. index:: course selection
+   selecting courses
+
+.. _course_selection:
+
+Course Selection
+------------------
+
+Even before you get access to our registration system, 
+you can still look for courses you are interested in.  
+
+Some time before registration opens there should be a link under
+http://www.luc.edu/cs/schedules/
+labeled with the name of the upcoming semester
+with a detailed list of courses to be offered, with links to the individual
+course descriptions and recent syllabi.
+
+Before that, or looking further ahead, you can look at the long-term schedule,
+showing what courses are planned for what semesters:
+https://docs.google.com/document/d/19ElFQ6tEpPzFglGF9FYYnM9j1y4xuWeqlByFRrWz6mo/edit#heading=h.5v6w00qlswdk.
+This is particularly useful if you find too many courses that interest you 
+for a given semester: look at the long-term schedule to see which 
+of those courses you could defer.  
+
+Detailed descriptions of most of these courses are in 
+http://courses.cs.luc.edu/html/
+
+Comp 271 is the prerequisite for most graduate courses, but Comp 413,
+Intermediate Object-Oriented Programming, is a prerequisite for the most advanced
+software courses.
+Many students, with even a strong undergraduate computer science background, 
+have not had the subject matter described in
+http://www.luc.edu/cs/academics/courses/courselisting/comp413/.
+If you are in either the MS in SE or CS program, 
+and have not had much of this material, 
+it is a good course to *start* with (offered every fall and spring), 
+since it is required of both programs, and you want to be able to later get into
+the courses that have it as a prerequisite.
+IT students who want to mix in more software-centric electives should
+also consider Comp 413.
+
+Note, SE and CS students with prior experience with the Comp 413 material
+can replace the Comp 413 course requirement: after consulting with your advisor,
+substitute one of the courses which has Comp 413 as a prerequisite.
+
+**Caution to Computer Science students**:  Comp 460 is required,
+and it is not offered every semester:  You may not be able to defer it!
+Make sure you have arranged a place in your plans that fit with the
+semesters that it is offered. 
+
+.. index:: advising
+
+.. _advising:
+
+Advising
+-----------
+
+Newly admitted students should first consult with the
+Graduate Program Director before registering for courses. A discussion with the
+GPD is particularly important if there is any question of a student's prerequisite
+preparation.
+
+Before the next registration period, you should be provided an individual faculty 
+advisor for the rest of your studies.  Later registration choices should be taken up
+with your advisor.
 
 .. index:: independent study Comp 490
    Comp 490 independent study
@@ -169,7 +229,7 @@ turn in the CPT form at the same time.
 There are three related but different terms: **job**, **internship**,
 and **CPT**, :ref:`cpt`. You can have a job and
 not have it be an internship for academic credit, or you can have a job
-that goes on longer than an internship. Also if you are doing an
+that goes on longer than an academic internship. Also if you are doing an
 academic internship, your job employer does not need to classify your
 position as "internship". If you are doing an academic internship, the
 `MOU <https://luc.box.com/CS-Grad-Internship-MOU>`_
