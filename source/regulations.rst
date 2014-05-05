@@ -637,8 +637,10 @@ Incomplete Grade
 --------------------------------
 
 Faculty may assign the grade of I to a student who has not completed the assigned 
-work by the end of the term. This grade is not assigned automatically; 
-rather, it is up to the student to work out with the instructor a plan, 
+work by the end of the term for some good reason. 
+This grade is *not* assigned automatically. 
+It is up to the student to explain the circumstances and 
+work out a plan with the instructor, 
 including a deadline, for completing the work for the course. 
 
 Under the Graduate School regulations, a student has one semester to complete the course
