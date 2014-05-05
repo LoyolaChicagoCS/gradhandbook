@@ -268,12 +268,8 @@ restrictions apply.  If you want to work off campus for pay, then you
 need to be doing CPT, and there are a number of requirements.
 
 First of all, you need to have been a full-time F-1 student anywhere in
-the United States for two semesters.  If you want to count a summer (as
-students starting in Spring or Summer are likely to want), there is a
-confusing point:  The number of credits needed to be full-time to count as
-leading up to CPT are different than the number of credits a student
-starting in summer needs to be in full-time status!  Be sure to check
-with the OIP for the exact current details.
+the United States for two semesters.  Optionally, this could include 
+:ref:`summer_full_time`.
 
 To start CPT you must get an application submitted,
 http://www.luc.edu/media/lucedu/iss/pdfs/Curricular%20Practical%20Training.pdf
@@ -304,6 +300,41 @@ get a signature on the CPT application differently in the two cases:
   reporting or work you do to tie the internship to the instructor's
   course.  *You may need to send the CPT form and job offer to the OIP yourself.*
 
+
+.. index:: F-1 full-time in summer
+   summer full time status
+   
+.. _summer_full_time:
+
+F-1 Summer Full-time Status
+----------------------------
+
+F-1 students who do not start in summer, do not need to study at all in the
+summer as long as they are full-time in each fall and spring until they finish.
+For them, summer courses are optional.  (In the semester that you finish up,
+you are automatically full-time, even if you have only 1-2 courses left.)
+
+F-1 students starting in summer do need to be classified as full-time.  Also
+students who start in spring may find it convenient to be full-time in
+summer to allow :ref:`cpt` to start a semester earlier than otherwise.
+
+To have summer count automatically as full time for an F-1 student, 
+you need to be taking 9 credits in total among all the
+different summer sessions.  This is hard to do for two reasons:
+It is a lot of work to cram 3 courses into 12 weeks, and we offer a limited 
+number of courses in summer, so it may be hard to fit your interests with 
+3 courses. 
+These restrictions allow for a possible opening: With permission from the GPD
+and OIP, one time in your F-1 career
+you are allowed to take fewer courses and still be counted
+as full-time.  You can ask the GPD to approve this reduction in summer because
+of the issues listed above.  You are *cautioned* that if you do this, 
+*you cannot make such a reduction for a later semester*, 
+even if you have a good reason.
+
+Be sure to check
+with the OIP for the exact current details and correct forms to ask
+the GPD to sign.
 
 .. index:: variable credit courses
 .. _variable_credit_courses:
