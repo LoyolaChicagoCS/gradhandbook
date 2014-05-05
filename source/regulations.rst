@@ -55,6 +55,8 @@ courses with just your student ID number.
 and all others are welcomed to get
 advising. 
 
+.. index:: permission required
+ 
 *You cannot register yourself for Comp 490 or 499* as both require
 permission of the GPD or instructor of record. See sections
 :ref:`independent_study` and :ref:`internships`.  Other courses that can
@@ -62,14 +64,16 @@ have complications registering and dropping are the CSIS courses, depending on
 when you want to register for or drop a course.  See :ref:`CSIS_courses`.
 below.
 
-In any course where there is a note about consent or permission required, you must 
-make a direct emailed request to the department, clearly stating the course 
-and section (if more than one is offered) and semester, 
-and number of credits if that is variable. If you are asking for a course that requires
+In any course where there is a note about *consent or permission required*, you must 
+make a direct emailed request to the department, *clearly stating* the course 
+and *section* (if more than one is offered) and *semester*, 
+and number of *credits* if that is variable. If you are asking for a course that requires
 permisison of the instructor, please add your direct request to an approving email 
 that you forward from the instructor.  
- 
-The department then gives consent and does your registration administratively.
+The department then gives consent and *does your registration administratively*.
+Within a few days you should confirm in Locus that your request was correctly entered.
+
+.. index:: registration blocks
 
 It is in your best interest to register early, to get into sections you want
 and have ample time to detect and clear up any possible registration block
