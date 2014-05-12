@@ -132,7 +132,8 @@ Department of Computer Science.
      for them to evaluate transcripts and get the results to Loyola. 
      `Educational-Perspectives <http://edperspective.org/>`_ 
      can also be used as an alternative to ECE. No other transcript evaluation
-     service is accepted by Loyola.
+     service is accepted by Loyola.  If you are in a rush, you can pay extra
+     for expedited service.
      
      Those students living abroad and seriously considering Loyola can write to the 
      Graduate Program Director at gpd@cs.luc.edu about waiving the 
@@ -143,7 +144,8 @@ Department of Computer Science.
      Requesting that Loyola handle the evaluation will require *extra time*, 
      since the transcript forms must be received first by Loyola 
      and sent off again to ECE.
-#.   International students must earn at least
+#.   International students (not U.S. citizens or permanent residents)
+     must earn at least
      79 on the internet-based TOEFL test; or at least a 6.5 on the IELTS academic test,
      and the *official results must come to Loyola directly from the testing agency*. 
      Loyola's institutional code is 1412; 
@@ -167,23 +169,31 @@ Department of Computer Science.
      since results take 4-6 weeks to be delivered to Loyola.
      
      Students for whom the English test is waived
-         Students with Bachelor's or higher degree from accredited institutions in the US, 
+      *  U.S. citizens and permanent residents
+      *  Students with Bachelor's or higher degree from accredited institutions in the US, 
          United Kingdom, Canada, Australia or New Zealand, 
-         who primarily attended their classes in those countries
+         who primarily attended their classes in those countries.  Students 
+         are exempt who 
+         will complete one of these programs before matriculation at Loyola,
+         even if they have further degrees from another country.
          
-#.   International applicants 
+#.   International applicants who will be on an F-1 visa
      (including those who are seeking financial aid from the department) 
      are encouraged to submit proof (affidavit) of financial support to our 
      International students office *simultaneously* with filing their application. 
+     The form should be linked on the page
+     http://luc.edu/iss/forms.shtml
+     under something like the name,
+     Declaration of Finances for Graduate & Professional Students.
      This will help save a lot of time in processing the visa papers, 
-     namely I-20 or IAP-66, at the earliest. 
+     namely I-20 or IAP-66. 
      Students who are chosen for the merit awards or scholarships will be 
      notified regardless of their financial standing or ability to support 
      themselves financially.     
 
 International students requiring an F-1 visa should consult the 
 `International Students and Scholars <http://www.luc.edu/iss/outside.shtml>`_
-page.
+page for further information.
 
 Though there is no admission deadline,
 be sure to leave time to get the necessary official English test results and 
