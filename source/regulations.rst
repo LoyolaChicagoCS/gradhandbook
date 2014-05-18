@@ -154,6 +154,48 @@ Before the next registration period, you should be provided an individual facult
 advisor for the rest of your studies.  Later registration choices should be taken up
 with your advisor.
 
+.. index:: online courses
+
+.. _online-courses:
+
+Online Courses
+----------------
+
+While the majority of our courses are face to face in regularly 
+scheduled class sessions
+(likely with *some* online interaction),
+other courses can be done totally online.
+The learning objectives and outcomes of online courses 
+are the same as for face-to-face classes, 
+but obviously with a somewhat different delivery.
+
+There are many models that an instructor can choose for online:  
+Parts can include recorded video presentations, 
+synchronous whole-class sessions, synchronous small-group sessions, 
+1-1 with instructor online, threaded discussions, wiki contributions, 
+totally asynchronous involvement as long as you are active each day, ....
+ 
+There may be notes in the course list beside an online course.  
+If you want more details about the format, contact the instructor.
+
+While the main courses being offered into the future are shown in our
+long-term schedule by semester, none are distinguished there as online or not.
+We hope to make online course planning more predictable further into the future,
+but presently you can only see whether a course is online 
+if it has already been scheduled.
+
+At present there is no guarantee of being able to complete a degree totally
+online, though we are moving in that direction with increased offerings.
+
+.. index:: F-1 online limiting rules
+
+**F-1 students**:  Note that in the semesters that you are supposed to be
+full-time, you may have only one online course, and at least one course must
+not be online.  If you are not required to be in school in a semester 
+(commonly summer), there are no restrictions.  Please confer with the Office
+of International Programs for details and confirmation.
+
+
 .. index:: independent study Comp 490
    Comp 490 independent study
 
