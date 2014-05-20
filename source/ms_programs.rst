@@ -2,24 +2,26 @@
 
 .. _ms_programs:
 
-Master of Science Programs
+Masters Programs
 ======================================
 
 Overview
 -----------
 
-Information Technology is more management and business process facing.  
+The :ref:`ms_in_information_technology` is 
+management and business process facing.  
 It is distinguished from a pure business degree by its requirement and 
 frequent use of basic programming and other technical skills.  
 If you end up managing technical workers, 
 you will have an edge over those with pure business degrees.
 
-Software Engineering is focused on knowledge and abilities to produce 
+The :ref:`ms_in_information_technology` 
+is focused on knowledge and abilities to produce 
 high quality software for many different domains.
 
-Computer Science is more foundational, 
+The :ref:`ms_in_computer_science` is more foundational, 
 requiring you to get experience with a broad range of core 
-computer science concepts.  It is our only program with a thesis option.  
+computer science concepts.  It is our only program with a :ref:`thesis_option`.  
 Students from this program are the ones most likely to go on to a PhD program.
 
 Computer Science is a broad and moving target. 
@@ -29,6 +31,49 @@ Only 3-5 courses out of 10 are specified or limited by the individual program.
 The overlap also means that it is generally fairly easy to switch programs 
 if your interest is particularly stimulated by an elective more strongly 
 associated with another program.
+
+A separate interdisciplinary program, partnered with Computer Science, is
+the :ref:`ma_in_digital_humanities`.
+
+.. index:: time for program
+
+Time and Residence Requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Normally it takes 16 months for full-time students to earn a 
+MS in Computer Science, Software Engineering, or Information Technology from Loyola. 
+Students who attend part time must complete the program within five years. 
+This period may be extended only by special action of the Dean of the Graduate School.
+The MS in Computer Science with the :ref:`thesis_option` 
+may also need extra time.
+
+.. index:: multiple MS degrees
+   non-degree students
+   continuing education
+
+Pursuing Multiple MS Degrees
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are often asked about whether it is possible to complete more than one MS degree 
+(e.g. and MS in Computer Science and an MS in Software Engineering). 
+The answer is no, unless you complete 54 hours of study (30 hours of courses for
+the each degree, except for 6 credits transfered into the second degree). 
+It is impractical and expensive, and we don't think it serves students well. 
+Our goal is to prepare you
+for a serious career (professional and/or academic) 
+after completing *one* graduate degree.
+
+.. index:: non-degree students
+   continuing education
+
+Students who wish to continue taking courses may do so after completing their degree 
+as non-degree students. We also
+encourage our students to maintain connections through our professional 
+and social networking groups. Many of our
+students continue to be involved in research laboratories such as the 
+Emerging Technologies Laboratory
+(see http://www.etl.luc.edu).
+
 
 
 .. index::  prerequisites
@@ -51,7 +96,9 @@ Most will have an undergraduate degree or at least the first two years
 of foundational undergraduate courses.  This would include the addition of 
 equivalents of our
 Comp 163 (Discrete Structures) and
-264 (Computer Systems) to the two courses already listed. 
+Comp 264 (Computer Systems) 
+and likely Comp 363 (Algorithms)
+to the two courses already listed. 
 
 Software Engineering students are in the middle.   
 The background for the Computer Science student is helpful, but adept
@@ -82,8 +129,9 @@ You can be a full-time graduate student at the same
 time by adding the required Comp 417 on Ethics and Social issues, 
 which has no prerequisite.  
 
-Dr. Harrington's free online text is used for Foundations I, 
-and it assumes no background.  
+The free online text used for Foundations I,
+by Dr. Harrington and Dr. Thiruvathukal, 
+assumes no background in programming.  
 It has the full contact hours of a regular 15 week course, but in 7-8 weeks.  
 You are welcomed to look at or independently use the materials on the course web site 
 http://anh.cs.luc.edu/388Intro, including the text and videos linked there.  
@@ -108,7 +156,7 @@ of material you should know before taking graduate courses in our department.
 .. _programming_prerequisites:
 
 Two Basic Programming Prerequisites
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knowledge of the content below is prerequisite for almost all 
 of the graduate courses in the Computer Science Department.
@@ -613,37 +661,7 @@ But the MA program also explores theoretical, critical, social,
 and ethical contexts for thinking about Digital Humanities research and applications, 
 including issues of intellectual property, data and privacy, public access and preservation. 
 
-For details about this program, see http://www.luc.edu/ctsdh/academics/maindigitalhumanities/.
+For details about this program, 
+see http://www.luc.edu/ctsdh/academics/maindigitalhumanities/.
 
-
-Pursuing Multiple MS Degrees
--------------------------------
-
-We are often asked about whether it is possible to complete more than one MS degree 
-(e.g. and MS in Computer Science and an MS in Software Engineering). 
-The answer is no, unless you complete 54 hours of study (30 hours of courses for
-the each degree, except for 6 credits transfered into the second degree). 
-It is impractical and expensive, and we don't think it serves students well. 
-Our goal is to prepare you
-for a serious career (professional and/or academic) 
-after completing *one* graduate degree.
-
-Students who wish to continue taking courses may do so after completing their degree 
-as non-degree students. We also
-encourage our students to maintain connections through our professional 
-and social networking groups. Many of our
-students continue to be involved in research laboratories such as the 
-Emerging Technologies Laboratory
-(see http://www.etl.luc.edu).
-
-.. index:: time for program
-
-Time and Residence Requirements
-------------------------------------------
-
-Normally it takes 16 months for full-time students to earn a 
-MS in Computer Science, Software Engineering, or Information Technology from Loyola. 
-Students who attend part time must complete the program within five years. 
-This period may be extended only by special action of the Dean of the Graduate School.
-The MS in Computer Science with the thesis option may also need extra time.
 
