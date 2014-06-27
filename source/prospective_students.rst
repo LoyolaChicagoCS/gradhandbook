@@ -30,7 +30,8 @@ Overview of Loyola MS Programs' Strengths
 *   Opportunity for discipline changers to be accepted and take 
     prerequisites with us on a compressed schedule 
 
-Look at the details of the individual :ref:`ms_programs`.
+Look in the courses document for the details of the individual 
+`Masters Programs <http://courses.cs.luc.edu/html/masters_overview.html>`_.
 
 Arrange a :ref:`visit`.
 
@@ -51,7 +52,8 @@ and some classes may fill up.  See :ref:`new_student_merit`, for
 **Prerequisites**:  
 Please note that you can apply and be accepted without 
 having all the undergraduate prerequisites listed for degree programs. 
-See the section on :ref:`prerequisites`.
+See the section of the course document on 
+`prerequisites <http://courses.cs.luc.edu/html/masters_prereqs.html>`_.
 
 .. CHECK GPD
 
