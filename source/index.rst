@@ -11,6 +11,11 @@ Chicago!
 If you have questions about information here, please contact the 
 Graduate Program Director, gpd@cs.luc.edu, 312-915-7999.  
 
+See the Course Handbook for 
+`programs <http://courses.cs.luc.edu/html/#graduate-degree-programs>`_ 
+and 
+`courses <http://courses.cs.luc.edu/html/#graduate-courses>`_.
+ 
 If you want another format of this document (html, pdf, ebook), 
 see :ref:`download_other_formats`.
 
