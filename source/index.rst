@@ -19,10 +19,9 @@ see :ref:`download_other_formats`.
    :maxdepth: 2
    
    prospective_students
-   ms_programs
-   assistantships
    general
    regulations
+   assistantships
    downloading
    acknowledgments
 

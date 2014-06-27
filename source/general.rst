@@ -159,6 +159,7 @@ You are also encouraged to keep abreast of the following departmental web resour
 
    	"http://www.cs.luc.edu", "Main Web Site for the CS Department"
    	"http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
+        "http://courses.cs.luc.edu/html", "Course Catalog with course descriptions and MS Programs Curriculum"
    	"http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
    	"http://jobs.cs.luc.edu", "Informal job postings"
    	"http://blog.cs.luc.edu", "CS Department Blog"
@@ -233,7 +234,8 @@ For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus
 Publication
 --------------------------------------
 
-Research-oriented graduate students (especially those pursuing the :ref:`thesis_option` 
+Research-oriented graduate students (especially those pursuing the 
+`Thesis Option <http://courses.cs.luc.edu/html/mscs.html#thesis-option>`_ 
 in MS CS) are encouraged to pursue the publication of one or more journal articles 
 during their graduate career. In the current job market, publication is an 
 important means of demonstrating to prospective employers a high level of motivation 

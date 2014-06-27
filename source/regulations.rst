@@ -1,4 +1,4 @@
-Regulations and Procedures
+﻿Regulations and Procedures
 ================================
 
 This section covers specific
@@ -120,7 +120,7 @@ Intermediate Object-Oriented Programming, is a prerequisite for the most advance
 software courses.
 Many students, with even a strong undergraduate computer science background, 
 have not had the subject matter described in
-http://www.luc.edu/cs/academics/courses/courselisting/comp413/.
+http://courses.cs.luc.edu/html/comp413.html.
 If you are in either the MS in SE or CS program, 
 and have not had much of this material, 
 it is a good course to *start* with (offered every fall and spring), 
@@ -204,7 +204,9 @@ of International Programs for details and confirmation.
 Independent Study
 --------------------------------
 
-If you are doing an independent project for Comp 490, you need to find a
+If you are doing an independent project for 
+Comp 490, 
+you need to find a
 faculty member to supervise your project and have the faculty supervisor
 email the department secretary to register you. This does not generally make
 sense in your first semester but is possible in exceptional circumstances.
@@ -251,23 +253,24 @@ is totally uninformative!
 Internships (COMP 499)
 -----------------------------------------------
 
-First, you need to find or hold job during the period of the Internship. 
+First, 
+you need to find or hold job during the period of the Internship. 
 There are online, searchable listings through the university career center,
 `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer
 Science department also maintains an *informal* jobs list at 
 http://jobs.cs.luc.edu.)  When you find a
-job, contact the GPD and get your job description approved.  
-Internships are for 1-6 credits.  See
-:ref:`variable_credit_courses`.  
+job, contact the GPD and get your job description approved.  
+Internships are for 1-6 credits.  See
+:ref:`variable_credit_courses`.  
    
 Download, *read*, print, fill out *both pages*, and return the 
-`MOU Form <https://luc.box.com/CS-Grad-Internship-MOU>`_.  
+`MOU Form <https://luc.box.com/CS-Grad-Internship-MOU>`_.  
 Please read this carefully before asking questions of the GPD.
 It contains a description of the details of your academic requirements 
 for the course.  
-You will also need your job supervisor's signature.  Get the
+You will also need your job supervisor's signature.  Get the
 finished form to the GPD, so we can register you for the course for the proper 
-number of credits.  
+number of credits.  
 The form can be scanned and emailed or turn in paper to the
 department staff.  If you are doing :ref:`cpt`, 
 turn in the CPT form at the same time.
@@ -303,10 +306,10 @@ You should consult with the
 `Office for International Programs(OIP) <http://www.luc.edu/oip>`_ 
 for the full legal details of CPT.
 
-Here are a few of the important points.  If you get a job on campus,
+Here are a few of the important points.  If you get a job on campus,
 like the considerable number of students who have worked for Loyola's
 Information Services, you do not need to be doing CPT and no CPT
-restrictions apply.  If you want to work off campus for pay, then you
+restrictions apply.  If you want to work off campus for pay, then you
 need to be doing CPT, and there are a number of requirements.
 
 First of all, you need to have been a full-time F-1 student anywhere in
@@ -334,7 +337,7 @@ get a signature on the CPT application differently in the two cases:
   already planning to take. There is a section of the CPT application for this.
   You can get the *signature on the CPT form of an instructor* to pair the
   internship with a course in the same semester, *or for a fall course*
-  and an internship in the *previous summer*.  
+  and an internship in the *previous summer*.  
   Show the instructor the offer letter. 
   If you do the no-extra-tuition option,
   you are able to work but you *get no further credit toward graduation*,
@@ -375,7 +378,7 @@ of the issues listed above.  You are *cautioned* that if you do this,
 even if you have a good reason.
 
 Be sure to check
-with the OIP for the exact current details and correct forms to ask
+with the OIP for the exact current details and correct forms to ask
 the GPD to sign.
 
 .. index:: variable credit courses
@@ -432,21 +435,21 @@ current course list in October, you will see both Fall and Winter
 Quarter courses included!  *You* have to know the *real* calendar.
 
 Particular issues arise with registering for and dropping CSIS courses
-outside the times LOCUS is expecting.  If you register and add or drop
+outside the times LOCUS is expecting.  If you register and add or drop
 in the regular semester time limits (much earlier than the time Winter
 and Spring quarter courses actually start), then you should be able to
 do your registration changes by yourself, online, in LOCUS, with no
-problem.  Please do that where possible.  On the other hand, 
+problem.  Please do that where possible.  On the other hand, 
 **if you want to make changes closer to the time Winter and Spring Quarter**
 **courses actually start**, you should make all registraion requests
-through the GPD, gpd@cs.luc.edu.  Since the department ends up making
+through the GPD, gpd@cs.luc.edu.  Since the department ends up making
 registration changes which are very important to you, we need explicit
 directions and you need to indicate clear knowledge of the ramifications
-of your choices.  Include the following in your email:
+of your choices.  Include the following in your email:
 
 **Registration request** to gpd@cs.luc.edu after the normal LOCUS
 semester registration time limit and before the GSB registeration time
-limit for Winter or Spring: 
+limit for Winter or Spring: 
 
 #. Include a direct request like "Please register me for CSIS XXX
    Section YYY for ZZZ Quarter." *not* an indirect question like "Would
@@ -454,11 +457,11 @@ limit for Winter or Spring: 
 #. Include your full name and Student ID number.
 #. Explicitly acknowledge the drop deadlines and the timeframe and
    manner you must notify us to get you dropped (as further discussed
-   below).   You could include something like "I know I must email you
+   below).   You could include something like "I know I must email you
    with an explicit request to drop the course by XX/XX/XXXX if I want
    no trace left for the course and by YY/YY/YYYY to avoid tuition, but
-   still get a W on my transcript."  The dates are publicized at the
-   `Bursar's web site <http://www.luc.edu/bursar/withdraw_schedule.shtml#gsb>`_. 
+   still get a W on my transcript."  The dates are publicized at the
+   `Bursar's web site <http://www.luc.edu/bursar/withdraw_schedule.shtml#gsb>`_. 
    We will try to include them also on our course web pages for Winter
    and Spring Quarters.
 #. It is also possible to request a swap for an already running course 
@@ -470,18 +473,18 @@ limit for Winter or Spring: 
 **Drop requests** after the normal LOCUS semester drop/add time limit,
 but inside the limits set by the Graduate School of Business:
 
-#. Within the limits set by the GSB, make the drop in Locus.  This will
+#. Within the limits set by the GSB, make the drop in Locus.  This will
    drop you and note the time of your decision.
 #. Email gpd@cs.luc.edu and explain when you dropped what exact course,
    and ask us to backdate the withdrawal to make up for LOCUS's
    incorrect understanding of dates.
 #. Include your full name and Student ID number.
 
-The time of dropping the course is crucial in determining its effect. 
+The time of dropping the course is crucial in determining its effect. 
 Be aware of the GSB deadlines for getting the course dropped with no
-trace and the later deadline for avoiding  tuition.  We will be correct
-things if you are before the GSB deadlines.  See below under Dropping a
-Course for further discussion of the categories. 
+trace and the later deadline for avoiding  tuition.  We will be correct
+things if you are before the GSB deadlines.  See below under Dropping a
+Course for further discussion of the categories. 
 
 F-1 visa students  
     If you are keeping 3 real Fall semester courses, 
