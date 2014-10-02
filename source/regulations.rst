@@ -1,12 +1,19 @@
 ﻿Regulations and Procedures
 ================================
 
-This section covers specific
-policies of the Computer Science Department and makes reference to some of the most 
+This section covers specific policies of the Computer Science Department 
+and makes reference to some of the most 
 important governing  policies and procedure of the Graduate School, 
 http://www.luc.edu/gradschool/academics_policies.shtml,
 but this Computer Science Handbook 
 *does not attempt to duplicate the statement of all Graduate School policies*.
+
+.. index:: deadlines 
+   dates for Grad School
+   
+**The Graduate School takes deadlines very seriously.**  All Graduate School
+key academic and administrative deadlines and starting dates are listed at
+http://www.luc.edu/gradschool/key_dates.shtml.
 
 .. index:: course loads
    full-time
