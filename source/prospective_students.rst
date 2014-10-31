@@ -114,6 +114,7 @@ This not only facilitates loans, but also can help getting
 on-campus jobs.
 
 .. index:: prospective international graduate students
+   ESL at Loyola
 
 .. _additional_requirements_for_international_applicants:
 
@@ -147,37 +148,67 @@ Department of Computer Science.
      since the transcript forms must be received first by Loyola 
      and sent off again to ECE.
 #.   International students (not U.S. citizens or permanent residents)
-     must earn at least
-     79 on the internet-based TOEFL test; or at least a 6.5 on the IELTS academic test,
-     and the *official results must come to Loyola directly from the testing agency*. 
-     Loyola's institutional code is 1412; 
-     the department code is not needed. 
+     must have their English certified *before* any kind of admission.  
      
-     You can *retake* an English exam as many times as you need
-     *before* admission 
-     to to get up to a passing grade. 
-     
-     *Do not request to be admitted with a lower score*. 
-     Loyola has no official program for conditional admission without the required
-     score.  
      *Informally* the GPD is happy to look at an application that is complete except 
-     for the English score, and let you know if you should expect the GPD's 
-     recommendation for admission, *after* an official passing English score is provided.
+     for the English requirement, and let you know if you should expect the GPD's 
+     recommendation for admission, *after* an 
+     official passing English result is provided.  
+     Later, the Graduate School Dean's approval is still needed for final admission.
      
-     ESL courses may help you pass one of these exams, but ESL 
-     course grades do not substitute for a required test.
+     The Loyola Graduate School accepts just two approaches to the English 
+     requirement, and a few explicit exceptions:
      
-     If taking one of these tests, be sure to sign up for an early test date, 
-     since results take 4-6 weeks to be delivered to Loyola.
+     *   The main way is to earn at least
+         79 on the internet-based TOEFL test; or at least a 6.5 on the 
+         IELTS academic test,
+         and the *official results must come to Loyola directly* 
+         *from the testing agency*. 
+         Loyola's institutional code is 1412; 
+         the department code is not needed. 
      
-     Students for whom the English test is waived
-      *  U.S. citizens and permanent residents
-      *  Students with Bachelor's or higher degree from accredited institutions in the US, 
-         United Kingdom, Canada, Australia or New Zealand, 
-         who primarily attended their classes in those countries.  Students 
-         are exempt who 
-         will complete one of these programs before matriculation at Loyola,
-         even if they have further degrees from another country.
+         You can *retake* an English exam as many times as you need
+         *before* admission 
+         to to get up to a passing grade. 
+     
+         *Do not request to be admitted with a lower score*. 
+         Loyola has no official program for conditional admission without 
+         the required score.  
+
+         If taking one of these tests, be sure to sign up for an early test date, 
+         since results take 4-6 weeks to be delivered *officially* to Loyola.
+     
+     *   If you want to improve your English at Loyola, in preparation for 
+         possible graduate study, you can *first* 
+         apply to our full-time ESL program, http://www.luc.edu/esl/, 
+         and do well enough in courses and a comprehensive exam.  Only sufficient
+         achievement in *Loyola's*
+         ESL program is a substitute for one of the standardized tests above.
+         With any other ESL program one of the standardized tests is still
+         required.
+         
+         NOTE:  Loyola's ESL is a separate program from the Graduate School.
+         Appropriate certification from this ESL program merely 
+         satisfies the English requirement for Graduate School applicants.  
+         It does not imply the Graduate School Dean's approval for your 
+         admission.  All other
+         parts of your application remain to be considered.
+     
+     *   The English requirement is *waived* only for students for satisfy
+         at least one of the following:
+     
+         *   U.S. citizens and permanent residents
+         *   Students with Bachelor's or higher degree from accredited 
+             institutions in the US, 
+             United Kingdom, Canada, Australia or New Zealand, 
+             who primarily attended their classes in those countries.  
+             Students are exempt who 
+             will complete one of these programs before matriculation at Loyola,
+             even if they have further degrees from another country.  
+             Note: Graduating from a program offered in English from any *other* country 
+             does *not* exempt the student from the English requirement.
+         *   Students who have written and defended a Masters thesis or 
+             doctoral dissertation in English       
          
 #.   International applicants who will be on an F-1 visa
      (including those who are seeking financial aid from the department) 
@@ -200,7 +231,8 @@ page for further information.
 Though there is no admission deadline,
 be sure to leave time to get the necessary official English test results and 
 transcript evaluations to Loyola before admission, 
-and allow time after admission for obtaining a visa.
+and allow time after admission for obtaining a visa.  If the process takes too 
+long, you can roll your admission over to the next semester.
 
 
 .. index:: program costs
