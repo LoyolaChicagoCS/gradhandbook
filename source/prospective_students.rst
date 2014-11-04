@@ -147,10 +147,11 @@ Department of Computer Science.
      Requesting that Loyola handle the evaluation will require *extra time*, 
      since the transcript forms must be received first by Loyola 
      and sent off again to ECE.
-#.   International students (not U.S. citizens or permanent residents)
+#.   International students (with the exception of U.S. citizens or permanent residents)
      must have their English certified *before* any kind of admission.  
      
-     *Informally* the GPD is happy to look at an application that is complete except 
+     *Informally* the Gradute Program Director (GPD) 
+     is happy to look at an application that is complete except 
      for the English requirement, and let you know if you should expect the GPD's 
      recommendation for admission, *after* an 
      official passing English result is provided.  
@@ -159,24 +160,24 @@ Department of Computer Science.
      The Loyola Graduate School accepts just two approaches to the English 
      requirement, and a few explicit exceptions:
      
-     *   The main way is to earn at least
-         79 on the internet-based TOEFL test; or at least a 6.5 on the 
-         IELTS academic test,
-         and the *official results must come to Loyola directly* 
+     *   The usual way is to earn at least
+         79 on the internet-based TOEFL test (or 550 on the paper-based test) 
+         or at least a 6.5 (overall band score) on the IELTS academic test. 
+         The *official results must come to Loyola directly* 
          *from the testing agency*. 
          Loyola's institutional code is 1412; 
          the department code is not needed. 
+         The Graduate School will not accept scores lower than those stated 
+         above, and our department is not able to make any exceptions. 
+         *Do not request to be admitted with a lower score.*
+         Loyola has no official program for conditional admission 
+         without the required score.
      
          You can *retake* an English exam as many times as you need
-         *before* admission 
-         to to get up to a passing grade. 
-     
-         *Do not request to be admitted with a lower score*. 
-         Loyola has no official program for conditional admission without 
-         the required score.  
+         *before* admission to get up to a passing grade. 
 
          If taking one of these tests, be sure to sign up for an early test date, 
-         since results take 4-6 weeks to be delivered *officially* to Loyola.
+         since results usually take 2-3 weeks to be delivered *officially* to Loyola.
      
      *   If you want to improve your English at Loyola, in preparation for 
          possible graduate study, you can *first* 
@@ -184,8 +185,9 @@ Department of Computer Science.
          and do well enough in courses and a comprehensive exam.  Only sufficient
          achievement in *Loyola's*
          ESL program is a substitute for one of the standardized tests above.
-         With any other ESL program one of the standardized tests is still
-         required.
+         Enrollment in an ESL program at another school is not a substitute 
+         for the TOEFL or IELTS. With any other ESL program one of the 
+         standardized tests is still required.
          
          NOTE:  Loyola's ESL is a separate program from the Graduate School.
          Appropriate certification from this ESL program merely 
@@ -194,12 +196,12 @@ Department of Computer Science.
          admission.  All other
          parts of your application remain to be considered.
      
-     *   The English requirement is *waived* only for students for satisfy
+     *   The English requirement is *waived* only for students who satisfy
          at least one of the following:
      
          *   U.S. citizens and permanent residents
          *   Students with Bachelor's or higher degree from accredited 
-             institutions in the US, 
+             institutions in the United States, 
              United Kingdom, Canada, Australia or New Zealand, 
              who primarily attended their classes in those countries.  
              Students are exempt who 
