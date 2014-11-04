@@ -209,7 +209,7 @@ Department of Computer Science.
              even if they have further degrees from another country.  
              Note: Graduating from a program offered in English from any *other* country 
              does *not* exempt the student from the English requirement.
-         *   Students who have written and defended a Masters thesis or 
+         *   Students who have written and defended a masters thesis or 
              doctoral dissertation in English       
          
 #.   International applicants who will be on an F-1 visa
