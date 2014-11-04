@@ -199,7 +199,7 @@ Department of Computer Science.
      *   The English requirement is *waived* only for students who satisfy
          at least one of the following:
      
-         *   U.S. citizens and permanent residents
+         *   U.S. citizens and permanent residents.
          *   Students with Bachelor's or higher degree from accredited 
              institutions in the United States, 
              United Kingdom, Canada, Australia or New Zealand, 
@@ -210,7 +210,7 @@ Department of Computer Science.
              Note: Graduating from a program offered in English from any *other* country 
              does *not* exempt the student from the English requirement.
          *   Students who have written and defended a masters thesis or 
-             doctoral dissertation in English       
+             doctoral dissertation in English.      
          
 #.   International applicants who will be on an F-1 visa
      (including those who are seeking financial aid from the department) 
