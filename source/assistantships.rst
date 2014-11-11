@@ -3,7 +3,7 @@
 
 .. _teaching_assistantships:
 
-Teaching Assistantship
+Teaching Assistantships
 ===========================
 
 Each year the Computer Science department offers a small number of graduate assistantships 
@@ -35,7 +35,8 @@ section of the application form for the question:
 Be sure to note the application *deadlines* in the list below.  
 
 * Have excellent undergraduate performance, including all MS prerequisites.
-* International students should have a strong TOEFL or IELTS score.
+* International students should have a strong TOEFL or IELTS score 
+  (far above the admission requirements).
 * Submit excellent letters of recommendation for graduate admission.
 * Submit official GRE scores.
 * Have your application complete, with the request for a merit award *checked*,
