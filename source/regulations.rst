@@ -21,7 +21,8 @@ http://www.luc.edu/gradschool/key_dates.shtml.
 Course Loads
 --------------------------------
 
-A full-time student will usually carry three courses per semester. Course
+A full-time student will usually carry three courses in fall and spring 
+semesters. Course
 loads for part-time students are worked out on an individual basis. 
 
 We do not encourage students to take more than 3 courses a term, and you should
@@ -57,7 +58,8 @@ Only after the Graduate School accepts your letter announcing your plan to retur
 will you be allowed to register for classes.
     
 After registration opens you can register yourself through LOCUS for most
-courses with just your student ID number.  
+courses with just your student ID number. 
+
 *New students should get course advising first from the department*, 
 and all others are welcomed to get
 advising. 
@@ -114,10 +116,10 @@ course descriptions and recent syllabi.
 
 Before that, or looking further ahead, you can look at the long-term schedule,
 showing what courses are planned for what semesters:
-https://docs.google.com/document/d/19ElFQ6tEpPzFglGF9FYYnM9j1y4xuWeqlByFRrWz6mo/edit#heading=h.5v6w00qlswdk.
+http://courses.cs.luc.edu/html/longtermschedule.html.
 This is particularly useful if you find too many courses that interest you 
 for a given semester: look at the long-term schedule to see which 
-of those courses you could defer.  
+of those courses you could defer until it is offered again.  
 
 Detailed descriptions of most of these courses are in 
 http://courses.cs.luc.edu/html/
@@ -171,7 +173,7 @@ Online Courses
 While the majority of our courses are face to face in regularly 
 scheduled class sessions
 (likely with *some* online interaction),
-other courses can be done totally online.
+other courses can be done *totally* online.
 The learning objectives and outcomes of online courses 
 are the same as for face-to-face classes, 
 but obviously with a somewhat different delivery.
@@ -185,11 +187,8 @@ totally asynchronous involvement as long as you are active each day, ....
 There may be notes in the course list beside an online course.  
 If you want more details about the format, contact the instructor.
 
-While the main courses being offered into the future are shown in our
-long-term schedule by semester, none are distinguished there as online or not.
-We hope to make online course planning more predictable further into the future,
-but presently you can only see whether a course is online 
-if it has already been scheduled.
+The `long-term schedule <http://courses.cs.luc.edu/html/longtermschedule.html>`_
+includes an indication of what courses to expect to be online.
 
 At present there is no guarantee of being able to complete a degree totally
 online, though we are moving in that direction with increased offerings.
@@ -219,7 +218,7 @@ email the department secretary to register you. This does not generally make
 sense in your first semester but is possible in exceptional circumstances.
 It helps if you and the faculty member are familiar with each other.
 Talk to your instructors outside of class, and 
-take advantage of community events to meet and get to know faculty!
+take advantage of community seminars and events to meet and get to know faculty!
 It is particularly helpful when you want to do something that the professor 
 already wants done.  At the other end of the spectrum, 
 a student might just propose something that sounds interesting 
@@ -233,7 +232,7 @@ agreement in an email to the faculty supervisor, being sure to include
 the exact *semester and credit hours* that your have agreed on. The
 supervisor then forwards the email with his or her approval to the
 *graduate secretary*, so she can register you. Your agreement does *not* go 
-to the GPD.
+to the GPD.  The GPD approves internships, but not independent study.
 
 These courses are for 1-6 credits. See the
 section below on variable hour courses. We rarely allow students to 
@@ -261,7 +260,7 @@ Internships (COMP 499)
 -----------------------------------------------
 
 First, 
-you need to find or hold job during the period of the Internship. 
+you need to find a job for the period of the Internship. 
 There are online, searchable listings through the university career center,
 `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer
 Science department also maintains an *informal* jobs list at 
@@ -332,7 +331,10 @@ The completed CPT application must be delivered to the International Office, and
 they will issue the work permit.
 
 The CPT can be tied to an academic course in either of two ways. You 
-get a signature on the CPT application differently in the two cases:
+get a signature on the CPT application differently in the two cases.
+*Be sure completely fill out the form except for the faculty signature and date*
+*before looking for a signature!*
+Do not leave us to guess which of the two options you want:
 
 * You can take the Comp 499 course specifically for :ref:`internships`,
   with the regular tuition charge per credit.  Get the form with
@@ -364,7 +366,9 @@ F-1 Summer Full-time Status
 F-1 students who do not start in summer, do not need to study at all in the
 summer as long as they are full-time in each fall and spring until they finish.
 For them, summer courses are optional.  (In the semester that you finish up,
-you are automatically full-time, even if you have only 1-2 courses left.)
+you are automatically full-time, even if you have only 1-2 courses left, 
+though the GPD does need to confirm with the OIP when your 1-2 courses allow
+you to finish.)
 
 F-1 students starting in summer do need to be classified as full-time.  Also
 students who start in spring may find it convenient to be full-time in
@@ -382,7 +386,7 @@ you are allowed to take fewer courses and still be counted
 as full-time.  You can ask the GPD to approve this reduction in summer because
 of the issues listed above.  You are *cautioned* that if you do this, 
 *you cannot make such a reduction for a later semester*, 
-even if you have a good reason.
+even if you have a good reason, like illness.
 
 Be sure to check
 with the OIP for the exact current details and correct forms to ask
@@ -520,7 +524,7 @@ participate in a graduation ceremony and you graduate in Summer or Fall.
 
 Go into Locus and submit your application for graduation *by the deadline*.  That
 is all you need to do if you are on time.  
-There is no penalty for guessing wrong about when you will graduate, but you will need
+There is no penalty for guessing early about when you will graduate, but you will need
 to apply again for the actual time.
 
 You can apply  up to 15 days later, 
@@ -537,7 +541,7 @@ Winter Quarter courses end in February.
 **Graduation Ceremonies are only in May**:  If you have only *one* course left
 for summer, you can ask to participate in the *previous* May
 graduation.  This one course can be 490/499 for more than 3 credits.
-To do this you must apply by the deadline listed above and
+To do this you must apply for summer graduation by the deadline listed above and
 promptly email the GPD, asking for approval to walk in the May
 ceremony.  If you graduate in the Summer or Fall, you can choose to
 return to participate in the *following* May graduation ceremony
@@ -601,7 +605,7 @@ you are registered, merely not attending class does **NOT** extend these
 dates.
 
 -  Withdrawal with no trace: Generally by the end of the first week of
-   Fall and Spring semesters. Generally only through the first Tuesday
+   ful Fall and Spring semesters. Generally only through the first Tuesday
    of the semester for Summer session. 
 -  Withdrawal with only a W on the transcript, and no tuition due:
    Generally during the second week of Fall and Spring semesters.
@@ -710,9 +714,9 @@ Graduate students in the Computer Science Department are expected to maintain an
 of not less than B (3.0) during their course of study.
 Those who fail to meet this requirement may be 
 dismissed by the Graduate School. 
-No more than two grades below B and no grades of C- or less
+No more than two grades of C or C+ and no grades of C- or less
 may be counted as fulfilling degree requirements.
-*Still C-, D or F  do count to enormously drag down your cumulative GPA*.
+*Still C-, D or F  do count to enormously drag down your cumulative GPA!*
 
 .. index:: incomplete grade I
 
