@@ -35,8 +35,9 @@ section of the application form for the question:
 Be sure to note the application *deadlines* in the list below.  
 
 * Have excellent undergraduate performance, including all MS prerequisites.
-* International students should have a strong TOEFL or IELTS score 
-  (far above the admission requirements).
+* International students should have a strong TOEFL, IELTS or Loyola ESL score.
+  Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered
+  at all, and higher scores are preferable.
 * Submit excellent letters of recommendation for graduate admission.
 * Submit official GRE scores.
 * Have your application complete, with the request for a merit award *checked*,
@@ -57,7 +58,7 @@ if funds are available for the next academic year, and if the students
 maintain their academic and work standards.
 
 The aim is to announce the awards before April 15 for Fall, 
-and November for Spring.
+and in November for Spring.
 
 If you miss these deadlines you may apply in your first semester or later 
 as a *current* student.
@@ -90,7 +91,7 @@ School to take an extra English test on campus,
 The standards for TA's are *higher* than the
 entrance requirements.  Someone who did not score high enough on the Loyola
 test will be required to take ESL in the first semester after the exam, 
-and *pay the extra tuition*.  The 
+and *pay the extra tuition* - TA tuition awards may not be used.  The 
 cost has generally been about the same as one regular graduate academic credit.
 
 Graduate School Policies

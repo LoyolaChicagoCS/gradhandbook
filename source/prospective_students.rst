@@ -138,6 +138,10 @@ Department of Computer Science.
      service is accepted by Loyola.  If you are in a rush, you can pay extra
      for expedited service.
      
+     **A suggested exception to getting the** *general* **transcript evaluation:**
+     If you have international graduate level coursework after 4 years of 
+     college level work, see :ref:`international_transfer`.
+     
      Those students living abroad and seriously considering Loyola can write to the 
      Graduate Program Director at gpd@cs.luc.edu about waiving the 
      transcript evaluation fee. Be sure the *rest* of your application is
@@ -146,7 +150,7 @@ Department of Computer Science.
      time:  an official result is just needed before admission.
      Requesting that Loyola handle the evaluation will require *extra time*, 
      since the transcript forms must be received first by Loyola 
-     and sent off again to ECE.
+     and sent off again to Educational Perspectives.
 #.   International students (with the exception of U.S. citizens or permanent residents)
      must have their English certified *before* any kind of admission.  
      
@@ -252,8 +256,10 @@ The tuition fees for graduate students in the department is $965 per credit hour
 for year 2014--2015 and subject to change in the future years. 
 All of the graduate courses in our programs are 3 credit hours per term. 
 Hence the fee per course during fall 2014 through summer 2015 is $2,895. 
-The tuition fees for the entire Master's program, which has a 10-course requirement, 
-is $28,950. For more information on smaller semester fees please refer to the 
+The tuition fees for the entire Master's program, 
+which has a 10-course requirement, is $28,950, plus any incremental 
+increases in tuition for courses taken in later academic years. 
+For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 
 See also :ref:`teaching_assistantships` and :ref:`financial_aid`.

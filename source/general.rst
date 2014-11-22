@@ -124,7 +124,7 @@ The University maintains several Computer Centers which are available
 for your use in Sullivan Center, Information Commons, and at 25 E. Pearson.
 
 All university students are responsible for reading and following 
-http://www.luc.edu/its/policies/policy_access_use.shtml. 
+http://www.luc.edu/its/itspoliciesguidelines/policy_acceptableuse.shtml. 
 
 An account on the student email system is created automatically for each new student. 
 Both the GPD and the Graduate School will use this account 
@@ -183,13 +183,13 @@ Summer Sessions
 
 Summer sessions are offered through the Department each year, 
 running from May to August. There are two 6-week sessions and an 
-overlapping 8-week session.  Two to four graduate-level courses are generally 
-offered over these summer terms.
-
-We encourage research-minded students to consider 
-independent study with a department faculty member.
-
-Internships can also be arranged for summer.
+overlapping 8-week session.  Three to five graduate-level courses are generally 
+offered over these summer terms, plus:
+ 
+* :ref:`independent_study` with a department faculty member is
+  encouraged for research-minded students.  If you are starting in the summer,
+  this does not generally make sense.
+* :ref:`internships`.
 
 .. index:: housing
    apartments
@@ -205,6 +205,7 @@ For additional information, please see http://www.luc.edu/reslife or the links i
 http://www.luc.edu/gradschool/gradstudcmty.shtml.
 
 .. index:: transportation
+   parking
 
 Transportation
 --------------------------------------
@@ -218,15 +219,15 @@ Public buses and the “El” run frequently between campuses and to other
 points in the city.
 
 There is also parking available near the Lake Shore Campus.
-The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, 
-houses the Parking Office, where you may purchase a sticker for annual parking. 
+The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center. 
 The fee for one-day parking on campus is $7.00. 
 At peak class times, available parking can sometimes be scarce. 
 Street parking in the community immediately surrounding campus is scarce. 
 It is also restricted to residents during certain hours, 
 so be sure to read the signs carefully to avoid being ticketed by the police.
 
-Further information on parking is available at http://www.luc.edu/parking/.
+Further information on parking and longer term parking permits is available at 
+http://www.luc.edu/parking/.
 For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus.shtml.
 
 .. index:: publication
@@ -268,6 +269,7 @@ papers or sessions.
 (Forms are available at http://www.luc.edu/gradschool/servicesandresources_forms.shtml).
 
 .. index:: Career Center
+   jobs
 
 Career Center
 --------------------------------------
@@ -301,11 +303,10 @@ Department Awards
 --------------------------------------
 
 Each year the Department recognizes exceptional graduate students in all of 
-our degree programs. Awards are given for academics and service. 
+our degree programs. Awards are given for academics and service as described in
+http://www.luc.edu/cs/academics/awards/. 
 
-.. todo::
 
-   Want to add some text here about the various awards and past recipients thereof.
 
 
 
