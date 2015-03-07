@@ -206,7 +206,7 @@ Department of Computer Science.
          *   U.S. citizens and permanent residents.
          *   Students with Bachelor's or higher degree from accredited 
              institutions in the United States, 
-             United Kingdom, Canada, Australia or New Zealand, 
+             United Kingdom, Ireland, Canada, Australia or New Zealand, 
              who primarily attended their classes in those countries.  
              Students are exempt who 
              will complete one of these programs before matriculation at Loyola,
