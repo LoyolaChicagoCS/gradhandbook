@@ -248,16 +248,16 @@ long, you can roll your admission over to the next semester.
 Program Costs
 -------------
 
-.. DATE CHECK spring 2015
+.. DATE CHECK spring 2016
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
-The tuition fees for graduate students in the department is $965 per credit hour 
-for year 2014--2015 and subject to change in the future years. 
+The tuition fees for graduate students in the department is $1003 per credit hour 
+for year 2015--2016 and subject to change in the future years. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course during fall 2014 through summer 2015 is $2,895. 
+Hence the fee per course during fall 2014 through summer 2016 is $3009. 
 The tuition fees for the entire Master's program, 
-which has a 10-course requirement, is $28,950, plus any incremental 
+which has a 10-course requirement, is $30090, plus any incremental 
 increases in tuition for courses taken in later academic years. 
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
