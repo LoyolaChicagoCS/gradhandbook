@@ -255,7 +255,7 @@ The Master's program has a 10-course requirement
 The tuition fees for graduate students in the department is $1003 per credit hour 
 for year 2015--2016 and subject to change in the future years. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course during fall 2014 through summer 2016 is $3009. 
+Hence the fee per course during fall 2015 through summer 2016 is $3009. 
 The tuition fees for the entire Master's program, 
 which has a 10-course requirement, is $30090, plus any incremental 
 increases in tuition for courses taken in later academic years. 
