@@ -167,9 +167,9 @@ If you took these subjects elsewhere, you are not likely to have the exact
 same collection of topics, but if you are close, 
 there should not be much problem filling holes as needed. 
 
-**Expectations from COMP 170/ISOM 370**
+**Expectations from COMP 170**
 
-List of top ten concepts you should understand at the end of COMP 170/ISOM 370, 
+List of top ten concepts you should understand at the end of COMP 170, 
 Introductory Object Oriented Programming (in Java, C#, C++ or a similar
 language):
 
@@ -184,26 +184,26 @@ language):
 
 #. Know syntax rules and coding style
 
-   *   Learn the basic picky rules of Java syntax and use them correctly. 
+   *   Learn the basic picky rules of the language's syntax and use them correctly. 
        Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); 
        distinguish declarations and executable statements.
    *   Format code readably according to agreed upon style.
 
 #. Use conditional control structures fully and correctly
 
-   *   Construct programs with “if….then”, and “if….then…else”. 
+   *   Construct programs with “if”, and “if…else” decision statements. 
        Understand nesting of control statements and blocks ( “{“ and “}”).
    *   Briefly, “Nesting, blocks, no dangles”.
 
 #. Construct loops with control structures
 
-   *   Use “while”, “do”, and “for” control structures to 
+   *   Use “while” and “for” control structures to 
        implement algorithms successfully.
    *   Briefly, “avoid never ending loops, avoid off-by-one problems”
 
 #. Use the primitive types and operators appropriately
 
-   *   Understand the use and limitations of the primitive Java types.
+   *   Understand the use and limitations of the primitive language types.
    *   Know the most useful arithmetic, relational, and logical operators 
        and use them in expressions, with parentheses when necessary.
 
@@ -227,7 +227,7 @@ language):
 
 #. Be knowledgeable about important library container classes and arrays
 
-   *   Be able to declare and use containers like ArrayList and arrays. 
+   *   Be able to declare and use containers like arrays and Java ArrayList. 
        Understand how to find things in containers and arrays. 
        Use index variables effectively.
 
@@ -238,7 +238,7 @@ language):
 
 #. Understand OO Interfaces
 
-   *   Know how to define and use simple interfaces like List.
+   *   Know how to define and use simple interfaces like Java List or Comparable.
  
 **Expectations from Data Structures, COMP 271**
 
