@@ -89,7 +89,12 @@ LOCUS is that all MS students have a Dean's time limit block, but it does not
 activate until you have been an MS student for five years - do not worry about
 that one.  *You are strongly encouraged to check in Locus weeks before
 registration opens,* *to see if a block appears*, and get it addressed so it
-will not delay your registration.
+will not delay your registration.  
+
+Blocks can also suddenly appear later, so check again a few days before 
+registration opens.  Also, you may want to swap courses while it is still 
+allowed in the first week of classes.  Shortly before classes start, also
+check for a block.
 
 .. index:: course selection
    selecting courses
@@ -132,7 +137,7 @@ Note, SE and CS students with prior experience with the Comp 413 material can
 replace the Comp 413 course requirement: after consulting with your advisor,
 substitute one of the courses which has Comp 413 as a prerequisite.
 
-**Caution to Computer Science students**:  Comp 460 is required, and it is not
+**Caution to Computer Science program students**:  Comp 460 is required, and it is not
 offered every semester:  You may not be able to defer it!  Make sure you have
 arranged a place in your plans that fit with the semesters that it is offered. 
 
@@ -596,15 +601,17 @@ request to return to your original program!
 Transfer Credit
 ------------------
 
-By the end of your *first* semester, you can apply to transfer up to 6 credits
-of previous *graduate* work relevant to your current program.  Do not delay!
+The GPD must initiate an approval of course transfer after the second week of 
+classes but also before the end of your *first* semester.  
+*Email the GPD as a reminder*, after the second week of classes 
+and after we also have your transcript (and course by course evaluation for 
+international credits - see :ref:`international_transfer`).  Do not delay!
 Your official transcripts need to show B or better in relevant courses.  For
 conditionally admitted students, Loyola must already have the relevant official
-transcript. International students, see :ref:`international_transfer`.  In the
-unusual case where the transcript is only available after admission, get your
-*official* transcript to the GPD.  Although official transcripts are needed to
+transcript. Although official transcripts are needed to
 forward the request to the Grad School for final approval, you are welcomed to
-show unofficial transcripts to the GPD to see if you have appropriate courses.  
+show unofficial transcripts to the GPD to see if you have appropriate courses
+(but still send a reminder when the official documents are in).  
 
 Note:  All courses, including graduate courses in your first 4 years since the
 start of college, are considered part of your undergraduate education.  Only if
