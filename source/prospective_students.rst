@@ -76,10 +76,14 @@ help bolster your admissions case.
 If you are an international student please *also* note the 
 :ref:`additional_requirements_for_international_applicants`.
 
-#.   Completed application form (either completed 
-     `online <https://gpem.luc.edu/apply/>`_ with no fee or 
-     `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ 
-     and delivered on paper with a $50 fee).
+#.   Completed application form, preferably completed 
+     `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately
+     `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_
+     and delivered on paper *with a $50 fee*.
+     **Note**:  Not all graduate programs are available to students in all locations: 
+     The application may require you to fill in all the personal 
+     data before showing you all the programs that you can apply to.
+     
 #.   Those who would like to get financial assistance see 
      :ref:`teaching_assistantships` or for non-departmental
      financial aid see http://www.luc.edu/finaid/responsibilities_rights.shtml.
@@ -134,8 +138,9 @@ Department of Computer Science.
      for international evaluation and *allow 4-6 weeks* 
      for them to evaluate transcripts and get the results to Loyola. 
      `Educational-Perspectives <http://edperspective.org/>`_ 
-     can also be used as an alternative to ECE. No other transcript evaluation
-     service is accepted by Loyola.  If you are in a rush, you can pay extra
+     can also be used as an alternative to ECE. 
+     *No other transcript evaluation service is accepted by Loyola.*
+     If you are in a rush, you can pay extra
      for expedited service.
      
      **A suggested exception to getting the** *general* **transcript evaluation:**
@@ -146,8 +151,8 @@ Department of Computer Science.
      Graduate Program Director at gpd@cs.luc.edu about waiving the 
      transcript evaluation fee. Be sure the *rest* of your application is
      submitted when making this request, so it can be properly considered.
-     At least a copy of a passing English test score must be included at that
-     time:  an official result is just needed before admission.
+     Official notification of a passing English test score must be included at that
+     time.
      Requesting that Loyola handle the evaluation will require *extra time*, 
      since the transcript forms must be received first by Loyola 
      and sent off again to Educational Perspectives.
@@ -160,6 +165,9 @@ Department of Computer Science.
      recommendation for admission, *after* an 
      official passing English result is provided.  
      Later, the Graduate School Dean's approval is still needed for final admission.
+    
+     There is *no* official "conditional admission" before an official passing
+     English score is received.
      
      The Loyola Graduate School accepts just two approaches to the English 
      requirement, and a few explicit exceptions:
@@ -176,6 +184,9 @@ Department of Computer Science.
          *Do not request to be admitted with a lower score.*
          Loyola has no official program for conditional admission 
          without the required score.
+
+         Having your university courses officially offered in English does *not*
+         exempt you -- though it should make pasing the English exam easier.
      
          You can *retake* an English exam as many times as you need
          *before* admission to get up to a passing grade. 
@@ -238,7 +249,7 @@ Though there is no admission deadline,
 be sure to leave time to get the necessary official English test results and 
 transcript evaluations to Loyola before admission, 
 and allow time after admission for obtaining a visa.  If the process takes too 
-long, you can roll your admission over to the next semester.
+long, you can request to roll your admission over to the next semester.
 
 
 .. index:: program costs
