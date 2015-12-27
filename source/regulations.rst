@@ -43,23 +43,25 @@ Registration
 --------------------------------
 
 Both new and continuing students must complete the process of registration
-before every semester in which they are either attending classes or writing a
-thesis (applicable only to MS Computer Science students opting to complete a
-thesis). For details on choosing courses see :ref:`course_selection` and
+before every semester in which they are either enrolling in classes (or for 
+MS Computer Science students opting to complete a
+thesis who are only writing a thesis). For details on choosing courses see :ref:`course_selection` and
 :ref:`advising` below.
 
-Students must maintain continual registration throughout their years in the
+*Students must maintain continual registration throughout their years* in the
 program unless they explicitly apply for and are approved for a
 :ref:`leave_of_absence`.  You must also announce your decision to come back
 from a Leave of Absence with an email to the Associate Dean of the Graduate
 School.  Only after the Graduate School accepts your letter announcing your
-plan to return, will you be allowed to register for classes.
+plan to return, will you be allowed to register for classes.  Forgetting this
+can cause lots of hassle and delay in registration for the semester when
+you do wish to resume.
     
 After registration opens you can register yourself through LOCUS for most
 courses with just your student ID number. 
 
 *New students should get course advising first from the department*, and all
-others are welcomed to get advising. 
+others are welcomed to get advising from their advisor listed in Locus. 
 
 .. index:: permission required
  
@@ -139,7 +141,8 @@ substitute one of the courses which has Comp 413 as a prerequisite.
 
 **Caution to Computer Science program students**:  Comp 460 is required, and it is not
 offered every semester:  You may not be able to defer it!  Make sure you have
-arranged a place in your plans that fit with the semesters that it is offered. 
+arranged a place in your plans that fit with the semesters that it is offered
+and with your prerequisite preparation in algorithms. 
 
 .. index:: advising
 
@@ -152,8 +155,8 @@ Newly admitted students should first consult with the Graduate Program Director
 before registering for courses. A discussion with the GPD is particularly
 important if there is any question of a student's prerequisite preparation.
 
-Before the next registration period, you should be provided an individual
-faculty advisor for the rest of your studies.  Later registration choices
+Before the *next* registration period, you should be provided an individual
+faculty advisor for the rest of your studies.  This advisor should be listed in Locus.  Later registration choices
 should be taken up with your advisor.
 
 .. index:: online courses
@@ -163,7 +166,7 @@ should be taken up with your advisor.
 Online Courses
 ----------------
 
-Nhile the majority of our courses are face to face in regularly scheduled class
+While the majority of our courses are face to face in regularly scheduled class
 sessions (likely with *some* online interaction), other courses can be done
 *totally* online.  The learning objectives and outcomes of online courses are
 the same as for face-to-face classes, but obviously with a somewhat different
@@ -182,8 +185,7 @@ The `long-term schedule
 <http://courses.cs.luc.edu/html/longtermschedule.html>`_ includes an indication
 of what courses to expect to be online.
 
-At present there is no guarantee of being able to complete a degree totally
-online, though we are moving in that direction with increased offerings.
+At least part-time completion of an MS IT degree is possible, though it will restrict elective options, and only some tracks can be completed full-time.
 
 .. index:: F-1 online limiting rules
 

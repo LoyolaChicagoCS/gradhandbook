@@ -46,7 +46,10 @@ Admissions
 Applications are continuously evaluated and students 
 will be promptly admitted to the nearest starting term or semester.    
 Earlier admission means that you get to register online for classes earlier,
-and some classes may fill up.  See :ref:`new_student_merit`, for 
+and some classes may fill up.  In particular, registration for fall starts in April, for spring in late October, and for summer in February.  It is to your advantage to be admitted before those times for the earliest access to registration. 
+
+While *regular* admission does not have a deadline, 
+see :ref:`new_student_merit`, for 
 *application deadlines to be considered for such an award*.
 
 **Prerequisites**:  
@@ -91,7 +94,9 @@ If you are an international student please *also* note the
      post-baccalaureate work still in sealed envelopes sent from the academic 
      institution. Do not open such envelopes yourself.  If you do not have
      easy access to the sealed official documents, you can *initially* submit
-     copies for a *conditional* admission.
+     copies for a *conditional* admission.  You can send a transcript in the semester before your graduation, showing all the courses you will be having for graduation, even though grades are still missing from the final courses,
+     for condidtional admision.
+     In all cases final officially-sent transcripts are required by the end of your first semster at Loyola.
 #.   GRE scores are not required for admission. 
      If you choose to submit them, Loyola's institutional code is 1412; 
      the department code is not needed. 
@@ -141,7 +146,8 @@ Department of Computer Science.
      can also be used as an alternative to ECE. 
      *No other transcript evaluation service is accepted by Loyola.*
      If you are in a rush, you can pay extra
-     for expedited service.
+     for expedited service.  If you do *not yet have your undergraduate degree*, it is important that you send transcripts to the evaluator 
+     *in your final semester*, when all your final courses are shown, though some without grades.  The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed.
      
      **A suggested exception to getting the** *general* **transcript evaluation:**
      If you have international graduate level coursework after 4 years of 
@@ -186,7 +192,7 @@ Department of Computer Science.
          without the required score.
 
          Having your university courses officially offered in English does *not*
-         exempt you -- though it should make pasing the English exam easier.
+         exempt you -- though it should make passing the English exam easier.
      
          You can *retake* an English exam as many times as you need
          *before* admission to get up to a passing grade. 

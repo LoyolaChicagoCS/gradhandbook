@@ -62,15 +62,12 @@ The phone number for the Graduate School is (773) 508-3396.
    	:header: "Person", "Role", "Contact e-mail"
    	:widths: 15, 15, 15
 
-   	"Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
-   	"Patricia Mooney Melvin, PhD", "Associate Dean", "pmooney@luc.edu"
-   	"Samual Attoh, PhD", "Dean", "sattoh@luc.edu"
+   	"Patricia Mooney Melvin, PhD", "Acting Dean", "pmooney@luc.edu"
+    "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
+ 
 
-
-Associate Deans Mooney-Melvin and Horowitz 
-are your primary contacts for inquiries. 
-We recommend that you contact the department faculty and
-staff first unless your matter absolutely requires Graduate School assistance.
+We strongly recommend that you contact the department faculty and
+staff first unless your matter absolutely requires direct Graduate School assistance.
 
 .. index:: Graduate Program Director - GPD
 
@@ -82,8 +79,9 @@ your first adviser will be the  Graduate Program Director (abbreviated **GPD**),
 gpd@cs.luc.edu. 
 The current director is Dr. Andrew N. Harrington. 
 You are expected to confer with him about your initial course of study 
-in pursuit of your degree. You should be assigned an advisor for later semesters.
-You are encouraged to meet with the Director at other times as well to discuss 
+in pursuit of your degree. You should be assigned an advisor for later semesters
+to consult about the progression of your academic program. 
+The GPD is also available for further discussion of 
 your progress in the program and your future plans. 
 
 ..  need?
@@ -200,9 +198,9 @@ Housing
 Most graduate students choose to find their own off-campus apartments 
 using the ads in the Reader, the Tribune, and other publicly available sources. 
 Loyola’s Department of Residence Life also offers single- and double-occupancy 
-apartments for graduate students on the Lakeshore Campus and the Water Tower Campus. 
-For additional information, please see http://www.luc.edu/reslife or the links in
-http://www.luc.edu/gradschool/gradstudcmty.shtml.
+apartments for graduate students on the Lakeshore Campus and the Water Tower Campus, though these fill rapidly. 
+For additional information, please see the links in
+http://www.luc.edu/gradschool/gradstudcmty.shtml under Where To Live.
 
 .. index:: transportation
    parking
@@ -211,16 +209,18 @@ Transportation
 --------------------------------------
 
 Parking is available near the Water Tower Campus, although it is rather expensive. 
-You can have your parking stub stamped at the information desk 
-at the 25 E. Pearson building to receive a modest discount. 
+For sites listed in
+http://www.luc.edu/campustransportation/generalinformation/watertowercampus/
+you can have your parking stub stamped at the information desk 
+at the 25 E. Pearson building to receive a discount. 
 As a current student, you will also want to acquaint yourself with the 
 University’s inter-campus shuttle bus service. 
 Public buses and the “El” run frequently between campuses and to other 
 points in the city.
 
 There is also parking available near the Lake Shore Campus.
-The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center. 
-The fee for one-day parking on campus is $7.00. 
+The main parking structure is adjacent to Sheridan Road and to the Halas Sports Center. 
+The fee for one-day parking on campus is $7.00 or more. 
 At peak class times, available parking can sometimes be scarce. 
 Street parking in the community immediately surrounding campus is scarce. 
 It is also restricted to residents during certain hours, 
