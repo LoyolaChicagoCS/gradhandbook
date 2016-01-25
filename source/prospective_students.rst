@@ -148,7 +148,9 @@ Department of Computer Science.
      If you are in a rush, you can pay extra
      for expedited service.  If you do *not yet have your undergraduate degree*, it is important that you send transcripts to the evaluator when all your final courses are shown, though some without grades.  This is
      usually 
-     *in your final semester*,  The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).
+     *in your final semester*.  The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).  The conditional
+     admission requires the university to receive another official transcript, showing degree completion, though this
+     transcript can be sent to Loyola during your first semester here as a student.
      
      **A suggested exception to getting the** *general* **transcript evaluation:**
      If you have international graduate level coursework after 4 years of 
