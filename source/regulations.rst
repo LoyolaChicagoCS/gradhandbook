@@ -313,9 +313,10 @@ the work permit. The form to start CPT can be found `here
 <http://www.luc.edu/iss/forms.shtml>`_.
 
 The CPT can be tied to an academic course in either of two ways. You get a
-signature on the CPT application differently in the two cases.  *Be sure
-completely fill out the form except for the faculty signature and date* *before
-looking for a signature!* Do not leave us to guess which of the two options you
+signature on the CPT application differently in the two cases.  
+*Be sure to completely fill out the form except for the faculty signature and date* 
+*before looking for a signature!* 
+Do not leave us to guess which of the two options you
 want:
 
 * You can take the Comp 499 course specifically for :ref:`internships`,
