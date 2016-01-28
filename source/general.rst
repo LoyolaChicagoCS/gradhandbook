@@ -33,7 +33,7 @@ Department Office and Personnel
 
 The following folks are here to help you.
 
-.. csv-table:: Computer Science Department Personnel
+..  csv-table:: Computer Science Department Personnel
    	:header: "Person", "Role", "Contact e-mail"
    	:widths: 15, 15, 15
 
@@ -57,17 +57,18 @@ This office handles admissions and financial aid,
 and houses the permanent files of all students throughout their graduate careers. 
 The phone number for the Graduate School is (773) 508-3396. 
 
-
-.. csv-table:: Graduate School Personnel
-   	:header: "Person", "Role", "Contact e-mail"
-   	:widths: 15, 15, 15
+..  csv-table:: Graduate School Personnel
+    :header: "Person", "Role", "Contact e-mail"
+    :widths: 15, 15, 15
 
    	"Patricia Mooney Melvin, PhD", "Acting Dean", "pmooney@luc.edu"
     "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
+    "Elaine Goetz", "Office Assistant", "egoetz@luc.edu"
  
 
 We strongly recommend that you contact the department faculty and
-staff first unless your matter absolutely requires direct Graduate School assistance.
+staff first unless your matter absolutely requires direct Graduate School assistance,
+and then your contact is most likely Ms. Goetz.
 
 .. index:: Graduate Program Director - GPD
 

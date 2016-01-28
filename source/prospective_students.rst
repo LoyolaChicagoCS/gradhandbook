@@ -29,6 +29,8 @@ Overview of Loyola MS Programs' Strengths
     less if you can get two courses of transfer credit
 *   Opportunity for discipline changers to be accepted and take 
     prerequisites with us on a compressed schedule 
+*   Options for a mix of face-to-face and online classes.
+    *Now the IT degree is available either campus-centric or entirely online*.
 
 Look in the courses document for the details of the individual 
 `Masters Programs <http://courses.cs.luc.edu/html/masters_overview.html>`_.
