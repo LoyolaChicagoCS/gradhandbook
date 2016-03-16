@@ -8,11 +8,13 @@ Teaching Assistantships
 
 Each year the Computer Science department offers a small number of graduate assistantships 
 for new and continuing students. Assistantships are competitive and
-target students with exceptional 
+target students with exceptional interpersonal and
 computing background, regardless of which degree you are pursuing.  
-Teaching-assistantship duties are assigned for up to 18 hours per week 
-in computer labs, in support of faculty research projects, 
+Teaching-assistantship duties are assigned for up to 19.5 hours per week 
+in computer labs, in support of faculty teaching or research projects, 
 or in network or web support in the department.
+
+New merit awards are not given for summer semesters.
 
 Research Assistantships in computer science may also be available from 
 time to time depending upon the availability of faculty research grants. 
@@ -28,28 +30,24 @@ All applications are initially reviewed by the Graduate Program Director.
 New Student Assistantships
 --------------------------
 
-New applicants to the Master's programs in computer science who wish to apply 
-for financial support should check the box under the Merit Award Information 
-section of the application form for the question: 
-"Do you wish to be considered for a Merit Award?".  
+New applicants to the Master's programs in computer science should 
+get an email from the GPD when admission is first recommended.  
+This email should have a link near the end to a form to apply for a TA award.
 Be sure to note the application *deadlines* in the list below.  
 
+* Have your application complete
+  by the **deadline** date of *March 15 for Fall admission* or 
+  *October 15 for Spring admission*.  Promptly fill out the
+  form at the link provided by the GPD when acknowledging your
+  admission recommendation.  Make sure in your application
+  that you had an *email address that you check regularly*, or update
+  your current email address with the GPD (gpd@cs.luc.edu).
 * Have excellent undergraduate performance, including all MS prerequisites.
 * International students should have a strong TOEFL, IELTS or Loyola ESL score.
   Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered
   at all, and higher scores are preferable.
 * Submit excellent letters of recommendation for graduate admission.
 * Submit official GRE scores.
-* Have your application complete, with the request for a merit award *checked*,
-  by the **deadline** date of *March 15 for Fall admission* or 
-  *October 15 for Spring admission*.
-  New merit awards are not given for summer semesters.
-* Around  the deadline date, or shortly thereafter, promptly fill out the
-  online form at a URL  
-  emailed from the GPD. The form asks for more information
-  to help the department choose awardees. Make sure in your application
-  that you had an *email address that you check regularly*, or update
-  your current email address with the GPD (gpd@cs.luc.edu).
 
 For new students who receive an assistantship, it is customary for the department
 to make a commitment to the end of the academic 

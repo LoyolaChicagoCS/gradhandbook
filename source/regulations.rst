@@ -21,8 +21,7 @@ Course Loads
 --------------------------------
 
 A full-time student will usually carry three courses in fall and spring
-semesters. Course loads for part-time students are worked out on an individual
-basis. 
+semesters. Students can also choose to be part-time. 
 
 We do not encourage students to take more than 3 courses a term, and you should
 contact the Graduate Program Director if you need to take more than 3 courses
@@ -45,7 +44,8 @@ Registration
 Both new and continuing students must complete the process of registration
 before every semester in which they are either enrolling in classes (or for 
 MS Computer Science students opting to complete a
-thesis who are only writing a thesis). For details on choosing courses see :ref:`course_selection` and
+thesis who are only writing a thesis). 
+For details on choosing courses see :ref:`course_selection` and
 :ref:`advising` below.
 
 *Students must maintain continual registration throughout their years* in the
@@ -67,31 +67,48 @@ others are welcomed to get advising from their advisor listed in Locus.
  
 *You cannot register yourself for Comp 490 or 499* as both require permission
 of the GPD or instructor of record. See sections :ref:`independent_study` and
-:ref:`internships`. Other courses that can have complications registering and
-dropping are the CSIS courses, depending on when you want to register for or
-drop a course. See :ref:`CSIS_courses` below.
+:ref:`internships`. 
+
+..  CSIS
+    Other courses that can have complications registering and
+    dropping are the CSIS courses, depending on when you want to register for or
+    drop a course. See :ref:`CSIS_courses` below.
 
 In any course where there is a note about *consent or permission required*, you
 must make a direct emailed request to the department, *clearly stating* the
 course and *section* (if more than one is offered) and *semester*, and number
 of *credits* if that is variable. If you are asking for a course that requires
-permisison of the instructor, please add your direct request to an approving
+permission of the instructor, please add your direct request to an approving
 email that you forward from the instructor.  The department then gives consent
 and *does your registration administratively*.  Within a few days you should
 confirm in Locus that your request was correctly entered.
 
 .. index:: registration blocks
+   block on registration
 
-It is in your best interest to register early, to get into sections you want
-and have ample time to detect and clear up any possible registration block that
-may have been placed.  Common examples are an immunization block, a conditional
-admission block, or a bursar block.  Students have been given late fees or had
+It is in your best interest to register early, to get into sections you want.
+Registration blocks can get in your way.
+Common examples are an immunization block, a Dean of Students data block,
+a conditional admission block, or a bursar block.  
+Students have been given late fees or had
 a lot of trouble due to delay from such blocks.  One misleading feature in
 LOCUS is that all MS students have a Dean's time limit block, but it does not
 activate until you have been an MS student for five years - do not worry about
-that one.  *You are strongly encouraged to check in Locus weeks before
+that one.  
+
+*You are strongly encouraged to check in Locus weeks before
 registration opens,* *to see if a block appears*, and get it addressed so it
 will not delay your registration.  
+
+In Locus you can see the kind of block that is present by clicking on the red blocked symbol 
+(a slash mark through a circle).  Do check.
+
+*The only block that the GPD has power to address is a probation block*, and
+that requires you to contact the GPD and have a talk.  
+Asking for department help for other blocks
+is only going to waste everyone's time.  Instead deal with the office that 
+added and controls the block:  
+wellness center, Dean of Students, GPEM, bursar.... 
 
 Blocks can also suddenly appear later, so check again a few days before 
 registration opens.  Also, you may want to swap courses while it is still 
@@ -111,8 +128,7 @@ courses you are interested in.
 
 Some time before registration opens there should be a link under
 http://www.luc.edu/cs/schedules/ labeled with the name of the upcoming semester
-with a detailed list of courses to be offered, with links to the individual
-course descriptions and recent syllabi.
+with a detailed list of courses to be offered.
 
 Before that, or looking further ahead, you can look at the long-term schedule,
 showing what courses are planned for what semesters:
@@ -122,7 +138,8 @@ look at the long-term schedule to see which of those courses you could defer
 until it is offered again.  
 
 Detailed descriptions of most of these courses are in
-http://courses.cs.luc.edu/html/
+http://courses.cs.luc.edu/html/#graduate-courses
+This a good place to have open when you ae looking for courses.
 
 Comp 271 is the prerequisite for most graduate courses, but Comp 413,
 Intermediate Object-Oriented Programming, is a prerequisite for the most
@@ -130,7 +147,8 @@ advanced software courses.  Many students, with even a strong undergraduate
 computer science background, have not had the subject matter described in
 http://courses.cs.luc.edu/html/comp413.html.  If you are in either the MS in SE
 or CS program, and have not had much of this material, it is a good course to
-*start* with (offered every fall and spring), since it is required of both
+*start* with (offered every fall and spring, and likely summer), 
+since it is required of both
 programs, and you want to be able to later get into the courses that have it as
 a prerequisite.  IT students who want to mix in more software-centric electives
 should also consider Comp 413.
@@ -142,7 +160,7 @@ substitute one of the courses which has Comp 413 as a prerequisite.
 **Caution to Computer Science program students**:  Comp 460 is required, and it is not
 offered every semester:  You may not be able to defer it!  Make sure you have
 arranged a place in your plans that fit with the semesters that it is offered
-and with your prerequisite preparation in algorithms. 
+and *following* your prerequisite preparation in algorithms. 
 
 .. index:: advising
 
@@ -178,18 +196,27 @@ synchronous small-group sessions, 1-1 with instructor online, threaded
 discussions, wiki contributions, totally asynchronous involvement as long as
 you are active each day, ....
  
-There may be notes in the course list beside an online course.  If you want
+There should be notes in the course list beside an online course.  Unfortunately
+if you look directly in Locus, you do not see it with the course title, 
+but need to click on the section link.  If you want
 more details about the format, contact the instructor.
 
-The `long-term schedule
-<http://courses.cs.luc.edu/html/longtermschedule.html>`_ includes an indication
+The `long-term schedule <http://courses.cs.luc.edu/html/longtermschedule.html>`_ 
+includes an indication
 of what courses to expect to be online.
 
-At least part-time completion of an MS IT degree is possible, though it will restrict elective options, and only some tracks can be completed full-time.
+At least part-time completion of an online MS IT degree is possible, 
+though it will restrict elective options, 
+and only some tracks can be completed full-time.
+
+If you are only taking courses online, you would do well to 
+be in the program with code
+ITEO-MS (IT Entirely Online).  This will give you an advantage in signing up
+for online courses before other students.
 
 .. index:: F-1 online limiting rules
 
-**F-1 students**:  Note that in the semesters that you are supposed to be
+**F-1 visa students**:  Note that in the semesters that you are supposed to be
 full-time, you may have only one online course, and at least one course must
 not be online.  If you are not required to be in school in a semester 
 (commonly summer), there are no restrictions.  Please confer with the Office
@@ -222,8 +249,8 @@ then confirm the details of the agreement in an email to the faculty
 supervisor, being sure to include the exact *semester and credit hours* that
 your have agreed on. The supervisor then forwards the email with his or her
 approval to the *graduate secretary*, so she can register you. Your agreement
-does *not* go to the GPD.  The GPD approves internships, but not independent
-study.
+does *not* go to the GPD, unless you will end up with a total of more credits
+of 490+499 than the normal 6 credit limit.
 
 These courses are for 1-6 credits. See the section below on variable hour
 courses. We rarely allow students to take more than 6 total credits in their
@@ -236,7 +263,6 @@ http://www.luc.edu/media/lucedu/gradschool/pdfs/Request%20for%20Course%20Title.p
 The Graduate Program Director must sign this form.  This is very useful when
 someone else is reading your transcript: Plain "Independent Study" on your
 transcript is totally uninformative!
-
 
 
 .. index:: internships Comp 499
@@ -325,7 +351,7 @@ want:
   GPD will get the application 
   completed and forwarded to the OIP with the job offer.
 * For no extra
-  tuition you are likely to be able to tie it to a course you are
+  tuition you can generally tie it to a course you are
   already planning to take. There is a section of the CPT application for this.
   You can get the *signature on the CPT form of an instructor* to pair the
   internship with a course in the same semester, *or for a fall course*
@@ -336,6 +362,7 @@ want:
   and the course instructor is responsible for determining any extra
   reporting or work you do to tie the internship to the instructor's
   course.  *You may need to send the CPT form and job offer to the OIP yourself.*
+  The GPD's signature can substitute for the instructor's.
 
 
 .. index:: F-1 full-time in summer
@@ -346,7 +373,7 @@ want:
 F-1 Summer Full-time Status
 ----------------------------
 
-F-1 students who do not start in summer, do not need to study at all in the
+F-1 visa students who do not start in summer, do not need to study at all in the
 summer as long as they are full-time in each fall and spring until they finish.
 For them, summer courses are optional.  (In the semester that you finish up,
 you are automatically full-time, even if you have only 1-2 courses left, though
@@ -357,16 +384,16 @@ F-1 students starting in summer do need to be classified as full-time.  Also
 students who start in spring may find it convenient to be full-time in summer
 to allow :ref:`cpt` to start a semester earlier than otherwise.
 
-To have summer count automatically as full time for an F-1 student, you need to
-be taking 9 credits in total among all the different summer sessions.  This is
+To have summer count automatically as full time for an F-1 student, you can
+take 9 credits in total among all the different summer sessions.  This is
 hard to do for two reasons: It is a lot of work to cram 3 courses into 12
 weeks, and we offer a limited number of courses in summer, so it may be hard to
 fit your interests with 3 courses.  These restrictions allow for a possible
-opening: With permission from the GPD and OIP, one time in your F-1 career you
-are allowed to take fewer courses and still be counted as full-time.  You can
-ask the GPD to approve this reduction in summer because of the issues listed
-above.  You are *cautioned* that if you do this, *you cannot make such a
-reduction for a later semester*, even if you have a good reason, like illness.
+opening: With permission from the GPD and OIP, you can get a waiver so you
+are allowed to take fewer courses (generally 2) 
+and still be counted as full-time.  
+You can ask the GPD to approve this reduction in summer 
+because of the issues listed above.  
 
 Be sure to check with the OIP for the exact current details and correct forms
 to ask the GPD to sign.
@@ -429,20 +456,20 @@ courses actually start), then you should be able to do your registration
 changes by yourself, online, in LOCUS, with no problem.  Please do that where
 possible.  On the other hand, **if you want to make changes closer to the time
 Winter and Spring Quarter** **courses actually start**, you should make all
-registraion requests through the GPD, gpd@cs.luc.edu.  Since the department
+registration requests through the GPD, gpd@cs.luc.edu.  Since the department
 ends up making registration changes which are very important to you, we need
 explicit directions and you need to indicate clear knowledge of the
 ramifications of your choices.  Include the following in your email:
 
 **Registration request** to gpd@cs.luc.edu after the normal LOCUS semester
-registration time limit and before the GSB registeration time limit for Winter
+registration time limit and before the GSB registration time limit for Winter
 or Spring: 
 
 #. Include a direct request like "Please register me for CSIS XXX
    Section YYY for ZZZ Quarter." *not* an indirect question like "Would
    it be OK if I register for....?"
 #. Include your full name and Student ID number.
-#. Explicitly acknowledge the drop deadlines and the timeframe and
+#. Explicitly acknowledge the drop deadlines and the time-frame and
    manner you must notify us to get you dropped (as further discussed
    below).   You could include something like "I know I must email you
    with an explicit request to drop the course by XX/XX/XXXX if I want
@@ -506,7 +533,7 @@ http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receiv
 In case the URL changes, it should be listed on the Graduate School Forms page
 under Late Application for Graduation.
 
-If your last course is a CSIS course in Winter Quarter, register for Spring
+If your last course is a CSIS/business course in Winter Quarter, register for Spring
 graduation, even though Winter Quarter courses are listed under Fall semester
 in LOCUS.  Of course you will not really graduate until after Winter Quarter
 courses end in February.
@@ -572,7 +599,7 @@ semester. Once you are registered, merely not attending class does **NOT**
 extend these dates.
 
 -  Withdrawal with no trace: Generally by the end of the first week of
-   ful Fall and Spring semesters. Generally only through the first Tuesday
+   full Fall and Spring semesters. Generally only through the first Tuesday
    of the semester for Summer session. 
 -  Withdrawal with only a W on the transcript, and no tuition due:
    Generally during the second week of Fall and Spring semesters.
@@ -588,6 +615,8 @@ The categories are the same for CSIS courses, but the procedures can be
 more complicated.  See the section on CSIS Courses above.
 
 .. index:: changing MS programs
+   program codes
+   Locus program codes
 
 Changing your chosen MS Program
 -----------------------------------------------------------
@@ -598,6 +627,19 @@ Degree Seeking.  You will need to include a statement about why you want to
 change the program.  Do think carefully.  The Dean is less likely to approve a
 request to return to your original program! 
 
+You are likely to need to select a program by Locus code, 
+which are not all really informative: 
+
+* ITEC: Information technology (allowing face-to-face)
+* ITEO: Information technology entirely online
+* SWEN: Software Engineering
+* COMP  Computer Science
+
+These all have alternatives ending with "D", for dual, 
+like  SWEN-MS D:  this is only 
+for Loyola BS/MS students.
+
+
 .. index:: transfer credit
 
 .. _transfer_credit:
@@ -605,14 +647,16 @@ request to return to your original program!
 Transfer Credit
 ------------------
 
-The GPD must initiate an approval of course transfer after the second week of 
+The GPD must initiate an approval of course transfer after the first month of 
 classes but also before the end of your *first* semester.  
-*Email the GPD as a reminder*, after the second week of classes 
+*Email the GPD as a reminder*, after the first month of classes 
 and after we also have your transcript (and course by course evaluation for 
 international credits - see :ref:`international_transfer`).  Do not delay!
 Your official transcripts need to show B or better in relevant courses.  For
 conditionally admitted students, Loyola must already have the relevant official
-transcript. Although official transcripts are needed to
+transcript. 
+
+Although official transcripts are needed to
 forward the request to the Grad School for final approval, you are welcomed to
 show unofficial transcripts to the GPD to see if you have appropriate courses
 (but still send a reminder when the official documents are in).  
@@ -635,7 +679,7 @@ http://www.ece.org/, or Educational Perspectives,
 http://www.educational-perspectives.org/, for *admission*, but they need a
 *course by course* evaluation to *transfer* international graduate credit.  If
 you are expecting to get transfer credit, it is most economical to ask for the
-course by course evaluation the first time transcripts are submitted to an
+course by course evaluation the *first* time transcripts are submitted to an
 evaluator.
 
 .. index:: grades
@@ -653,9 +697,15 @@ The grading system used in the Graduate School is as follows:
 	"A-",3.67
 	"B+",3.33
 	"B",3.00
-	"B-“",2.67
+	"B-",2.67
 	"C+",2.33
 	"C",2.00
+
+Grades of C-, D or F are unfortunately possible.  
+They cause enormous issues for two reasons:
+
+* They do NOT count as credits toward the MS degree
+* However, they ARE counted in the GPA - an enormous drag on the cumulative GPA!
 
 .. csv-table:: Other Grading Codes
    	:header: "Grade", "Explained"
@@ -665,10 +715,7 @@ The grading system used in the Graduate School is as follows:
 	"I","Incomplete"
 	"W","Withdrawal"
 	"WF","Withdrawal, Failure"
-	"CR","Credit"
-	"NC","No Credit"
-	"AU","Audit"
-
+	
 For further information on Loyola's grading policy, consult the Graduate School
 Catalog located here: http://www.luc.edu/gradschool/academics_policies.shtml.
 
@@ -678,9 +725,8 @@ Catalog located here: http://www.luc.edu/gradschool/academics_policies.shtml.
 Graduate students in the Computer Science Department are expected to maintain
 an average of not less than B (3.0) during their course of study.  Those who
 fail to meet this requirement may be dismissed by the Graduate School.  No more
-than two grades of C or C+ and no grades of C- or less may be counted as
-fulfilling degree requirements.  *Still C-, D or F  do count to enormously drag
-down your cumulative GPA!*
+than two grades of C or C+ can be counted toward the degree (while further
+such grades do drag down the GPA).
 
 .. index:: incomplete grade I
 
@@ -690,7 +736,8 @@ Incomplete Grade
 Faculty may assign the grade of I to a student who has not completed the
 assigned work by the end of the term for some good reason.  This grade is *not*
 assigned automatically.  It is up to the student to explain the circumstances
-and work out a plan with the instructor, including a deadline, for completing
+and work out a plan with the instructor before the end of the course, 
+including a deadline, for completing
 the work for the course. 
 
 Under the Graduate School regulations, a student has one semester to complete
@@ -717,10 +764,11 @@ Academic Honesty
 Although academic dishonesty can take many forms, in our field it manifests
 primarily as plagiarism of text or source code.  The Graduate School Catalog
 defines plagiarism as "the appropriation for gain of ideas, language or work of
-another without sufficient public acknowledgement that the material is not
+another without sufficient public acknowledgment that the material is not
 one's own."  As a graduate student, you very likely have a good understanding
 of the boundaries of what is acceptable and what is not.  If you are ever
-uncertain, it is of course best to consult the GPD or another faculty member.
+uncertain, it is of course best to consult your instructor, 
+the GPD or another faculty member.
 
 The penalty for an instance of plagiarism is, at a minimum, failure on the
 assignment, which may well be tantamount to failure in the course.  A serious
@@ -738,8 +786,11 @@ problems they encounter in the academic process through informal discussion.
 If you are unable to resolve a problem with a member of the staff or faculty,
 or if you wish to lodge a formal complaint, you should first meet to discuss
 the matter with the GPD. If the problem cannot be satisfactorily resolved by
-the GPD, it will be taken up by the Department Chair.  Violations of the
-University's ethical standards not resolvable within the Department may call
-for the use of the Graduate School's grievance procedure.  Students wishing to
-initiate a grievance must do so in writing to the Dean.  Further information
+the GPD, it will be taken up by the Department Chair.  Unfortunately
+fully addressing a grievance within the department can take considerable time.
+The student must be patient.  
+If a student is not satisfied with the decision within the department, then
+*after* the departmental decision, not earlier, the student may wish to
+initiate a grievance in writing to the Dean.  Further information
 can be obtained from the Graduate School office.
+

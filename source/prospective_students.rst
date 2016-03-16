@@ -85,29 +85,44 @@ If you are an international student please *also* note the
      `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately
      `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_
      and delivered on paper *with a $50 fee*.
-     **Note**:  Not all graduate programs are available to students in all locations: 
-     The application may require you to fill in all the personal 
-     data before showing you all the programs that you can apply to.
+     
+     This form is used for many programs in the graduate school, and 
+     not all graduate programs are available to students in all locations: 
+
+     .. warning  
+        The application requires you to fill in *all* the personal 
+        data before showing you all the programs that you can apply to 
+        and other parts of the form.
      
 #.   Those who would like to get financial assistance see 
      :ref:`teaching_assistantships` or for non-departmental
      financial aid see http://www.luc.edu/finaid/responsibilities_rights.shtml.
 #.   Submit official English transcripts of all undergraduate work and any 
-     post-baccalaureate work still in sealed envelopes sent from the academic 
-     institution. Do not open such envelopes yourself.  If you do not have
-     easy access to the sealed official documents, you can *initially* submit
-     copies for a *conditional* admission.  You can send a transcript in the semester before your graduation, showing all the courses you will be having for graduation, even though grades are still missing from the final courses,
-     for condidtional admision.
+     post-baccalaureate work either
+
+     * by official electronic submission between your institution and Loyola or
+     * still in sealed envelopes sent from the academic 
+       institution. *Do not open such envelopes yourself.*  If you do not have
+       easy access to the sealed official documents, you can *initially* submit
+       copies for a *conditional* admission.
+
+     You can send a transcript *in the semester before your graduation*, 
+     showing all the courses you will be having for graduation, 
+     even though grades are still missing from the final courses,
+     and still be eligible for conditional admission.  
+     Do *not send transcripts too early* to show a 
+     listing of all the courses you will end up taking for your degree.
      In all cases final officially-sent transcripts are required by the end of your first semster at Loyola.
+
 #.   GRE scores are not required for admission. 
      If you choose to submit them, Loyola's institutional code is 1412; 
      the department code is not needed. 
      GRE scores, however, are expected if you are applying for a merit award 
      ( :ref:`teaching_assistantships` ), 
-     and you are not already a Loyola student.
+     and if you are not already a Loyola student.
 #.  Three letters of recommendation. 
-    These are usually from referees familiar with the applicant's academic work, 
-    however, if the applicant has been out of school for a long time, 
+    These are usually from referees familiar with your academic work, 
+    however, if you have been out of school for a long time, 
     then letters of recommendation from co-workers or supervisors 
     will be acceptable.
 
@@ -134,7 +149,7 @@ Additional Requirements for International Applicants
 
 Do not forget the :ref:`requirements_for_all_applicants`.  Here are 
 *additional* requirements and an option for international student admission 
-to a graduate degree program in the 
+to the graduate degree programs in the 
 Department of Computer Science.
 
 #.   Students with transcripts issued by International universities or colleges 
@@ -170,7 +185,7 @@ Department of Computer Science.
 #.   International students (with the exception of U.S. citizens or permanent residents)
      must have their English certified *before* any kind of admission.  
      
-     *Informally* the Gradute Program Director (GPD) 
+     *Informally* the Graduate Program Director (GPD) 
      is happy to look at an application that is complete except 
      for the English requirement, and let you know if you should expect the GPD's 
      recommendation for admission, *after* an 
@@ -184,7 +199,7 @@ Department of Computer Science.
      requirement, and a few explicit exceptions:
      
      *   The usual way is to earn at least
-         79 on the internet-based TOEFL test (or 550 on the paper-based test) 
+         79 on the Internet-based TOEFL test (or 550 on the paper-based test) 
          or at least a 6.5 (overall band score) on the IELTS academic test. 
          The *official results must come to Loyola directly* 
          *from the testing agency*. 
@@ -236,7 +251,8 @@ Department of Computer Science.
              Note: Graduating from a program offered in English from any *other* country 
              does *not* exempt the student from the English requirement.
          *   Students who have written and defended a masters thesis or 
-             doctoral dissertation in English.      
+             doctoral dissertation in English: make sure you note this in
+             your application.      
          
 #.   International applicants who will be on an F-1 visa
      (including those who are seeking financial aid from the department) 
@@ -275,12 +291,13 @@ Program Costs
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
 The tuition fees for graduate students in the department is $1003 per credit hour 
-for year 2015--2016 and subject to change in the future years. 
+for year 2015--2016. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course during fall 2015 through summer 2016 is $3009. 
+Hence the fee per course through summer 2016 is $3009. 
 The tuition fees for the entire Master's program, 
 which has a 10-course requirement, is $30090, plus any incremental 
 increases in tuition for courses taken in later academic years. 
+For the academic year 2016--2017 the tuition charge is $1033/credit hour.
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 

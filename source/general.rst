@@ -24,7 +24,7 @@ If you are not a current student,
 tell the Lewis Towers security desk staff
 that you are coming to see the Computer Science GPD. 
 Take the elevator to the 5th floor, turn left, 
-and go to Suite 520 at the end of the hall.
+and go to Suite 520 at the far end of the hall.
 
 .. index:: personnel
 
@@ -76,11 +76,11 @@ Graduate Program Director
 --------------------------
 
 Regardless of the MS program in which you're enrolled, 
-your first adviser will be the  Graduate Program Director (abbreviated **GPD**),
+your first adviser will be the Graduate Program Director (abbreviated **GPD**),
 gpd@cs.luc.edu. 
 The current director is Dr. Andrew N. Harrington. 
 You are expected to confer with him about your initial course of study 
-in pursuit of your degree. You should be assigned an advisor for later semesters
+in pursuit of your degree. You should be assigned an advisor for later semesters,
 to consult about the progression of your academic program. 
 The GPD is also available for further discussion of 
 your progress in the program and your future plans. 
@@ -127,8 +127,9 @@ http://www.luc.edu/its/itspoliciesguidelines/policy_acceptableuse.shtml.
 
 An account on the student email system is created automatically for each new student. 
 Both the GPD and the Graduate School will use this account 
-to communicate with you. It is therefore crucial that you check your Loyola e-mailbox 
-on a regular basis. Having your e-mail forwarded to another account can be risky. 
+to communicate with you. It is therefore 
+*crucial that you check your Loyola e-mailbox on a regular basis.* 
+Having your e-mail forwarded to another account can be risky. 
 Some students find the mail doesn't always get delivered. 
 If you find that you are not receiving regular and frequent communiqués from the 
 Department, please notify the Secretary.
@@ -145,8 +146,8 @@ departmental and university computing resources. See http://syshandbook.cs.luc.e
 Bulletin Boards and Key Web Resources
 --------------------------------------
 
-The bulletin board outside the CS department on the 5th floor of Water Tower Campus 
-features information regarding the graduate programs—e.g., 
+The bulletin board outside the Computer Science department on the 5th floor of Water Tower Campus 
+features information regarding the graduate programs — e.g., 
 calls for papers, job offerings, fellowship opportunities. 
 The board in the department's main office has departmental notices.
 
@@ -156,7 +157,7 @@ You are also encouraged to keep abreast of the following departmental web resour
    	:header: "URL", "Description"
    	:widths: 15, 15
 
-   	"http://www.cs.luc.edu", "Main Web Site for the CS Department"
+   	"http://www.luc.edu/cs", "Main Web Site for the CS Department"
    	"http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
         "http://courses.cs.luc.edu/html", "Course Catalog with course descriptions and MS Programs Curriculum"
    	"http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
@@ -260,14 +261,13 @@ Conference Presentations and Travel Funding
 
 Presentation of conference papers is an important part of students’ professional 
 development, and MS CS students working on a thesis in particular should aim to give at 
-least two papers during their graduate careers—preferably including professional 
+least two papers during their graduate careers — preferably including professional 
 and not just graduate-student conferences.
 
 Each semester the Graduate School has funds to support graduate student 
 travel for the purpose of presenting papers or chairing sessions at conferences. 
 Since funds are limited, students should apply immediately upon acceptance of their 
-papers or sessions. 
-(Forms are available at http://www.luc.edu/gradschool/servicesandresources_forms.shtml).
+papers or sessions. Application is through http://gsps.luc.edu, under internal awards.
 
 .. index:: Career Center
    jobs

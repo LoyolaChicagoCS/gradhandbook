@@ -21,5 +21,5 @@ All these different formats are generated using the incredible
 documentation tools from the `Python <http://python.org>`_ community.
 
 You can view the source text files from which all versions are derived at 
-https://bitbucket.org/loyolachicagocs/gradhandbook.  The site also shows 
+https://github.com/LoyolaChicagoCS/gradhandbook.  The site also shows 
 a change log.
