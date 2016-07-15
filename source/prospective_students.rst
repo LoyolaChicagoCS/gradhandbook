@@ -250,10 +250,8 @@ Department of Computer Science.
              even if they have further degrees from another country.  
              Note: Graduating from a program offered in English from any *other* country 
              does *not* exempt the student from the English requirement.
-         *   Students who have written and defended a masters thesis or 
-             doctoral dissertation in English: make sure you note this in
-             your application.      
-         
+
+
 #.   International applicants who will be on an F-1 visa
      (including those who are seeking financial aid from the department) 
      are encouraged to submit proof (affidavit) of financial support to our 
@@ -267,6 +265,12 @@ Department of Computer Science.
      Students who are chosen for the merit awards or scholarships will be 
      notified regardless of their financial standing or ability to support 
      themselves financially.     
+
+.. ??
+         *   Students who have written and defended a  
+             doctoral dissertation in English: make sure you note this in
+             your application.      
+         
 
 International students requiring an F-1 visa should consult the 
 `International Students and Scholars <http://www.luc.edu/iss/outside.shtml>`_
