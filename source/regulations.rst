@@ -21,7 +21,10 @@ Course Loads
 --------------------------------
 
 A full-time student will usually carry three courses in fall and spring
-semesters. Students can also choose to be part-time. 
+semesters. Students can also choose to be part-time. This is an *academic*
+policy.  Be sure to see if you have separate constraints due to a loan program for domestic students  
+or due to federal visa policy for 
+international students.
 
 We do not encourage students to take more than 3 courses a term, and you should
 contact the Graduate Program Director if you need to take more than 3 courses
@@ -42,9 +45,10 @@ Registration
 --------------------------------
 
 Both new and continuing students must complete the process of registration
-before every semester in which they are either enrolling in classes (or for 
+before every semester in which they are either enrolling in classes. Also there
+is a special course conferring full-time registration for 
 MS Computer Science students opting to complete a
-thesis who are only writing a thesis). 
+thesis and who are only writing a thesis that semester. 
 For details on choosing courses see :ref:`course_selection` and
 :ref:`advising` below.
 
@@ -138,8 +142,7 @@ look at the long-term schedule to see which of those courses you could defer
 until it is offered again.  
 
 Detailed descriptions of most of these courses are in
-http://courses.cs.luc.edu/html/#graduate-courses
-This a good place to have open when you ae looking for courses.
+http://courses.cs.luc.edu/html/#graduate-courses.
 
 Comp 271 is the prerequisite for most graduate courses, but Comp 413,
 Intermediate Object-Oriented Programming, is a prerequisite for the most
@@ -174,7 +177,8 @@ before registering for courses. A discussion with the GPD is particularly
 important if there is any question of a student's prerequisite preparation.
 
 Before the *next* registration period, you should be provided an individual
-faculty advisor for the rest of your studies.  This advisor should be listed in Locus.  Later registration choices
+faculty advisor for the rest of your studies.  This advisor should be listed in Locus.  
+Later registration choices
 should be taken up with your advisor.
 
 .. index:: online courses
@@ -281,13 +285,14 @@ When you find a job, contact the GPD and get your job description approved.
 Internships are for 1-6 credits.  See
 :ref:`variable_credit_courses`.  
    
-Download, *read*, print, fill out *both pages*, and return the `MOU Form
-<https://luc.box.com/CS-Grad-Internship-MOU>`_.  Please read this carefully
+Download the `MOU Form <https://luc.box.com/CS-Grad-Internship-MOU>`_, 
+*read it*, print, fill out *both pages*, and return.  Please read this carefully
 before asking questions of the GPD.  It contains a description of the details
 of your academic requirements for the course.  You will also need your job
 supervisor's signature.  Get the finished form to the GPD, so we can register
 you for the course for the proper 
-number of credits.  
+number of credits.  Please do not ask us to register you if you are not 
+simultaneously submitting the completed MoU.
 
 The form can be scanned and emailed or turn in paper to the department staff.
 If you are doing :ref:`cpt`, turn in the CPT form at the same time.
@@ -338,11 +343,11 @@ application must be delivered to the International Office, and they will issue
 the work permit. The form to start CPT can be found `here
 <http://www.luc.edu/iss/forms.shtml>`_.
 
-The CPT can be tied to an academic course in either of two ways. You get a
+The CPT can be tied to an academic course in either of two ways. You get a GPD
 signature on the CPT application differently in the two cases.  
-*Be sure to completely fill out the form except for the faculty signature and date* 
+*Be sure to completely fill out the form except for the GPD signature and date* 
 *before looking for a signature!* 
-Do not leave us to guess which of the two options you
+Do not leave the GPD to guess which of the two options you
 want:
 
 * You can take the Comp 499 course specifically for :ref:`internships`,
@@ -353,16 +358,15 @@ want:
 * For no extra
   tuition you can generally tie it to a course you are
   already planning to take. There is a section of the CPT application for this.
-  You can get the *signature on the CPT form of an instructor* to pair the
-  internship with a course in the same semester, *or for a fall course*
+  You can pair the
+  internship with a course in the same semester, *or pair a fall course*
   and an internship in the *previous summer*.  
-  Show the instructor the offer letter. 
   If you do the no-extra-tuition option,
-  you are able to work but you *get no further credit toward graduation*,
-  and the course instructor is responsible for determining any extra
-  reporting or work you do to tie the internship to the instructor's
-  course.  *You may need to send the CPT form and job offer to the OIP yourself.*
-  The GPD's signature can substitute for the instructor's.
+  you are able to work but you *get no further credit toward graduation*.  
+  *You may need to send the CPT form and job offer to the OIP yourself.*
+
+Students generally scan and email the CPT form to the GPD, 
+making sure the option chosen above is clearly indicated.  
 
 
 .. index:: F-1 full-time in summer
@@ -410,102 +414,47 @@ toward graduation, counting all the times you register for these two courses.
 credits.) You do not need to take a multiple of three credits at a time. What
 matters is the total, when it is time to graduate. 
 
-.. index:: CSIS courses
-   Business School
+.. index:: Business School
    GSB
-   quarter courses
-   Winter Quarter
-   Changing CSIS courses
+   Changing to a GSB course
 
 .. _CSIS_courses:
 
-CSIS Courses
+Graduate School of Business Courses (GSB)
 -----------------------------------------------------------
 
-CSIS courses are special sections set up to give you credit in the Computer
-Science MS program for courses offered by the Graduate School of Business.
-They broaden the Computer Science offerings and let you essentially take GSB
-courses at the Graduate School's much lower tuition rate.  There are a number
+Our students can sometimes get into GSB courses.  
+They broaden the Computer Science offerings and let you take GSB
+courses at the Graduate School's much lower tuition rate.  
+
+Unless a GSB course has specifically been mentioned as being allowed to count toward 
+our department's MS degrees, but sure to check first with the GPD.
+
+There are a number
 of special considerations coming from the fact that GSB courses are *quarter*
 courses.  They have the same holidays as in The Graduate School semester
-system, but exam times or term start times or both are different.  The main
-administrative issue is that this confuses LOCUS, the school online
-administration system.  Fall Quarter starts with Fall semester, but ends in
-November.  Winter Quarter goes from November into February, spanning parts of
-both Fall and Spring Semesters.  A fairly arbitrary decision was made to list
-Winter Quarter CSIS courses under Fall semester in LOCUS.  Spring Quarter
-Courses do not start until February. 
+system, but exam times or term start times or both are different.  
+Because of the different term starting times, and the fact that GSB
+students have priority in their school's courses, it is usually
+only practical to consider fall and summer GSB courses, when the term starts
+are close.  Our students generally need to wait until shortly beofre the
+term starts to be admitted to a GSB course with space in it.  This means our
+students generally need a backup plan.  
 
-Because Winter Quarter spans two semesters, it is very important to look at the
-Spring Semester schedule for COMP courses before registering for a Winter
-Quarter course.  Registration for a Winter Quarter course will make it
-impossible for you to register for a Spring Semester COMP course on the same
-night.  Even if you check an early Spring Semester schedule before signing up
-for a Winter Quarter course, you run the risk of a later change to the Spring
-semester schedule creating a conflict.  We make ever effort to keep the spring
-semester schedule stable, but unexpected things can always come up.
+You cannot register yourself in any case:  be sure to make a direct request to the
+GPD, close to the time the course starts, to see if there is space, and the GPD will
+arrange your registration through the GSB:
 
-LOCUS lists CSIS courses as semester courses, so if you look at your current
-course list in October, you will see both Fall and Winter Quarter courses
-included!  *You* have to know the *real* calendar.
-
-Particular issues arise with registering for and dropping CSIS courses outside
-the times LOCUS is expecting.  If you register and add or drop in the regular
-semester time limits (much earlier than the time Winter and Spring quarter
-courses actually start), then you should be able to do your registration
-changes by yourself, online, in LOCUS, with no problem.  Please do that where
-possible.  On the other hand, **if you want to make changes closer to the time
-Winter and Spring Quarter** **courses actually start**, you should make all
-registration requests through the GPD, gpd@cs.luc.edu.  Since the department
-ends up making registration changes which are very important to you, we need
-explicit directions and you need to indicate clear knowledge of the
-ramifications of your choices.  Include the following in your email:
-
-**Registration request** to gpd@cs.luc.edu after the normal LOCUS semester
-registration time limit and before the GSB registration time limit for Winter
-or Spring: 
-
-#. Include a direct request like "Please register me for CSIS XXX
-   Section YYY for ZZZ Quarter." *not* an indirect question like "Would
+#. Include a direct request like "Please register me for INFS 496
+   Section 001." *not* an indirect question like "Would
    it be OK if I register for....?"
 #. Include your full name and Student ID number.
-#. Explicitly acknowledge the drop deadlines and the time-frame and
-   manner you must notify us to get you dropped (as further discussed
-   below).   You could include something like "I know I must email you
-   with an explicit request to drop the course by XX/XX/XXXX if I want
-   no trace left for the course and by YY/YY/YYYY to avoid tuition, but
-   still get a W on my transcript."  The dates are publicized at the
-   `Bursar's web site <http://www.luc.edu/bursar/withdraw_schedule.shtml#gsb>`_. 
-   We will try to include them also on our course web pages for Winter
-   and Spring Quarters.
-#. It is also possible to request a swap for an already running course 
-   that will overlap the later starting course, if you got access to a
-   CSIS course opening after the normal drop deadline.  
-   Of course in this case your email needs to 
-   also clearly state the course you wish to swap out of.
-
-**Drop requests** after the normal LOCUS semester drop/add time limit,
-but inside the limits set by the Graduate School of Business:
-
-#. Within the limits set by the GSB, make the drop in Locus.  This will
-   drop you and note the time of your decision.
-#. Email gpd@cs.luc.edu and explain when you dropped what exact course,
-   and ask us to backdate the withdrawal to make up for LOCUS's
-   incorrect understanding of dates.
-#. Include your full name and Student ID number.
+#. Explicitly acknowledge the GSB's different drop deadlines.   
+#. It is also possible to request a swap for an alternate comflicting Comp course.
 
 The time of dropping the course is crucial in determining its effect.  Be aware
 of the GSB deadlines for getting the course dropped with no trace and the later
-deadline for avoiding  tuition.  We will be correct things if you are before
-the GSB deadlines.  See below under Dropping a Course for further discussion of
-the categories. 
-
-F-1 visa students  
-    If you are keeping 3 real Fall semester courses, 
-    and you add a winter quarter course, 
-    it can be counted for visa purposes as one of the 3 courses that you need 
-    for full-time status in spring.  
-    Check with the Office of International Programs for details.
+deadline for avoiding  tuition.  
 
 .. index:: graduation
    deadline; for applying for graduation
@@ -533,10 +482,11 @@ http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receiv
 In case the URL changes, it should be listed on the Graduate School Forms page
 under Late Application for Graduation.
 
-If your last course is a CSIS/business course in Winter Quarter, register for Spring
-graduation, even though Winter Quarter courses are listed under Fall semester
-in LOCUS.  Of course you will not really graduate until after Winter Quarter
-courses end in February.
+.. old 
+    If your last course is a CSIS/business course in Winter Quarter, register for Spring
+    graduation, even though Winter Quarter courses are listed under Fall semester
+    in LOCUS.  Of course you will not really graduate until after Winter Quarter
+    courses end in February.
 
 **Graduation Ceremonies are only in May**:  If you have only *one* course left
 for summer, you can ask to participate in the *previous* May graduation.  This
@@ -610,9 +560,10 @@ extend these dates.
 -  Withdrawal later during classes: W on the transcript and a partial
    or complete tuition penalty. Do not get yourself into this situation
    just by not paying attention!
- 
-The categories are the same for CSIS courses, but the procedures can be
-more complicated.  See the section on CSIS Courses above.
+
+.. old 
+    The categories are the same for CSIS courses, but the procedures can be
+    more complicated.  See the section on CSIS Courses above.
 
 .. index:: changing MS programs
    program codes
@@ -636,8 +587,8 @@ which are not all really informative:
 * COMP  Computer Science
 
 These all have alternatives ending with "D", for dual, 
-like  SWEN-MS D:  this is only 
-for Loyola BS/MS students.
+like  SWEN-MS D:  
+*these are only for Loyola BS/MS students.*
 
 
 .. index:: transfer credit

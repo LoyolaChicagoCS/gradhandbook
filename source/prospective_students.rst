@@ -31,6 +31,8 @@ Overview of Loyola MS Programs' Strengths
     prerequisites with us on a compressed schedule 
 *   Options for a mix of face-to-face and online classes.
     *Now the IT degree is available either campus-centric or entirely online*.
+*   International students with insufficient English can get conditional admission
+    combining initial ESL with later MS study.
 
 Look in the courses document for the details of the individual 
 `Masters Programs <http://courses.cs.luc.edu/html/masters_overview.html>`_.
@@ -48,7 +50,10 @@ Admissions
 Applications are continuously evaluated and students 
 will be promptly admitted to the nearest starting term or semester.    
 Earlier admission means that you get to register online for classes earlier,
-and some classes may fill up.  In particular, registration for fall starts in April, for spring in late October, and for summer in February.  It is to your advantage to be admitted before those times for the earliest access to registration. 
+and some classes may fill up.  In particular, registration for fall starts in April, 
+for spring in late October, and for summer in February.  
+It is to your advantage to be admitted before those times for the earliest 
+access to registration. 
 
 While *regular* admission does not have a deadline, 
 see :ref:`new_student_merit`, for 
@@ -183,19 +188,10 @@ Department of Computer Science.
      since the transcript forms must be received first by Loyola 
      and sent off again to Educational Perspectives.
 #.   International students (with the exception of U.S. citizens or permanent residents)
-     must have their English certified *before* any kind of admission.  
+     must have their English tested *before* any kind of admission. There are different routes
+     depending on the results.
      
-     *Informally* the Graduate Program Director (GPD) 
-     is happy to look at an application that is complete except 
-     for the English requirement, and let you know if you should expect the GPD's 
-     recommendation for admission, *after* an 
-     official passing English result is provided.  
-     Later, the Graduate School Dean's approval is still needed for final admission.
-    
-     There is *no* official "conditional admission" before an official passing
-     English score is received.
-     
-     The Loyola Graduate School accepts just two approaches to the English 
+     The Loyola Graduate School accepts just three approaches to the English 
      requirement, and a few explicit exceptions:
      
      *   The usual way is to earn at least
@@ -205,11 +201,8 @@ Department of Computer Science.
          *from the testing agency*. 
          Loyola's institutional code is 1412; 
          the department code is not needed. 
-         The Graduate School will not accept scores lower than those stated 
-         above, and our department is not able to make any exceptions. 
-         *Do not request to be admitted with a lower score.*
-         Loyola has no official program for conditional admission 
-         without the required score.
+         
+         With lower scores, see the other options below.
 
          Having your university courses officially offered in English does *not*
          exempt you -- though it should make passing the English exam easier.
@@ -220,7 +213,36 @@ Department of Computer Science.
          If taking one of these tests, be sure to sign up for an early test date, 
          since results usually take 2-3 weeks to be delivered *officially* to Loyola.
      
-     *   If you want to improve your English at Loyola, in preparation for 
+     *   If you have a TOEFL in the range 70-78 or IELTS of 5.5 or 6, then you may 
+         be admitted conditionally to the new ICAP program:
+
+         You will be required to take an English Placement Test administered by our 
+         English Language Learning Program (ELLP) to determine your placement in 
+         ESL preparation courses. The results of that exam will determine the required ESL 
+         courses you must take during your first term at Loyola. 
+         You will take ESL classes until your English language skills are strong enough 
+         for success in degree program courses. If you receive a final grade of at least a 
+         B+ in all of your advanced or bridge ESL courses, you will be invited to take 
+         an exit exam at the end of the term. A combination of your course-work and 
+         exit exam score will be used to determine your readiness for degree work 
+         in the following term. It is important to note that if testing indicates 
+         further language study is needed, you will be required to continue in the 
+         ELLP for another term. For more information about Loyola's ELLP, 
+         please contact ELLP@luc.edu, or 773-508-3880.
+
+         We offer ICAP admission to students who have demonstrated their academic 
+         abilities in the classroom, but may need additional English language 
+         preparation and support to succeed in the degree program at Loyola University 
+         Chicago. Students in this program are classified as full-time graduate students.
+
+         You can choose to bring up your English score to the level of regular admission 
+         some other way and apply again later for regular admission. 
+         However the ICAP program gives you conditional admission, 
+         and allows you to be on campus for various Computer Science activities, 
+         like seminars, hackathons, ....  
+         
+     *   If you have not had an English test or the result is too low for ICAP,
+         and you want to improve your English at Loyola, in preparation for 
          possible graduate study, you can *first* 
          apply to our full-time ESL program, http://www.luc.edu/esl/, 
          and do well enough in courses and a comprehensive exam.  Only sufficient
@@ -231,11 +253,13 @@ Department of Computer Science.
          standardized tests is still required.
          
          NOTE:  Loyola's ESL is a separate program from the Graduate School.
-         Appropriate certification from this ESL program merely 
+         If you were admitted directly to our ESL program, not to the Graduate School's
+         ICAP program, then
+         appropriate certification from this ESL program merely 
          satisfies the English requirement for Graduate School applicants.  
          It does not imply the Graduate School Dean's approval for your 
          admission.  All other
-         parts of your application remain to be considered.
+         parts of your application remain to be considered (but see the note below).
      
      *   The English requirement is *waived* only for students who satisfy
          at least one of the following:
@@ -250,6 +274,15 @@ Department of Computer Science.
              even if they have further degrees from another country.  
              Note: Graduating from a program offered in English from any *other* country 
              does *not* exempt the student from the English requirement.
+
+     Note: If you do not yet have the necessary test results for one of the above 
+     avenues, and your application is complete except 
+     for the English requirement, then the Graduate Program Director (GPD) 
+     is happy to look at your application and  *informally* let you know if you should expect the GPD's 
+     recommendation for admission, *after* obtaining a sufficient 
+     official English score for one of the routes above.  
+     Later, the Graduate School Dean's approval is still needed for final admission.
+    
 
 
 #.   International applicants who will be on an F-1 visa
@@ -290,19 +323,21 @@ long, you can request to roll your admission over to the next semester.
 Program Costs
 -------------
 
-.. DATE CHECK spring 2016
+.. DATE CHECK spring 2017
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
-The tuition fees for graduate students in the department is $1003 per credit hour 
-for year 2015--2016. 
+The tuition fees for graduate students in the department is $1033 per credit hour 
+for year 2016--2017. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course through summer 2016 is $3009. 
+Hence the fee per course through summer 2017 is $3099. 
 The tuition fees for the entire Master's program, 
-which has a 10-course requirement, is $30090, plus any incremental 
+which has a 10-course requirement, is $30990, plus any incremental 
 increases in tuition for courses taken in later academic years. 
-For the academic year 2016--2017 the tuition charge is $1033/credit hour.
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
+
+.. later
+   For the academic year 2017--2018 the tuition charge is $1???/credit hour.
 
 See also :ref:`teaching_assistantships` and :ref:`financial_aid`.
