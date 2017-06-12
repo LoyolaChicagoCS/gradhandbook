@@ -159,7 +159,8 @@ Department of Computer Science.
 
 #.   Students with transcripts issued by International universities or colleges 
      must be *evaluated* by an outside evaluator for GPA calculation and 
-     determining if the degree is equivalent to an American Bachelor's degree: 
+     determining if the degree is equivalent to an American Bachelor's degree
+     (four-year degree or 3-year degree with an extra year of study after that): 
      Applicants may send international transcripts for a general evaluation 
      with **Grade Average** to `ECE <https://www.ece.org/>`_ 
      for international evaluation and *allow 4-6 weeks* 
@@ -323,16 +324,16 @@ long, you can request to roll your admission over to the next semester.
 Program Costs
 -------------
 
-.. DATE CHECK spring 2017
+.. DATE CHECK spring 2018
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
-The tuition fees for graduate students in the department is $1033 per credit hour 
-for year 2016--2017. 
+The tuition fees for graduate students in the department is $1066 per credit hour 
+for year 2017--2018. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course through summer 2017 is $3099. 
+Hence the fee per course through summer 2017 is $3198. 
 The tuition fees for the entire Master's program, 
-which has a 10-course requirement, is $30990, plus any incremental 
+which has a 10-course requirement, is $31980, plus any incremental 
 increases in tuition for courses taken in later academic years. 
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
