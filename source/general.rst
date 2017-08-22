@@ -55,7 +55,7 @@ The phone number for the Graduate School is (773) 508-3396.
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
-   	"Patricia Mooney Melvin, PhD", "Acting Dean", "pmooney@luc.edu"
+   	"Sue Penckofer, PhD", "Associate Dean", "SPENCKO@luc.edu"
     "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
     "Elaine Goetz", "Office Assistant", "egoetz@luc.edu"
 
@@ -137,13 +137,8 @@ departmental and university computing resources. See http://syshandbook.cs.luc.e
    blog for department
    web site
 
-Bulletin Boards and Key Web Resources
+Key Web Resources
 --------------------------------------
-
-The bulletin board outside the Computer Science department on the 5th floor of Water Tower Campus
-features information regarding the graduate programs — e.g.,
-calls for papers, job offerings, fellowship opportunities.
-The board in the department's main office has departmental notices.
 
 You are also encouraged to keep abreast of the following departmental web resources:
 
@@ -157,18 +152,6 @@ You are also encouraged to keep abreast of the following departmental web resour
    	"http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
    	"http://jobs.cs.luc.edu", "Informal job postings"
    	"http://blog.cs.luc.edu", "CS Department Blog"
-
-.. index:: Emerging Technologies Laboratory (ETL)
-
-The Emerging Technologies Laboratory
---------------------------------------
-
-All graduate students in the BS and MS programs have access to a common space
-in the Water Tower Campus, Lewis Towers 409,
-also known as the Emerging Technologies Laboratory. Access is via the Loyola campus card.
-
-Please contact the Department Secretary or Computer Systems Manager for access,
-if you have trouble entering with your Loyola campus card.
 
 .. index:: summer sessions
 
