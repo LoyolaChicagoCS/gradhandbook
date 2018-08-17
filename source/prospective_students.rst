@@ -89,7 +89,11 @@ If you are an international student please *also* note the
 #.   Completed application form, preferably completed 
      `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately
      `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_
-     and delivered on paper *with a $50 fee*.
+     and delivered on paper *with a $50 fee*.  
+     
+     For navigating the application note that the programs are in the School of Arts and Sciences, and all are offered by the Computer Science department,
+     so the Information Technology and Software Engineering degree names are
+     prefixed by "Computer Science:"
      
      This form is used for many programs in the graduate school, and 
      not all graduate programs are available to students in all locations: 
