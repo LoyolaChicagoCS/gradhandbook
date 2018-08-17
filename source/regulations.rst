@@ -12,7 +12,7 @@ of all Graduate School policies*.
    
 **The Graduate School takes deadlines very seriously.**  All Graduate School
 key academic and administrative deadlines and starting dates are listed at
-http://www.luc.edu/gradschool/key_dates.shtml.
+http://www.luc.edu/gradschool/key_dates.shtml.  
 
 .. index:: course loads
    full-time

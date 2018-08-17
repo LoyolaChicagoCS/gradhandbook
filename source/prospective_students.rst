@@ -84,21 +84,22 @@ submit the items below that are not listed as optional.
 You may also submit further items if you feel they would 
 help bolster your admissions case.
 If you are an international student please *also* note the 
-:ref:`additional_requirements_for_international_applicants`.
+:ref:`additional_requirements_for_international_applicants`. 
 
 #.   Completed application form, preferably completed 
      `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately
      `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_
      and delivered on paper *with a $50 fee*.  
      
-     For navigating the application note that the programs are in the School of Arts and Sciences, and all are offered by the Computer Science department,
+     For navigating the application, note that the programs are in the 
+     **School of Arts and Sciences**, and all are offered by the Computer Science department,
      so the Information Technology and Software Engineering degree names are
      prefixed by "Computer Science:"
      
      This form is used for many programs in the graduate school, and 
      not all graduate programs are available to students in all locations: 
-
-     .. warning  
+     
+     .. warning::  
         The application requires you to fill in *all* the personal 
         data before showing you all the programs that you can apply to 
         and other parts of the form.
