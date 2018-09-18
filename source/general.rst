@@ -57,7 +57,7 @@ The phone number for the Graduate School is (773) 508-3396.
 
    	"Sue Penckofer, PhD", "Associate Dean", "SPENCKO@luc.edu"
     "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
-    "Elaine Goetz", "Office Assistant", "egoetz@luc.edu"
+    "Sandy Orozco", "Office Assistant", "sorozco1@luc.edu"
 
 
 We strongly recommend that you contact the department faculty and

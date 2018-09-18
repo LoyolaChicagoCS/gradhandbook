@@ -109,6 +109,6 @@ Non-Departmental Financial Awards
 
 Only the merit awards discussed above are administered by the Computer
 Science Department.  General information about other financial aid is at
-http://www.luc.edu/finaid/responsibilities_rights.shtml.  
+http://www.luc.edu/finaid/.  
 Remember :ref:`FAFSA`.
 
