@@ -49,7 +49,10 @@ The main office of the Graduate School is on the fourth floor of the
 Granada Center on the Lake Shore Campus.
 This office handles admissions and financial aid,
 and houses the permanent files of all students throughout their graduate careers.
-The phone number for the Graduate School is (773) 508-3396.
+
+We strongly recommend that you contact the department faculty and
+staff first unless your matter absolutely requires direct Graduate School assistance,
+and then your contact is most likely Ms. Orozco.
 
 ..  csv-table:: Graduate School Personnel
     :header: "Person", "Role", "Contact e-mail"
@@ -59,10 +62,7 @@ The phone number for the Graduate School is (773) 508-3396.
     "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
     "Sandy Orozco", "Office Assistant", "sorozco1@luc.edu"
 
-
-We strongly recommend that you contact the department faculty and
-staff first unless your matter absolutely requires direct Graduate School assistance,
-and then your contact is most likely Ms. Goetz.
+The phone number for the Graduate School is (773) 508-3396.
 
 .. index:: Graduate Program Director - GPD
 
