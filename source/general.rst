@@ -70,13 +70,14 @@ Graduate Program Director
 --------------------------
 
 Regardless of the MS program in which you're enrolled,
-your first adviser will be the Graduate Program Director (abbreviated **GPD**),
+your first adviser will be your Graduate Program Director (abbreviated **GPD**),
 gpd@cs.luc.edu.
-The current director is Dr. Andrew N. Harrington.
-You are expected to confer with him about your initial course of study
+The current director for Software Engineering and Computer Science is Dr. Andrew N. Harrington.
+The current director for Information Technology is Dr. Channah Naiman.
+You are expected to confer with your GPD about your initial course of study
 in pursuit of your degree. You should be assigned an advisor for later semesters,
 to consult about the progression of your academic program.
-The GPD is also available for further discussion of
+The GPDs are also available for further discussion of
 your progress in the program and your future plans.
 
 ..  need?
