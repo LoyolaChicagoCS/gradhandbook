@@ -10,9 +10,12 @@ Each year the Computer Science department offers a small number of graduate assi
 for new and continuing students. Assistantships are competitive and
 target students with exceptional interpersonal and
 computing background, regardless of which degree you are pursuing.  
-Teaching-assistantship duties are assigned for up to 19.5 hours per week 
+For a full teaching-assistantship for a full academic year,
+there are duties for 18 hours per week in fall and spring semesters
 in computer labs, in support of faculty teaching or research projects, 
-or in network or web support in the department.
+or in network or web support in the department.  
+The most recent awards included $18,000 in stipend.  
+Full tuition in fall and spring plus medical insurance are also included in a full award.
 
 New merit awards are not given for summer semesters.
 
@@ -36,8 +39,8 @@ This email should have a link near the end to a form to apply for a TA award.
 Be sure to note the application *deadlines* in the list below.  
 
 * Have your application complete
-  by the **deadline** date of *March 15 for Fall admission* or 
-  *October 15 for Spring admission*.  Promptly fill out the
+  by the **deadline** date of *February 15 for Fall admission* or 
+  *September 15 for Spring admission*.  Promptly fill out the
   form at the link provided by the GPD when acknowledging your
   admission recommendation.  Make sure in your application
   that you had an *email address that you check regularly*, or update
@@ -55,8 +58,8 @@ year, with an understanding to continue for up to a total of three semesters
 if funds are available for the next academic year, and if the students 
 maintain their academic and work standards.
 
-The aim is to announce the awards before April 15 for Fall, 
-and in November for Spring.
+The aim is to announce the awards before March 1 for Fall, 
+and in October for Spring.
 
 If you miss these deadlines you may apply in your first semester or later 
 as a *current* student.
@@ -73,8 +76,8 @@ Continuing students will get an
 reminder will include the URL for an online form to fill out as your application.
 Note that the deadlines are *earlier* than for just admitted students:
 
-  Continuing students fill out the online form by *March 1 for Fall awards*, 
-  and by *October 1 for Spring awards*.
+  Continuing students fill out the online form by *March 15 for Fall awards*, 
+  and by *October 15 for Spring awards*.
 
 Students who have already been given an award for the upcoming semester should
 not fill out the form. Initial awards for current students are generally
@@ -91,6 +94,9 @@ entrance requirements.  Someone who did not score high enough on the Loyola
 test will be required to take ESL in the first semester after the exam, 
 and *pay the extra tuition* - TA tuition awards may not be used.  The 
 cost has generally been about the same as one regular graduate academic credit.
+The need to actually take the ESL course has rarely happened with students we 
+made a TA, 
+but it is important to note it as a possibility.
 
 Graduate School Policies
 ---------------------------
@@ -108,7 +114,8 @@ Non-Departmental Financial Awards
 ---------------------------------------------
 
 Only the merit awards discussed above are administered by the Computer
-Science Department.  General information about other financial aid is at
+Science Department.  The GPD is not going to be of any help on other aid.  
+Instead, general information about other financial aid is at
 http://www.luc.edu/finaid/.  
-Remember :ref:`FAFSA`.
+Domestic students should also remember :ref:`FAFSA`.
 
