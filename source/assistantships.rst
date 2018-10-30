@@ -15,7 +15,7 @@ there are duties for 18 hours per week in fall and spring semesters
 in computer labs, in support of faculty teaching or research projects, 
 or in network or web support in the department.  
 The most recent awards included $18,000 in stipend.  
-Full tuition in fall and spring plus medical insurance are also included in a full award.
+Full-time tuition in fall and spring plus medical insurance are also included in a full award.
 
 New merit awards are not given for summer semesters.
 
