@@ -336,14 +336,14 @@ long, you can request to roll your admission over to the next semester.
 Program Costs
 -------------
 
-.. DATE CHECK spring 2018
+.. DATE CHECK spring 2019
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
 The tuition fees for graduate students in the department is $1033 per credit hour 
-for year 2017--2018. 
+for year 2018--2019. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course through summer 2017 is $3099. 
+Hence the fee per course through summer 2019 is $3099. 
 The tuition fees for the entire Master's program, 
 which has a 10-course requirement, is $30990, plus any incremental 
 increases in tuition for courses taken in later academic years. 
