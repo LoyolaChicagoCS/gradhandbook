@@ -209,9 +209,10 @@ Department of Computer Science.
      requirement, and a few explicit exceptions:
      
      *   The usual way is to earn at least
-         79 on the Internet-based TOEFL test (or 550 on the paper-based test) 
+         79 on the Internet-based TOEFL test (or 550 on the old paper-based test) 
          or at least a 6.5 (overall band score) on the IELTS academic test. 
-         The paper TOEFL test requires at least Reading: 21, Listening: 21 and
+         The new 3-score paper TOEFL test requires at least 
+         Reading: 21, Listening: 21 and
          Writing: 23.
          The *official results must come to Loyola directly* 
          *from the testing agency*. 
