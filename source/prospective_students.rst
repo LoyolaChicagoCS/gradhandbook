@@ -33,6 +33,7 @@ Overview of Loyola MS Programs' Strengths
     *Now the IT degree is available either campus-centric or entirely online*.
 *   International students with insufficient English can get conditional admission
     combining initial ESL with later MS study.
+*   Starting in Fall 2019 you can build up to an MS by doing graduate certificates.
 
 Look in the courses document for the details of the individual 
 `Masters Programs <http://courses.cs.luc.edu/html/masters_overview.html>`_.
@@ -210,6 +211,8 @@ Department of Computer Science.
      *   The usual way is to earn at least
          79 on the Internet-based TOEFL test (or 550 on the paper-based test) 
          or at least a 6.5 (overall band score) on the IELTS academic test. 
+         The paper TOEFL test requires at least Reading: 21, Listening: 21 and
+         Writing: 23.
          The *official results must come to Loyola directly* 
          *from the testing agency*. 
          Loyola's institutional code is 1412; 
@@ -340,17 +343,15 @@ Program Costs
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
-The tuition fees for graduate students in the department is $1033 per credit hour 
+The tuition fees for graduate students in the department is $1066 per credit hour 
 for year 2018--2019. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course through summer 2019 is $3099. 
+Hence the fee per course through summer 2019 is $3198. 
 The tuition fees for the entire Master's program, 
-which has a 10-course requirement, is $30990, plus any incremental 
+which has a 10-course requirement, is $31980, plus any incremental 
 increases in tuition for courses taken in later academic years. 
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 
-.. later
-   For the academic year 2018--2019 the tuition charge is $1???/credit hour.
 
 See also :ref:`teaching_assistantships` and :ref:`financial_aid`.
