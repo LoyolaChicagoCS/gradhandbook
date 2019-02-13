@@ -344,12 +344,12 @@ Program Costs
 
 The Master's program has a 10-course requirement 
 (once undergraduate prerequisites are satisfied). 
-The tuition fees for graduate students in the department is $1066 per credit hour 
-for year 2018--2019. 
+The tuition fees for graduate students in the department is $1033 per credit hour 
+for year 2019--2020. 
 All of the graduate courses in our programs are 3 credit hours per term. 
-Hence the fee per course through summer 2019 is $3198. 
+Hence the fee per course through summer 2019 is $3099. 
 The tuition fees for the entire Master's program, 
-which has a 10-course requirement, is $31980, plus any incremental 
+which has a 10-course requirement, is $30990, plus any incremental 
 increases in tuition for courses taken in later academic years. 
 For more information on smaller semester fees please refer to the 
 `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
