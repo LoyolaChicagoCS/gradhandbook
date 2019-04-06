@@ -36,7 +36,7 @@ Overview of Loyola MS Programs' Strengths
 *   Starting in Fall 2019 you can build up to an MS by doing graduate certificates.
 
 Look in the courses document for the details of the individual 
-`Masters Programs <http://courses.cs.luc.edu/html/masters_overview.html>`_.
+`Masters Programs <https://academics.cs.luc.edu/graduate/masters_overview.html>`_.
 
 Arrange a :ref:`visit`.
 
