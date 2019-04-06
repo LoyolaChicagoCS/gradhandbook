@@ -64,7 +64,7 @@ see :ref:`new_student_merit`, for
 Please note that you can apply and be accepted without 
 having all the undergraduate prerequisites listed for degree programs. 
 See the section of the course document on 
-`prerequisites <http://courses.cs.luc.edu/html/masters_prereqs.html>`_.
+`prerequisites <https://academics.cs.luc.edu/graduate/masters_prereqs.html>`_.
 
 .. CHECK GPD
 

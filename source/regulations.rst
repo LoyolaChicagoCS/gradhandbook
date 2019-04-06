@@ -136,19 +136,19 @@ with a detailed list of courses to be offered.
 
 Before that, or looking further ahead, you can look at the long-term schedule,
 showing what courses are planned for what semesters:
-http://courses.cs.luc.edu/html/longtermschedule.html.  This is particularly
+https://academics.cs.luc.edu/schedules/longtermschedule.html.  This is particularly
 useful if you find too many courses that interest you for a given semester:
 look at the long-term schedule to see which of those courses you could defer
 until it is offered again.  
 
 Detailed descriptions of most of these courses are in
-http://courses.cs.luc.edu/html/#graduate-courses.
+https://academics.cs.luc.edu/courses/graduate-courses.html.
 
 Comp 271 is the prerequisite for most graduate courses, but Comp 413,
 Intermediate Object-Oriented Programming, is a prerequisite for the most
 advanced software courses.  Many students, with even a strong undergraduate
 computer science background, have not had the subject matter described in
-http://courses.cs.luc.edu/html/comp413.html.  If you are in either the MS in SE
+https://academics.cs.luc.edu/courses/comp413.html.  If you are in either the MS in SE
 or CS program, and have not had much of this material, it is a good course to
 *start* with (offered every fall and spring, and likely summer), 
 since it is required of both
@@ -205,7 +205,7 @@ if you look directly in Locus, you do not see it with the course title,
 but need to click on the section link.  If you want
 more details about the format, contact the instructor.
 
-The `long-term schedule <http://courses.cs.luc.edu/html/longtermschedule.html>`_ 
+The `long-term schedule <https://academics.cs.luc.edu/schedules/longtermschedule.html>`_ 
 includes an indication
 of what courses to expect to be online.
 
