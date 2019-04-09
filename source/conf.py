@@ -19,7 +19,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Loyola University Chicago CS - Graduate Programs'
+project = 'Loyola University Chicago CS - Graduate Handbook'
 copyright = '2019, Department of Computer Science'
 author = 'Department of Computer Science'
 
@@ -108,7 +108,7 @@ html_context = {
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LoyolaUniversityChicagoCSGraduateProgramsdoc'
+htmlhelp_basename = 'LoyolaUniversityChicagoCSGraduateHandbookdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -135,7 +135,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'LoyolaUniversityChicagoCSGraduatePrograms.tex', 'Loyola University Chicago CS - Graduate Studies Documentation',
+    (master_doc, 'LoyolaUniversityChicagoCSGraduateHandbook.tex', 'Loyola University Chicago CS - Graduate Studies Documentation',
      'Department of Computer Science', 'manual'),
 ]
 
@@ -145,7 +145,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'loyolauniversitychicagocsgraduateprograms', 'Loyola University Chicago CS - Graduate Programs Documentation',
+    (master_doc, 'loyolauniversitychicagocsgraduatehandbook', 'Loyola University Chicago CS - Graduate Handbook Documentation',
      [author], 1)
 ]
 
@@ -156,8 +156,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'LoyolaUniversityChicagoCSGraduatePrograms', 'Loyola University Chicago CS - Graduate Studies Documentation',
-     author, 'LoyolaUniversityChicagoCSGraduatePrograms', 'One line description of project.',
+    (master_doc, 'LoyolaUniversityChicagoCSGraduateHandbook', 'Loyola University Chicago CS - Graduate Studies Documentation',
+     author, 'LoyolaUniversityChicagoCSGraduateHandbook', 'One line description of project.',
      'Miscellaneous'),
 ]
 
