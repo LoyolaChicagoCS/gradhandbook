@@ -1,21 +1,13 @@
 .. Loyola University Chicago Computer Science - Graduate Student Handbook
 
-Graduate Handbook
-============================
+Loyola University Chicago Computer Science - Graduate Programs Handbook
+========================================================================
 
-Welcome to all students interested in the
-graduate programs for the Computer Science Department
-of Loyola University
-Chicago!
+Welcome to all students interested in the graduate programs for the Computer Science Department
+of Loyola University Chicago!
 
 If you have questions about information here, please contact the
 Graduate Program Director, gpd@cs.luc.edu, 773-508-8150.  
-
-Other links at :  
-`Courses and Programs <https://academics.cs.luc.edu/index.html>`_.
-
-If you want another format of this document (html, pdf, ebook),
-see :ref:`download_other_formats`.
 
 
 .. toctree::
@@ -25,7 +17,12 @@ see :ref:`download_other_formats`.
    general
    regulations
    assistantships
-   downloading
    acknowledgments
+
+See Also
+------------
+* `Course Descriptions and Degree Programs <https://academics.cs.luc.edu/>`_
+* `Research in CS at Loyola University Chicago <https://research.cs.luc.edu/>`_
+* `Systems Handbook <https://systemshandbook.cs.luc.edu/>`_
 
 :ref:`genindex`
