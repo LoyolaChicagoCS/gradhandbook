@@ -29,9 +29,9 @@ version = os.environ.get("BOOK_VERSION", "beta")
 release = version
 
 rst_epilog = """
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.pdf>`__
+.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.pdf>`__
 
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
+.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.epub>`__
 
 """ % vars()
 
