@@ -3,12 +3,12 @@
 Graduate Student Handbook
 ==========================
 
-Welcome to all students interested in the graduate programs for the Computer Science Department
-of Loyola University Chicago!
+Welcome to all students interested in the graduate programs for the Computer Science Department of Loyola University Chicago!
 
 If you have questions about information here, please contact the
 Graduate Program Director, gpd@cs.luc.edu, 773-508-8150.  
 
+This site is also available in |pdf-version| and |epub-version| formats.
 
 .. toctree::
    :maxdepth: 2

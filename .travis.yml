@@ -29,7 +29,8 @@ deploy:
   api_key: $GH_TOKEN
   file_glob: true
   file:
-    - ./**/LoyolaUniversityChicagoCSGraduateHandbook.pdf
+    - ./**/LoyolaUniversityChicagoCS-GraduateHandbook.pdf
+    - ./**/LoyolaUniversityChicagoCS-GraduateHandbook.epub
   skip_cleanup: true
   on:
     repo: LoyolaChicagoCS/gradhandbook

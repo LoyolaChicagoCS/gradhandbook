@@ -28,6 +28,13 @@ version = os.environ.get("BOOK_VERSION", "beta")
 # The full version, including alpha/beta/rc tags.
 release = version
 
+rst_epilog = """
+.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.pdf>`__
+
+.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
+
+""" % vars()
+
 # -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -135,7 +142,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'LoyolaUniversityChicagoCSGraduateHandbook.tex', 'Loyola University Chicago CS - Graduate Studies Documentation',
+    (master_doc, 'LoyolaUniversityChicagoCS-GraduateHandbook.tex', 'Loyola University Chicago CS - Graduate Studies Documentation',
      'Department of Computer Science', 'manual'),
 ]
 
