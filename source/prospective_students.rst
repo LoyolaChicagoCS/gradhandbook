@@ -54,7 +54,7 @@ Earlier admission means that you get to register online for classes earlier,
 and some classes may fill up.  In particular, registration for fall starts in April, 
 for spring in late October, and for summer in February.  
 It is to your advantage to be admitted before those times for the earliest 
-access to registration. 
+access to advising and registration. 
 
 While *regular* admission does not have a deadline, 
 see :ref:`new_student_merit`, for 
@@ -131,17 +131,17 @@ If you are an international student please *also* note the
      GRE scores, however, are expected if you are applying for a merit award 
      ( :ref:`teaching_assistantships` ), 
      and if you are not already a Loyola student.
-#.  One letter of recommendation is required, though 
-    three are recommended. 
-    These are usually from referees familiar with your academic work, 
-    however, if you have been out of school for a long time, 
-    then letters of recommendation from work supervisors 
-    will be acceptable.
-#.  An informal Statement of Purpose document is highly recommended, 
-    though not required: something about where you are coming from 
-    and where you look to go.  This extra information helps with 
-    initial advising for you, and occasionally the narrative will clear up
-    some question about the application.
+#.   One letter of recommendation is required, though 
+     three are recommended. 
+     These are usually from referees familiar with your academic work, 
+     however, if you have been out of school for a long time, 
+     then letters of recommendation from work supervisors 
+     will be acceptable.
+#.   An informal Statement of Purpose document is highly recommended, 
+     though not required: something about where you are coming from 
+     and where you look to go.  This extra information helps with 
+     initial advising for you, and occasionally the narrative will clear up
+     some question about the application.
     
 
 .. index:: FAFSA
@@ -201,7 +201,8 @@ Department of Computer Science.
      Requesting that Loyola handle the evaluation will require *extra time*, 
      since the transcript forms must be received first by Loyola 
      and sent off again to Educational Perspectives.
-#.   International students (with the exception of U.S. citizens or permanent residents)
+#.   International students 
+     (with the exception of U.S. citizens or permanent residents)
      must have their English tested *before* any kind of admission. There are different routes
      depending on the results.
      

@@ -32,7 +32,7 @@ The following folks are here to help you.
    	:widths: 15, 15, 15
 
    	"Andrew N. Harrington, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
-   	"Konstantin Läufer, PhD", "Department Chair", "chair@cs.luc.edu"
+   	"Chandra Sekharan, PhD", "Department Chair", "chair@cs.luc.edu"
    	"Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
    	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
@@ -47,20 +47,19 @@ Graduate School Offices
 
 The main office of the Graduate School is on the fourth floor of the
 Granada Center on the Lake Shore Campus.
-This office handles admissions and financial aid,
+This office handles admissions and financial awards,
 and houses the permanent files of all students throughout their graduate careers.
 
 We strongly recommend that you contact the department faculty and
-staff first unless your matter absolutely requires direct Graduate School assistance,
-and then your contact is most likely Ms. Orozco.
+staff first unless your matter absolutely requires direct Graduate School assistance.
+Going to the Graduate School first is more likely to slow things down for you than speed them up.
 
 ..  csv-table:: Graduate School Personnel
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
    	"Sue Penckofer, PhD", "Associate Dean", "SPENCKO@luc.edu"
-    "Jessica Horowitz, PhD", "Associate Dean", "jhorow@luc.edu"
-    "Sandy Orozco", "Office Assistant", "sorozco1@luc.edu"
+    "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 The phone number for the Graduate School is (773) 508-3396.
 
