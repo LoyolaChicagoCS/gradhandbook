@@ -19,6 +19,11 @@ This site is also available in |pdf-version| and |epub-version| formats.
    assistantships
    acknowledgments
 
+Reporting Issues
+-----------------
+
+* https://github.com/LoyolaChicagoCS/WebIssues/issues
+
 See Also
 ------------
 * `Course Descriptions and Degree Programs <https://academics.cs.luc.edu/>`_
