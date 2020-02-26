@@ -35,7 +35,7 @@ The following folks are here to help you.
    	"Chandra Sekharan, PhD", "Department Chair", "chair@cs.luc.edu"
    	"Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
-   	"Jeanmarie Rom", "Department Secretary", "jrom1@luc.edu"
+   	"Marina Hart", "Department Secretary", "mhart6@luc.edu"
 
 
 .. index:: graduate school offices
