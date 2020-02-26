@@ -31,7 +31,7 @@ The following folks are here to help you.
    	:header: "Person", "Role", "Contact e-mail"
    	:widths: 15, 15, 15
 
-   	"Andrew N. Harrington, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
+   	"Konstantin Läufer, PhD", "Graduate Program Director", "laufer@cs.luc.edu"
    	"Chandra Sekharan, PhD", "Department Chair", "chair@cs.luc.edu"
    	"Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
    	"Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
@@ -71,7 +71,7 @@ Graduate Program Director
 Regardless of the MS program in which you're enrolled,
 your first adviser will be your Graduate Program Director (abbreviated **GPD**),
 gpd@cs.luc.edu.
-The current director for Software Engineering and Computer Science is Dr. Andrew N. Harrington.
+The current director for Software Engineering and Computer Science is Dr. Konstantin Läufer.
 The current director for Information Technology is Dr. Channah Naiman.
 You are expected to confer with your GPD about your initial course of study
 in pursuit of your degree. You should be assigned an advisor for later semesters,
@@ -92,7 +92,7 @@ your progress in the program and your future plans.
         :header: "Person", "Role", "Page"
         :widths: 15, 15, 15
 
-        "Andrew N. Harrington", "Associate Professor, Graduate Program Director", "http://anh.cs.luc.edu/"
+        "Konstantin Läufer", "Professor, Graduate Program Director", "http://laufer.cs.luc.edu"
         "George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
         "Peter L. Dordal", "Associate Professor, Past Graduate Program Director", "http://pld.cs.luc.edu/"
 
