@@ -231,7 +231,7 @@ Department of Computer Science.
          If taking one of these tests, be sure to sign up for an early test date, 
          since results usually take 2-3 weeks to be delivered *officially* to Loyola.
      
-     *   If you have a TOEFL in the range 70-78, or IELTS of 5.5 or 6, or have taken an online Duolingo exam witha score of 105 then you may 
+     *   If you have a TOEFL in the range 70-78, or IELTS of 5.5 or 6, or have taken an online Duolingo exam with a score of 105 then you may 
          be admitted conditionally to the new ICAP program:
 
          You will be required to take an English Placement Test administered by our 
