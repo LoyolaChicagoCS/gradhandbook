@@ -218,7 +218,7 @@ Department of Computer Science.
          The *official results must come to Loyola directly* 
          *from the testing agency*. 
          Loyola's institutional code is 1412; 
-         the department code is not needed. 
+         the department code is not needed. Due to new difficulties where students are not able to take the TOEFL or the IELTS tests, we also accept online English proficiency tests from Duolingo with a score of 105. The student will then be interviewed if they submitted a Duolingo proficiency test.
          
          With lower scores, see the other options below.
 
@@ -231,7 +231,7 @@ Department of Computer Science.
          If taking one of these tests, be sure to sign up for an early test date, 
          since results usually take 2-3 weeks to be delivered *officially* to Loyola.
      
-     *   If you have a TOEFL in the range 70-78 or IELTS of 5.5 or 6, then you may 
+     *   If you have a TOEFL in the range 70-78, or IELTS of 5.5 or 6, or have taken an online Duolingo exam with a score of 105 then you may 
          be admitted conditionally to the new ICAP program:
 
          You will be required to take an English Placement Test administered by our 
