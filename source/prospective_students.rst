@@ -209,9 +209,7 @@ Department of Computer Science.
      The Loyola Graduate School accepts just three approaches to the English 
      requirement, and a few explicit exceptions:
      
-     *   The usual way is to earn at least
-         79 on the Internet-based TOEFL test (or 550 on the old paper-based test) 
-         or at least a 6.5 (overall band score) on the IELTS academic test. 
+     *   The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic). The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21 and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105. 
          The new 3-score paper TOEFL test requires at least 
          Reading: 21, Listening: 21 and
          Writing: 23.
@@ -231,8 +229,7 @@ Department of Computer Science.
          If taking one of these tests, be sure to sign up for an early test date, 
          since results usually take 2-3 weeks to be delivered *officially* to Loyola.
      
-     *   If you have a TOEFL in the range 70-78, or IELTS of 5.5 or 6, or have taken an online Duolingo exam with a score of 105 then you may 
-         be admitted conditionally to the new ICAP program:
+     *   If you have a TOEFL in the range 70-78, or IELTS of 5.5, then you may be admitted conditionally to the new ICAP program:
 
          You will be required to take an English Placement Test administered by our 
          English Language Learning Program (ELLP) to determine your placement in 
