@@ -209,14 +209,7 @@ Department of Computer Science.
      The Loyola Graduate School accepts just three approaches to the English 
      requirement, and a few explicit exceptions:
      
-     *   The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic). The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21 and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105. 
-         The new 3-score paper TOEFL test requires at least 
-         Reading: 21, Listening: 21 and
-         Writing: 23.
-         The *official results must come to Loyola directly* 
-         *from the testing agency*. 
-         Loyola's institutional code is 1412; 
-         the department code is not needed. Due to new difficulties where students are not able to take the TOEFL or the IELTS tests, we also accept online English proficiency tests from Duolingo with a score of 105. The student will then be interviewed if they submitted a Duolingo proficiency test.
+     *   The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic). The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21 and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105.
          
          With lower scores, see the other options below.
 
