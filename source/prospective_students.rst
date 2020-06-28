@@ -107,7 +107,7 @@ If you are an international student please *also* note the
      
 #.   Those who would like to get financial assistance see 
      :ref:`teaching_assistantships` or for non-departmental
-     financial aid see http://www.luc.edu/finaid/responsibilities_rights.shtml.
+     financial aid `see <https://www.luc.edu/finaid/aid-process/responsibilities/>`_.
 #.   Submit official English transcripts of all undergraduate work and any 
      post-baccalaureate work either
 
