@@ -12,9 +12,9 @@ Visit
 The Computer Science Department administrative offices are located in the
 Doyle Center, with the entrance at 1052 W Loyola Ave.
 
-General Loyola visitor information is at http://www.luc.edu/visit.shtml.  See the link to the Lake Shore campus map, where Doyle Center is labeled 6 (may be labeled as preschool).
+General Loyola visitor information is at http://www.luc.edu/visit.shtml. See the link to the Lake Shore campus map, where Doyle Center is labeled 6 (may be labeled as preschool).
 
-The main department phone number is 773-508-8150.
+The main department phone number is (773) 508-8150.
 
 While the current Graduate Program Director (GPD) is often available by phone, you would do well to confirm a face to face meeting time by email, gpd@cs.luc.edu.
 
@@ -45,7 +45,8 @@ Graduate School Offices
 
 The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus. This office handles admissions and financial awards, and houses the permanent files of all students throughout their graduate careers.
 
-We strongly recommend that you contact the department faculty and staff first unless your matter absolutely requires direct Graduate School assistance. Going to Graduate School first is more likely to slow things down for you than speed them up.
+.. note::
+    We strongly recommend that you contact the department faculty and staff first unless your matter absolutely requires direct Graduate School assistance. Going to Graduate School first is more likely to slow things down for you than speed them up.
 
 ..  csv-table:: Graduate School Personnel
     :header: "Person", "Role", "Contact e-mail"
@@ -109,9 +110,12 @@ The University maintains several Computer Centers which are available for your u
 
 All university students are responsible for reading and following http://www.luc.edu/its/itspoliciesguidelines/policy_acceptableuse.shtml.
 
-An account on the student email system is created automatically for each new student. Both the GPD and the Graduate School will use this account to communicate with you. It is therefore *crucial that you check your Loyola e-mailbox regularly.* Having your e-mail forwarded to another account can be risky. Some students find the mail doesn't always get delivered.
+An account on the student email system is created automatically for each new student. Both the GPD and the Graduate School will use this account to communicate with you. It is therefore *crucial that you check your Loyola e-mailbox regularly.*
 
 If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Secretary.
+
+.. warning::
+    Having your e-mail forwarded to another account can be risky. Some students find the mail doesn't always get delivered.
 
 Students are encouraged to consult the Systems Handbook for more information about departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
 
@@ -174,7 +178,12 @@ Publication
 
 Research-oriented graduate students (especially those pursuing the `Thesis Option <https://academics.cs.luc.edu/graduate/mscs.html#thesis-option>`_ in MS CS) are encouraged to pursue the publication of one or more journal articles during their graduate career. In the current job market, the publication is an important means of demonstrating to prospective employers a high level of motivation and professional competence. It can also be helpful for your future pursuits as a doctoral student elsewhere.
 
-Ways to prepare for this goal are 1) to read journals in your fields of interest regularly to become familiar with both current scholarship and the requirements of scholarly publication; 2) to approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal. In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors.
+Ways to prepare for this goal are:
+
+1. To read journals in your fields of interest regularly to become familiar with both current scholarship and the requirements of scholarly publication,
+2. To approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal.
+
+In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors.
 
 .. index:: conference presentations
    travel funding
