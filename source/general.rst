@@ -2,13 +2,15 @@
 General Information
 ###################
 
-.. index:: visit
-   location of department
+.. index::
+    visit
+    location of department
 
 .. _visit:
 
+*****
 Visit
------
+*****
 
 The Computer Science Department administrative offices are located in the
 Doyle Center, with the entrance at 1052 W Loyola Ave.
@@ -19,7 +21,8 @@ The main department phone number is (773) 508-8150.
 
 While the current Graduate Program Director (GPD) is often available by phone, you would do well to confirm a face to face meeting time by email, gpd@cs.luc.edu.
 
-.. index:: personnel
+.. index::
+    personnel
 
 *******************************
 Department Office and Personnel
@@ -38,7 +41,8 @@ The following folks are here to help you.
     "Marina Hart", "Department Secretary", "mhart6@luc.edu"
 
 
-.. index:: graduate school offices
+.. index::
+    graduate school offices
 
 .. _graduate-school-offices:
 
@@ -60,7 +64,8 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
 
 The phone number for the Graduate School is (773) 508-3396.
 
-.. index:: Graduate Program Director - GPD
+.. index::
+    Graduate Program Director - GPD
 
 ***********************
 Graduate Program Director
@@ -76,27 +81,8 @@ You are expected to confer with your GPD about your initial course of study in p
 
 The GPDs are also available for further discussion of your progress in the program and your plans.
 
-..  need?
-    .. index:: committee on graduate programs
-
-    .. Committee on Graduate Programs
-    .. --------------------------------------
-
-    .. The Director is advised on all matters of policy, admissions,
-    .. and student status by the Committee on Graduate Programs.
-
-    .. .. csv-table:: Graduate Advisory Committee
-    ..     :header: "Person", "Role", "Page"
-    ..     :widths: 15, 15, 15
-
-    ..     "Konstantin Läufer", "Professor, Graduate Program Director", "http://laufer.cs.luc.edu"
-    ..     "George K. Thiruvathukal", "Professor, Past Graduate Program Director", "http://gkt.cs.luc.edu/"
-    ..     "Peter L. Dordal", "Associate Professor, Post Graduate Program Director", "http://pld.cs.luc.edu/"
-
-
-    .. The faculty members of the Committee also serve as the jury for various departmental awards.
-
-.. index:: ID cards
+.. index::
+    ID cards
 
 ****************
 Student ID Cards
@@ -106,7 +92,8 @@ After registering for classes, Student ID cards, which give access to library bo
 
 See http://www.luc.edu/campuscard/ for more information.
 
-.. index:: computer services
+.. index::
+    computer services
 
 *****************
 Computer Services
@@ -125,11 +112,12 @@ If you find that you are not receiving regular and frequent communiqués from th
 
 Students are encouraged to consult the Systems Handbook for more information about departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
 
-.. index:: notification services
-   systems handbook
-   job postings
-   blog for department
-   web site
+.. index::
+    notification services
+    systems handbook
+    job postings
+    blog for department
+    web site
 
 *****************
 Key Web Resources
@@ -148,19 +136,26 @@ You are also encouraged to keep abreast of the following departmental web resour
     "http://jobs.cs.luc.edu", "Informal job postings"
     "http://blog.cs.luc.edu", "CS Department Blog"
 
-.. index:: summer sessions
+.. index::
+    Summer sessions
 
 ***************
 Summer Sessions
 ***************
 
-Summer sessions are offered through the Department each year, running from May to August. There are two 6-week sessions and an overlapping 8-week session.  Three to five graduate-level courses are generally offered over these summer terms, plus:
+Summer sessions are offered through the Department each year, running from May to August. There are two 6-week sessions and an overlapping 8-week session.
 
-* :ref:`independent_study` with a department faculty member is encouraged for research-minded students.  If you are starting in the summer, this does not generally make sense.
-* :ref:`internships`.
+Three to five graduate-level courses are generally offered over these Summer terms, plus:
 
-.. index:: housing
-   apartments
+-   :ref:`independent_study` with a department faculty member is encouraged for research-minded students.
+
+    If you are starting in the Summer, this does not generally make sense.
+
+-   :ref:`internships`.
+
+.. index::
+    housing
+    apartments
 
 *******
 Housing
