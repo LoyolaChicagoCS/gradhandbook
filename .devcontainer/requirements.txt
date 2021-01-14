@@ -1,0 +1,5 @@
+black
+isort
+recommonmark
+sphinx
+sphinx-rtd-theme
