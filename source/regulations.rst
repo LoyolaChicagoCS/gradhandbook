@@ -1,5 +1,6 @@
-﻿Regulations and Procedures
-================================
+﻿##########################
+Regulations and Procedures
+##########################
 
 This section covers specific policies of the Computer Science Department and refers to some of the most important governing  policies and procedure of the Graduate School, http://www.luc.edu/gradschool/academics_policies.shtml, but this Computer Science Handbook *does not attempt to duplicate the statement of all Graduate School policies*.
 
@@ -11,8 +12,9 @@ This section covers specific policies of the Computer Science Department and ref
 .. index:: course loads
    full-time
 
+************
 Course Loads
---------------------------------
+************
 
 A full-time student will usually carry three courses in the fall and spring semesters. Students can also choose to be part-time. This is an *academic* policy.  Be sure to see if you have separate constraints due to a loan program for domestic students or due to federal visa policy for international students.
 
@@ -22,8 +24,9 @@ This means most students finish the program in 16 months: Three fall/spring seme
 
 .. index:: registration
 
+************
 Registration
---------------------------------
+************
 
 Both new and continuing students must complete the process of registration before every semester in which they are either enrolling in classes. Also, there is a special course conferring full-time registration for MS Computer Science students opting to complete a thesis and who are only writing a thesis that semester. For details on choosing courses see :ref:`course_selection` and :ref:`advising` below.
 
@@ -58,8 +61,9 @@ check for a block.
 
 .. _course_selection:
 
+****************
 Course Selection
-------------------
+****************
 
 Even before you get access to our registration system, you can still look for courses you are interested in.
 
@@ -73,14 +77,18 @@ Comp 271 is the prerequisite for most graduate courses, but Comp 413, Intermedia
 
 Note, SE and CS students with prior experience with the Comp 413 material can replace the Comp 413-course requirement: after consulting with your advisor, substitute one of the courses which have Comp 413 as a prerequisite.
 
-**Caution to Computer Science program students**:  Comp 460 is required, and it is not offered every semester:  You may not be able to defer it!  Make sure you have arranged a place in your plans that fit with the semesters that it is offered and *following* your prerequisite preparation in algorithms.
+.. warning::
+    **Caution to Computer Science Program Students**
+
+    Comp 460 is required, and it is not offered every semester:  You may not be able to defer it!  Make sure you have arranged a place in your plans that fit with the semesters that it is offered and *following* your prerequisite preparation in algorithms.
 
 .. index:: advising
 
 .. _advising:
 
+********
 Advising
------------
+********
 
 Newly admitted students should first consult with the Graduate Program Director before registering for courses. A discussion with the GPD is particularly important if there is any question of a student's prerequisite preparation.
 
@@ -90,8 +98,9 @@ Before the *next* registration period, you should be provided an individual facu
 
 .. _online-courses:
 
+**************
 Online Courses
-----------------
+**************
 
 While the majority of our courses are face to face in a regularly scheduled class sessions (likely with *some* online interaction), other courses can be done *totally* online.  The learning objectives and outcomes of online courses are the same as for face-to-face classes, but obviously with a somewhat different delivery.
 
@@ -107,15 +116,17 @@ If you are only taking courses online, you would do well to be in the program wi
 
 .. index:: F-1 online limiting rules
 
-**F-1 visa students**:  Note that in the semesters that you are supposed to be full-time, you may have only one online course, and at least one course must not be online.  If you are not required to be in school in a semester (commonly summer), there are no restrictions.  Please confer with the Office of International Programs for details and confirmation.
+.. note::
+    F-1 visa students in the semesters that you are supposed to be full-time, you may have only one online course, and at least one course must not be online.  If you are not required to be in school in a semester (commonly summer), there are no restrictions.  Please confer with the Office of International Programs for details and confirmation.
 
 .. index:: independent study Comp 490
    Comp 490 independent study
 
 .. _independent_study:
 
+*****************
 Independent Study
---------------------------------
+*****************
 
 If you are doing an independent project for Comp 490, you need to find a faculty member to supervise your project and have the faculty supervisor email the department secretary to register you. This does not generally make sense in your first semester but is possible in exceptional circumstances.  It helps if you and the faculty member are familiar with each other.  Talk to your instructors outside of class, and take advantage of community seminars and events to meet and get to know faculty!  It is particularly helpful when you want to do something that the professor already wants to be done.  At the other end of the spectrum, a student might just propose something that sounds interesting to a potential faculty supervisor who knows the student is self-motivated.  Or a project could end up somewhere in between: something the professor is interested in, with a particular twist that appeals to the student.
 
@@ -130,8 +141,9 @@ In most cases, we recommend that you and your independent study advisor fill out
 
 .. _internships:
 
+**********************
 Internships (COMP 499)
------------------------------------------------
+**********************
 
 First, you need to find a job for the period of the Internship.  There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the GPD and get your job description approved. Internships are for 1-6 credits. See :ref:`variable_credit_courses`.
 
@@ -143,8 +155,9 @@ The form can be scanned and emailed or turn in paper to the department staff. If
 
 .. _cpt:
 
+************************************************
 Curricular Practical Training (For F-1 students)
------------------------------------------------------------
+************************************************
 
 You should consult with the `Office for International Programs(OIP) <http://www.luc.edu/oip>`_ for the full legal details of CPT.
 
@@ -167,8 +180,9 @@ Students generally scan and email the CPT form to the GPD, making sure the optio
 
 .. _summer_full_time:
 
+***************************
 F-1 Summer Full-time Status
-----------------------------
+***************************
 
 F-1 visa students who do not start in the summer, do not need to study at all in the summer as long as they are full-time in each fall and spring until they finish. For them, summer courses are optional.  (In the semester that you finish up, you are automatically full-time, even if you have only 1-2 courses left, though the GPD does need to confirm with the OIP when your 1-2 courses allow you to finish.)
 
@@ -181,8 +195,9 @@ Be sure to check with the OIP for the exact current details and correct forms to
 .. index:: variable credit courses
 .. _variable_credit_courses:
 
+***********************
 Variable Credit Courses
------------------------------------------------------------
+***********************
 
 Comp 490 and 499 are for 1-6 credits. Up to 6 credits total can be counted toward graduation, counting all the times you register for these two courses. (In practice that usually means 3 or 6 credits since all other courses are 3 credits.) You do not need to take a multiple of three credits at a time. What matters is the total, when it is time to graduate.
 
@@ -192,8 +207,10 @@ Comp 490 and 499 are for 1-6 credits. Up to 6 credits total can be counted towar
 
 .. _CSIS_courses:
 
+*****************************************
 Graduate School of Business Courses (GSB)
------------------------------------------------------------
+*****************************************
+
 Our students can sometimes get into GSB courses. They broaden the Computer Science offerings and let you take GSB courses at the Graduate School's much lower tuition rate.
 
 Unless a GSB course has specifically been mentioned as being allowed to count toward our department's MS degrees, but sure to check first with the GPD.
@@ -212,23 +229,38 @@ The time of dropping the course is crucial in determining its effect.  Be aware 
 .. index:: graduation
    deadline; for applying for graduation
 
+**********
 Graduation
------------------------------------------------------------
+**********
+
 Degrees are conferred in May, August, and December.  You must apply for graduation **way in advance** of graduation or the official conferral of your degree will be **postponed**. The GPD will not be able to appeal this for you. Note that there are only graduation *ceremonies* in May.
 
-**Deadlines**: December 1 for Spring, February 1 for Summer graduation, August 1 for Fall graduation.  See the discussion of ceremonies below if you want to participate in a graduation ceremony and you graduate in Summer or Fall. **Procedure**: Go into Locus and submit your graduation application *by the deadline*.  That is all you need to do if you are on time.  There is no penalty for guessing early about when you will graduate, but you will need to apply again for the actual time.
+Deadlines
+=========
+
+December 1 for Spring, February 1 for Summer graduation, August 1 for Fall graduation.  See the discussion of ceremonies below if you want to participate in a graduation ceremony and you graduate in Summer or Fall.
+
+Procedure
+=========
+
+Go into Locus and submit your graduation application *by the deadline*.  That is all you need to do if you are on time.  There is no penalty for guessing early about when you will graduate, but you will need to apply again for the actual time.
 
 You can apply  up to 15 days later, *with a penalty fee*: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
 
-**Graduation Ceremonies are only in May**:  If you have only *one* course left for summer, you can ask to participate in the *previous* May graduation.  This one course can be 490/499 for more than 3 credits.  To do this you must apply for summer graduation by the deadline listed above and promptly email the GPD, asking for approval to walk in the May ceremony.  If you graduate in the Summer or Fall, you can choose to return to participate in the *following* May graduation ceremony (unless you already participated in the previous May graduation, as discussed above).
+Graduation Ceremonies are only in May
+=====================================
+
+If you have only *one* course left for summer, you can ask to participate in the *previous* May graduation.  This one course can be 490/499 for more than 3 credits.  To do this you must apply for summer graduation by the deadline listed above and promptly email the GPD, asking for approval to walk in the May ceremony.  If you graduate in the Summer or Fall, you can choose to return to participate in the *following* May graduation ceremony (unless you already participated in the previous May graduation, as discussed above).
 
 .. index:: leave of absence
    reinstatement form
 
 .. _leave_of_absence:
 
+****************
 Leave of Absence
------------------------------------------------------------
+****************
+
 Once you start graduate school, the default assumption is that you will be enrolled each fall and spring until you sign up for graduation and graduate. If you need to interrupt your studies before that, the Graduate School requires that you apply for a leave of absence through the gaps system, under student forms in https://gsps.luc.edu/.
 
 After being approved for a leave, you will need to notify the Associate Dean of the Graduate School of your intent to enroll before you can register for classes and resume study. See the address under :ref:`graduate-school-offices`.
@@ -248,8 +280,9 @@ If you *neglect to request a Leave*, the return process is longer and less sure:
 
 .. _droppping_a_course:
 
+***************************************
 Dropping a Course, Avoiding Extra Bills
------------------------------------------------------------
+***************************************
 
 You should always be able to withdraw yourself from the course in LOCUS, no matter how you got registered for a course: by yourself in LOCUS, by a request to the department staff, or off of a waiting list. If you are sure you want to withdraw from a course, do not waste time emailing the department for help, just do it yourself. The date that the withdrawal is entered into LOCUS affects whether you get a W on your transcript and whether tuition is still due. Different rates apply.  Be sure to look at the Academic Calendar for the given semester. Once you are registered, merely not attending class does **NOT** extend these dates.
 
@@ -262,8 +295,10 @@ You should always be able to withdraw yourself from the course in LOCUS, no matt
    program codes
    Locus program codes
 
+*******************************
 Changing your chosen MS Program
------------------------------------------------------------
+*******************************
+
 It is easy to switch between our MS degree programs in the department.  Through the gaps system under student forms in https://gsps.luc.edu/, find Change in Degree-Seeking.  You will need to include a statement about why you want to change the program.  Do think carefully.  The Dean is less likely to approve a request to return to your original program!
 
 You are likely to need to select a program by Locus code, which are not all really informative:
@@ -279,8 +314,9 @@ These all have alternatives ending with "D", for dual, like  SWEN-MS D: *these a
 
 .. _transfer_credit:
 
+***************
 Transfer Credit
-------------------
+***************
 
 The GPD must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the GPD as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits - see :ref:`international_transfer`).  Do not delay! Your official transcripts need to show B or better in relevant courses.  For conditionally admitted students, Loyola must already have the relevant official transcript.
 
@@ -294,15 +330,17 @@ Although official transcripts are needed to forward the request to the Grad Scho
 
 .. _international_transfer:
 
+*************************************************************
 Further International Transcript Credit Transfer Requirements
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*************************************************************
 
 International transcripts need only a *general* evaluation with GPA by ECE, http://www.ece.org/, or Educational Perspectives, http://www.educational-perspectives.org/, for *admission*, but they need a *course by course* evaluation to *transfer* international graduate credit.  If you are expecting to get transfer credit, it is most economical to ask for the course by course evaluation the *first* time transcripts are submitted to an evaluator.
 
 .. index:: grades
 
+******
 Grades
---------------------------------
+******
 
 The grading system used in the Graduate School is as follows:
 
@@ -341,8 +379,9 @@ Graduate students in the Computer Science Department are expected to maintain an
 
 .. index:: incomplete grade I
 
+****************
 Incomplete Grade
---------------------------------
+****************
 
 Faculty may assign the grade of I to a student who has not completed the assigned work by the end of the term for some good reason.  This grade is *not* assigned automatically.  It is up to the student to explain the circumstances and work out a plan with the instructor before the end of the course, including a deadline, for completing the work for the course.
 
@@ -354,8 +393,9 @@ Although it is not uncommon for graduate students to take an occasional Incomple
    cheating
    plagiarism
 
+****************
 Academic Honesty
---------------------------------
+****************
 
 Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism of text or source code.  The Graduate School Catalog defines plagiarism as "the appropriation for a gain of ideas, language or work of another without sufficient public acknowledgment that the material is not one's own."  As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not.  If you are ever uncertain, it is of course best to consult your instructor, the GPD, or another faculty member.
 
@@ -363,7 +403,8 @@ The penalty for an instance of plagiarism is, at a minimum, failure on the assig
 
 .. index:: grievance procedure
 
+*******************
 Grievance Procedure
-----------------------------------
+*******************
 
 Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the GPD. If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair.  Unfortunately fully addressing a grievance within the department can take considerable time. The student must be patient. If a student is not satisfied with the decision within the department, then *after* the departmental decision, not earlier, the student may wish to initiate a grievance in writing to the Dean.  Further information  can be obtained from the Graduate School office.

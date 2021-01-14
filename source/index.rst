@@ -1,7 +1,8 @@
 .. Loyola University Chicago Computer Science - Graduate Student Handbook
 
+#########################
 Graduate Student Handbook
-==========================
+#########################
 
 Welcome to all students interested in the graduate programs for the Computer Science Department of Loyola University Chicago!
 
@@ -18,8 +19,9 @@ This site is also available in |pdf-version| and |epub-version| formats.
    assistantships
    acknowledgments
 
+****************
 Reporting Issues
------------------
+****************
 
 - https://github.com/LoyolaChicagoCS/WebIssues/issues
 

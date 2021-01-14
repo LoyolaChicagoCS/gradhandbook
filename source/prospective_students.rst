@@ -1,8 +1,10 @@
-﻿Prospective Students
-====================
+﻿####################
+Prospective Students
+####################
 
+*****************************************
 Overview of Loyola MS Programs' Strengths
----------------------------------------------
+*****************************************
 
 -   Committed faculty teaching small classes, commonly 15-25 students
 -   Many project-based classes with big concepts for all, which students get to develop in their own way in their individual projects, with active individual support from the instructor
@@ -23,25 +25,36 @@ Arrange a :ref:`visit`.
 
 .. index:: admissions
 
+**********
 Admissions
-----------
+**********
 
 .. index:: deadline; admission
 
-**No application deadline for plain admission**: Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up.  In particular, registration for fall starts in April, for spring in late October, and summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
+No Application Deadline for Plain Admission
+===========================================
+
+Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up.  In particular, registration for fall starts in April, for spring in late October, and summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
 
 While *regular* admission does not have a deadline, see :ref:`new_student_merit`, for *application deadlines to be considered for such an award*.
 
-**Prerequisites**: Please note that you can apply and be accepted without having all the undergraduate prerequisites listed for degree programs. See the section of the course document on `prerequisites <https://academics.cs.luc.edu/graduate/masters_prereqs.html>`_.
+Prerequisites
+=============
 
-**Questions**:  If you have questions after reading the information below, contact the Graduate Program Director at gpd@cs.luc.edu.  You are encouraged to :ref:`visit`.
+Please note that you can apply and be accepted without having all the undergraduate prerequisites listed for degree programs. See the section of the course document on `prerequisites <https://academics.cs.luc.edu/graduate/masters_prereqs.html>`_.
+
+Questions
+=========
+
+If you have questions after reading the information below, contact the Graduate Program Director at gpd@cs.luc.edu.  You are encouraged to :ref:`visit`.
 
 .. index:: prospective us graduate students
 
 .. _requirements_for_all_applicants:
 
+*******************************
 Requirements for All Applicants
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*******************************
 
 For admission to the graduate degree program in the Department of Computer Science, submit the items below that are not listed as optional. You may also submit further items if you feel they would help bolster your admissions case.
 If you are an international student please *also* note the :ref:`additional_requirements_for_international_applicants`.
@@ -71,8 +84,9 @@ If you are an international student please *also* note the :ref:`additional_requ
 
 .. _FAFSA:
 
+*******************************************
 FAFSA for U.S. Students/Permanent Residents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*******************************************
 
 Though *not* a requirement, U.S. citizens and permanent residents are strongly encouraged to fill out the online FAFSA form at https://fafsa.ed.gov/. This not only facilitates loans but also can help to get on-campus jobs.
 
@@ -81,8 +95,9 @@ Though *not* a requirement, U.S. citizens and permanent residents are strongly e
 
 .. _additional_requirements_for_international_applicants:
 
+****************************************************
 Additional Requirements for International Applicants
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+****************************************************
 
 Do not forget the :ref:`requirements_for_all_applicants`.  Here are *additional* requirements and an option for international student admission to the graduate degree programs in the Department of Computer Science.
 
@@ -142,8 +157,9 @@ Though there is no admission deadline, be sure to leave time to get the necessar
 
 .. _program_costs:
 
+*************
 Program Costs
--------------
+*************
 
 The Master's program has a 10-course requirement (once undergraduate prerequisites are satisfied). The tuition fees for graduate students in the department is $1033 per credit hour for the year 2019--2020. All of the graduate courses in our programs are 3 credit hours per term. Hence the fee per course through summer 2019 is $3099. The tuition fees for the entire Master's program, which has a 10-course requirement, is $30990, plus any incremental increases in tuition for courses taken in later academic years. For more information on smaller semester fees please refer to the `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 
