@@ -46,7 +46,7 @@ Requirements for All Applicants
 For admission to the graduate degree program in the Department of Computer Science, submit the items below that are not listed as optional. You may also submit further items if you feel they would help bolster your admissions case.
 If you are an international student please *also* note the :ref:`additional_requirements_for_international_applicants`.
 
-1.  Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper *with a $50 fee*.
+#.  Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper *with a $50 fee*.
 
     For navigating the application, note that the programs are in the **School of Arts and Sciences**, and all are offered by the Computer Science department, so the Information Technology and Software Engineering degree names are prefixed by "Computer Science:"
 
@@ -55,17 +55,17 @@ If you are an international student please *also* note the :ref:`additional_requ
     .. warning::
         The application requires you to fill in *all* the personal data before showing you all the programs that you can apply toand other parts of the form.
 
-2.  Those who would like to get financial assistance see :ref:`teaching_assistantships` or for non-departmental financial aid `see <https://www.luc.edu/finaid/aid-process/responsibilities/>`_.
-3.  Submit official English transcripts of all undergraduate work and any post-baccalaureate work either
+#.  Those who would like to get financial assistance see :ref:`teaching_assistantships` or for non-departmental financial aid `see <https://www.luc.edu/finaid/aid-process/responsibilities/>`_.
+#.  Submit official English transcripts of all undergraduate work and any post-baccalaureate work either
 
     -   by official electronic submission between your institution and Loyola or
     -   still in sealed envelopes sent from the academic institution. *Do not open such envelopes yourself.*  If you do not have easy access to the sealed official documents, you can *initially* submit copies for a *conditional* admission.
 
     You can send a transcript *in the semester before your graduation*, showing all the courses you will be having for graduation, even though grades are still missing from the final courses, and still be eligible for conditional admission. Do *not send transcripts too early* to show a listing of all the courses you will end up taking for your degree. In all cases final officially-sent transcripts are required by the end of your first semster at Loyola.
 
-4.  GRE scores are not required for admission. If you choose to submit them, Loyola's institutional code is 1412; the department code is not needed. GRE scores, however, are expected if you are applying for a merit award ( :ref:`teaching_assistantships` ), and if you are not already a Loyola student.
-5.   One letter of recommendation is required, though three are recommended. These are usually from referees familiar with your academic work, however, if you have been out of school for a long time, then letters of recommendation from work supervisors will be acceptable.
-6.  An informal Statement of Purpose document is highly recommended, though not required: something about where you are coming from and where you look to go.  This extra information helps with initial advising for you, and occasionally the narrative will clear up some question about the application.
+#.  GRE scores are not required for admission. If you choose to submit them, Loyola's institutional code is 1412; the department code is not needed. GRE scores, however, are expected if you are applying for a merit award ( :ref:`teaching_assistantships` ), and if you are not already a Loyola student.
+#.   One letter of recommendation is required, though three are recommended. These are usually from referees familiar with your academic work, however, if you have been out of school for a long time, then letters of recommendation from work supervisors will be acceptable.
+#.  An informal Statement of Purpose document is highly recommended, though not required: something about where you are coming from and where you look to go.  This extra information helps with initial advising for you, and occasionally the narrative will clear up some question about the application.
 
 .. index:: FAFSA
 
@@ -86,13 +86,13 @@ Additional Requirements for International Applicants
 
 Do not forget the :ref:`requirements_for_all_applicants`.  Here are *additional* requirements and an option for international student admission to the graduate degree programs in the Department of Computer Science.
 
-1.  Students with transcripts issued by International universities or colleges must be *evaluated* by an outside evaluator for GPA calculation and determining if the degree is equivalent to an American Bachelor's degree (four-year degree or 3-year degree with an extra year of study after that): Applicants may send international transcripts for a general evaluation with **Grade Average** to `ECE <https://www.ece.org/>`_ for international evaluation and *allow 4-6 weeks* for them to evaluate transcripts and get the results to Loyola. `Educational-Perspectives <http://edperspective.org/>`_ can also be used as an alternative to ECE. *No other transcript evaluation service is accepted by Loyola.* If you are in a rush, you can pay extra for expedited service.  If you do *not yet have your undergraduate degree*, it is important that you send transcripts to the evaluator when all your final courses are shown, though some without grades.  This is usually *in your final semester*.  The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).  The conditional admission requires the university to receive another official transcript, showing degree completion, though this transcript can be sent to Loyola during your first semester here as a student.**A suggested exception to getting the** *general* **transcript evaluation:** If you have international graduate level coursework after 4 years of college level work, see :ref:`international_transfer`.Those students living abroad and seriously considering Loyola can write to the Graduate Program Director at gpd@cs.luc.edu about waiving the transcript evaluation fee. Be sure the *rest* of your application is submitted when making this request, so it can be properly considered. Official notification of a passing English test score must be included at that time. Requesting that Loyola handle the evaluation will require *extra time*, since the transcript forms must be received first by Loyola and sent off again to Educational Perspectives.
-2.  International students (with the exception of U.S. citizens or permanent residents) must have their English tested *before* any kind of admission. There are different routes depending on the results.
+#.  Students with transcripts issued by International universities or colleges must be *evaluated* by an outside evaluator for GPA calculation and determining if the degree is equivalent to an American Bachelor's degree (four-year degree or 3-year degree with an extra year of study after that): Applicants may send international transcripts for a general evaluation with **Grade Average** to `ECE <https://www.ece.org/>`_ for international evaluation and *allow 4-6 weeks* for them to evaluate transcripts and get the results to Loyola. `Educational-Perspectives <http://edperspective.org/>`_ can also be used as an alternative to ECE. *No other transcript evaluation service is accepted by Loyola.* If you are in a rush, you can pay extra for expedited service.  If you do *not yet have your undergraduate degree*, it is important that you send transcripts to the evaluator when all your final courses are shown, though some without grades.  This is usually *in your final semester*.  The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).  The conditional admission requires the university to receive another official transcript, showing degree completion, though this transcript can be sent to Loyola during your first semester here as a student.**A suggested exception to getting the** *general* **transcript evaluation:** If you have international graduate level coursework after 4 years of college level work, see :ref:`international_transfer`.Those students living abroad and seriously considering Loyola can write to the Graduate Program Director at gpd@cs.luc.edu about waiving the transcript evaluation fee. Be sure the *rest* of your application is submitted when making this request, so it can be properly considered. Official notification of a passing English test score must be included at that time. Requesting that Loyola handle the evaluation will require *extra time*, since the transcript forms must be received first by Loyola and sent off again to Educational Perspectives.
+#.  International students (with the exception of U.S. citizens or permanent residents) must have their English tested *before* any kind of admission. There are different routes depending on the results.
 
     The Loyola Graduate School accepts just three approaches to the English
     requirement, and a few explicit exceptions:
 
-    -   The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic). The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21 and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105.
+    -   The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a #.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic). The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21 and Writing: 2#. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 10#.
 
     -   With lower scores, see the other options below.
 
@@ -102,7 +102,7 @@ Do not forget the :ref:`requirements_for_all_applicants`.  Here are *additional*
 
         -   If taking one of these tests, be sure to sign up for an early test date, since results usually take 2-3 weeks to be delivered *officially* to Loyola.
 
-    -   If you have a TOEFL in the range 70-78, or IELTS of 5.5, then you may be admitted conditionally to the new ICAP program:
+    -   If you have a TOEFL in the range 70-78, or IELTS of #.5, then you may be admitted conditionally to the new ICAP program:
 
     -   You will be required to take an English Placement Test administered by our English Language Learning Program (ELLP) to determine your placement in ESL preparation courses. The results of that exam will determine the required ESL courses you must take during your first term at Loyola. You will take ESL classes until your English language skills are strong enough for success in degree program courses. If you receive a final grade of at least a B+ in all of your advanced or bridge ESL courses, you will be invited to take an exit exam at the end of the term. A combination of your course-work and exit exam score will be used to determine your readiness for degree work in the following term. It is important to note that if testing indicates further language study is needed, you will be required to continue in the ELLP for another term. For more information about Loyola's ELLP, please contact ELLP@luc.edu, or (773) 508-3880.
 
@@ -117,8 +117,8 @@ Do not forget the :ref:`requirements_for_all_applicants`.  Here are *additional*
 
     -   The English requirement is *waived* only for students who satisfyat least one of the following:
 
-        1.  U.S. citizens and permanent residents.
-        2. Students with Bachelor's or higher degree from accredited institutions in the United States, United Kingdom, Ireland, Canada, Australia or New Zealand, who primarily attended their classes in those countries. Students are exempt who will complete one of these programs before matriculation at Loyola, even if they have further degrees from another country.
+        #.  U.S. citizens and permanent residents.
+        #. Students with Bachelor's or higher degree from accredited institutions in the United States, United Kingdom, Ireland, Canada, Australia or New Zealand, who primarily attended their classes in those countries. Students are exempt who will complete one of these programs before matriculation at Loyola, even if they have further degrees from another country.
 
             .. note::
                 Graduating from a program offered in English from any *other* country does *not* exempt the student from the English requirement.
@@ -126,9 +126,9 @@ Do not forget the :ref:`requirements_for_all_applicants`.  Here are *additional*
     .. note::
         If you do not yet have the necessary test results for one of the above avenues, and your application is complete except for the English requirement, then the Graduate Program Director (GPD) is happy to look at your application and  *informally* let you know if you should expect the GPD's recommendation for admission, *after* obtaining a sufficient official English score for one of the routes above. Later, the Graduate School Dean's approval is still needed for final admission.
 
-3.  International applicants who will be on an F-1 visa (including those who are seeking financial aid from the department) are encouraged to submit proof (affidavit) of financial support to our International students office *simultaneously* with filing their application.
+#.  International applicants who will be on an F-1 visa (including those who are seeking financial aid from the department) are encouraged to submit proof (affidavit) of financial support to our International students office *simultaneously* with filing their application.
 
-   The form should be linked on the page http://luc.edu/iss/forms.shtml under something like the name, Declaration of Finances for Graduate & Professional Students. This will help save a lot of time in processing the visa papers, namely I-20 or IAP-66. Students who are chosen for the merit awards or scholarships will be notified regardless of their financial standing or ability to support themselves financially.
+   The form should be linked on the page http://luc.edu/iss/forms.shtml under something like the name, Declaration of Finances for Graduate & Professional Students. This will help save a lot of time in processing the visa papers, namely I-20 or IAP-6#. Students who are chosen for the merit awards or scholarships will be notified regardless of their financial standing or ability to support themselves financially.
 
     .. note::
         Students who have written and defended a doctoral dissertation in English: make sure you note this in your application.

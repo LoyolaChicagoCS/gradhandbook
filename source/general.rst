@@ -180,8 +180,8 @@ Research-oriented graduate students (especially those pursuing the `Thesis Optio
 
 Ways to prepare for this goal are:
 
-1. To read journals in your fields of interest regularly to become familiar with both current scholarship and the requirements of scholarly publication,
-2. To approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal.
+#. To read journals in your fields of interest regularly to become familiar with both current scholarship and the requirements of scholarly publication,
+#. To approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal.
 
 In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors.
 
