@@ -42,8 +42,8 @@ Topical Index
    :maxdepth: 2
    :hidden:
 
-   prospective_students
-   general
-   regulations
-   assistantships
    acknowledgments
+   assistantships
+   general
+   prospective_students
+   regulations
