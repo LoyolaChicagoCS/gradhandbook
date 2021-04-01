@@ -2,8 +2,6 @@
     teaching assistantships
     merit awards
 
-.. _teaching_assistantships:
-
 #######################
 Teaching Assistantships
 #######################
