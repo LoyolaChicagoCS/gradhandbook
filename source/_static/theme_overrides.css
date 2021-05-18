@@ -14,4 +14,9 @@
    .wy-side-nav-search, .wy-nav-top {
 	    background: #922247;
    }
+
+   .rst-content section ul li {
+      list-style:disc;
+      margin-left:24px
+    }
 }
