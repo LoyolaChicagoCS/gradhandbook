@@ -14,25 +14,25 @@ If you have questions about the information here, please contact the Graduate Pr
 Graduate Student Resources
 --------------------------
 
-*   `Graduate Courses <https://academics.cs.luc.edu/courses/graduate-courses.html>`_
-*   `Graduate Degree Programs <https://academics.cs.luc.edu/graduate/graduate-degree-programs.html>`_
-*   `Research in CS at Loyola University Chicago <https://research.cs.luc.edu/>`_
-*   `Systems Handbook <https://systemshandbook.cs.luc.edu/>`_
+* `Graduate Courses <https://academics.cs.luc.edu/courses/graduate-courses.html>`_
+* `Graduate Degree Programs <https://academics.cs.luc.edu/graduate/graduate-degree-programs.html>`_
+* `Research in CS at Loyola University Chicago <https://research.cs.luc.edu/>`_
+* `Systems Handbook <https://systemshandbook.cs.luc.edu/>`_
 
 Other Helpful Resources for Current Students
 --------------------------------------------
 
-*   `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
+* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
 
 To Report Issues
 ----------------
 
-*   https://github.com/LoyolaChicagoCS/WebIssues/issues
+* https://github.com/LoyolaChicagoCS/WebIssues/issues
 
 Topical Index
 -------------
 
-*   :ref:`genindex`
+* :ref:`genindex`
 
 .. toctree::
    :maxdepth: 2
