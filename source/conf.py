@@ -14,9 +14,9 @@
 #
 import sys, os
 
-version = os.environ.get("BOOK_VERSION", "beta")
+# version = os.environ.get("BOOK_VERSION", "")
 # The full version, including alpha/beta/rc tags.
-release = version
+# release = version
 
 # The short X.Y version
 
