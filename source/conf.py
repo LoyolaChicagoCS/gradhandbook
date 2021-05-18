@@ -20,15 +20,15 @@ import sys, os
 
 # The short X.Y version
 
-rst_epilog = (
-    """
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.pdf>`__
+# rst_epilog = (
+#     """
+# .. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.pdf>`__
 
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.epub>`__
+# .. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/gradhandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-GraduateHandbook.epub>`__
 
-"""
-    % vars()
-)
+# """
+#     % vars()
+# )
 
 # -- General configuration ---------------------------------------------------
 
