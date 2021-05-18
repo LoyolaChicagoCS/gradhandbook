@@ -11,9 +11,6 @@ If you have questions about the information here, please contact the Graduate Pr
 
    See the main `Computer Science Department <https://luc.edu/cs/>`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
 
-This site is also available in |pdf-version| and |epub-version| formats.
-
-
 Graduate Student Resources
 --------------------------
 
