@@ -1,7 +1,3 @@
-###################
-General Information
-###################
-
 .. index::
     visit
     location of department
@@ -29,8 +25,13 @@ General Information
     Career Center
     jobs
 
+###################
+General Information
+###################
+
+*****
 Visit
-=====
+*****
 
 The Computer Science Department administrative offices are located in the Doyle Center, with the entrance at 1052 W Loyola Ave.
 
@@ -45,8 +46,7 @@ Department Office and Personnel
 
 The following folks are here to help you.
 
-..  csv-table:: Computer Science Department Personnel
-
+.. csv-table:: Computer Science Department Personnel
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
@@ -64,8 +64,7 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
 
 We strongly recommend that you contact the department faculty and staff first unless your matter absolutely requires direct Graduate School assistance. Going to Graduate School first is more likely to slow things down for you than speed them up.
 
-..  csv-table:: Graduate School Personnel
-
+.. csv-table:: Graduate School Personnel
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
@@ -106,6 +105,7 @@ An account on the student email system is created automatically for each new stu
 If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Secretary.
 
 .. warning::
+
     Having your e-mail forwarded to another account can be risky. Some students find the mail doesn't always get delivered.
 
 Students are encouraged to consult the Systems Handbook for more information about departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
@@ -115,17 +115,16 @@ Key Web Resources
 
 You are also encouraged to keep abreast of the following departmental web resources:
 
-..  csv-table:: Key Department Web Sites
+.. csv-table:: Key Department Web Sites
+   :header: "URL", "Description"
+   :widths: 15, 15
 
-    :header: "URL", "Description"
-    :widths: 15, 15
-
-    "http://www.luc.edu/cs", "Main Web Site for the CS Department"
-    "http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
-    "https://academics.cs.luc.edu/index.html", "Course Catalog with course descriptions and MS Programs Curriculum"
-    "http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
-    "http://jobs.cs.luc.edu", "Informal job postings"
-    "http://blog.cs.luc.edu", "CS Department Blog"
+   "http://www.luc.edu/cs", "Main Web Site for the CS Department"
+   "http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
+   "https://academics.cs.luc.edu/index.html", "Course Catalog with course descriptions and MS Programs Curriculum"
+   "http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
+   "http://jobs.cs.luc.edu", "Informal job postings"
+   "http://blog.cs.luc.edu", "CS Department Blog"
 
 Summer Sessions
 ===============
@@ -134,9 +133,9 @@ Summer sessions are offered through the Department each year, running from May t
 
 Three to five graduate-level courses are generally offered over these Summer terms, plus:
 
-*   :ref:`independent_study` with a department faculty member is encouraged for research-minded students. If you are starting in the Summer, this does not generally make sense.
+* :ref:`independent_study` with a department faculty member is encouraged for research-minded students. If you are starting in the Summer, this does not generally make sense.
 
-*   :ref:`internships`.
+* :ref:`internships`.
 
 Housing
 =======
