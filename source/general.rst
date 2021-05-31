@@ -147,7 +147,7 @@ Transportation
 
 Parking is available near the Water Tower Campus, although it is rather expensive. For sites listed in http://www.luc.edu/campustransportation/generalinformation/watertowercampus/ you can have your parking stub stamped at the information desk at the 25 E. Pearson building to receive a discount. As a current student, you will also want to acquaint yourself with the University’s inter-campus shuttle bus service. Public buses and the “El” run frequently between campuses and to other points in the city.
 
-There is also parking available near the Lake Shore Campus. The main parking structure is adjacent to Sheridan Road and the Halas Sports Center. The fee for one-day parking on campus is $7.00 or more. At peak class times, available parking can sometimes be scarce. Street parking in the community immediately surrounding campus is scarce. It is also restricted to residents during certain hours, so be sure to read the signs carefully to avoid being ticketed by the police.
+There is also parking available near the Lake Shore Campus. The main parking structure is adjacent to Sheridan Road and the Halas Sports Center.
 
 Further information on parking and long term parking permits is available at http://www.luc.edu/parking/. For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus.shtml.
 
