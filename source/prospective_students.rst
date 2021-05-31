@@ -65,7 +65,7 @@ Requirements for All Applicants
 For admission to the graduate degree program in the Department of Computer Science, submit the items below that are not listed as optional. You may also submit further items if you feel they would help bolster your admissions case.
 If you are an international student please *also* note the :ref:`additional_requirements_for_international_applicants`.
 
-#.  Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ with *no fee* or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper *with a $50 fee*.
+#.  Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper.
 
     For navigating the application, note that the programs are in the **School of Arts and Sciences**, and all are offered by the Computer Science department, so the Information Technology and Software Engineering degree names are prefixed by "Computer Science"
 
@@ -130,7 +130,7 @@ Here are *additional* requirements and an option for international student admis
         .. tip::
             A suggested exception to getting the general transcript evaluation.
 
-        If you have international graduate-level coursework after 4 years of college-level work, see :ref:`international_transfer`. Those students living abroad and seriously considering Loyola can write to the Graduate Program Director at gpd@cs.luc.edu about waiving the transcript evaluation fee.
+        If you have international graduate-level coursework after 4 years of college-level work, see :ref:`international_transfer`.
 
         .. note::
             Be sure the *rest* of your application is submitted when making this request, so it can be properly considered. Official notification of a passing English test score must be included at that time. Requesting that Loyola handle the evaluation will require *extra time*, since the transcript forms must be received first by Loyola and sent off again to Educational Perspectives.
@@ -204,8 +204,8 @@ If the process takes too long, you can request to roll your admission over to th
 Program Costs
 *************
 
-The Master's program has a 10-course requirement (once undergraduate prerequisites are satisfied). The tuition fees for graduate students in the department is $1033 per credit hour for the year 2019 - 2020. All of the graduate courses in our programs are 3 credit hours per term. Hence the fee per course through Summer 2019 is $3099. The tuition fees for the entire Master's program, which has a 10-course requirement, is $30990, plus any incremental increases in tuition for courses taken in later academic years.
+The Master's program has a 10-course requirement (once undergraduate prerequisites are satisfied).
 
-For more information on smaller semester fees please refer to the `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
+For information on semester fees please refer to the `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 
 See also :ref:`teaching_assistantships` and :ref:`financial_aid`.

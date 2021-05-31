@@ -1,5 +1,6 @@
+###############
 Acknowledgments
-===============
+###############
 
 We wish to acknowledge the following for their contributions that made this possible.
 

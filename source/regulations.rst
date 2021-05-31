@@ -345,7 +345,7 @@ Procedure
 
 Go into Locus and submit your graduation application *by the deadline*. That is all you need to do if you are on time. There is no penalty for guessing early about when you will graduate, but you will need to apply again for the actual time.
 
-You can apply up to 15 days later, *with a penalty fee*: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
+You can apply up to 15 days later: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
 
 Graduation Ceremonies are only in May
 =====================================

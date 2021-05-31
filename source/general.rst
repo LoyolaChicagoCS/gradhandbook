@@ -1,7 +1,3 @@
-###################
-General Information
-###################
-
 .. index::
     visit
     location of department
@@ -29,8 +25,13 @@ General Information
     Career Center
     jobs
 
+###################
+General Information
+###################
+
+*****
 Visit
-=====
+*****
 
 The Computer Science Department administrative offices are located in the Doyle Center, with the entrance at 1052 W Loyola Ave.
 
@@ -45,8 +46,7 @@ Department Office and Personnel
 
 The following folks are here to help you.
 
-..  csv-table:: Computer Science Department Personnel
-
+.. csv-table:: Computer Science Department Personnel
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
@@ -64,12 +64,11 @@ The main office of the Graduate School is on the fourth floor of the Granada Cen
 
 We strongly recommend that you contact the department faculty and staff first unless your matter absolutely requires direct Graduate School assistance. Going to Graduate School first is more likely to slow things down for you than speed them up.
 
-..  csv-table:: Graduate School Personnel
-
+.. csv-table:: Graduate School Personnel
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
-    "Sue Penckofer, Ph.D.", "Associate Dean", "SPENCKO@luc.edu"
+    "Sue Penckofer, Ph.D.", "Dean", "spencko@luc.edu"
     "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 The phone number for the Graduate School is (773) 508-3396.
@@ -106,6 +105,7 @@ An account on the student email system is created automatically for each new stu
 If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Secretary.
 
 .. warning::
+
     Having your e-mail forwarded to another account can be risky. Some students find the mail doesn't always get delivered.
 
 Students are encouraged to consult the Systems Handbook for more information about departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
@@ -115,17 +115,16 @@ Key Web Resources
 
 You are also encouraged to keep abreast of the following departmental web resources:
 
-..  csv-table:: Key Department Web Sites
+.. csv-table:: Key Department Web Sites
+   :header: "URL", "Description"
+   :widths: 15, 15
 
-    :header: "URL", "Description"
-    :widths: 15, 15
-
-    "http://www.luc.edu/cs", "Main Web Site for the CS Department"
-    "http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
-    "https://academics.cs.luc.edu/index.html", "Course Catalog with course descriptions and MS Programs Curriculum"
-    "http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
-    "http://jobs.cs.luc.edu", "Informal job postings"
-    "http://blog.cs.luc.edu", "CS Department Blog"
+   "http://www.luc.edu/cs", "Main Web Site for the CS Department"
+   "http://gradhandbook.cs.luc.edu", "This handbook's permanent location"
+   "https://academics.cs.luc.edu/index.html", "Course Catalog with course descriptions and MS Programs Curriculum"
+   "http://syshandbook.cs.luc.edu", "Computer Systems Handbook covering labs, servers, and other computing needs"
+   "http://jobs.cs.luc.edu", "Informal job postings"
+   "http://blog.cs.luc.edu", "CS Department Blog"
 
 Summer Sessions
 ===============
@@ -134,9 +133,9 @@ Summer sessions are offered through the Department each year, running from May t
 
 Three to five graduate-level courses are generally offered over these Summer terms, plus:
 
-*   :ref:`independent_study` with a department faculty member is encouraged for research-minded students. If you are starting in the Summer, this does not generally make sense.
+* :ref:`independent_study` with a department faculty member is encouraged for research-minded students. If you are starting in the Summer, this does not generally make sense.
 
-*   :ref:`internships`.
+* :ref:`internships`.
 
 Housing
 =======
@@ -148,7 +147,7 @@ Transportation
 
 Parking is available near the Water Tower Campus, although it is rather expensive. For sites listed in http://www.luc.edu/campustransportation/generalinformation/watertowercampus/ you can have your parking stub stamped at the information desk at the 25 E. Pearson building to receive a discount. As a current student, you will also want to acquaint yourself with the University’s inter-campus shuttle bus service. Public buses and the “El” run frequently between campuses and to other points in the city.
 
-There is also parking available near the Lake Shore Campus. The main parking structure is adjacent to Sheridan Road and the Halas Sports Center. The fee for one-day parking on campus is $7.00 or more. At peak class times, available parking can sometimes be scarce. Street parking in the community immediately surrounding campus is scarce. It is also restricted to residents during certain hours, so be sure to read the signs carefully to avoid being ticketed by the police.
+There is also parking available near the Lake Shore Campus. The main parking structure is adjacent to Sheridan Road and the Halas Sports Center.
 
 Further information on parking and long term parking permits is available at http://www.luc.edu/parking/. For information on the shuttle, see http://www.luc.edu/transportation/shuttlebus.shtml.
 
