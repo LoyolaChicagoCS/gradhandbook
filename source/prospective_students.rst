@@ -189,8 +189,6 @@ Here are *additional* requirements and an option for international student admis
         Students who have written and defended a doctoral dissertation in English: make sure you note this in your application.
 
 
-International students requiring an F-1 visa should consult the `International Students and Scholars <http://www.luc.edu/iss/outside.shtml>`_ page for further information.
-
 Though there is no admission deadline, be sure to leave time to get the necessary official English test results and transcript evaluations to Loyola before admission, and allow time after admission for obtaining a visa.
 
 If the process takes too long, you can request to roll your admission over to the next semester.
