@@ -1,4 +1,4 @@
-#########################
+########################
 Graduate Student Handbook
 #########################
 
@@ -19,7 +19,6 @@ Graduate Student Resources
 * `Graduate Courses <https://academics.cs.luc.edu/courses/graduate-courses.html>`_
 * `Graduate Degree Programs <https://academics.cs.luc.edu/graduate/graduate-degree-programs.html>`_
 * `Research in CS at Loyola University Chicago <https://research.cs.luc.edu/>`_
-* `Systems Handbook <https://systemshandbook.cs.luc.edu/>`_
 
 Other Helpful Resources for Current Students
 ============================================
