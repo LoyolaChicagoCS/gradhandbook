@@ -345,7 +345,7 @@ Procedure
 
 Go into Locus and submit your graduation application *by the deadline*. That is all you need to do if you are on time. There is no penalty for guessing early about when you will graduate, but you will need to apply again for the actual time.
 
-You can apply up to 15 days later, *with a penalty fee*: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
+You can apply up to 15 days later: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
 
 Graduation Ceremonies are only in May
 =====================================
@@ -380,8 +380,7 @@ You need to fill out the **Reinstatement** form, http://www.luc.edu/media/lucedu
     Besides the reinstatement form itself being filled out you need to return a document with two other parts:
 
     -   The reason for your absence. (The form says the reason for reinstatement but it means the reason for *absence*.)
-    -   Timeline to graduation: When you plan to be back and when you plan
-     to finish.
+    -   Timeline to graduation: When you plan to be back and when you plan to finish.
 
 .. index:: dropping a course
    tuition penalties
@@ -399,7 +398,7 @@ Be sure to look at the Academic Calendar for the given semester. Once you are re
 
 -   Withdrawal with no trace: Generally by the end of the first week of full Fall and Spring semesters. Generally only through the first Tuesday of the semester for the Summer session.
 -   Withdrawal with only a W on the transcript, and no tuition due: Generally during the second week of the Fall and Spring semesters. Sometime during the first week in Summer sessions. Be sure to check the Academic Calendar at http://www.luc.edu/academics/schedules/.
-   A W has no academic consequences. It is just a historical record of you changing your mind.
+    -   A W has no academic consequences. It is just a historical record of you changing your mind.
 -   Withdrawal later during classes: W on the transcript and a partial or complete tuition penalty. Do not get yourself into this situation just by not paying attention!
 
 .. index:: changing MS programs
