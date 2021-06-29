@@ -37,54 +37,53 @@ Have your application complete by the **deadline** date of:
 * *February 15* for **Fall** admission
 * *September 15* for **Spring** admission*
 
+The aim is to announce the awards before March 1 for Fall semesters, and in October for Spring semesters.
+
 .. important::
 
     Promptly fill out the form at the link provided by the |gpd| when acknowledging your admission recommendation.
 
-Make sure in your application that you had an *email address that you check regularly*, or update your current email address with the |gpd|.
+.. note::
 
-* Have excellent undergraduate performance, including all MS prerequisites.
-* International students should have a strong TOEFL, IELTS, or Loyola ESL score.
+    If you miss these deadlines you may apply in your first semester or later as a *current* student.
+
+In you application, make sure that you:
+
+* Have an *email address that you check regularly*, or update your current email address with the |gpd|
+* Have excellent undergraduate performance, including all MS prerequisites
+* Have a strong TOEFL, IELTS, or Loyola ESL score
+* Submit excellent letters of recommendation for graduate admission
+* Submit official GRE scores
 
 .. warning::
 
-  Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered at all, and higher scores are preferable.
-
-* Submit excellent letters of recommendation for graduate admission.
-* Submit official GRE scores.
+    Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered at all, and higher scores are preferable.
 
 For new students who receive an assistantship, it is customary for the department to commit to the end of the academic year, with an understanding to continue for up to a total of three semesters if funds are available for the next academic year, and if the students maintain their academic and work standards.
 
-The aim is to announce the awards before March 1 for Fall semesters, and in October for Spring semesters.
-
-.. note::
-
-  If you miss these deadlines you may apply in your first semester or later as a *current* student.
-
-******************************************
 Current Student Requirements and Deadlines
-******************************************
+==========================================
 
-Continuing students' *recent academic experience at Loyola* is the most important consideration in giving a new award.
+Continuing students' recent academic experience at Loyola is the most important consideration in giving a new award.
 
-Continuing students will get an *emailed reminder to their Loyola address several weeks before the deadline*.
+Continuing students will get an emailed reminder to their Loyola address several weeks before the deadline.
 
 The reminder will include the URL for an online form to fill out as your application.
 
-.. note::
+The deadlines are *earlier* than for just admitted students:
 
-  The deadlines are *earlier* than for just admitted students:
-
-  Continuing students fill out the online form by *March 15 for Fall awards* and by *October 15 for Spring awards*.
+Continuing students fill out the online form by
+* *March 15* for **Fall** awards
+* *October 15* for **Spring** awards
 
 Students who have already been given an award for the upcoming semester should not fill out the form. Initial awards for current students are generally finalized after the awards to new students are completed.
 
 Possible English Exam Given By Loyola
 =====================================
 
-Awardees who did not grow up in the US may be required by the Graduate School to take an extra English test on campus, *even if they have other English language certifications*.
+Awardees who did not grow up in the US may be required by the Graduate School to take an extra English test on campus, even if they have other English language certifications.
 
-The standards for TA's are *higher* than the entrance requirements. Someone who did not score high enough on the Loyola test will be required to take ESL in the first semester after the exam, and *pay the extra tuition*
+The standards for TA's are higher than the entrance requirements. Someone who did not score high enough on the Loyola test will be required to take ESL in the first semester after the exam, and pay the extra tuition.
 
 The cost has generally been about the same as one regular graduate academic credit. The need to actually take the ESL course has rarely happened with students we made a TA, but it is important to note it as a possibility.
 
