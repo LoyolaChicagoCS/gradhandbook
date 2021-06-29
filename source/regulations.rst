@@ -22,7 +22,7 @@ A full-time student will usually carry three courses in the Fall and Spring seme
 
 Be sure to see if you have separate constraints due to a loan program for domestic students or due to federal visa policy for international students.
 
-We do not encourage students to take more than 3 courses a term, and you should contact the Graduate Program Director if you need to take more than 3 courses in a term for any reason. It is explicitly prohibited to enroll in more than 3 courses to hold a space in a course. Many of our courses fill up quickly, so you should only register for courses that you truly plan to complete. No one is allowed to take more than 12 credit hours in Fall or Spring.
+We do not encourage students to take more than 3 courses a term, and you should contact the |gpd| if you need to take more than 3 courses in a term for any reason. It is explicitly prohibited to enroll in more than 3 courses to hold a space in a course. Many of our courses fill up quickly, so you should only register for courses that you truly plan to complete. No one is allowed to take more than 12 credit hours in Fall or Spring.
 
 This means most students finish the program in 16 months: Three Fall/Spring semesters for 9 of the courses, and the intervening Summer for one course. Some students take an extra Summer course, leaving a reduced load for the last semester, when it may be particularly convenient to devote time to a job or job search.
 
@@ -47,7 +47,7 @@ After registration opens you can register yourself through LOCUS for most course
 
 .. index:: permission required
 
-*You cannot register yourself for Comp 490 or 499* as both require the permission of the GPD or instructor of record. See sections :ref:`independent_study` and :ref:`internships`.
+*You cannot register yourself for Comp 490 or 499* as both require the permission of the |gpd| or instructor of record. See sections :ref:`independent_study` and :ref:`internships`.
 
 In any course where there is a note about *consent or permission required*, you must make a direct emailed request to the department, *clearly stating* the course and *section* (if more than one is offered) and *semester*, and the number of *credits* if that is variable. If you are asking for a course that requires the permission of the instructor, please add your direct request to an approving email that you forward from the instructor.
 
@@ -65,7 +65,7 @@ One misleading feature in LOCUS is that all MS students have a Dean's time limit
 
 In Locus, you can see the kind of block that is present by clicking on the red blocked symbol (a slash mark through a circle). Do check.
 
-*The only block that the GPD has the power to address is a probation block*, and that requires you to contact the GPD and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
+*The only block that the |gpd| has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
 
 Instead, deal with the office that added and controls the block: the wellness center, Dean of Students, GPEM, bursar, etc.
 
@@ -122,7 +122,7 @@ Note, SE and CS students with prior experience with the Comp 413 material can re
 Advising
 ********
 
-Newly admitted students should first consult with the Graduate Program Director before registering for courses. A discussion with the GPD is particularly important if there is any question of a student's prerequisite preparation.
+Newly admitted students should first consult with the |gpd| before registering for courses. A discussion with the |gpd| is particularly important if there is any question of a student's prerequisite preparation.
 
 Before the *next* registration period, you should be provided an individual faculty advisor for the rest of your studies.
 
@@ -187,7 +187,7 @@ At the other end of the spectrum, a student might just propose something that so
 
 Or a project could end up somewhere in between: something the professor is interested in, with a particular twist that appeals to the student.
 
-The typical approach is for the student to meet with the faculty member and then confirm the details of the agreement in an email to the faculty supervisor, being sure to include the exact *semester and credit hours* that you have agreed on. The supervisor then forwards the email with his or her approval to the *graduate secretary*, so she can register you. Your agreement does *not* go to the GPD, unless you will end up with a total of more credits of 490+499 than the normal 6 credit limit.
+The typical approach is for the student to meet with the faculty member and then confirm the details of the agreement in an email to the faculty supervisor, being sure to include the exact *semester and credit hours* that you have agreed on. The supervisor then forwards the email with his or her approval to the *graduate secretary*, so she can register you. Your agreement does *not* go to the |gpd|, unless you will end up with a total of more credits of 490+499 than the normal 6 credit limit.
 
 These courses are for 1-6 credits. See the section below on variable hour courses. We rarely allow students to take more than 6 total credits in their overall program for the sum of Independent Study and Internships but do allow further high-level independent study in exceptional circumstances.
 
@@ -208,15 +208,15 @@ Internships (COMP 499)
 
 First, you need to find a job for the period of the Internship.
 
-There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the GPD and get your job description approved. Internships are for 1-6 credits. See :ref:`variable_credit_courses`.
+There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the |gpd| and get your job description approved. Internships are for 1-6 credits. See :ref:`variable_credit_courses`.
 
-Download the `MOU Form <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_, *read it*, print, fill out *both pages*, and return. Please read this carefully before asking questions of the GPD.
+Download the `MOU Form <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_, *read it*, print, fill out *both pages*, and return. Please read this carefully before asking questions of the |gpd|.
 
 It contains a description of the details of your academic requirements for the course.
 
 You will also need your job supervisor's signature.
 
-Get the finished form to the GPD, so we can register you for the course for the proper number of credits.
+Get the finished form to the |gpd|, so we can register you for the course for the proper number of credits.
 
 Please do not ask us to register you if you are not simultaneously submitting the completed MoU.
 
@@ -244,15 +244,15 @@ Optionally, this could include :ref:`Summer_full_time`.
 
 To start CPT you must get an application submitted in one of two routes. In both cases with the CPT application, you should provide a written job offer (which can be an email) from the prospective employer. The completed CPT application must be delivered to the International Office, and they will issue the work permit. The form to start CPT can be found `here <http://www.luc.edu/iss/forms.shtml>`_.
 
-The CPT can be tied to an academic course in either of two ways. You get a GPD signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the GPD signature and date* *before looking for a signature!* Do not leave the GPD to guess which of the two options you want:
+The CPT can be tied to an academic course in either of two ways. You get a |gpd| signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the |gpd| signature and date* *before looking for a signature!* Do not leave the |gpd| to guess which of the two options you want:
 
 -   You can take the Comp 499 course specifically for :ref:`internships`, with the regular tuition charge per credit.
 
-    Get the form with your MOU and job offer to the GPD, and the GPD will get the application completed and forwarded to the OIP with the job offer.
+    Get the form with your MOU and job offer to the |gpd|, and the |gpd| will get the application completed and forwarded to the OIP with the job offer.
 
 -   For no extra tuition you can generally tie it to a course you are already planning to take it. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the OIP yourself.*
 
-Students generally scan and email the CPT form to the GPD, making sure the option chosen above is clearly indicated.
+Students generally scan and email the CPT form to the |gpd|, making sure the option chosen above is clearly indicated.
 
 
 .. index::
@@ -267,7 +267,7 @@ F-1 Summer Full-time Status
 
 F-1 visa students who do not start in the Summer, do not need to study at all in the Summer as long as they are full-time in each Fall and Spring until they finish. For them, Summer courses are optional.
 
-(In the semester that you finish up, you are automatically full-time, even if you have only 1-2 courses left, though the GPD does need to confirm with the OIP when your 1-2 courses allow you to finish.)
+(In the semester that you finish up, you are automatically full-time, even if you have only 1-2 courses left, though the |gpd| does need to confirm with the OIP when your 1-2 courses allow you to finish.)
 
 F-1 students starting in Summer do need to be classified as full-time.
 
@@ -277,9 +277,9 @@ To have Summer count automatically as full time for an F-1 student, you can take
 
 This is hard to do for two reasons: It is a lot of work to cram 3 courses into 12 weeks and we offer a limited number of courses in Summer, so it may be hard to fit your interests with 3 courses.
 
-These restrictions allow for a possible opening: With permission from the GPD and OIP, you can get a waiver so you are allowed to take fewer courses (generally 2) and still, be counted as full-time. You can ask the GPD to approve this reduction in the Summer because of the issues listed above.
+These restrictions allow for a possible opening: With permission from the |gpd| and OIP, you can get a waiver so you are allowed to take fewer courses (generally 2) and still, be counted as full-time. You can ask the |gpd| to approve this reduction in the Summer because of the issues listed above.
 
-Be sure to check with the OIP for the exact current details and correct forms to ask the GPD to sign.
+Be sure to check with the OIP for the exact current details and correct forms to ask the |gpd| to sign.
 
 .. index:: variable credit courses
 .. _variable_credit_courses:
@@ -302,7 +302,7 @@ Graduate School of Business Courses (GSB)
 
 Our students can sometimes get into GSB courses. They broaden the Computer Science offerings and let you take GSB courses at the Graduate School's much lower tuition rate.
 
-Unless a GSB course has specifically been mentioned as being allowed to count toward our department's MS degrees, but sure to check first with the GPD.
+Unless a GSB course has specifically been mentioned as being allowed to count toward our department's MS degrees, but sure to check first with the |gpd|.
 
 Several special considerations are coming from the fact that GSB courses are *quarter* courses.
 
@@ -312,7 +312,7 @@ Our students generally need to wait until shortly before the term starts to be a
 
 This means our students generally need a backup plan.
 
-You cannot register yourself in any case. Be sure to make a direct request to the GPD, close to the time the course starts, to see if there is space, and the GPD will arrange your registration through the GSB:
+You cannot register yourself in any case. Be sure to make a direct request to the |gpd|, close to the time the course starts, to see if there is space, and the |gpd| will arrange your registration through the GSB:
 
 #.  Include a direct request like "Please register me for INFS 496 Section 001." *not* an indirect question like "Would it is OK if I register for....?"
 #.  Include your full name and Student ID number.
@@ -331,7 +331,7 @@ Be aware of the GSB deadlines for getting the course dropped with no trace and t
 Graduation
 **********
 
-Degrees are conferred in May, August, and December. You must apply for graduation **way in advance** of graduation or the official conferral of your degree will be **postponed**. The GPD will not be able to appeal this for you. Note that there are only graduation *ceremonies* in May.
+Degrees are conferred in May, August, and December. You must apply for graduation **way in advance** of graduation or the official conferral of your degree will be **postponed**. The |gpd| will not be able to appeal this for you. Note that there are only graduation *ceremonies* in May.
 
 Deadlines
 =========
@@ -354,7 +354,7 @@ If you have only *one* course left for Summer, you can ask to participate in the
 
 This one course can be 490/499 for more than 3 credits.
 
-To do this you must apply for Summer graduation by the deadline listed above and promptly email the GPD, asking for approval to walk in the May ceremony.
+To do this you must apply for Summer graduation by the deadline listed above and promptly email the |gpd|, asking for approval to walk in the May ceremony.
 
 If you graduate in the Summer or Fall, you can choose to return to participate in the *following* May graduation ceremony (unless you already participated in the previous May graduation, as discussed above).
 
@@ -374,7 +374,7 @@ After being approved for a leave, you will need to notify the Associate Dean of 
 
 If you *neglect to request a Leave*, the return process is longer and less sure:
 
-You need to fill out the **Reinstatement** form, http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf, and return it to the GPD (preferably as an emailed electronic scan).
+You need to fill out the **Reinstatement** form, http://www.luc.edu/media/lucedu/gradschool/pdfs/Reinstatement%20Request.pdf, and return it to the |gpd| (preferably as an emailed electronic scan).
 
 .. note::
     Besides the reinstatement form itself being filled out you need to return a document with two other parts:
@@ -436,13 +436,13 @@ These all have alternatives ending with "D", for dual, like SWEN-MS D: *these ar
 Transfer Credit
 ***************
 
-The GPD must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the GPD as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits - see :ref:`international_transfer`).
+The |gpd| must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the |gpd| as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits - see :ref:`international_transfer`).
 
 Do not delay! Your official transcripts need to show B or better in relevant courses.
 
 For conditionally admitted students, Loyola must already have the relevant official transcript.
 
-Although official transcripts are needed to forward the request to the Grad School for final approval, you are welcomed to show unofficial transcripts to the GPD to see if you have appropriate courses (but still, send a reminder when the official documents are in).
+Although official transcripts are needed to forward the request to the Grad School for final approval, you are welcomed to show unofficial transcripts to the |gpd| to see if you have appropriate courses (but still, send a reminder when the official documents are in).
 
 .. note::
     All courses, including graduate courses in your first 4 years since the start of college, are considered part of your undergraduate education.
@@ -540,7 +540,7 @@ The Graduate School Catalog defines plagiarism as "the appropriation for a gain 
 
 As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not.
 
-If you are ever uncertain, it is of course best to consult your instructor, the GPD, or another faculty member.
+If you are ever uncertain, it is of course best to consult your instructor, the |gpd|, or another faculty member.
 
 The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course.
 
@@ -554,7 +554,7 @@ Although quite rare in our department, cases have occurred in the past and have 
 Grievance Procedure
 *******************
 
-Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the GPD. If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair.
+Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the |gpd|. If the problem cannot be satisfactorily resolved by the |gpd|, it will be taken up by the Department Chair.
 
 Unfortunately fully addressing a grievance within the department can take considerable time. The student must be patient. If a student is not satisfied with the decision within the department, then *after* the departmental decision, not earlier, the student may wish to initiate a grievance in writing to the Dean.
 

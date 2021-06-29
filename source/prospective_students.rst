@@ -49,7 +49,7 @@ Please note that you can apply and be accepted without having all the undergradu
 Questions
 =========
 
-If you have questions after reading the information below, contact the Graduate Program Director at gpd@cs.luc.edu.
+If you have questions after reading the information below, contact the |gpd|.
 
 You are encouraged to :ref:`visit`.
 
@@ -179,7 +179,7 @@ Here are *additional* requirements and an option for international student admis
                 Graduating from a program offered in English from any *other* country does *not* exempt the student from the English requirement.
 
     .. note::
-        If you do not yet have the necessary test results for one of the above avenues, and your application is complete except for the English requirement, then the Graduate Program Director (GPD) is happy to look at your application and *informally* let you know if you should expect the GPD's recommendation for admission, *after* obtaining a sufficient official English score for one of the routes above. Later, the Graduate School Dean's approval is still needed for final admission.
+        If you do not yet have the necessary test results for one of the above avenues, and your application is complete except for the English requirement, then the |gpd| is happy to look at your application and *informally* let you know if you should expect the `Graduate Program Director's <mailto:gpd@cs.luc.edu>`_ recommendation for admission, *after* obtaining a sufficient official English score for one of the routes above. Later, the Graduate School Dean's approval is still needed for final admission.
 
 #.  International applicants who will be on an F-1 visa (including those who are seeking financial aid from the department) are encouraged to submit proof (affidavit) of financial support to our International students' office *simultaneously* with filing their application.
 

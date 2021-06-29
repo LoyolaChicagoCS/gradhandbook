@@ -22,6 +22,8 @@ import sys, os
 rst_epilog = (
     """
 
+.. |gpd| replace:: `Graduate Program Director <mailto:gpd@cs.luc.edu>`_
+
 .. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`__
 
 .. |math117| replace:: `MATH 117: College Algebra <http://luc.edu/math/academics/courses/math117/index.shtml>`__
@@ -119,7 +121,6 @@ rst_epilog = (
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
-
 .. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc102| replace:: `CJC 102: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
@@ -127,6 +128,7 @@ rst_epilog = (
 .. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
 
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 

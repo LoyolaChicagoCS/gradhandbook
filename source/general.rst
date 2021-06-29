@@ -3,8 +3,6 @@
     location of department
     personnel
     graduate school offices
-    Graduate Program Director
-    GPD
     ID cards
     computer services
     notification services
@@ -39,7 +37,7 @@ General Loyola visitor information is at http://www.luc.edu/visit.shtml. See the
 
 The main department phone number is (773) 508-8150.
 
-While the current Graduate Program Director (GPD) is often available by phone, you would do well to confirm a face to face meeting time by email at gpd@cs.luc.edu.
+While the current |gpd| is often available by phone, you would do well to confirm a face to face meeting time by email at gpd@cs.luc.edu.
 
 Department Office and Personnel
 ===============================
@@ -76,13 +74,13 @@ The phone number for the Graduate School is (773) 508-3396.
 Graduate Program Director
 =========================
 
-Regardless of the MS program in which you're enrolled, your first adviser will be your Graduate Program Director (abbreviated **GPD**), gpd@cs.luc.edu.
+Regardless of the MS program in which you're enrolled, your first adviser will be your |gpd|.
 
 The current director for Software Engineering and Computer Science is Dr. Eric Chan-Tin.
 
 The current director for Information Technology is Dr. Peter Lars Dordal.
 
-You are expected to confer with your GPD about your initial course of study in pursuit of your degree. You should be assigned an advisor for later semesters, to consult about the progression of your academic program.
+You are expected to confer with your |gpd| about your initial course of study in pursuit of your degree. You should be assigned an advisor for later semesters, to consult about the progression of your academic program.
 
 The GPDs are also available for further discussion of your progress in the program and your plans.
 
@@ -100,7 +98,7 @@ The University maintains several Computer Centers which are available for your u
 
 All university students are responsible for reading and following http://www.luc.edu/its/itspoliciesguidelines/policy_acceptableuse.shtml.
 
-An account on the student email system is created automatically for each new student. Both the GPD and the Graduate School will use this account to communicate with you. It is therefore *crucial that you check your Loyola e-mailbox regularly.*
+An account on the student email system is created automatically for each new student. Both the |gpd| and the Graduate School will use this account to communicate with you. It is therefore *crucial that you check your Loyola e-mailbox regularly.*
 
 If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Secretary.
 

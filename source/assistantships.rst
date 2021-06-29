@@ -25,13 +25,13 @@ The most recent awards included $18,000 in stipend. Full-time tuition in Fall an
 
 Research assistantships in Computer Science may also be available from time to time depending upon the availability of faculty research grants. Other units of the university sometimes offer TA awards for Computer Science students.
 
-There is no separate application for seeking research assistantship or TA awards in other units of the university. All applications are initially reviewed by the Graduate Program Director.
+There is no separate application for seeking research assistantship or TA awards in other units of the university. All applications are initially reviewed by the |gpd|.
 
 **************************
 New Student Assistantships
 **************************
 
-New applicants to the Master's programs in Computer Science should get an email from the GPD when admission is first recommended. This email should have a link near the end to a form to apply for a TA award.
+New applicants to the Master's programs in Computer Science should get an email from the |gpd| when admission is first recommended. This email should have a link near the end to a form to apply for a TA award.
 
 Have your application complete by the **deadline** date of:
 * *February 15* for **Fall** admission
@@ -39,9 +39,9 @@ Have your application complete by the **deadline** date of:
 
 .. important::
 
-    Promptly fill out the form at the link provided by the GPD when acknowledging your admission recommendation.
+    Promptly fill out the form at the link provided by the |gpd| when acknowledging your admission recommendation.
 
-Make sure in your application that you had an *email address that you check regularly*, or update your current email address with the GPD (gpd@cs.luc.edu).
+Make sure in your application that you had an *email address that you check regularly*, or update your current email address with the |gpd|.
 
 * Have excellent undergraduate performance, including all MS prerequisites.
 * International students should have a strong TOEFL, IELTS, or Loyola ESL score.
@@ -101,7 +101,7 @@ Further information about Graduate awards is at http://www.luc.edu/gradschool/Fu
 Non-Departmental Financial Awards
 =================================
 
-Only the merit awards discussed above are administered by the Computer Science Department. The GPD is not going to be of any help on other aid.
+Only the merit awards discussed above are administered by the Computer Science Department. The |gpd| is not going to be of any help on other aid.
 
 Instead, general information about other financial aid is at http://www.luc.edu/finaid/.
 

@@ -6,7 +6,7 @@ Welcome to the Graduate Handbook *informational* site for the Computer Science D
 
 This site is aimed at helping *current* Graduate School applicants and those who are interested in the Graduate Programs offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
-If you have questions about the information here, please contact the Graduate Program Director at `gpd@cs.luc.edu <mailto:gpd@cs.luc.edu>`_ or at `(773) 508-8150 <tel:+7735088150>`_.
+If you have questions about the information here, please contact the |gpd| at `gpd@cs.luc.edu <mailto:gpd@cs.luc.edu>`_ or at `(773) 508-8150 <tel:+7735088150>`_.
 
 .. important::
 
