@@ -35,9 +35,9 @@ The Computer Science Department administrative offices are located in the Doyle 
 
 General Loyola visitor information is at http://www.luc.edu/visit.shtml. See the link to the Lake Shore campus map, where Doyle Center is labeled 6 (may be labeled as preschool).
 
-The main department phone number is (773) 508-8150.
+The main department phone number is `(773) 508-8150 <tel:+7735088150>`_.
 
-While the current |gpd| is often available by phone, you would do well to confirm a face to face meeting time by email at gpd@cs.luc.edu.
+While the current |gpd| is often available by phone, you would do well to confirm a face to face meeting time by email at `gpd@cs.luc.edu <mailto:gpd@cs.luc.edu>`_.
 
 Department Office and Personnel
 ===============================
@@ -55,6 +55,19 @@ The following folks are here to help you.
     "Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
     "Marina Hart", "Department Secretary", "mhart6@luc.edu"
 
+Graduate Program Director
+-------------------------
+
+Regardless of the MS program in which you're enrolled, your first adviser will be your |gpd|.
+
+The current director for Software Engineering and Computer Science is `Dr. Eric Chan-Tin <https://chantin.cs.luc.edu/~chantin/>`_.
+
+The current director for Information Technology is `Dr. Peter Lars Dordal <https://pld.cs.luc.edu/>`_.
+
+You are expected to confer with your |gpd| about your initial course of study in pursuit of your degree. You should be assigned an advisor for later semesters, to consult about the progression of your academic program.
+
+The GPDs are also available for further discussion of your progress in the program and your plans.
+
 Graduate School Offices
 =======================
 
@@ -69,20 +82,7 @@ We strongly recommend that you contact the department faculty and staff first un
     "Sue Penckofer, Ph.D.", "Dean", "spencko@luc.edu"
     "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
-The phone number for the Graduate School is (773) 508-3396.
-
-Graduate Program Director
-=========================
-
-Regardless of the MS program in which you're enrolled, your first adviser will be your |gpd|.
-
-The current director for Software Engineering and Computer Science is Dr. Eric Chan-Tin.
-
-The current director for Information Technology is Dr. Peter Lars Dordal.
-
-You are expected to confer with your |gpd| about your initial course of study in pursuit of your degree. You should be assigned an advisor for later semesters, to consult about the progression of your academic program.
-
-The GPDs are also available for further discussion of your progress in the program and your plans.
+The phone number for the Graduate School is `(773) 508-3396 <tel:+7735083396>`_.
 
 Student ID Cards
 ================
@@ -106,10 +106,8 @@ If you find that you are not receiving regular and frequent communiqués from th
 
     Having your e-mail forwarded to another account can be risky. Some students find the mail doesn't always get delivered.
 
-Students are encouraged to consult the Systems Handbook for more information about departmental and university computing resources. See http://syshandbook.cs.luc.edu/.
-
 Key Web Resources
-=================
+-----------------
 
 You are also encouraged to keep abreast of the following departmental web resources:
 
