@@ -39,12 +39,13 @@ Topical Index
    :maxdepth: 1
    :hidden:
 
+   CS Dept. Homepage <https://www.luc.edu/cs/>
+
    acknowledgments
    assistantships
    general
    prospective_students
    regulations
 
-   CS Dept. Homepage <https://www.luc.edu/cs/>
 
 .. _Computer Science Department: https://luc.edu/cs/
