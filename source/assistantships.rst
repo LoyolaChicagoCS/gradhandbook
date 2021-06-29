@@ -13,8 +13,7 @@
 Teaching Assistantships
 #######################
 
-Each year the Computer Science department offers a small number of graduate assistantships for new and continuing students. Assistantships are competitive and target students with an exceptional interpersonal and
-computing background, regardless of which degree you are pursuing.
+Each year the Computer Science department offers a small number of graduate assistantships for new and continuing students. Assistantships are competitive and target students with an exceptional interpersonal and computing background, regardless of which degree you are pursuing.
 
 For a full teaching-assistantship for a full academic year, there are duties for 18 hours per week in the Fall and Spring semesters in computer labs, in support of faculty teaching or research projects, or in-network or web support in the department.
 
@@ -22,7 +21,7 @@ The most recent awards included $18,000 in stipend. Full-time tuition in Fall an
 
 .. note::
 
-  New merit awards are not given for Summer semesters.
+    New merit awards are not given for Summer semesters.
 
 Research assistantships in Computer Science may also be available from time to time depending upon the availability of faculty research grants. Other units of the university sometimes offer TA awards for Computer Science students.
 
@@ -34,15 +33,15 @@ New Student Assistantships
 
 New applicants to the Master's programs in Computer Science should get an email from the GPD when admission is first recommended. This email should have a link near the end to a form to apply for a TA award.
 
-.. note::
-    Be sure to note the application *deadlines* in the list below.
+Have your application complete by the **deadline** date of:
+* *February 15* for **Fall** admission
+* *September 15* for **Spring** admission*
 
-* Have your application complete by the **deadline** date of *February 15 for Fall admission* **or** *September 15 for Spring admission*.
-* Promptly fill out the form at the link provided by the GPD when acknowledging your admission recommendation.
+.. important::
 
-.. note::
+    Promptly fill out the form at the link provided by the GPD when acknowledging your admission recommendation.
 
-    Make sure in your application that you had an *email address that you check regularly*, or update your current email address with the GPD (gpd@cs.luc.edu).
+Make sure in your application that you had an *email address that you check regularly*, or update your current email address with the GPD (gpd@cs.luc.edu).
 
 * Have excellent undergraduate performance, including all MS prerequisites.
 * International students should have a strong TOEFL, IELTS, or Loyola ESL score.

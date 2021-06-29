@@ -1,3 +1,6 @@
+black
+isort
 recommonmark
+rstcheck
 sphinx
 sphinx-rtd-theme
