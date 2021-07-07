@@ -18,6 +18,8 @@ The following folks are here to help you.
     "Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
     "Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
     "Marina Hart", "Department Secretary", "mhart6@luc.edu"
+    "Sue Penckofer, Ph.D.", "Dean", "spencko@luc.edu"
+    "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 Graduate Program Director
 =========================
