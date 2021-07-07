@@ -1,14 +1,3 @@
-.. index::
-    teaching assistantships
-    merit awards
-    financial aid
-    deadline
-    merit award application
-    requirements
-    deadlines
-    english exam
-    policies
-
 #######################
 Teaching Assistantships
 #######################
