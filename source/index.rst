@@ -41,6 +41,8 @@ Topical Index
 
    CS Dept. Homepage <https://www.luc.edu/cs/>
 
+
+..    TODO: Fix these
    acknowledgments
    assistantships
    general
