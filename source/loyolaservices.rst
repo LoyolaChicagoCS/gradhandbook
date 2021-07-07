@@ -73,4 +73,4 @@ You are also encouraged to keep abreast of the following departmental web resour
 Career Development
 ******************
 
-For information regarding Career Development services offered by Loyola, see :doc:`careerdevelopment.rst`
+For information regarding Career Development services offered by Loyola, see :doc:`careerdevelopment`
