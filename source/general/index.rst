@@ -2,7 +2,7 @@
 General Information
 ###################
 
-There is information on if you are inclined to visit Loyola University Chicago hosted in this directory.
+These pages contain the acknowledgments for the site as well as information on visiting the CS Graduate School.
 
 .. toctree::
    :maxdepth: 1

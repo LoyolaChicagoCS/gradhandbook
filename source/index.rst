@@ -40,14 +40,9 @@ Topical Index
    :hidden:
 
    CS Dept. Homepage <https://www.luc.edu/cs/>
-
-
-..    TODO: Fix these
-   acknowledgments
-   assistantships
-   general
-   prospective_students
-   regulations
+   policy/index
+   services/index
+   general/visit
 
 
 .. _Computer Science Department: https://luc.edu/cs/
