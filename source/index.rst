@@ -79,7 +79,11 @@ Topical Index
    CS Dept. Homepage <https://www.luc.edu/cs/>
    policy/admissions
    policy/financial
-   services/index
+   policy/people
+   policy/regulations
+   services/assistantships
+   services/careerdevelopment
+   services/loyolaservices
    general/visit
 
 

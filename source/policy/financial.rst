@@ -1,6 +1,6 @@
-﻿#####################
-Financial Information
-#####################
+﻿####################
+Financial Assistance
+####################
 
 *************
 Program Costs
