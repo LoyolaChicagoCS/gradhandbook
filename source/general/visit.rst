@@ -2,7 +2,7 @@
 Visit
 #####
 
-The Computer Science Department administrative offices are located in the Doyle Center, with the entrance at 1052 W Loyola Ave.
+The Computer Science Department administrative offices are located in the Doyle Center, with the entrance at `1052 W Loyola Ave <https://goo.gl/maps/g1dBUDRwsRCcdBS68>`_.
 
 General Loyola visitor information is at http://www.luc.edu/visit.shtml. See the link to the Lake Shore campus map, where Doyle Center is labeled 6 (may be labeled as preschool).
 
