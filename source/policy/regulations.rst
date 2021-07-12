@@ -449,19 +449,6 @@ Although official transcripts are needed to forward the request to the Grad Scho
 
     Only if you do MS work *past* the four years of academic work can transfer credit be considered.
 
-
-.. index:: international transfer credit
-
-.. _international_transfer:
-
-*************************************************************
-Further International Transcript Credit Transfer Requirements
-*************************************************************
-
-International transcripts need only a *general* evaluation with GPA by ECE, http://www.ece.org/, or Educational Perspectives, http://www.educational-perspectives.org/, for *admission*, but they need a *course by course* evaluation to *transfer* international graduate credit.
-
-If you are expecting to get transfer credit, it is most economical to ask for the course by course evaluation the *first* time transcripts are submitted to an evaluator.
-
 .. index:: grades
 
 ******
