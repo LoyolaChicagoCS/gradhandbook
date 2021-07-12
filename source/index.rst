@@ -77,7 +77,7 @@ Topical Index
    :hidden:
 
    CS Dept. Homepage <https://www.luc.edu/cs/>
-   policy/index
+   policy/admissions
    services/index
    general/visit
 
