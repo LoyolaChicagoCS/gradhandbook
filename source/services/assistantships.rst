@@ -9,7 +9,6 @@ For a full teaching-assistantship for a full academic year, there are duties for
 The most recent awards included $18,000 in stipend. Full-time tuition in Fall and Spring plus medical insurance are also included in a full award.
 
 .. note::
-
     New merit awards are not given for Summer semesters.
 
 Research assistantships in Computer Science may also be available from time to time depending upon the availability of faculty research grants. Other units of the university sometimes offer TA awards for Computer Science students.
@@ -29,11 +28,9 @@ Have your application complete by the **deadline** date of:
 The aim is to announce the awards before March 1 for Fall semesters, and in October for Spring semesters.
 
 .. important::
-
     Promptly fill out the form at the link provided by the |gpd| when acknowledging your admission recommendation.
 
 .. note::
-
     If you miss these deadlines you may apply in your first semester or later as a *current* student.
 
 In you application, make sure that you:
@@ -45,7 +42,6 @@ In you application, make sure that you:
 * Submit official GRE scores
 
 .. warning::
-
     Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered at all, and higher scores are preferable.
 
 For new students who receive an assistantship, it is customary for the department to commit to the end of the academic year, with an understanding to continue for up to a total of three semesters if funds are available for the next academic year, and if the students maintain their academic and work standards.
@@ -77,8 +73,7 @@ The standards for TA's are higher than the entrance requirements. Someone who di
 The cost has generally been about the same as one regular graduate academic credit. The need to actually take the ESL course has rarely happened with students we made a TA, but it is important to note it as a possibility.
 
 .. note::
-
-  TA tuition awards may not be used to cover the cost of the exam.
+    TA tuition awards may not be used to cover the cost of the exam.
 
 ************************
 Graduate School Policies
@@ -92,5 +87,3 @@ Non-Departmental Financial Awards
 Only the merit awards discussed above are administered by the Computer Science Department. The |gpd| is not going to be of any help on other aid.
 
 Instead, general information about other financial aid is at http://www.luc.edu/finaid/.
-
-Domestic students should also remember :ref:`FAFSA`.
