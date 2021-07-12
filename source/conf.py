@@ -21,7 +21,6 @@ import sys, os
 
 rst_epilog = (
     """
-
 .. |gpd| replace:: `Graduate Program Director <mailto:gpd@cs.luc.edu>`_
 
 .. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`__
