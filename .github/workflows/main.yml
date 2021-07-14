@@ -34,7 +34,9 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install -r ./requirements.txt
 
-      - run: make html
+      - run: |
+          make html
+          echo graduatehandbook.cs.luc.edu > build/html/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
