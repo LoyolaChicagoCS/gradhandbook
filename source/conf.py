@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# LUC LUC CS Loyola University Chicago CS - Graduate Programs build configuration file, created by Nicholas M Synovic on 5/17/2021 at 10:33 PM\
-# Imported from NicholasSynovic/LUC-CS-Academics
+# LUC LUC CS Loyola University Chicago CS - Graduate Programs build configuration file, created by
+# sphinx-quickstart on Sat Feb  2 23:37:32 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -21,6 +21,7 @@ import sys, os
 
 rst_epilog = (
     """
+.. |gpd| replace:: `Graduate Program Director <mailto:gpd@cs.luc.edu>`_
 
 .. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`__
 
@@ -119,7 +120,6 @@ rst_epilog = (
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
-
 .. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc102| replace:: `CJC 102: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
@@ -127,6 +127,7 @@ rst_epilog = (
 .. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
 
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
@@ -148,7 +149,7 @@ rst_epilog = (
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax", "sphinx.ext.autosectionlabel"]
 autosectionlabel_prefix_document = True
-#extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax"]
+# extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -163,7 +164,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = u"Loyola University Chicago CS - Graduate Programs"
+project = u"Loyola University Chicago CS Graduate Handbook"
 copyright = u"2018-Present, Loyola Universtiy Chicago - Computer Science Department"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -219,16 +220,20 @@ html_context = {
     "css_files": [
         "_static/theme_overrides.css",  # override wide tables in RTD theme
     ],
+    # "display_github": True,
+    # "github_user": "LoyolaChicagoCS",
+    # "github_repo": "coursedescriptions",
+    # "github_version": "master",
 }
 
 html_theme_options = {
     #'canonical_url': '',
-    "analytics_id": "UA-5482792-28"
+    "analytics_id": "UA-5482792-28",
     #'logo_only': False,
     #'display_version': True,
     #'prev_next_buttons_location': 'bottom',
     #'style_external_links': False,
-    #'vcs_pageview_mode': '',
+    "vcs_pageview_mode": "blob",
     #'style_nav_header_background': 'white',
     # Toc options
     #'collapse_navigation': True,
@@ -251,7 +256,7 @@ html_theme_options = {
 # html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "LUC CS Loyola University Chicago CS - Academic Programs"
+html_short_title = "LUC CS Loyola University Chicago CS - Graduate Handbook"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -308,7 +313,7 @@ html_short_title = "LUC CS Loyola University Chicago CS - Academic Programs"
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "LoyolaComputerScienceGraduateProgramsdoc"
+htmlhelp_basename = "LoyolaComputerScienceGraduateHandbookdoc"
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -327,8 +332,8 @@ latex_elements = {
 latex_documents = [
     (
         "index",
-        "LoyolaComputerScienceGraduatePrograms.tex",
-        u"LUC CS Loyola University Chicago CS - Graduate Programs",
+        "LoyolaComputerScienceGraduateHandbook.tex",
+        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
         u"Loyola University Chicago - Computer Science Department",
         "manual",
     ),
@@ -362,8 +367,8 @@ latex_documents = [
 man_pages = [
     (
         "index",
-        "loyolauniversitychicagocomputerscience-Coursehandbook",
-        u"LUC CS Loyola University Chicago CS - Graduate Programs",
+        "loyolauniversitychicagocomputerscience-Graduatehandbook",
+        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
         [u"Loyola University Chicago - Computer Science Department"],
         1,
     )
@@ -381,10 +386,10 @@ man_pages = [
 texinfo_documents = [
     (
         "index",
-        "LoyolaComputerScienceGraduatePrograms",
-        u"LUC CS Loyola University Chicago CS - Graduate Programs",
+        "LoyolaComputerScienceGraduateHandbook",
+        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
         u"Loyola University Chicago - Computer Science Department",
-        "LoyolaComputerScienceGraduatePrograms",
+        "LoyolaComputerScienceGraduateHandbook",
         "One line description of project.",
         "Miscellaneous",
     ),
@@ -403,11 +408,11 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u"LUC CS Loyola University Chicago CS - Graduate Programs"
+epub_title = u"LUC CS Loyola University Chicago CS - Graduate Handbook"
 epub_author = u"Loyola University Chicago - Computer Science Department"
 epub_publisher = u"Loyola University Chicago - Computer Science Department"
 epub_copyright = u"2018, Loyola University Chicago - Computer Science Department"
-epub_basename = "LoyolaComputerScienceGraduatePrograms"
+epub_basename = "LoyolaComputerScienceGraduateHandbook"
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
