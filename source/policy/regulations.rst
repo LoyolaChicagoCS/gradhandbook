@@ -1,6 +1,5 @@
-﻿##########################
-Regulations and Procedures
-##########################
+﻿Regulations and Procedures
+###########################
 
 This section covers specific policies of the Computer Science Department and refers to some of the most important governing policies and procedure of the Graduate School, http://www.luc.edu/gradschool/academics_policies.shtml, but this Computer Science Handbook *does not attempt to duplicate the statement of all Graduate School policies*.
 

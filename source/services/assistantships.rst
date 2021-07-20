@@ -1,6 +1,5 @@
-#######################
 Teaching Assistantships
-#######################
+########################
 
 Each year the Computer Science department offers a small number of graduate assistantships for new and continuing students. Assistantships are competitive and target students with an exceptional interpersonal and computing background, regardless of which degree you are pursuing.
 
