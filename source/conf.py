@@ -13,9 +13,10 @@
 
 import sys, os
 
-# version = os.environ.get("BOOK_VERSION", "beta")
-# The full version, including alpha/beta/rc tags.
-# release = version
+from datetime import date
+
+version = date.today().strftime("Updated %Y-%m-%d")
+release = version
 
 # Additional definitions
 
@@ -149,7 +150,6 @@ rst_epilog = (
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax", "sphinx.ext.autosectionlabel"]
 autosectionlabel_prefix_document = True
-# extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -158,7 +158,7 @@ templates_path = ["_templates"]
 source_suffix = ".rst"
 
 # The encoding of source files.
-# source_encoding = 'utf-8-sig'
+source_encoding = "utf-8"
 
 # The master toctree document.
 master_doc = "index"
