@@ -1,3 +1,9 @@
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   CS Dept. Homepage <https://www.luc.edu/cs/>
+
 #########################
 Graduate Student Handbook
 #########################
@@ -76,7 +82,6 @@ Topical Index
    :maxdepth: 1
    :hidden:
 
-   CS Dept. Homepage <https://www.luc.edu/cs/>
    policy/admissions
    policy/financial
    policy/people

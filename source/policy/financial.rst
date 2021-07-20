@@ -1,6 +1,5 @@
-﻿####################
-Financial Assistance
-####################
+﻿Financial Assistance
+#####################
 
 *************
 Program Costs

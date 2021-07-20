@@ -1,6 +1,5 @@
-###################
 General Information
-###################
+####################
 
 This directory contains webpages for the acknowledgements for those that created, maintain, and publish this site both current and former.
 
