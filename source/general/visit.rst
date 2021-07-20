@@ -1,6 +1,5 @@
-#####
 Visit
-#####
+######
 
 The Computer Science Department administrative offices are located in the Doyle Center, with the entrance at `1052 W Loyola Ave <https://goo.gl/maps/g1dBUDRwsRCcdBS68>`_.
 
