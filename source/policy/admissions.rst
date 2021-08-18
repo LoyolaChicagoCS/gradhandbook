@@ -145,7 +145,7 @@ International students (except for U.S. citizens or permanent residents) must ha
 
 The Loyola Graduate School accepts just three approaches to the English requirement and a few explicit exceptions:
 
-1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 3.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
+1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.5 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
 
 .. important::
     The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21, and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 103.
