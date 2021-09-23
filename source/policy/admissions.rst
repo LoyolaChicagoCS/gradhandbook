@@ -155,7 +155,7 @@ With *lower scores*, see the other options below.
 .. important::
     You can *retake* an English exam as many times as you need *before* admission to get up to a passing grade.If taking one of these tests, be sure to sign up for an early test date, since results usually take 2-3 weeks to be delivered *officially* to Loyola.
 
-2. If you have a TOEFL in the range 70-78 or IELTS of 3.5, then you may be admitted conditionally to the new ICAP program where:
+2. If you have a TOEFL in the range 70-78 or IELTS of 3.6.0, then you may be admitted conditionally to the new ICAP program where:
 
 * You will be required to take an English Placement Test administered by our English Language Learning Program (ELLP) to determine your placement in ESL preparation courses.The results of that exam will determine the required ESL courses you must take during your first term at Loyola. You will take ESL classes until your English language skills are strong enough for success in degree program courses.
 * If you receive a final grade of at least a B+ in all of your advanced or bridge ESL courses, you will be invited to take an exit exam at the end of the term. A combination of your course-work and exit exam score will be used to determine your readiness for degree work in the following term.
