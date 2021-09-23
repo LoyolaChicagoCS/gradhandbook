@@ -50,7 +50,7 @@ Overview of Loyola MS Programs' Strengths
 * International students with insufficient English can get conditional admission combining initial ESL with later MS study
 * Starting in Fall 2019 you can build up to an MS by doing graduate certificates
 
-Look in the courses document for the details of the individual `Masters Programs <https://academics.cs.luc.edu/graduate/masters_overview.html>`_.
+Look in the courses document for the details of the individual `Masters Programs <https://academics.cs.luc.edu/graduate/graduate-degree-programs.html>`_.
 
 *********
 Resources
