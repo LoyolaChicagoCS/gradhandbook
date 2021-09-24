@@ -234,9 +234,9 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_context = {
-    "css_files": [
-        "_static/theme_overrides.css",  # override wide tables in RTD theme
-    ],
+    # "css_files": [
+    #     "_static/theme_overrides.css",  # override wide tables in RTD theme
+    # ],
     # "display_github": True,
     # "github_user": "LoyolaChicagoCS",
     # "github_repo": "gradhandbook",
@@ -251,7 +251,7 @@ html_theme_options = {
     #'prev_next_buttons_location': 'bottom',
     "style_external_links": True,
     # "vcs_pageview_mode": "edit",
-    #'style_nav_header_background': 'white',
+    'style_nav_header_background': '#922247',
     # Toc options
     #'collapse_navigation': True,
     #'sticky_navigation': True,

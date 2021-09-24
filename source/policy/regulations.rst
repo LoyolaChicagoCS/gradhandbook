@@ -135,6 +135,8 @@ This will give you an advantage in signing up for online courses before other st
 
     Please confer with the Office of International Programs for details and confirmation.
 
+.. independent_study
+
 *****************
 Independent Study
 *****************
@@ -158,6 +160,8 @@ These courses are for 1-6 credits. See the section below on variable hour course
 In most cases, we recommend that you and your independent study advisor fill out a *request for course title form*, which is available at http://www.luc.edu/media/lucedu/gradschool/pdfs/Request%20for%20Course%20Title.pdf The Graduate Program Director must sign this form.
 
 This is very useful when someone else is reading your transcript: Plain "Independent Study" on your transcript is totally uninformative!
+
+.. internships
 
 **********************
 Internships (COMP 499)
@@ -221,6 +225,8 @@ This is hard to do for two reasons: It is a lot of work to cram 3 courses into 1
 These restrictions allow for a possible opening: With permission from the |gpd| and OIP, you can get a waiver so you are allowed to take fewer courses (generally 2) and still, be counted as full-time. You can ask the |gpd| to approve this reduction in the Summer because of the issues listed above.
 
 Be sure to check with the OIP for the exact current details and correct forms to ask the |gpd| to sign.
+
+.. variable_credit_courses
 
 ***********************
 Variable Credit Courses

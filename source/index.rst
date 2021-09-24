@@ -81,14 +81,28 @@ Topical Index
 .. toctree::
    :maxdepth: 1
    :hidden:
+   :caption: Policies
 
    policy/admissions
    policy/financial
    policy/people
    policy/regulations
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Services
+
    services/assistantships
    services/careerdevelopment
    services/loyolaservices
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: General Information
+
+   general/acknowledgments
    general/visit
 
 

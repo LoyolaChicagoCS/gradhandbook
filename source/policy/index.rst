@@ -1,3 +1,5 @@
+:orphan:
+
 Policy
 #######
 
@@ -8,5 +10,5 @@ This directory contains webpages for the admissions, Loyola CS Graduate School s
 
    admissions
    people
-   finanical
+   financial
    regulations
