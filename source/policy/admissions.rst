@@ -145,17 +145,17 @@ International students (except for U.S. citizens or permanent residents) must ha
 
 The Loyola Graduate School accepts just three approaches to the English requirement and a few explicit exceptions:
 
-1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.5 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
+1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
 
 .. important::
-    The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21, and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 103.
+    The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21, and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105.
 
 With *lower scores*, see the other options below.
 
 .. important::
     You can *retake* an English exam as many times as you need *before* admission to get up to a passing grade.If taking one of these tests, be sure to sign up for an early test date, since results usually take 2-3 weeks to be delivered *officially* to Loyola.
 
-2. If you have a TOEFL in the range 70-78 or IELTS of 3.6.0, then you may be admitted conditionally to the new ICAP program where:
+1. If you have a TOEFL in the range 70-78, then you may be admitted conditionally to the new ICAP program where:
 
 * You will be required to take an English Placement Test administered by our English Language Learning Program (ELLP) to determine your placement in ESL preparation courses.The results of that exam will determine the required ESL courses you must take during your first term at Loyola. You will take ESL classes until your English language skills are strong enough for success in degree program courses.
 * If you receive a final grade of at least a B+ in all of your advanced or bridge ESL courses, you will be invited to take an exit exam at the end of the term. A combination of your course-work and exit exam score will be used to determine your readiness for degree work in the following term.
