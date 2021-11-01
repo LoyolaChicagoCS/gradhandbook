@@ -121,63 +121,69 @@ If you are expecting to get transfer credit, it is most economical to ask for th
 Required English Exam
 =====================
 
-Waiving the English Exam
-------------------------
+The English requirement is waived for students meeting certain criteria, for example, US citizens, permanent residents, and citizens of certain countries. For a complete list, please see the `LUC International Admission <https://www.luc.edu/gradschool/admission_international.html>`_ page.
 
-The English requirement is *waived* only for students who satisfy at least one of the following:
+All other students will have to take an English exam such as TOEFL, IELTS, PTE, and Duolingo. Please see the `LUC International Admission <https://www.luc.edu/gradschool/admission_international.html>`_ page for more information on minimum scores.
 
-1. U.S. citizens and permanent residents.
-2. Students with Bachelors or higher degree from accredited institutions in the United States, United Kingdom, Ireland, Canada, Australia, or New Zealand, who primarily attended their classes in those countries. Students are exempt who will complete one of these programs before matriculation at Loyola, even if they have further degrees from another country.
+If you do not meet the minimum scores, you can still be admitted conditionally to the ICAP program which requires you to complete the English Language Learning Program (ELLP) to determine your placement in ESL (English as a Second Language) preparation courses. For more information, please see the `LUC International Admission <https://www.luc.edu/gradschool/admission_international.html>`_ page
 
-.. note::
-    Graduating from a program offered in English from any *other* country does *not* exempt the student from the English requirement.
+.. Waiving the English Exam
+.. ------------------------
 
-.. note::
-    If you do not yet have the necessary test results for one of the above avenues, and your application is complete except for the English requirement, then the |gpd| is happy to look at your application and *informally* let you know if you should expect the `Graduate Program Director's <mailto:gpd@cs.luc.edu>`_ recommendation for admission, *after* obtaining a sufficient official English score for one of the routes above. Later, the Graduate School Dean's approval is still needed for final admission.
+.. The English requirement is *waived* only for students who satisfy at least one of the following:
 
-.. note::
-    Having your university courses officially offered in English does *not* exempt you, though it should make passing the English exam easier.
+.. 1. U.S. citizens and permanent residents.
+.. 2. Students with Bachelors or higher degree from accredited institutions in the United States, United Kingdom, Ireland, Canada, Australia, or New Zealand, who primarily attended their classes in those countries. Students are exempt who will complete one of these programs before matriculation at Loyola, even if they have further degrees from another country.
 
-Taking the English Exam
------------------------
+.. .. note::
+..     Graduating from a program offered in English from any *other* country does *not* exempt the student from the English requirement.
 
-International students (except for U.S. citizens or permanent residents) must have their English tested *before* any kind of admission. Different routes are depending on the results.
+.. .. note::
+..     If you do not yet have the necessary test results for one of the above avenues, and your application is complete except for the English requirement, then the |gpd| is happy to look at your application and *informally* let you know if you should expect the `Graduate Program Director's <mailto:gpd@cs.luc.edu>`_ recommendation for admission, *after* obtaining a sufficient official English score for one of the routes above. Later, the Graduate School Dean's approval is still needed for final admission.
 
-The Loyola Graduate School accepts just three approaches to the English requirement and a few explicit exceptions:
+.. .. note::
+..     Having your university courses officially offered in English does *not* exempt you, though it should make passing the English exam easier.
 
-1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
+.. Taking the English Exam
+.. -----------------------
 
-.. important::
-    The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21, and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105.
+.. International students (except for U.S. citizens or permanent residents) must have their English tested *before* any kind of admission. Different routes are depending on the results.
 
-With *lower scores*, see the other options below.
+.. The Loyola Graduate School accepts just three approaches to the English requirement and a few explicit exceptions:
 
-.. important::
-    You can *retake* an English exam as many times as you need *before* admission to get up to a passing grade.If taking one of these tests, be sure to sign up for an early test date, since results usually take 2-3 weeks to be delivered *officially* to Loyola.
+.. 1. The usual way is to earn at least 79 on the Internet-based TOEFL test (or 550 on the old paper-based test), at least a 6.0 (overall band score) on the IELTS academic test, or at least a 53 on the Pearson English Language Test (PTE Academic).
 
-1. If you have a TOEFL in the range 70-78, then you may be admitted conditionally to the new ICAP program where:
+.. .. important::
+..     The new 3-score Internet-based TOEFL test requires at least Reading: 21, Listening: 21, and Writing: 23. The official results must come to Loyola directly from the testing agency. Loyola’s institutional code is 1412; a department code is not needed. In response to new difficulties where students are not able to take the TOEFL or IELTS test, we also accept the Duolingo online English proficiency tests with a score of at least 105.
 
-* You will be required to take an English Placement Test administered by our English Language Learning Program (ELLP) to determine your placement in ESL preparation courses.The results of that exam will determine the required ESL courses you must take during your first term at Loyola. You will take ESL classes until your English language skills are strong enough for success in degree program courses.
-* If you receive a final grade of at least a B+ in all of your advanced or bridge ESL courses, you will be invited to take an exit exam at the end of the term. A combination of your course-work and exit exam score will be used to determine your readiness for degree work in the following term.
-* We offer ICAP admission to students who have demonstrated their academic abilities in the classroom but may need additional English language preparation and support to succeed in the degree program at Loyola University Chicago. Students in this program **are classified** as full-time graduate students.
+.. With *lower scores*, see the other options below.
 
-.. note::
-    It is important to note that if testing indicates further language study is needed, you will be required to continue in the ELLP for another term.
+.. .. important::
+..     You can *retake* an English exam as many times as you need *before* admission to get up to a passing grade.If taking one of these tests, be sure to sign up for an early test date, since results usually take 2-3 weeks to be delivered *officially* to Loyola.
 
- For more information about Loyola's ELLP, please contact `ELLP@luc.edu <mailto:ELLP@luc.edu>`_ , or `(773) 508-3880 <tel+:17735083880>`_.
+.. 1. If you have a TOEFL in the range 70-78, then you may be admitted conditionally to the new ICAP program where:
 
-.. important::
-    You can choose to bring up your English score to the level of regular admission some other way and apply again later for regular admission.
+.. * You will be required to take an English Placement Test administered by our English Language Learning Program (ELLP) to determine your placement in ESL preparation courses.The results of that exam will determine the required ESL courses you must take during your first term at Loyola. You will take ESL classes until your English language skills are strong enough for success in degree program courses.
+.. * If you receive a final grade of at least a B+ in all of your advanced or bridge ESL courses, you will be invited to take an exit exam at the end of the term. A combination of your course-work and exit exam score will be used to determine your readiness for degree work in the following term.
+.. * We offer ICAP admission to students who have demonstrated their academic abilities in the classroom but may need additional English language preparation and support to succeed in the degree program at Loyola University Chicago. Students in this program **are classified** as full-time graduate students.
 
-    However, the ICAP program gives you conditional admission and allows you to be on campus for various Computer Science activities, like seminars, hackathons, etc.
+.. .. note::
+..     It is important to note that if testing indicates further language study is needed, you will be required to continue in the ELLP for another term.
 
-If you have not had an English test or the result is too low for ICAP, and you want to improve your English at Loyola, in preparation for possible graduate study, you can *first* apply to our full-time ESL program, http://www.luc.edu/esl/, and do well enough in courses and a comprehensive exam.
+..  For more information about Loyola's ELLP, please contact `ELLP@luc.edu <mailto:ELLP@luc.edu>`_ , or `(773) 508-3880 <tel+:17735083880>`_.
 
-.. important::
-    Only sufficient achievement in *Loyola's* ESL program is a substitute for one of the standardized tests above. Enrollment in an ESL program at another school is not a substitute for the TOEFL or IELTS. With any other ESL program, one of the standardized tests is still required.
+.. .. important::
+..     You can choose to bring up your English score to the level of regular admission some other way and apply again later for regular admission.
 
-.. note::
-    Loyola's ESL is a separate program from the Graduate School. If you were admitted directly to our ESL program, not to the Graduate School's ICAP program, then an appropriate certification from this ESL program merely satisfies the English requirement for Graduate School applicants. It does not imply the Graduate School Dean's approval for your admission.
+..     However, the ICAP program gives you conditional admission and allows you to be on campus for various Computer Science activities, like seminars, hackathons, etc.
+
+.. If you have not had an English test or the result is too low for ICAP, and you want to improve your English at Loyola, in preparation for possible graduate study, you can *first* apply to our full-time ESL program, http://www.luc.edu/esl/, and do well enough in courses and a comprehensive exam.
+
+.. .. important::
+..     Only sufficient achievement in *Loyola's* ESL program is a substitute for one of the standardized tests above. Enrollment in an ESL program at another school is not a substitute for the TOEFL or IELTS. With any other ESL program, one of the standardized tests is still required.
+
+.. .. note::
+..     Loyola's ESL is a separate program from the Graduate School. If you were admitted directly to our ESL program, not to the Graduate School's ICAP program, then an appropriate certification from this ESL program merely satisfies the English requirement for Graduate School applicants. It does not imply the Graduate School Dean's approval for your admission.
 
 Visas
 =====
