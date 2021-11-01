@@ -20,7 +20,8 @@ We strongly recommend that you contact the department faculty and staff first un
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
-    "Sue Penckofer, Ph.D.", "Dean", "spencko@luc.edu"
+    "Emily Barman, Ph.D.", "Dean", "ebarman@luc.edu"
+    "Susan Grossman, Ph.D.", "Associate Dean", "sgrossm@luc.edu"
     "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 The phone number for the Graduate School is `(773) 508-3396 <tel:+7735083396>`_.
