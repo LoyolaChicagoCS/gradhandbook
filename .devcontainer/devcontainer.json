@@ -1,9 +1,0 @@
-{
-    "name": "LUC CS Graduate Handbook Sphinx Site",
-    "extensions": [
-        "ms-python.python",
-        "lextudio.restructuredtext",
-        "mechatroner.rainbow-csv"
-    ],
-    "image": "python:3.9.6-buster"
-}
