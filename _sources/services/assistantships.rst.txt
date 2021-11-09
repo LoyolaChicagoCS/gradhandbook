@@ -36,12 +36,6 @@ In you application, make sure that you:
 
 * Have an *email address that you check regularly*, or update your current email address with the |gpd|
 * Have excellent undergraduate performance, including all MS prerequisites
-* Have a strong TOEFL, IELTS, or Loyola ESL score
-* Submit excellent letters of recommendation for graduate admission
-* Submit official GRE scores
-
-.. warning::
-    Students with under a 105 TOEFL or 7.5 IELTS will generally not be considered at all, and higher scores are preferable.
 
 For new students who receive an assistantship, it is customary for the department to commit to the end of the academic year, with an understanding to continue for up to a total of three semesters if funds are available for the next academic year, and if the students maintain their academic and work standards.
 
