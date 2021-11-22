@@ -75,7 +75,7 @@ This is particularly useful if you find too many courses that interest you for a
 
 Detailed descriptions of most of these courses are in https://academics.cs.luc.edu/courses/graduate-courses.html.
 
-Comp 271 is the prerequisite for most graduate courses, but Comp 413, Intermediate Object-Oriented Programming is a prerequisite for the most advanced software courses.
+Comp 400B is the prerequisite for most graduate courses, but Comp 413, Intermediate Object-Oriented Programming is a prerequisite for the most advanced software courses.
 
 Many students, with even a strong undergraduate Computer Science background, have not had the subject matter described in https://academics.cs.luc.edu/courses/comp413.html.
 
