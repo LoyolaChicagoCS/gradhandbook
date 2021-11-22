@@ -51,7 +51,7 @@ One misleading feature in LOCUS is that all MS students have a Dean's time limit
 
 In Locus, you can see the kind of block that is present by clicking on the red blocked symbol (a slash mark through a circle). Do check.
 
-*The only block that the |gpd| has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
+*The only block that the*  |gpd| *has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
 
 Instead, deal with the office that added and controls the block: the wellness center, Dean of Students, GPEM, bursar, etc.
 
