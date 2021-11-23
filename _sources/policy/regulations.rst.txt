@@ -51,7 +51,7 @@ One misleading feature in LOCUS is that all MS students have a Dean's time limit
 
 In Locus, you can see the kind of block that is present by clicking on the red blocked symbol (a slash mark through a circle). Do check.
 
-*The only block that the |gpd| has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
+*The only block that the*  |gpd| *has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
 
 Instead, deal with the office that added and controls the block: the wellness center, Dean of Students, GPEM, bursar, etc.
 
@@ -75,7 +75,7 @@ This is particularly useful if you find too many courses that interest you for a
 
 Detailed descriptions of most of these courses are in https://academics.cs.luc.edu/courses/graduate-courses.html.
 
-Comp 271 is the prerequisite for most graduate courses, but Comp 413, Intermediate Object-Oriented Programming is a prerequisite for the most advanced software courses.
+Comp 400B is the prerequisite for most graduate courses, but Comp 413, Intermediate Object-Oriented Programming is a prerequisite for the most advanced software courses.
 
 Many students, with even a strong undergraduate Computer Science background, have not had the subject matter described in https://academics.cs.luc.edu/courses/comp413.html.
 
