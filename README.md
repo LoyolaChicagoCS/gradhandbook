@@ -1,4 +1,4 @@
-# Loyola University Chicago CS Dept. Graduate Handbook 
+# Loyola University Chicago CS Dept. Graduate Handbook
 
 > [https://graduatehandbook.cs.luc.edu](https://graduatehandbook.cs.luc.edu)
 
@@ -10,7 +10,7 @@ This repository contains the source code for the Loyola University Chicago (LUC)
 CS Dept. graduate program handbook.
 
 These listings contain information about the graduate programs offered by the
-CS Dept. at LUC. 
+CS Dept. at LUC.
 
 ## How To Build The Site
 
@@ -38,7 +38,15 @@ make html
 
 After building, the site is located in `build/html`
 
-### Contact
+## Documentation
+
+The following sites contain documentation for Sphinx, reStructuredText, and GitHub Flavored Markdown.
+
+* [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+* [reStructuredText](https://docutils.sourceforge.io/rst.html)
+* [GitHub Flavored Markdown](https://github.github.com/gfm/)
+
+## Contact
 
 Current developers working on the project:
 
