@@ -1,40 +1,54 @@
-# LUC-CS-Graduate-Handbook
+# Loyola University Chicago CS Dept. Graduate Handbook
 
-> The LUC CS Departments Graduate Student Handbook
+> [https://graduatehandbook.cs.luc.edu](https://graduatehandbook.cs.luc.edu)
 
 ![GH Pages Deployment](https://github.com/LoyolaChicagoCS/gradhandbook/actions/workflows/main.yml/badge.svg)
 
-## Where is This Site Located?
+## About
 
-This site can be found at https://gradhandbook.cs.luc.edu
+This repository contains the source code for the Loyola University Chicago (LUC)
+CS Dept. graduate program handbook.
 
-## How to Contribute
+These listings contain information about the graduate programs offered by the
+CS Dept. at LUC.
 
-### Filing Issues
+## How To Build The Site
 
-If you spot any issues with the site, feel free to open an issue at https://github.com/LoyolaChicagoCS/gradhandbook/issues
+The site is built and deployed automatially using a GitHub Action with
+Python and Sphinx.
 
-### Developing Using Sphinx
+### How To Build the Site Locally
 
-If you want to develop this site further follow the steps below:
+#### Requirements
 
-#### Developing with VS Code Dev Container (Reccomended)
+* git
+* Python 3.7+ (Python 3.9.6+ preferred)
 
-1. Install `Docker`
-2. Install the [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) VS Code extension
-3. Open the project in the provided `dev container`
-4. Run `pip install -r requirements.txt`
+### Build steps
 
-#### Developing without VS Code Dev Container
+```
+git clone https://github.com/LoyolaChicagoCS/gradhandbook
+cd gradhandbook
+python3 -m venv env
+source env/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+make html
+```
 
-1. Install `Python 3.9+`
-2. Run `pip install -r requirements.txt`
+After building, the site is located in `build/html`
 
-## Deploying Site to GitHub Pages
+## Documentation
 
-If you wish to deploy the site to GitHub Pages, a GitHub Action workflow has already been made to simplify this process.
+The following sites contain documentation for Sphinx, reStructuredText, and GitHub Flavored Markdown.
 
-1. Enable `Actions` on your fork of this project
-2. Enable `GitHub Pages` on your fork of this project
-3. If you use a different production branch name other than `main`, change the [workflow](.github/workflow/main.yml) to point to that branch
-Alvarfo de Landaluce 
+* [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+* [reStructuredText](https://docutils.sourceforge.io/rst.html)
+* [GitHub Flavored Markdown](https://github.github.com/gfm/)
+
+## Contact
+
+Current developers working on the project:
+
+* Nicholas Synovic @ [nsynovic@luc.edu](mailto:nsynovic@luc.edu)
+* Alvaaro de Landaluce @ [adelandaluce@luc.edu](mailto:adelandaluce@luc.edu)

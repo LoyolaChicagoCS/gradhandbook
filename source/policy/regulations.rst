@@ -199,7 +199,7 @@ First of all, you need to have been a full-time F-1 student anywhere in the The 
 
 To start CPT you must get an application submitted in one of two routes. In both cases with the CPT application, you should provide a written job offer (which can be an email) from the prospective employer. The completed CPT application must be delivered to the International Office, and they will issue the work permit. The form to start CPT can be found `here <http://www.luc.edu/iss/forms.shtml>`_.
 
-The CPT can be tied to an academic course in either of two ways. You get a |gpd| signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the |gpd| signature and date* *before looking for a signature!* Do not leave the |gpd| to guess which of the two options you want:
+The CPT can be tied to an academic course in either of two ways. You get a |gpd| signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the* |gpd| *signature and date* *before looking for a signature!* Do not leave the |gpd| to guess which of the two options you want:
 
 * You can take the Comp 499 course specifically for :ref:`internships`, with the regular tuition charge per credit. Get the form with your MOU and job offer to the |gpd|, and the |gpd| will get the application completed and forwarded to the OIP with the job offer.
 * For no extra tuition you can generally tie it to a course you are already planning to take it. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the OIP yourself.*
@@ -350,7 +350,7 @@ These all have alternatives ending with "D", for dual, like SWEN-MS D: *these ar
 Transfer Credit
 ***************
 
-The |gpd| must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the |gpd| as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits).
+The |gpd| must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the* |gpd| *as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits).
 
 Do not delay! Your official transcripts need to show B or better in relevant courses.
 

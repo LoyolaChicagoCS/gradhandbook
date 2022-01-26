@@ -18,7 +18,7 @@ The following folks are here to help you.
     "Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
     "Marina Hart", "Department Secretary", "mhart6@luc.edu"
     "Emily Barman, Ph.D.", "Dean", "ebarman@luc.edu"
-    "Susan Grossman", "Dean", "sgrossm@luc.edu"
+    "Susan Grossman", " Associate Dean", "sgrossm@luc.edu"
     "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 Graduate Program Director
