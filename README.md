@@ -1,6 +1,6 @@
 # Loyola University Chicago CS Dept. Graduate Handbook 
 
-> [https://gradhandbook.cs.luc.edu](https://gradhandbook.cs.luc.edu)
+> [https://graduatehandbook.cs.luc.edu](https://graduatehandbook.cs.luc.edu)
 
 ![GH Pages Deployment](https://github.com/LoyolaChicagoCS/gradhandbook/actions/workflows/main.yml/badge.svg)
 
