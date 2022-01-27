@@ -43,7 +43,7 @@ Computer Services
 
 The University maintains several Computer Centers which are available for your use in Sullivan Center, Information Commons, and at 25 E. Pearson.
 
-All university students are responsible for reading and following http://www.luc.edu/its/itspoliciesguidelines/policy_acceptableuse.shtml.
+All university students are responsible for reading and following https://www.luc.edu/its/aboutits/itspoliciesguidelines/index.shtml.
 
 An account on the student email system is created automatically for each new student. Both the |gpd| and the Graduate School will use this account to communicate with you. It is therefore *crucial that you check your Loyola e-mailbox regularly.*
 
