@@ -8,7 +8,7 @@ Loyola Services
 Career Center
 =============
 
-The University’s Career Center, where each student entering the job market should establish a dossier containing letters of recommendation, is located in Sullivan Center, Room 295 (773-508-7716), with a very helpful website: http://www.luc.edu/career/RamberLink_Login.html
+The University’s Career Center, where each student entering the job market should establish a dossier containing letters of recommendation, is located in Sullivan Center, Room 295 (773-508-7716), with a very helpful website: https://www.luc.edu/career/rightcolumn/
 
 Students are encouraged to check our information jobs listings as well at http://jobs.cs.luc.edu. We are routinely contacted by employers who are seeking interns, consultants, and "permanent" employees.
 
