@@ -36,7 +36,7 @@ General Prerequisites
 
 For admission to the graduate degree program in the Department of Computer Science, submit the items below that **are not listed as optional**. You may also submit further items if you feel they would help bolster your admissions case.
 
-If you are an international student read the section on international student prerequisites.
+If you are an international student read the section on `international student prerequisites <http://localhost:63342/gradhandbook/build/html/policy/admissions.html#additional-requirements-for-international-applicants>`_.
 
 1. Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper.
 
@@ -49,9 +49,9 @@ If you are an international student read the section on international student pr
 .. warning::
     The application requires you to fill in *all* the personal data before showing you all the programs that you can apply to and other parts of the form.
 
-2. Those who would like to get financial assistance to see :doc:`../services/assistantships` or here `for non-departmental financial aid <https://www.luc.edu/finaid/aid-process/responsibilities/>`_.
+2. Those who would like to get financial assistance should see :doc:`../services/assistantships` or `for non-departmental financial aid <https://www.luc.edu/finaid/aid-process/responsibilities/>`_.
 
-3. Submit official English transcripts of all undergraduate work and any post-baccalaureate work by official electronic submission between your institution and Loyola *or* in sealed envelopes sent from the academic institution.
+3. Submit official transcripts, in English, of all undergraduate work and any post-baccalaureate work by official electronic submission between your institution and Loyola *or* in sealed envelopes sent from the academic institution.
 
 .. important::
     Do not open such envelopes yourself!
