@@ -181,7 +181,7 @@ Get the finished form to the |gpd|, so we can register you for the course for th
 
 Please do not ask us to register you if you are not simultaneously submitting the completed MoU.
 
-The form can be scanned and emailed or turn in paper to the department staff. If you are doing Curricular Practical Training (CPT), turn in the CPT form at the same time. There are three related but different terms: **job**, **internship**, and **CPT**. You can have a job and not have it be an internship for academic credit or you can have a job that goes on longer than an academic internship. Also if you are doing an academic internship, your job employer does not need to classify your position as "internship". If you are doing an academic internship, the `MOU <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_ indicates only two small requirements for your employer during your time in the academic internship: The bulk of your duties must be related to doing Computer Science in the real world and the supervisor will write a few line email at the end of the time of the academic internship indicating your successful completion of all the hours required for the academic internship.
+The form can be scanned and emailed or turn in paper to the department staff. If you are doing Curricular Practical Training (CPT), turn in the CPT form at the same time. There are three related but different terms: **job**, **internship**, and **CPT**. You can have a job and not have it be an internship for academic credit or you can have a job that goes on longer than an academic internship. Also if you are doing an academic internship, your job employer does not need to classify your position as "internship". If you are doing an academic internship, the `MOU <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_ indicates only two small requirements for your employer during your time in the academic internship: The bulk of your duties must be related to doing Computer Science in the real world and the supervisor will write a few lines email at the end of the time of the academic internship indicating your successful completion of all the hours required for the academic internship.
 
 ************************************************
 Curricular Practical Training (For F-1 students)
@@ -202,9 +202,9 @@ To start CPT you must get an application submitted in one of two routes. In both
 The CPT can be tied to an academic course in either of two ways. You get a |gpd| signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the |gpd| signature and date* *before looking for a signature!* Do not leave the |gpd| to guess which of the two options you want:
 
 * You can take the Comp 499 course specifically for :ref:`internships`, with the regular tuition charge per credit. Get the form with your MOU and job offer to the |gpd|, and the |gpd| will get the application completed and forwarded to the OIP with the job offer.
-* For no extra tuition you can generally tie it to a course you are already planning to take it. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the OIP yourself.*
+* For no extra tuition, you can generally tie it to a course you are already planning to take. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the OIP yourself.*
 
-Students generally scan and email the CPT form to the |gpd|, making sure the option chosen above is clearly indicated.
+Students generally email the CPT form to the |gpd|, making sure the option chosen above is clearly indicated.
 
 ***************************
 F-1 Summer Full-time Status
@@ -252,7 +252,7 @@ This means our students generally need a backup plan.
 
 You cannot register yourself in any case. Be sure to make a direct request to the |gpd|, close to the time the course starts, to see if there is space, and the |gpd| will arrange your registration through the GSB:
 
-1. Include a direct request like "Please register me for INFS 496 Section 001." *not* an indirect question like "Would it is OK if I register for....?"
+1. Include a direct request like "Please register me for INFS 496 Section 001." *not* an indirect question like "Would it be OK if I register for....?"
 2. Include your full name and Student ID number.
 3. Explicitly acknowledge the GSB's different drop deadlines.
 4. It is also possible to request a swap for an alternate conflicting Comp course.
