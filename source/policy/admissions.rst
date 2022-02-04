@@ -8,7 +8,7 @@ Deadlines
 No Application Deadline for Plain Admission
 ===========================================
 
-Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up. In particular, registration for Fall starts in April, for Spring in late October, and Summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
+Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up. In particular, registration for Fall starts in April, for Spring in late October, and for Summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
 
 Deadlines for Teaching Assistantships
 =====================================
@@ -32,13 +32,11 @@ General Prerequisites
 .. note::
     You can apply and be accepted without having all the undergraduate prerequisites listed for degree programs.
 
-    See the section of the course document on `prerequisites <https://academics.cs.luc.edu/graduate/masters_prereqs.html>`_.
-
 For admission to the graduate degree program in the Department of Computer Science, submit the items below that **are not listed as optional**. You may also submit further items if you feel they would help bolster your admissions case.
 
 If you are an international student read the section on `international student prerequisites <http://localhost:63342/gradhandbook/build/html/policy/admissions.html#additional-requirements-for-international-applicants>`_.
 
-1. Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_ or alternately `downloaded <http://www.luc.edu/gpem/applications/gpemapplication.pdf>`_ and delivered on paper.
+1. Completed application form, preferably completed `online <https://gpem.luc.edu/apply/>`_.
 
 .. note::
     This form is used for many programs in graduate school, and not all graduate programs are available to students in all locations.
@@ -67,12 +65,9 @@ In all cases, final officially-sent transcripts are required by the end of your 
 
 4. GRE scores **are not required for admission**. If you choose to submit them, Loyola's institutional code is 1412; the department code is not needed.
 
-.. important::
-    GRE scores are expected if you are applying for a :doc:`../services/assistantships` **and** if *you are not* already a Loyola student.
+.. 5. **One** letter of recommendation is required, though *three* are recommended. These are usually from referees familiar with your academic work, however, if you have been out of school for a long time, then letters of recommendation from work supervisors will be acceptable.
 
-5. **One** letter of recommendation is required, though *three* are recommended. These are usually from referees familiar with your academic work, however, if you have been out of school for a long time, then letters of recommendation from work supervisors will be acceptable.
-
-6. An informal Statement of Purpose document is highly recommended, though not required.
+5. An informal Statement of Purpose document is highly recommended, though not required.
 
 .. note::
     This extra information helps with initial advising for you, and occasionally the narrative will clear up some questions about the application.
@@ -107,9 +102,6 @@ Students with transcripts issued by international universities or colleges must 
     The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).
 
     The conditional admission requires the university to receive another official transcript, showing degree completion, though this transcript can be sent to Loyola during your first semester here as a student*.
-
-.. tip::
-    A suggested exception to getting the general transcript evaluation.
 
 If you have international graduate-level coursework after 4 years of college-level work, you  need a *course by course* evaluation to *transfer* international graduate credit.
 
