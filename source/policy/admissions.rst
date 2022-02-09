@@ -1,12 +1,17 @@
 Admissions
 ###########
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+
+    Additional Requirements for International Applicant <https://graduatehandbook.cs.luc.edu/policy/admissions.html#additional-requirements-for-international-applicants>
 
 *********
 Deadlines
 *********
 
 No Application Deadline for Plain Admission
-===========================================
+-------------------------------------------
 
 Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up. In particular, registration for Fall starts in April, for Spring in late October, and for Summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
 
@@ -72,9 +77,9 @@ In all cases, final officially-sent transcripts are required by the end of your 
 .. note::
     This extra information helps with initial advising for you, and occasionally the narrative will clear up some questions about the application.
 
-****************************************************
-Additional Requirements for International Applicants
-****************************************************
+Additional Requirements for International Applicant
+===================================================
+
 
 .. warning::
     Do not forget the general prerequisites!
