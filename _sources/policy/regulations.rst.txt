@@ -1,5 +1,32 @@
 ﻿Regulations and Procedures
 ###########################
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+
+    Deadlines <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#deadlines>
+    Course Loads <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#course-loads>
+    Registration <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#registration>
+    Course Selection <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#course-selection>
+    Advising <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#advising>
+    Online Courses <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#online-courses>
+    Independent Study <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#independent-study>
+    Internships (COMP 499) <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#internships-comp-499>
+    Curricular Practical Training (For F-1 students) <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#curricular-practical-training-for-f-1-students>
+    F-1 Summer Full-time Status <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#f-1-summer-full-time-status>
+    Variable Credit Courses <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#variable-credit-courses>
+    Graduation <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#graduation>
+    Leave of Absence <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#leave-of-absence>
+    Dropping a Course and Avoiding Extra Bills <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#dropping-a-course-and-avoiding-extra-bills>
+    Changing your chosen MS Program <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#changing-your-chosen-ms-program>
+    Transfer Credit <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#transfer-credit>
+    Grades <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#grades>
+    Incomplete Grade <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#incomplete-grade>
+    Academic Honesty <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#academic-honesty>
+    Grievance Procedure <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#grievance-procedure>
+
+
+
 
 This section covers specific policies of the Computer Science Department and refers to some of the most important governing policies and procedure of the Graduate School, http://www.luc.edu/gradschool/academics_policies.shtml, but this Computer Science Handbook *does not attempt to duplicate the statement of all Graduate School policies*.
 
@@ -33,23 +60,23 @@ You must also announce your decision to come back from a Leave of Absence with a
 
 Forgetting this can cause lots of hassle and delay in registration for the semester when you do wish to resume.
 
-After registration opens you can register yourself through LOCUS for most courses with just your student ID number.
+After registration opens you can register yourself through `LOCUS <https://locus.luc.edu/>`_ for most courses with just your student ID number.
 
-*New students should get course advising first from the department*, and all others are welcomed to get advice from their advisor listed in Locus.
+*New students should get course advising first from the department*, and all others are welcomed to get advice from their advisor listed in `LOCUS <https://locus.luc.edu/>`_.
 
 *You cannot register yourself for Comp 490 or 499* as both require the permission of the |gpd| or instructor of record. See Independent Study and Internships.
 
 In any course where there is a note about *consent or permission required*, you must make a direct emailed request to the department, *clearly stating* the course and *section* (if more than one is offered) and *semester*, and the number of *credits* if that is variable. If you are asking for a course that requires the permission of the instructor, please add your direct request to an approving email that you forward from the instructor.
 
-The department then gives consent and *does your registration administratively*.Within a few days, you should confirm in Locus that your request was correctly entered.
+The department then gives consent and *does your registration administratively*. Within a few days, you should confirm in `LOCUS <https://locus.luc.edu/>`_ that your request was correctly entered.
 
 It is in your best interest to register early, to get into sections you want. Registration blocks can get in your way. Common examples are an immunization block, a Dean of Students data block, a conditional admission block, or a bursar block. Students have been given late fees or had a lot of trouble due to delays from such blocks.
 
-One misleading feature in LOCUS is that all MS students have a Dean's time limit block, but it does not activate until you have been an MS student for five years - do not worry about that one.
+One misleading feature in `LOCUS <https://locus.luc.edu/>`_ is that all MS students have a Dean's time limit block, but it does not activate until you have been an MS student for five years - do not worry about that one.
 
 *You are strongly encouraged to check in Locus weeks before registration opens to see if a block appears*, and get it addressed so it will not delay your registration.
 
-In Locus, you can see the kind of block that is present by clicking on the red blocked symbol (a slash mark through a circle). Do check.
+In `LOCUS <https://locus.luc.edu/>`_, you can see the kind of block that is present by clicking on the red blocked symbol (a slash mark through a circle). Do check.
 
 *The only block that the*  |gpd| *has the power to address is a probation block*, and that requires you to contact the |gpd| and have a talk. Asking for department help for other blocks is only going to waste everyone's time.
 
@@ -161,15 +188,13 @@ In most cases, we recommend that you and your independent study advisor fill out
 
 This is very useful when someone else is reading your transcript: Plain "Independent Study" on your transcript is totally uninformative!
 
-.. internships
-
 **********************
 Internships (COMP 499)
 **********************
 
 First, you need to find a job for the period of the Internship.
 
-There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the |gpd| and get your job description approved. Internships are for 1-6 credits. See :ref:`variable_credit_courses`.
+There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the |gpd| and get your job description approved. Internships are for 1-6 credits.
 
 Download the `MOU Form <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_, *read it*, print, fill out *both pages*, and return. Please read this carefully before asking questions of the |gpd|.
 
@@ -181,13 +206,13 @@ Get the finished form to the |gpd|, so we can register you for the course for th
 
 Please do not ask us to register you if you are not simultaneously submitting the completed MoU.
 
-The form can be scanned and emailed or turn in paper to the department staff. If you are doing Curricular Practical Training (CPT), turn in the CPT form at the same time. There are three related but different terms: **job**, **internship**, and **CPT**. You can have a job and not have it be an internship for academic credit or you can have a job that goes on longer than an academic internship. Also if you are doing an academic internship, your job employer does not need to classify your position as "internship". If you are doing an academic internship, the `MOU <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_ indicates only two small requirements for your employer during your time in the academic internship: The bulk of your duties must be related to doing Computer Science in the real world and the supervisor will write a few line email at the end of the time of the academic internship indicating your successful completion of all the hours required for the academic internship.
+The form can be emailed to the department staff. If you are doing Curricular Practical Training (CPT), turn in the CPT form at the same time. There are three related but different terms: **job**, **internship**, and **CPT**. You can have a job and not have it be an internship for academic credit or you can have a job that goes on longer than an academic internship. Also if you are doing an academic internship, your job employer does not need to classify your position as "internship". If you are doing an academic internship, the `MOU <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_ indicates only two small requirements for your employer during your time in the academic internship: The bulk of your duties must be related to doing Computer Science in the real world and the supervisor will write a few lines email at the end of the time of the academic internship indicating your successful completion of all the hours required for the academic internship.
 
 ************************************************
 Curricular Practical Training (For F-1 students)
 ************************************************
 
-You should consult with the `Office for International Programs(OIP) <http://www.luc.edu/oip>`_ for the full legal details of CPT.
+You should consult with the `Office of International Student and Scholar Services(ISSS) <https://www.luc.edu/isss/>`_ for the full legal details of CPT.
 
 Here are a few of the important points.
 
@@ -201,10 +226,10 @@ To start CPT you must get an application submitted in one of two routes. In both
 
 The CPT can be tied to an academic course in either of two ways. You get a |gpd| signature on the CPT application differently in the two cases. *Be sure to fill out the form except for the |gpd| signature and date* *before looking for a signature!* Do not leave the |gpd| to guess which of the two options you want:
 
-* You can take the Comp 499 course specifically for :ref:`internships`, with the regular tuition charge per credit. Get the form with your MOU and job offer to the |gpd|, and the |gpd| will get the application completed and forwarded to the OIP with the job offer.
-* For no extra tuition you can generally tie it to a course you are already planning to take it. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the OIP yourself.*
+* You can take the Comp 499 course specifically for internships, with the regular tuition charge per credit. Get the form with your MOU and job offer to the |gpd|, and the |gpd| will get the application completed and forwarded to the ISSS with the job offer.
+* For no extra tuition, you can generally tie it to a course you are already planning to take. There is a section of the CPT application for this. You can pair the internship with a course in the same semester, *or pair a Fall course* and an internship in the *previous Summer*. If you do the no-extra-tuition option, you can work but you *get no further credit toward graduation*. *You may need to send the CPT form and job offer to the ISSS yourself.*
 
-Students generally scan and email the CPT form to the |gpd|, making sure the option chosen above is clearly indicated.
+Students generally email the CPT form to the |gpd|, making sure the option chosen above is clearly indicated.
 
 ***************************
 F-1 Summer Full-time Status
@@ -212,9 +237,9 @@ F-1 Summer Full-time Status
 
 F-1 visa students who do not start in the Summer, do not need to study at all in the Summer as long as they are full-time in each Fall and Spring until they finish. For them, Summer courses are optional.
 
-(In the semester that you finish up, you are automatically full-time, even if you have only 1-2 courses left, though the |gpd| does need to confirm with the OIP when your 1-2 courses allow you to finish.)
+(In the semester that you finish up, you are automatically full-time, even if you have only 1-2 courses left, though the |gpd| does need to confirm with the ISSS when your 1-2 courses allow you to finish.)
 
-F-1 students starting in Summer do need to be classified as full-time.
+F-1 students starting in Summer do need to be classified as full-time. However there may no be enough graduate courses offered in the summer for these F-1 students.
 
 Also students who start in Spring may find it convenient to be full-time in Summer to allow CPT to start a semester earlier than otherwise.
 
@@ -222,44 +247,15 @@ To have Summer count automatically as full time for an F-1 student, you can take
 
 This is hard to do for two reasons: It is a lot of work to cram 3 courses into 12 weeks and we offer a limited number of courses in Summer, so it may be hard to fit your interests with 3 courses.
 
-These restrictions allow for a possible opening: With permission from the |gpd| and OIP, you can get a waiver so you are allowed to take fewer courses (generally 2) and still, be counted as full-time. You can ask the |gpd| to approve this reduction in the Summer because of the issues listed above.
+These restrictions allow for a possible opening: With permission from the |gpd| and ISSS, you can get a waiver so you are allowed to take fewer courses (generally 2) and still, be counted as full-time. You can ask the |gpd| to approve this reduction in the Summer because of the issues listed above.
 
-Be sure to check with the OIP for the exact current details and correct forms to ask the |gpd| to sign.
-
-.. variable_credit_courses
+Be sure to check with the ISSS for the exact current details and correct forms to ask the |gpd| to sign.
 
 ***********************
 Variable Credit Courses
 ***********************
 
 Comp 490 and 499 are for 1-6 credits. Up to 6 credits total can be counted toward graduation, counting all the times you register for these two courses. (In practice that usually means 3 or 6 credits since all other courses are 3 credits.) You do not need to take a multiple of three credits at a time. What matters is the total, when it is time to graduate.
-
-*****************************************
-Graduate School of Business Courses (GSB)
-*****************************************
-
-Our students can sometimes get into GSB courses. They broaden the Computer Science offerings and let you take GSB courses at the Graduate School's much lower tuition rate.
-
-Unless a GSB course has specifically been mentioned as being allowed to count toward our department's MS degrees, but sure to check first with the |gpd|.
-
-Several special considerations are coming from the fact that GSB courses are *quarter* courses.
-
-They have the same holidays as in The Graduate School semester system, but exam times or term start times, or both are different. Because of the different term starting times, and the fact that GSB students have priority in their school's courses, it is usually only practical to consider Fall and Summer GSB courses, when the term starts are close.
-
-Our students generally need to wait until shortly before the term starts to be admitted to a GSB course with space in it.
-
-This means our students generally need a backup plan.
-
-You cannot register yourself in any case. Be sure to make a direct request to the |gpd|, close to the time the course starts, to see if there is space, and the |gpd| will arrange your registration through the GSB:
-
-1. Include a direct request like "Please register me for INFS 496 Section 001." *not* an indirect question like "Would it is OK if I register for....?"
-2. Include your full name and Student ID number.
-3. Explicitly acknowledge the GSB's different drop deadlines.
-4. It is also possible to request a swap for an alternate conflicting Comp course.
-
-The time of dropping the course is crucial in determining its effect.
-
-Be aware of the GSB deadlines for getting the course dropped with no trace and the later deadline for avoiding tuition.
 
 **********
 Graduation
@@ -273,13 +269,6 @@ Graduation Deadlines
 December 1 for Spring, February 1 for Summer graduation, August 1 for Fall graduation.
 
 See the discussion of ceremonies below if you want to participate in a graduation ceremony and you graduate in Summer or Fall.
-
-Procedure
-=========
-
-Go into Locus and submit your graduation application *by the deadline*. That is all you need to do if you are on time. There is no penalty for guessing early about when you will graduate, but you will need to apply again for the actual time.
-
-You can apply up to 15 days later: see http://www.luc.edu/media/lucedu/gradschool/pdfs/LATE%20Application%20to%20Receive%20a%20Degree.pdf In case of the URL changes, it should be listed on the Graduate School Forms page under Late Application for Graduation.
 
 Graduation Ceremonies are only in May
 =====================================
@@ -314,7 +303,7 @@ You need to fill out the **Reinstatement** form, http://www.luc.edu/media/lucedu
 Dropping a Course and Avoiding Extra Bills
 ******************************************
 
-You should always be able to withdraw yourself from the course in LOCUS, no matter how you got registered for a course: by yourself in LOCUS, by a request to the department staff, or off of a waiting list. If you are sure you want to withdraw from a course, do not waste time emailing the department for help, just do it yourself. The date that the withdrawal is entered into LOCUS affects whether you get a W on your transcript and whether tuition is still due. Different rates apply.
+You should always be able to withdraw yourself from the course in `LOCUS <https://locus.luc.edu/>`_, no matter how you got registered for a course: by yourself in `LOCUS <https://locus.luc.edu/>`_, by a request to the department staff, or off of a waiting list. If you are sure you want to withdraw from a course, do not waste time emailing the department for help, just do it yourself. The date that the withdrawal is entered into `LOCUS <https://locus.luc.edu/>`_ affects whether you get a W on your transcript and whether tuition is still due. Different rates apply.
 
 Be sure to look at the Academic Calendar for the given semester. Once you are registered, merely not attending class does **NOT** extend these dates.
 
@@ -350,7 +339,7 @@ These all have alternatives ending with "D", for dual, like SWEN-MS D: *these ar
 Transfer Credit
 ***************
 
-The |gpd| must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. *Email the |gpd| as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits).
+The |gpd| must initiate an approval of course transfer after the first month of classes but also before the end of your *first* semester. Email the |gpd| as a reminder*, after the first month of classes and after we also have your transcript (and course by course evaluation for international credits).
 
 Do not delay! Your official transcripts need to show B or better in relevant courses.
 
@@ -360,8 +349,6 @@ Although official transcripts are needed to forward the request to the Grad Scho
 
 .. note::
     All courses, including graduate courses in your first 4 years since the start of college, are considered part of your undergraduate education.
-
-    Only if you do MS work *past* the four years of academic work can transfer credit be considered.
 
 ******
 Grades
