@@ -3,7 +3,7 @@ Teaching Assistantships
 
 Each year the Computer Science department offers a small number of graduate assistantships for new and continuing students. Assistantships are competitive and target students with an exceptional interpersonal and computing background, regardless of which degree you are pursuing.
 
-For a full teaching-assistantship for a full academic year, there are duties for 18 hours per week in the Fall and Spring semesters in computer labs, in support of faculty teaching or research projects, or in-network or web support in the department.
+For a full teaching-assistantship for a full academic year, there are duties for 19 hours per week in the Fall and Spring semesters in computer labs, in support of faculty teaching or research projects, or in-network or web support in the department.
 
 The most recent awards included $18,000 in stipend. Full-time tuition in Fall and Spring plus medical insurance are also included in a full award.
 
@@ -18,16 +18,13 @@ There is no separate application for seeking research assistantship or TA awards
 New Student Assistantships
 **************************
 
-New applicants to the Master's programs in Computer Science should get an email from the |gpd| when admission is first recommended. This email should have a link near the end to a form to apply for a TA award.
+New applicants to the Master's programs in Computer Science should get an email from the |gpd|.
 
 Have your application complete by the **deadline** date of:
-* *February 15* for **Fall** admission
-* *September 15* for **Spring** admission*
+*February 15* for **Fall** admission and
+*September 15* for **Spring** admission
 
 The aim is to announce the awards before March 1 for Fall semesters, and in October for Spring semesters.
-
-.. important::
-    Promptly fill out the form at the link provided by the |gpd| when acknowledging your admission recommendation.
 
 .. note::
     If you miss these deadlines you may apply in your first semester or later as a *current* student.
@@ -51,8 +48,8 @@ The reminder will include the URL for an online form to fill out as your applica
 The deadlines are *earlier* than for just admitted students:
 
 Continuing students fill out the online form by
-* *March 15* for **Fall** awards
-* *October 15* for **Spring** awards
+*February 15* for **Fall** admission and
+*September 15* for **Spring** admission
 
 Students who have already been given an award for the upcoming semester should not fill out the form. Initial awards for current students are generally finalized after the awards to new students are completed.
 

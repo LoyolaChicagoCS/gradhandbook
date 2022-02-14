@@ -5,7 +5,7 @@
 Program Costs
 *************
 
-The Master's program has a 10-course requirement (once undergraduate prerequisites are satisfied).
+The Master's program has a 10-course requirement (once program prerequisites are satisfied).
 
 For information on semester fees please refer to the `Bursar's pages <http://www.luc.edu/bursar/tuition.shtml>`_.
 
