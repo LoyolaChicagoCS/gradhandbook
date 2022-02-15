@@ -37,4 +37,3 @@ If you wish to deploy the site to GitHub Pages, a GitHub Action workflow has alr
 1. Enable `Actions` on your fork of this project
 2. Enable `GitHub Pages` on your fork of this project
 3. If you use a different production branch name other than `main`, change the [workflow](.github/workflow/main.yml) to point to that branch
-Alvarfo de Landaluce 
