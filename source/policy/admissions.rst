@@ -16,7 +16,7 @@ No Application Deadline for Plain Admission
 Applications are continuously evaluated and students will be promptly admitted to the nearest starting term or semester. Earlier admission means that you get to register online for classes earlier, and some classes may fill up. In particular, registration for Fall starts in April, for Spring in late October, and for Summer in February. It is to your advantage to be admitted before those times for the earliest access to advising and registration.
 
 Deadlines for Teaching Assistantships
-=====================================
+-------------------------------------
 
 While regular admission does not have a deadline, see :doc:`../services/assistantships` for application deadlines to be considered for such an award.
 
