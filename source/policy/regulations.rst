@@ -4,26 +4,26 @@
     :hidden:
     :maxdepth: 1
 
-    Deadlines <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#deadlines>
-    Course Loads <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#course-loads>
-    Registration <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#registration>
-    Course Selection <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#course-selection>
-    Advising <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#advising>
-    Online Courses <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#online-courses>
-    Independent Study <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#independent-study>
-    Internships (COMP 499) <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#internships-comp-499>
-    Curricular Practical Training (For F-1 students) <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#curricular-practical-training-for-f-1-students>
-    F-1 Summer Full-time Status <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#f-1-summer-full-time-status>
-    Variable Credit Courses <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#variable-credit-courses>
-    Graduation <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#graduation>
-    Leave of Absence <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#leave-of-absence>
-    Dropping a Course and Avoiding Extra Bills <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#dropping-a-course-and-avoiding-extra-bills>
-    Changing your chosen MS Program <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#changing-your-chosen-ms-program>
-    Transfer Credit <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#transfer-credit>
-    Grades <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#grades>
-    Incomplete Grade <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#incomplete-grade>
-    Academic Honesty <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#academic-honesty>
-    Grievance Procedure <http://localhost:63342/gradhandbook/build/html/policy/regulations.html#grievance-procedure>
+    Deadlines <https://graduatehandbook.cs.luc.edu/policy/regulations.html#deadlines>
+    Course Loads <https://graduatehandbook.cs.luc.edu/policy/regulations.html#course-loads>
+    Registration <https://graduatehandbook.cs.luc.edu/policy/regulations.html#registration>
+    Course Selection <https://graduatehandbook.cs.luc.edu/policy/regulations.html#course-selection>
+    Advising <https://graduatehandbook.cs.luc.edu/policy/regulations.html#advising>
+    Online Courses <https://graduatehandbook.cs.luc.edu/policy/regulations.html#online-courses>
+    Independent Study <https://graduatehandbook.cs.luc.edu/policy/regulations.html#independent-study>
+    Internships (COMP 499) <https://graduatehandbook.cs.luc.edu/policy/regulations.html#internships-comp-499>
+    Curricular Practical Training (For F-1 students) <https://graduatehandbook.cs.luc.edu/policy/regulations.html#curricular-practical-training-for-f-1-students>
+    F-1 Summer Full-time Status <https://graduatehandbook.cs.luc.edu/policy/regulations.html#f-1-summer-full-time-status>
+    Variable Credit Courses <https://graduatehandbook.cs.luc.edu/policy/regulations.html#variable-credit-courses>
+    Graduation <https://graduatehandbook.cs.luc.edu/policy/regulations.html#graduation>
+    Leave of Absence <https://graduatehandbook.cs.luc.edu/policy/regulations.html#leave-of-absence>
+    Dropping a Course and Avoiding Extra Bills <https://graduatehandbook.cs.luc.edu/policy/regulations.html#dropping-a-course-and-avoiding-extra-bills>
+    Changing your chosen MS Program <https://graduatehandbook.cs.luc.edu/policy/regulations.html#changing-your-chosen-ms-program>
+    Transfer Credit <https://graduatehandbook.cs.luc.edu/policy/regulations.html#transfer-credit>
+    Grades <https://graduatehandbook.cs.luc.edu/policy/regulations.html#grades>
+    Incomplete Grade <https://graduatehandbook.cs.luc.edu/policy/regulations.html#incomplete-grade>
+    Academic Honesty <https://graduatehandbook.cs.luc.edu/policy/regulations.html#academic-honesty>
+    Grievance Procedure <https://graduatehandbook.cs.luc.edu/policy/regulations.html#grievance-procedure>
 
 
 
