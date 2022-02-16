@@ -13,12 +13,12 @@ The following folks are here to help you.
 
     "Eric Chan-Tin, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
     "Peter Lars Dordal, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
-    "Chandra Sekharan, PhD", "Department Chair", "chair@cs.luc.edu"
+    "George Thiruvathukal, PhD", "Department Chair", "chair@cs.luc.edu"
     "Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
     "Miao Ye", "Computer Systems Manager", "my@cs.luc.edu"
     "Marina Hart", "Department Secretary", "mhart6@luc.edu"
     "Emily Barman, PhD", "Dean", "ebarman@luc.edu"
-    "Susan Grossman, PhD", "Assistant Dean", "sgrossm@luc.edu"
+    "Susan Grossman, PhD", "Associate Dean", "sgrossm@luc.edu"
     "Heather Sevener", "Assistant Dean", "hsevene@luc.edu"
 
 Graduate Program Director
