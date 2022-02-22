@@ -4,7 +4,7 @@ Admissions
     :hidden:
     :maxdepth: 1
 
-    Additional Requirements for International Applicant <https://graduatehandbook.cs.luc.edu/policy/admissions.html#additional-requirements-for-international-applicants>
+    Additional Requirements for International Applicants <https://graduatehandbook.cs.luc.edu/policy/admissions.html#additional-requirements-for-international-applicants>
 
 *********
 Deadlines
@@ -29,7 +29,7 @@ If you have questions after reading the information below, contact the |gpd|.
 You are encouraged to :doc:`../general/visit`.
 
 General Prerequisites
-=====================
+---------------------
 
 .. important::
     These prerequisites apply to all applicants.
@@ -78,8 +78,7 @@ In all cases, final officially-sent transcripts are required by the end of your 
     This extra information helps with initial advising for you, and occasionally the narrative will clear up some questions about the application.
 
 Additional Requirements for International Applicant
-===================================================
-
+---------------------------------------------------
 
 .. warning::
     Do not forget the general prerequisites!
