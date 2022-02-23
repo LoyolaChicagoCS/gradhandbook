@@ -3,6 +3,7 @@
    :hidden:
 
    CS Dept. Homepage <https://www.luc.edu/cs/>
+   Academic Programs <https://academics.cs.luc.edu>
 
 #########################
 Graduate Student Handbook
