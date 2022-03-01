@@ -77,8 +77,8 @@ In all cases, final officially-sent transcripts are required by the end of your 
 .. note::
     This extra information helps with initial advising for you, and occasionally the narrative will clear up some questions about the application.
 
-Additional Requirements for International Applicant
----------------------------------------------------
+Additional Requirements for International Applicants
+----------------------------------------------------
 
 .. warning::
     Do not forget the general prerequisites!
