@@ -196,7 +196,7 @@ First, you need to find a job for the period of the Internship.
 
 There are online, searchable listings through the university career center, `http://www.luc.edu/career <http://www.luc.edu/career>`_. (The Computer Science department also maintains an *informal* jobs list at http://jobs.cs.luc.edu.) When you find a job, contact the |gpd| and get your job description approved. Internships are for 1-6 credits.
 
-Download the `MOU Form <https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/aharrin_luc_edu/EdjL1xCxOX5OtIZvwQClTkkB8ZNMWlRfvNvTuhvRIzMdww?e=BPivMt>`_, *read it*, print, fill out *both pages*, and return. Please read this carefully before asking questions of the |gpd|.
+Download the  :download:`MOU Form <docs/CS-Grad-Internship-MOU.pdf>`, *read it*, print, fill out *both pages*, and return. Please read this carefully before asking questions of the |gpd|.
 
 It contains a description of the details of your academic requirements for the course.
 
