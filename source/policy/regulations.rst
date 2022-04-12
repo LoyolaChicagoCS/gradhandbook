@@ -24,6 +24,7 @@
     Incomplete Grade <https://graduatehandbook.cs.luc.edu/policy/regulations.html#incomplete-grade>
     Academic Honesty <https://graduatehandbook.cs.luc.edu/policy/regulations.html#academic-honesty>
     Grievance Procedure <https://graduatehandbook.cs.luc.edu/policy/regulations.html#grievance-procedure>
+    Withdrawing <https://www.luc.edu/media/lucedu/socialwork/pdfs/bsw/UAC-NOTICE%20of%20INTENT%20to%20WITHDRAW%20from%20the%20UNIVERSITY.pdf>
 
 
 
@@ -436,3 +437,9 @@ Students, faculty, and administrators are strongly encouraged to resolve any pro
 Unfortunately fully addressing a grievance within the department can take considerable time. The student must be patient. If a student is not satisfied with the decision within the department, then *after* the departmental decision, not earlier, the student may wish to initiate a grievance in writing to the Dean.
 
 Further information can be obtained from the Graduate School office.
+
+***********
+Withdrawing
+***********
+
+If you plan to withdraw from the university, make sure to talk with the |gpd| first. You will also need to download this form, read it, fill out, and email to the |gpd|. Finally, make sure you have dropped all your courses on Locus.
