@@ -3,7 +3,7 @@
 Policy
 #######
 
-This directory contains webpages for the admissions, Loyola CS Graduate School staff, finanical, and regulations information.
+This directory contains webpages for the admissions, Loyola CS Graduate School staff, financial, and regulations information.
 
 .. toctree::
    :maxdepth: 1
