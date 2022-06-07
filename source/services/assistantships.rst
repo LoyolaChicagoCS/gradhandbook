@@ -29,7 +29,7 @@ The aim is to announce the awards before March 1 for Fall semesters, and in Octo
 .. note::
     If you miss these deadlines you may apply in your first semester or later as a *current* student.
 
-In you application, make sure that you:
+In your application, make sure that you:
 
 * Have an *email address that you check regularly*, or update your current email address with the |gpd|
 * Have excellent undergraduate performance, including all MS prerequisites
