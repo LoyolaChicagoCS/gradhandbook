@@ -432,9 +432,9 @@ Although quite rare in our department, cases have occurred in the past and have 
 Grievance Procedure
 *******************
 
-Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the |gpd|. If the problem cannot be satisfactorily resolved by the |gpd|, it will be taken up by the Department Chair.
+Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet to discuss the matter with the |gpd|. If the problem cannot be satisfactorily resolved by the |gpd|, it will be taken up by the Department `Chair <mailto:chair@cs.luc.edu>`_.
 
-Unfortunately fully addressing a grievance within the department can take considerable time. The student must be patient. If a student is not satisfied with the decision within the department, then *after* the departmental decision, not earlier, the student may wish to initiate a grievance in writing to the Dean.
+Unfortunately fully addressing a grievance within the department can take considerable time. The student must be patient. If a student is not satisfied with the decision within the department, then *after* the departmental decision, not earlier, the student may wish to initiate a grievance in writing to the `Dean <mailto:gpd@cs.luc.edu>`_.
 
 Further information can be obtained from the Graduate School office.
 
