@@ -26,7 +26,7 @@ Graduate Program Director
 
 Regardless of the MS program in which you're enrolled, your first adviser will be your |gpd|.
 
-The current director for Software Engineering and Computer Science is `Dr. Eric Chan-Tin <https://chantin.cs.luc.edu/~chantin/>`_.
+The current director for Software Engineering and Computer Science is `Dr. Peter Lars Dordal <https://pld.cs.luc.edu/~chantin/>`_.
 
 The current director for Information Technology is `Dr. Peter Lars Dordal <https://pld.cs.luc.edu/>`_.
 
