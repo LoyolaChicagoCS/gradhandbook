@@ -11,7 +11,6 @@ The following folks are here to help you.
     :header: "Person", "Role", "Contact e-mail"
     :widths: 15, 15, 15
 
-    "Eric Chan-Tin, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
     "Peter Lars Dordal, PhD", "Graduate Program Director", "gpd@cs.luc.edu"
     "George Thiruvathukal, PhD", "Department Chair", "chair@cs.luc.edu"
     "Cecilia Murphy", "Graduate Program Secretary", "cmurphy@luc.edu"
@@ -26,7 +25,7 @@ Graduate Program Director
 
 Regardless of the MS program in which you're enrolled, your first adviser will be your |gpd|.
 
-The current director for Software Engineering and Computer Science is `Dr. Eric Chan-Tin <https://chantin.cs.luc.edu/~chantin/>`_.
+The current director for Software Engineering and Computer Science is `Dr. Peter Lars Dordal <https://pld.cs.luc.edu/>`_.
 
 The current director for Information Technology is `Dr. Peter Lars Dordal <https://pld.cs.luc.edu/>`_.
 
