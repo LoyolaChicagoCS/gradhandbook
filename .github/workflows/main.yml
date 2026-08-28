@@ -42,14 +42,19 @@ jobs:
         run: |
           make epub
 
+      - name: Install TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-fonts-extra \
+            latexmk
+
       - name: Build PDF via TeXLive
-        uses: xu-cheng/texlive-action@v3
-        with:
-          texlive_version: latest
-          scheme: full
-          run: |
-            apk add make
-            make -C build/latex
+        run: |
+          make -C build/latex
 
       - name: Set CNAME for custom domain
         run: echo "graduatehandbook.cs.luc.edu" > build/html/CNAME
