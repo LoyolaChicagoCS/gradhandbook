@@ -1,0 +1,10 @@
+/* Force single-column index page */
+table.genindextable td {
+    display: block;
+    width: 100% !important;
+}
+
+/* Let csv-table / long tables use the full content width */
+table.docutils {
+    width: 100% !important;
+}

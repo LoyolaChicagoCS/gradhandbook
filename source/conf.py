@@ -229,56 +229,30 @@ pygments_style = "sphinx"
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = "sphinx_rtd_theme"
+html_theme = 'sphinx_book_theme'
 
 html_static_path = ["_static"]
 
-html_context = {
-    # "css_files": [
-    #     "_static/theme_overrides.css",  # override wide tables in RTD theme
-    # ],
-    # "display_github": True,
-    # "github_user": "LoyolaChicagoCS",
-    # "github_repo": "gradhandbook",
-    # "github_version": "master",
-}
-
 html_theme_options = {
-    #'canonical_url': '',
-    "analytics_id": "UA-5482792-28",
-    #'logo_only': False,
-    #'display_version': True,
-    #'prev_next_buttons_location': 'bottom',
-    "style_external_links": True,
-    # "vcs_pageview_mode": "edit",
-    'style_nav_header_background': '#922247',
-    # Toc options
-    #'collapse_navigation': True,
-    #'sticky_navigation': True,
-    #'navigation_depth': 4,
-    #'includehidden': True,
-    "titles_only": True,
+    "home_page_in_toc": True,
+    "show_toc_level": 2,
+    "repository_url": "https://github.com/LoyolaChicagoCS/gradhandbook",
+    "use_repository_button": True,
+    "use_issues_button": True,
+    "use_download_button": False,
 }
-
-
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-# Add any paths that contain custom themes here, relative to this directory.
-# html_theme_path = ['../../themes']
-# html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-# html_title = None
+html_title = project
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 
-html_short_title = u"Loyola University Chicago CS Graduate Handbook"
+html_short_title = u"Loyola CS Graduate Handbook"
 
 # The name of an image file (relative to this directory) to place at the top
-# of the sidebar.
-# html_logo = None
+# of the sidebar. Drop a logo.png into _static/ and uncomment this line.
+# html_logo = '_static/logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -289,9 +263,11 @@ html_short_title = u"Loyola University Chicago CS Graduate Handbook"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
+html_css_files = ['custom.css']
+
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-# html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%d-%B-%Y %H:%M:%S'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.

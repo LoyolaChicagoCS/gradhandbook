@@ -1,46 +1,56 @@
-# Action was shamelessly copied from here: https://stackoverflow.com/a/64311970
-name: github pages
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - main
       - master
+  workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9.4'
+          python-version: '3.12'
+          cache: 'pip'
 
-      - name: Upgrade pip
+      - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-      - name: Get pip cache dir
-        id: pip-cache
-        run: echo "::set-output name=dir::$(pip cache dir)"
+          python3 -m pip install -r ./requirements.txt
 
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ${{ steps.pip-cache.outputs.dir }}
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-      - name: Install dependencies
-        run: python3 -m pip install -r ./requirements.txt
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
-      - run: |
+      - name: Generate HTML using Sphinx
+        run: |
           make html
-          echo graduatehandbook.cs.luc.edu > build/html/CNAME
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Set CNAME for custom domain
+        run: echo "graduatehandbook.cs.luc.edu" > build/html/CNAME
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/html
+          path: ./build/html
+
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
