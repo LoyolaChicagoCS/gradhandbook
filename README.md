@@ -2,7 +2,8 @@
 
 > The LUC CS Departments Graduate Student Handbook
 
-![GH Pages Deployment](https://github.com/LoyolaChicagoCS/gradhandbook/actions/workflows/main.yml/badge.svg)
+![GH Pages Deployment](https://github.com/LoyolaChicagoCS/gradhandbook/actions/workflows/main.yml/badge.svg?branch=master)
+![Latest Release](https://img.shields.io/github/v/release/LoyolaChicagoCS/gradhandbook?label=latest%20release)
 
 ## Where is This Site Located?
 
