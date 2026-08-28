@@ -328,7 +328,7 @@ latex_documents = [
     (
         "index",
         "LoyolaComputerScienceGraduateHandbook.tex",
-        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
+        u"Loyola University Chicago CS Graduate Handbook",
         u"Loyola University Chicago - Computer Science Department",
         "manual",
     ),
@@ -363,7 +363,7 @@ man_pages = [
     (
         "index",
         "loyolauniversitychicagocomputerscience-Graduatehandbook",
-        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
+        u"Loyola University Chicago CS Graduate Handbook",
         [u"Loyola University Chicago - Computer Science Department"],
         1,
     )
@@ -382,7 +382,7 @@ texinfo_documents = [
     (
         "index",
         "LoyolaComputerScienceGraduateHandbook",
-        u"LUC CS Loyola University Chicago CS - Graduate Handbook",
+        u"Loyola University Chicago CS Graduate Handbook",
         u"Loyola University Chicago - Computer Science Department",
         "LoyolaComputerScienceGraduateHandbook",
         "One line description of project.",
@@ -403,7 +403,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u"LUC CS Loyola University Chicago CS - Graduate Handbook"
+epub_title = u"Loyola University Chicago CS Graduate Handbook"
 epub_author = u"Loyola University Chicago - Computer Science Department"
 epub_publisher = u"Loyola University Chicago - Computer Science Department"
 epub_copyright = u"2018, Loyola University Chicago - Computer Science Department"
