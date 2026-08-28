@@ -23,6 +23,7 @@ If you have questions about the information here, please contact the Graduate Pr
    getting-started
    mentor-mentee
    masters-degree
+   doctoral-degree
    teaching-assistants
    funding
    course-enrollment

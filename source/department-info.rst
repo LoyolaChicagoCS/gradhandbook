@@ -36,6 +36,8 @@ The Lake Shore Campus Graduate School Office is located in room 440 of the Grana
 Departmental Roles
 ===================
 
+.. todo:: Confirm Brielle Buford's title -- some source material lists "Graduate Coordinator" and other source material lists "Office Manager". The table below currently keeps "Graduate Coordinator".
+
 .. list-table:: Departmental Roles
    :header-rows: 1
    :widths: 30 25 25
@@ -83,6 +85,16 @@ The department manager can assist with providing access to Doyle Hall keycard sc
 Computer Science Computing and Lab Resources
 ==============================================
 
+Desk Space
+----------
+
+Although space is extremely limited in Doyle Hall, the department will provide desk space to all PhD students.
+Contact your PhD advisor to request desk space in the department.
+
+MS students are not guaranteed desk space, but they may be granted space on a case-by-case basis.
+For MS students on the research track, the advisor should be able to assign desk space.
+TAs may also request desk space by petitioning the Space Force committee with a written document describing the reason that a dedicated desk space is needed (contact info in :ref:`roles`).
+
 Makerspace
 ----------
 
@@ -110,3 +122,13 @@ Email
 
 All Computer Science communication will be sent to students' Loyola email accounts.
 Students are responsible for maintaining their email account and responding to messages in a timely manner.
+
+Printers and Office Supplies
+================================
+
+Office supplies are available to all graduate TAs and RAs for use in department-related work.
+An office supplies cabinet is located on the second floor of Doyle Hall across from Room 214.
+
+The department has two printers available for department-related use.
+
+.. todo:: Add info about printers here.

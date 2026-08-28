@@ -17,4 +17,4 @@ Students are required to follow the procedures and requirements listed in the cu
 
 The information in this handbook should be supplemented by individual consultation with students' advisors so that individual needs/interests and all degree requirements are met.
 Additional information is available via the `CS Department's external web page <https://www.luc.edu/cs/>`_.
-Students can find more information on the Graduate School GUIDE or Graduate School web page.
+Students can find more information on the `Graduate School web page <https://www.luc.edu/gradschool/>`_.

@@ -39,6 +39,48 @@ Research credits are taken in the research advisor's course section number.
 The research advisor should be a faculty member whose expertise and project/research interests match closely with those that the student intends to acquire.
 Students are encouraged to gather information from courses, faculty and student seminars, the program website, and publications to help identify faculty with matching interests.
 
+Choosing an Advisor
+======================
+
+When choosing a research advisor, students should seek out faculty members with expertise and research in the student's area of interest.
+Likewise, to receive the most appropriate academic planning advice, students should connect with a faculty member who is experienced and knowledgeable about industry and research related to the student's area of interest.
+Please see :ref:`academic_advising` and :ref:`changing_advisor`.
+
+Sample Questions to ask Prospective Advisors
+-----------------------------------------------
+
+Below is a list of questions that students can ask prospective advisors when choosing an appropriate advisor.
+Students should spend time thinking about what is most important to them in their graduate training, and come up with their own questions to ask as well.
+Many of these questions are complex and may take time for advisors to respond to.
+However, any advisor should be willing to discuss these important issues with students.
+Students may also want to discuss these issues with any students that are currently in the prospective advisor's group/lab.
+
+- What thesis projects would be available to me if I were to join your group?
+- Would these projects expose me to a variety of different approaches?
+- In general, how available will you be to answer questions I might have?
+- What is your philosophy regarding the amount of guidance the advisor should provide to a student during preparation of the thesis proposal, literature, presentations, thesis, etc.?
+- What are your expectations for the amount of time I should spend each day/week in your group/lab?
+- What regularly scheduled activities (e.g., group meetings, joint group meetings, and research clubs) does your group participate in that provide an opportunity to get outside input on my (research) project and to hear about the work of other students and postdocs?
+- Do you encourage your students to attend seminars and journal clubs, including those that may be outside of their narrow field of interest/research?
+- Do students in your group/lab have the opportunity to attend professional meetings where they can interact with colleagues/researchers from other institutions?
+- Do you include your graduate students in professional activities that will familiarize them with their field of interest/research, such as reviewing manuscripts and meeting with visiting speakers?
+- How long do you think it should take me to get my degree?
+- What are your former graduate students (if any) doing now?
+- What is your general philosophy around graduate training, and what goals do you have for your graduate students?
+
+.. _changing_advisor:
+
+Changing Your Advisor
+========================
+
+.. todo:: Confirm the process for changing advisors -- verify whether students should use the GSPS portal (gsps.luc.edu) for this.
+
+Before selecting or changing advisors, students are recommended to discuss the change with both their new and current faculty advisor.
+If the student is uncomfortable discussing a change with their current advisor, they should discuss the change with the program director.
+After discussing the situation, students need to notify their CS Graduate Coordinator by email about the change.
+The student's new advisor needs to email a confirmation of the change to their CS Graduate Coordinator.
+Once their CS Graduate Coordinator receives the necessary email confirmations, the change will be made official in the system.
+
 ***********************************************
 International Student & Scholar Services
 ***********************************************
