@@ -12,9 +12,7 @@ Graduate Student Handbook
       :target: https://github.com/LoyolaChicagoCS/gradhandbook/releases
       :alt: Latest Release
 
-Welcome to the Graduate Handbook *informational* site for the Computer Science Department at Loyola University Chicago.
-
-This site is aimed at helping *current* Graduate School applicants and those who are interested in the Graduate Programs offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
+This site is aimed at helping *prospective* and *current* students who are interested in the Graduate Programs offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 If you have questions about the information here, please contact the Graduate Program Director -- see :ref:`roles` for contact information.
 

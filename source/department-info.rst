@@ -22,10 +22,10 @@ The Lake Shore Campus Graduate School Office is located in room 440 of the Grana
      - Contact
    * - Interim Dean of the Graduate School
      - Fr. Michael Rozier
-     - --
-   * - Associate Dean of Academics
-     - Dr. Kate Phillipo
-     - --
+     - mrozier@luc.edu
+   * - Associate Dean of Graduate Studies
+     - Dr. Kate Phillippo
+     - kphillippo@luc.edu
    * - Assistant Dean for Student Services
      - Ms. Heather Sevener
      - hsevene@luc.edu
@@ -45,7 +45,7 @@ Departmental Roles
      - Contact
    * - Department Chair
      - Dr. George K. Thiruvathukal
-     - gkt@cs.luc.edu
+     - gthiruvathukal@luc.edu
    * - Department Manager
      - Ms. Tori Bourne
      - vbourne@luc.edu
