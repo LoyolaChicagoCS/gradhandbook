@@ -8,7 +8,7 @@ Student Services and Advising
 CS Academic Advising
 *********************
 
-A student's CS academic advisor serves a dual role: first, to assist the student in acquiring the highest level possible of knowledge and competence in their field; and second, to chair the committee that will determine whether the student has performed acceptably at each of their degree milestones.
+A student's CS academic advisor serves a dual role: first, to assist the student in acquiring the highest possible level of knowledge and competence in their field; and second, to chair the committee that will determine whether the student has performed acceptably at each of their degree milestones.
 Academic advisors play a role in tracking the student's progress toward degree completion, assisting with course selection and academic planning, and helping students identify possible committee members and opportunities.
 
 The advisor/student relationship is one of mutual agreement, which may be terminated by either party at any time.
@@ -17,7 +17,7 @@ Both the student and the advisor have a responsibility to make their expectation
 Communication is critical to a successful advisor/student relationship.
 Please see :ref:`mentor_mentee` for a detailed description of the nature of the Mentor/Mentee relationship.
 
-All CS graduate students must have an CS academic advisor at all times!
+All CS graduate students must have a CS academic advisor at all times!
 Students may have temporary advisors while in transition.
 
 All CS students must have an academic advisor who is a current CS faculty member or current CS affiliate.
@@ -73,13 +73,11 @@ Students may also want to discuss these issues with any students that are curren
 Changing Your Advisor
 ========================
 
-.. todo:: Confirm the process for changing advisors -- verify whether students should use the GSPS portal (gsps.luc.edu) for this.
-
 Before selecting or changing advisors, students are recommended to discuss the change with both their new and current faculty advisor.
 If the student is uncomfortable discussing a change with their current advisor, they should discuss the change with the program director.
 After discussing the situation, students need to notify their CS Graduate Coordinator by email about the change.
 The student's new advisor needs to email a confirmation of the change to their CS Graduate Coordinator.
-Once their CS Graduate Coordinator receives the necessary email confirmations, the change will be made official in the system.
+Once their CS Graduate Coordinator receives the necessary email confirmations, the change will be made official through the `GSPS portal <https://gsps.luc.edu>`_.
 
 ***********************************************
 International Student & Scholar Services

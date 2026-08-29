@@ -5,10 +5,7 @@ Getting Started Information for New Students
 Before Arriving on Campus
 ============================
 
-- Activate your Loyola UVID.
-
-  .. todo:: Link here on how to do that
-
+- Activate your Loyola UVID. See the `UVID Information page <https://www.luc.edu/its/uvidinformation/>`_ for instructions.
 - Read the current CS Graduate Student Handbook.
 - Communicate with your faculty advisor to discuss your degree requirements, course selections, and funding opportunities (if applicable/desired).
 - Receive an invitation to enroll email message from the Office of the Registrar containing important information about your enrollment appointment time for the upcoming semester.
@@ -22,9 +19,7 @@ Before Arriving on Campus
     International students must also provide TB test results.
     The `Wellness Center <https://www.luc.edu/wellness/>`_ records proof of immunization.
   - The wellness center also recommends COVID-19 vaccination and boosters.
-  - When an international or domestic student receives funding and accepts appointment(s) totaling a minimum of 33% FTE, the university offers health insurance under XXX.
-
-    .. todo:: Find details of health insurance for students.
+  - When an international or domestic student receives funding and accepts appointment(s) totaling a minimum of 33% FTE, the university offers health insurance -- see the `Office of the Bursar's <https://www.luc.edu/bursar/insurance.shtml>`_ health information page for eligibility and cost details.
 
 - Pay your tuition and fees.
 
@@ -33,7 +28,7 @@ Upon Arrival on Campus
 
 - International students should check in with ISSS within 1-2 days of arrival.
 - Get your Loyola photo ID card in Sullivan Hall.
-- Pick up your `U-Pass <https://www.luc.edu/upass/>`_, which provides unlimited rides on CTA. U-Pass can be collected from Damen Student Center information desk.
+- Pick up your `U-Pass <https://www.luc.edu/upass/>`_, which provides unlimited rides on the CTA. The U-Pass can be collected from the Damen Student Center information desk.
 - Verify/update your mailing address, email address, and other contact information in your Locus Student Center.
 - Submit final transcripts and degree verification to the Graduate School, if necessary.
 - Attend all necessary orientations.

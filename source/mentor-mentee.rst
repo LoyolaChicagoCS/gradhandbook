@@ -10,13 +10,13 @@ Expectations of Research Advisors in the CS Department
 Educational Degree Progress
 -------------------------------
 
-Advisors are committed to prioritize their students' education by supporting students in their coursework and reviewing their academic progress toward their degree.
+Advisors are committed to prioritizing their students' education by supporting students in their coursework and reviewing their academic progress toward their degree.
 They provide regular, timely feedback and goal-setting advice.
 
 - Respect students' privacy and abide by the Federal Educational Rights Privacy Act (FERPA) in reviewing progress and providing feedback.
 - Bring concerns about progress to students' attention in a timely manner.
 
-Advisors are committed to students research project and work with students to help plan and guide research projects, set reasonable and attainable goals, and establish timelines for completion of projects.
+Advisors are committed to students' research projects and work with students to help plan and guide research projects, set reasonable and attainable goals, and establish timelines for completion of projects.
 Advisors encourage input from PhD Preliminary Examination Committee and Final Defense Committee members by:
 
 - Advising students on selecting committees that meet departmental and university policies
@@ -138,16 +138,16 @@ Students are good citizens, take part in shared responsibilities and use resourc
 - Are respectful of and work collegially with all research group personnel and fellow students
 - Contribute actively to all team reports and collaborations while respecting the individual contributions of others
 - Contribute to an environment that is safe, equitable, and free of harassment
-- Bring problems that arise to advisors attention in a timely manner.
+- Bring problems that arise to their advisor's attention in a timely manner.
 
 Students maintain detailed, organized, and accurate research records.
 Students acknowledge that ownership of original notebooks, digital files, data, and tangible research materials may be subject to sponsored research agreements and/or Loyola policies. They:
 
-- Understand these materials typically remain with the research group after finishing their thesis/dissertation so that other individuals can reproduce and carry-on related research
+- Understand these materials typically remain with the research group after finishing their thesis/dissertation so that other individuals can reproduce and carry on related research
 - Maintain archival versions of code and data for use by other individuals
 - Follow advisor and Loyola policy on making and accessing copies of research notebooks, digital files, and other tangible research materials for their own use.
-- Students are knowledgeable of and comply with all Loyola research policies, including safety practices, animal use, and human-research policies.
-- Participate in the Loyola Responsible Conduct of Research Training Program and follow the guidelines presented therein while conducing research
+- Are knowledgeable of and comply with all Loyola research policies, including safety practices, animal use, and human-research policies.
+- Participate in the Loyola Responsible Conduct of Research Training Program and follow the guidelines presented therein while conducting research
 - Seek input on and comply with institutional policies regarding research design and data analysis.
 
 .. _mentor_mentee_student_scientific_integrity:
@@ -159,7 +159,7 @@ Students consult with advisors to learn what research results may be discussed o
 
 - Keep information about problems they or others in the group are working on confidential
 - Obtain prior permission before discussing results not in the public knowledge with anyone outside the group.
-- Students discuss policies on authorship and attendance at professional meetings with research advisors.
+- Discuss policies on authorship and attendance at professional meetings with research advisors.
 - Adhere to agreed-upon timeframes for preparing drafts of manuscripts and presentations
 - Work with advisors to disseminate relevant research results in a timely manner before completion of degree requirements.
 

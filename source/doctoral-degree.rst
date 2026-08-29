@@ -211,7 +211,7 @@ Students publishing in non-CS venues should specifically address the issue in th
 Preliminary Examination
 ===========================
 
-.. todo:: Submit an abstract of your dissertation around this time (graduate school requirement).
+Around this time, students are also required to submit an abstract of their dissertation to the Graduate School.
 
 The Preliminary Examination is a detailed examination covering the proposed research leading to the PhD thesis.
 The purpose of the exam is to ascertain the capability of the student to perform the proposed research and the quality and appropriateness of the project.
@@ -220,6 +220,9 @@ Upon successful completion of the Preliminary Examination and PhD requirements (
 Every PhD student is required to pass the Preliminary Examination.
 Before taking the Preliminary Examination, the student must first achieve Advanced Graduate Standing (AGS).
 There is no limit to the number of times a student may take the Preliminary Examination.
+
+.. todo:: Clarify the number of retakes for the Preliminary Examination -- the Graduate School catalog states that reexamination is permitted only once, with failure of the reexamination resulting in dismissal, which appears to conflict with the "no limit" statement above.
+
 The Preliminary Examination must be taken for the first time no later than three semesters after receipt of Advanced Graduate Standing.
 
 The preliminary exam is intended to be a proposal, not a nearly completed thesis.
@@ -249,10 +252,6 @@ After deliberation, the committee will render a decision about whether the stude
 
 A preliminary document is an exposition of the best work the student has done during the PhD program to date.
 It should cover 1-2 research papers the student has written.
-
-**Preliminary Presentation**
-
-.. todo:: This section had no content in the source document. Content needs to be added.
 
 **Forming a PhD Committee**
 
@@ -301,6 +300,8 @@ Specifically, a student must:
 Dissertator status is achieved by turning in the signed and dated Preliminary Examination Warrant to the CS Department Manager.
 Dissertator status is effective at the beginning of the semester following the completion of all dissertator requirements for the doctoral degree except for the dissertation.
 Students will receive a confirmation email from the CS department when they have achieved dissertator status.
+
+.. todo:: Confirm with the PhD program director and/or the Graduate School whether dissertators should enroll in COMP 595 or COMP 600 each semester -- this section lists COMP 595, but the course list above defines COMP 600 (Dissertation Supervision) as the course for students who have passed the preliminary exam.
 
 Dissertators must continue to enroll in at least three credits of COMP 595 every semester until the PhD is conferred.
 

@@ -32,7 +32,7 @@ Students with transcripts issued by international universities or colleges must 
 Allow 4-6 weeks for them to evaluate transcripts and get the results to Loyola.
 `ECE <https://www.ece.org>`_ and `Educational Perspectives <https://edperspective.org>`_ both provide this service.
 
-If you do not yet have your undergraduate degree, you must send transcripts to the evaluator when all your final courses are shown, though some without grades. This is usually in your final semester.
+If you do not yet have your undergraduate degree, you must send transcripts to the evaluator once all your final courses are listed, even if some do not yet show grades -- this is usually your final semester.
 
 The evaluators can only determine the equivalence to a US 4-year degree if they see all the relevant courses listed on the transcript (again, possibly some without grades yet).
 

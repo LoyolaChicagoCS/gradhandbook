@@ -36,8 +36,6 @@ The Lake Shore Campus Graduate School Office is located in room 440 of the Grana
 Departmental Roles
 ===================
 
-.. todo:: Confirm Brielle Buford's title -- some source material lists "Graduate Coordinator" and other source material lists "Office Manager". The table below currently keeps "Graduate Coordinator".
-
 .. list-table:: Departmental Roles
    :header-rows: 1
    :widths: 30 25 25
@@ -130,5 +128,5 @@ Office supplies are available to all graduate TAs and RAs for use in department-
 An office supplies cabinet is located on the second floor of Doyle Hall across from Room 214.
 
 The department has two printers available for department-related use.
-
-.. todo:: Add info about printers here.
+One is a Konica-Minolta copier/printer located on the second floor.
+There is no charge for printing, but students are asked to be judicious about what they print to help keep costs under control.

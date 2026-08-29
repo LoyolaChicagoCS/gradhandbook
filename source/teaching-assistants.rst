@@ -32,11 +32,9 @@ Teaching Assistant Course Assignment Policy
 
 Order of TA Assignment Priority:
 
-.. todo:: Confirm the correct priority order -- some source material lists early-career/research-active faculty courses ahead of introductory main sequence courses, reversing the order below.
-
-#. Introductory main sequence courses: COMP 141, 170, 264, 271, 272
 #. Courses taught by early-career tenure-track faculty
-#. Courses taught by research-active faculty
+#. Courses taught by research-intensive faculty
+#. Introductory main sequence courses: COMP 141, 170, 264, 271, 272
 
 Legal Obligations for TAs
 =============================

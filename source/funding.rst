@@ -22,11 +22,11 @@ Funding for Interdepartmental Collaboration
 
 The Computer Science Department encourages interdepartmental collaborations.
 Research groups within the department may wish to collaborate with outside faculty, occasionally sharing graduate research assistants.
-Students who participate in these collaborations must be funded by an accounting unit controlled by a CS department faculty.
+Students who participate in these collaborations must be funded by an accounting unit controlled by a CS department faculty member.
 **Research assistantships for Computer Science PhD students can never be funded by funds from other departments.**
 
-We strongly prefer that funds that pay for CS PhD RAs to come from accounting units tied to grants made to CS faculty members.
-In some limited cases, there may be grants managed by other departments who wish to hire a CS PhD student.
+We strongly prefer that funds paying for CS PhD RAs come from accounting units tied to grants made to CS faculty members.
+In some limited cases, there may be grants managed by other departments that wish to hire a CS PhD student.
 This is permissible with approval from the PhD program director and the department chair under the following conditions:
 
 #. There must be a formal written agreement in place that specifies:

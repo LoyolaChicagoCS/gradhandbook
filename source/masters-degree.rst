@@ -2,7 +2,7 @@
 Master's Degree
 ####################
 
-The Master's degree in computer science (PhD CS) is a coursework-focused degree in which students are expected to gain mastery in advanced Computer Science topics.
+The Master's degree in computer science (MS CS) is a coursework-focused degree in which students are expected to gain mastery in advanced Computer Science topics.
 MS students must satisfy the Loyola University Graduate School credit requirements.
 
 Timeline and Overview
@@ -310,7 +310,8 @@ MS in Information Technology
 Seminar Courses
 -------------------
 
-.. todo:: This section had no content in the source document. Content needs to be added.
+Students may count seminar courses (usually listed as COMP 488) toward their COMP elective requirements.
+Students must submit written notification to the graduate program director, including a copy of the course syllabus and a brief (no more than one-page) explanation of how the course fits within their program of study.
 
 Prior Coursework and Transfer Credits
 =========================================
@@ -367,7 +368,7 @@ In the final semester (graduation term), the following must be completed:
 
   - **Final thesis format must be approved by the Graduate School in the semester you are graduating.**
     The Graduate School circulates an email with deadlines each semester.
-    Be sure the have your thesis formatting approved by the deadline!
+    Be sure to have your thesis formatting approved by the deadline!
 
 - Confirm all final grades are entered, with exception to the current semester (no incomplete, unreported, or progress grades).
 - Schedule and complete a pre-check appointment with the Graduate School to answer formatting questions.
@@ -381,19 +382,10 @@ In the final semester (graduation term), the following must be completed:
 Leaves of Absence
 =====================
 
-Students may request a leave of absence to pause enrollment for one semester.
+Students may request a leave of absence to pause enrollment.
 International students typically must leave the country during a leave of absence.
-The Graduate School has specific rules that students must follow for taking a leave.
+Per the Graduate School's `Academic Standards and Regulations <https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/>`_, leaves of absence are limited to one full academic year.
 Applications for leaves of absence can be made through the `GSPS portal <https://gsps.luc.edu>`_.
-
-Grades and GPA
-==================
-
-Students in the CS PhD program must maintain a minimum GPA of 3.5 across all courses during their graduate studies at Loyola.
-They must further earn a grade of *A* in their three qualifying courses.
-
-Grades and GPA are taken into consideration for satisfactory progress evaluation.
-Furthermore, the Graduate Committee also reviews a student's grades when deciding whether to grant Advanced Graduate Standing.
 
 Participation in Commencement
 =================================

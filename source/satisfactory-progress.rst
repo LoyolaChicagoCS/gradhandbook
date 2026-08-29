@@ -10,6 +10,12 @@ Annual reviews will be conducted at the end of the Spring semester and will cons
 Annual reviews should focus on a student's research accomplishments, and they may also include a short summary of the student's coursework and other relevant information.
 Annual reviews should be sent to the PhD Program Director in May or June and will be kept on record.
 
+Grades of C or Lower
+========================
+
+Per the Graduate School's `Academic Standards and Regulations <https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/>`_, no more than two courses with a final grade of C+ (2.33) or C (2.00) may be applied toward degree requirements, and any grade below a C (2.00) cannot be applied toward degree requirements at all, though it is still calculated into a student's cumulative GPA.
+This policy applies to all graduate programs at Loyola, not just the CS Department.
+
 Academic Probation
 ======================
 
@@ -18,7 +24,7 @@ Students may be placed on probation or dismissed from their graduate program in 
 
 #. Minimum GPA: Students who fail to maintain a grade-point average of at least a 3.00 will be placed on academic probation. In such cases, if the student does not raise the grade-point average to at least 3.00 during the next two consecutive terms in which the student registers, the student will be dismissed for poor scholarship.
 
-   Students who are near the end of their programs must raise their cumulative GPA to 3.00 in order to receive a degree. Students will require permission from their program and the Graduate School to continue taking courses after they have completed their program hours in the hope of raising their cumulative GPA above 3.00 in order to graduate.
+   Students who are near the end of their programs must raise their cumulative GPA to 3.00 in order to receive a degree. Students will require permission from their program and the Graduate School to continue taking courses after they have completed their program hours in order to raise their cumulative GPA above 3.00 and graduate.
 #. Satisfactory degree progress post coursework: After completion of their coursework, students who are writing a thesis or dissertation must continue to make satisfactory, timely progress towards the degree. The determination of a student's failure to make satisfactory academic progress must be based on:
 
    - Failure to meet one of the milestones according to the timeline for satisfactory academic progress set by the student's program
