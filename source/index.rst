@@ -27,6 +27,7 @@ If you have questions about the information here, please contact the Graduate Pr
    :caption: Contents
 
    welcome
+   scope
    department-info
    student-services
    admissions
