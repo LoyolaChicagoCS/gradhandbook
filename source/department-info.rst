@@ -22,10 +22,10 @@ The Lake Shore Campus Graduate School Office is located in room 440 of the Grana
      - Contact
    * - Interim Dean of the Graduate School
      - Fr. Michael Rozier
-     - mrozier@luc.edu
+     -
    * - Associate Dean of Graduate Studies
      - Dr. Kate Phillippo
-     - kphillippo@luc.edu
+     - 
    * - Assistant Dean for Student Services
      - Ms. Heather Sevener
      - hsevene@luc.edu
@@ -64,6 +64,22 @@ Departmental Roles
    * - Computer Science IT Administrator
      - Mr. Miao Ye
      - mye@luc.edu
+
+
+Other Important People
+======================
+
+.. list-table:: Important People
+   :header-rows: 1
+   :widths: 30 25 25
+
+   * - Role
+     - Name
+     - Contact
+   * - Director of ISSS Office
+     - Amy Soub
+     - asoub@luc.edu
+
 
 ************************************
 Department Information and Resources
