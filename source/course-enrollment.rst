@@ -23,5 +23,5 @@ The rules below apply to graduate students on F-1 visas in the Computer Science 
 - International graduate students must be enrolled full time for the duration of their program. Full-time enrollment in the Graduate School is 9 credit hours. 
   - The one exception to the full-time enrollment requirement is that students in their final semester may enroll at less than a full-time course load if they only need one or two courses to complete their program.
 - F-1 and J-1 students may count up to one online course (3 credits max) toward their full-time enrollment.
-  - Courses that are listed as HyFlex (or hybrid in-person/online) may count toward the student's full-time enrollment if the student attends more than half of the course meetings in person.
+  - Courses that are listed as HyFlex CANNOT count toward the student's full-time enrollment, but hybrid instruction mode can.
 
